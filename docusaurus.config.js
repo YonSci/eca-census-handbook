@@ -93,7 +93,7 @@ const config = {
             label: 'Resources',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/YonSci/eca-census-handbook',
             label: 'GitHub',
             position: 'right',
           },
