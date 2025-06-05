@@ -106,7 +106,7 @@ const config = {
             title: 'Handbook',
             items: [
               {
-                label: 'Experiences and Lessons',
+                label: 'Experiences  Lessons',
                 to: '/docs/experiences-lessons-2020/ch1',
               },
 
