@@ -72,7 +72,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'experienceslessons2020Sidebar',
             position: 'left',
-            label: 'Experiences & lessons from 2020',
+            label: 'Experiences and lessons',
           },
           {
             type: 'docSidebar',
@@ -106,7 +106,7 @@ const config = {
             title: 'Handbook',
             items: [
               {
-                label: 'Experiences & Lessons',
+                label: 'Experiences and Lessons',
                 to: '/docs/experiences-lessons-2020/ch1',
               },
 
