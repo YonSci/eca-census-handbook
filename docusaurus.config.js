@@ -149,7 +149,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/YonSci/eca-census-handbook/tree/main/',
+                href: 'https://github.com/YonSci/eca-census-handbook/',
               },
             ],
           },
