@@ -1,0 +1,673 @@
+'use strict';
+
+let callbacks = [];
+
+const onReady = () => {
+  callbacks.forEach(fn => fn.call());
+  callbacks = [];
+  window.onsDOMReady = true;
+};
+
+function ready(fn) {
+  if (document.readyState === 'loading') {
+    callbacks.push(fn);
+  } else {
+    fn.call();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', onReady);
+
+var dist = {};
+
+var getBaseUrl = {};
+
+Object.defineProperty(getBaseUrl, "__esModule", { value: true });
+function getBaseURL$1(url) {
+    url = url || window.location.href;
+    if (url.indexOf('?') > -1) {
+        url = url.substr(0, url.indexOf('?'));
+    }
+    return url;
+}
+getBaseUrl.getBaseURL = getBaseURL$1;
+
+var getQueryStringParams$2 = {};
+
+Object.defineProperty(getQueryStringParams$2, "__esModule", { value: true });
+function getQueryStringParams$1(url, paramToLowerCase) {
+    if (paramToLowerCase === void 0) { paramToLowerCase = false; }
+    url = url || window.location.href;
+    var args = (url.split('?')[1] || '').split('&');
+    var params = {};
+    args.forEach(function (arg) {
+        var argParts = arg.split('=');
+        var value = '';
+        if (argParts.length === 2) {
+            value = decodeURIComponent(argParts[1].replace(/\+/g, ' '));
+        }
+        var param = paramToLowerCase ? argParts[0].toLowerCase() : argParts[0];
+        params[param] = value;
+    });
+    return params;
+}
+getQueryStringParams$2.getQueryStringParams = getQueryStringParams$1;
+
+var setQueryStringParams$2 = {};
+
+var buildQueryStringParams$1 = {};
+
+Object.defineProperty(buildQueryStringParams$1, "__esModule", { value: true });
+function buildQueryStringParams(params, addQuestionMarkSeparator) {
+    if (typeof addQuestionMarkSeparator !== 'boolean') {
+        addQuestionMarkSeparator = true;
+    }
+    var queryString = '';
+    for (var property in params) {
+        if (params.hasOwnProperty(property) && typeof property === 'string' && property) {
+            queryString += property + "=" + params[property] + "&";
+        }
+    }
+    if (queryString.length > 0) {
+        queryString = (addQuestionMarkSeparator ? '?' : '') + queryString.substring(0, queryString.length - 1);
+    }
+    return queryString;
+}
+buildQueryStringParams$1.buildQueryStringParams = buildQueryStringParams;
+
+Object.defineProperty(setQueryStringParams$2, "__esModule", { value: true });
+var getQueryStringParams_1$1 = getQueryStringParams$2;
+var getBaseUrl_1$1 = getBaseUrl;
+var buildQueryStringParams_1$1 = buildQueryStringParams$1;
+function setQueryStringParams$1(params, url) {
+    url = url || window.location.href;
+    var urlParams = getQueryStringParams_1$1.getQueryStringParams(url) || {};
+    for (var key in params) {
+        if (params.hasOwnProperty(key)) {
+            urlParams[key] = params[key];
+        }
+    }
+    return getBaseUrl_1$1.getBaseURL(url) + buildQueryStringParams_1$1.buildQueryStringParams(urlParams);
+}
+setQueryStringParams$2.setQueryStringParams = setQueryStringParams$1;
+
+Object.defineProperty(dist, "__esModule", { value: true });
+var getBaseUrl_1 = getBaseUrl;
+var getBaseURL = dist.getBaseURL = getBaseUrl_1.getBaseURL;
+var getQueryStringParams_1 = getQueryStringParams$2;
+var getQueryStringParams = dist.getQueryStringParams = getQueryStringParams_1.getQueryStringParams;
+var setQueryStringParams_1 = setQueryStringParams$2;
+var setQueryStringParams = dist.setQueryStringParams = setQueryStringParams_1.setQueryStringParams;
+var buildQueryStringParams_1 = buildQueryStringParams$1;
+dist.buildQueryStringParams = buildQueryStringParams_1.buildQueryStringParams;
+
+class QuestionManager {
+  constructor() {
+    this.url = window.location.pathname;
+    this.rootURL = window.location.pathname
+      .split('/')
+      .filter(part => !part.includes('.html'))
+      .join('/');
+    const lastCharIndex = this.url.length - 1;
+
+    if (this.url.charAt(lastCharIndex) === '/') {
+      this.url = this.url.slice(0, lastCharIndex);
+    }
+
+    this.title = [...document.getElementsByTagName('H1')].find(h1 => !h1.classList.contains('')).innerText;
+    this.inputs = [
+      ...document.getElementsByTagName('INPUT'),
+      ...document.getElementsByTagName('TEXTAREA'),
+      ...document.getElementsByTagName('SELECT')
+    ];
+
+    this.form = document.getElementsByTagName('FORM')[0];
+    this.hideFromSummary = this.form.classList.contains('js-question-no-summary');
+    this.multipleLineAnswer = this.form.classList.contains('js-multiple-line-answer');
+    this.actionChangingInputs = [...this.form.querySelectorAll('input[data-action-url]')];
+
+    const legend = document.querySelector('.ons-fieldset__legend-title ');
+
+    if (legend) {
+      this.legend = legend.innerText;
+    }
+    const previousLink = document.querySelector('.js-previous');
+
+    if (previousLink) {
+      this.previousURL = previousLink.getAttribute('href');
+      this.originalPreviousURL = previousLink.getAttribute('data-original-href');
+    }
+
+    this.form.addEventListener('submit', this.handleSubmit.bind(this));
+
+    if (!this.url.includes('.html') && !document.referrer.includes(this.rootURL)) {
+      this.clearFormData();
+    }
+
+    this.setValues();
+  }
+
+  setValues() {
+    const savedQuestion = window.sessionStorage.getItem(this.url);
+
+    if (savedQuestion) {
+      const question = JSON.parse(savedQuestion);
+      this.form.action = question.action;
+
+      if (question.originalAction) {
+        this.form.setAttribute('data-original-action', question.originalAction);
+      }
+
+      question.inputs.forEach(input => {
+        const inputElement = document.getElementById(input.id);
+
+        if (inputElement) {
+          switch (inputElement.type) {
+            case 'checkbox':
+            case 'radio': {
+              inputElement.checked = input.checked;
+              break;
+            }
+            default: {
+              inputElement.value = input.value;
+            }
+          }
+        }
+      });
+    }
+  }
+
+  handleSubmit(event) {
+    event.preventDefault();
+
+    // Wait until next event loop cycle to allow any modifications to the form to complete
+    setTimeout(() => {
+      if (!window.DONT_SUBMIT) {
+        if (this.form.action === `${window.location.origin}/`) {
+          this.clearFormData();
+        } else {
+          let question = {
+            title: this.title,
+            legend: this.legend,
+            inputs: [],
+            previousURL: this.previousURL,
+            originalPreviousURL: this.originalPreviousURL,
+            url: this.url,
+            hideFromSummary: this.hideFromSummary,
+            multipleLineAnswer: this.multipleLineAnswer
+          };
+
+          let action, originalAction;
+
+          this.inputs.forEach(input => {
+            const checked = input.checked;
+            let value;
+
+            const id = input.id;
+            const labelElement = document.querySelector(`label[for="${id}"]`);
+            const abbrElement = input.nextElementSibling && input.nextElementSibling.nodeName === 'ABBR';
+            let label;
+
+            if (labelElement) {
+              label = [...labelElement.childNodes].filter(node => node.nodeType === 3 && node.textContent.trim())[0].textContent.trim();
+            } else if (abbrElement) {
+              label = input.nextElementSibling.innerHTML;
+            }
+
+            if (abbrElement) {
+              value = input.value;
+            } else {
+              switch (input.type) {
+                case 'checkbox':
+                case 'radio': {
+                  const inputAction = input.getAttribute('data-action-url');
+
+                  if (checked) {
+                    value = input.value || label;
+
+                    if (inputAction) {
+                      originalAction = this.form.getAttribute('data-original-action') || this.form.getAttribute('action');
+                      action = inputAction;
+                      this.addAnswer(inputAction);
+                    } else {
+                      this.addAnswer(this.form.action);
+                    }
+                  } else {
+                    if (inputAction && inputAction !== this.previousURL) {
+                      this.removeAnswer(inputAction);
+                    }
+                  }
+                  break;
+                }
+                default: {
+                  value = input.value;
+                }
+              }
+            }
+
+            question.inputs.push({
+              id: input.id,
+              value,
+              checked,
+              label
+            });
+          });
+
+          question = {
+            ...question,
+            action: this.form.action
+          };
+
+          if (originalAction) {
+            this.form.setAttribute('data-original-action', originalAction);
+            this.form.action = action;
+            question.originalAction = originalAction;
+          } else if (!action && this.form.hasAttribute('data-original-action')) {
+            this.form.action = this.form.getAttribute('data-original-action');
+            this.form.removeAttribute('data-original-action');
+          }
+
+          if (this.form.action.replace(window.location.origin, '') !== this.previousURL) {
+            window.sessionStorage.setItem(this.url, JSON.stringify(question));
+          }
+        }
+
+        const isEditing = new URLSearchParams(window.location.search).get('edit');
+
+        if (isEditing) {
+          const key = getBaseURL(this.form.action).replace(window.location.origin, '');
+
+          if (sessionStorage.getItem(key)) {
+            window.location = `${this.rootURL}/summary.html`;
+          } else {
+            window.location = setQueryStringParams({ edit: true }, this.form.action);
+          }
+        } else {
+          window.location = this.form.action;
+        }
+      }
+    });
+  }
+
+  clearFormData() {
+    this.getSavedQuestionnaireItemKeys().forEach(key => sessionStorage.removeItem(key));
+  }
+
+  getSavedQuestionnaireItemKeys() {
+    return Object.keys(sessionStorage).filter(key => key.includes(this.rootURL));
+  }
+
+  getSavedQuestionnaireItems() {
+    return this.getSavedQuestionnaireItemKeys().map(item => JSON.parse(sessionStorage.getItem(item)));
+  }
+
+  removeAnswer(answerURL) {
+    const savedItems = this.getSavedQuestionnaireItems();
+    const itemsToRemove = [answerURL];
+
+    this.findRelatedAnswers(answerURL, savedItems, itemsToRemove);
+
+    itemsToRemove.forEach(item => sessionStorage.removeItem(item));
+
+    const updatedSavedItems = this.getSavedQuestionnaireItems();
+
+    updatedSavedItems.forEach(item => {
+      if (itemsToRemove.includes(item.previousURL)) {
+        item.previousURL = item.originalPreviousURL;
+
+        sessionStorage.setItem(item.url, JSON.stringify(item));
+      }
+    });
+  }
+
+  findRelatedAnswers(answerURL, savedItems, relatedAnswers) {
+    const match = savedItems.find(item => !item.originalPreviousURL && item.previousURL === answerURL);
+
+    if (match) {
+      const url = match.url;
+
+      relatedAnswers.push(url);
+      this.findRelatedAnswers(url, savedItems, relatedAnswers);
+    }
+  }
+
+  addAnswer(answerUrl) {
+    const urlParams = getQueryStringParams(answerUrl);
+
+    if (urlParams.previous) {
+      const nextQuestion = getBaseURL(answerUrl).replace(window.origin, '');
+      const savedItem = sessionStorage.getItem(nextQuestion);
+
+      if (savedItem) {
+        const data = JSON.parse(savedItem);
+
+        const updatedData = {
+          ...data,
+          originalPreviousURL: data.originalPreviousURL || data.previousURL,
+          previousURL: urlParams.previous
+        };
+
+        sessionStorage.setItem(nextQuestion, JSON.stringify(updatedData));
+      }
+    }
+  }
+}
+
+// Allow previous links to be updated first
+ready(() => setTimeout(() => new QuestionManager()));
+
+function pipeAnswers() {
+  const pipingDestinations = [...document.querySelectorAll('.js-piped-answer')];
+
+  pipingDestinations.forEach(pipeAnswer);
+}
+
+function pipeAnswer(destination) {
+  const questionToFetch = destination.getAttribute('data-question-to-pipe');
+  const question = JSON.parse(sessionStorage.getItem(questionToFetch));
+  const answer = question.inputs.find(input => !input.id.includes('-code'));
+
+  destination.innerHTML = destination.innerHTML.replace('{x}', answer.value);
+}
+
+ready(pipeAnswers);
+
+ready(() => {
+  let previousURL;
+  const queryStringPreviousURL = new URLSearchParams(window.location.search).get('previous');
+
+  if (queryStringPreviousURL) {
+    previousURL = queryStringPreviousURL;
+  } else {
+    const savedData = sessionStorage.getItem(window.location.pathname);
+
+    if (savedData) {
+      previousURL = JSON.parse(savedData).previousURL;
+    }
+  }
+
+  if (previousURL) {
+    const previousLinks = [...document.querySelectorAll('.js-previous')];
+
+    previousLinks.forEach(link => {
+      const originalPreviousURL = link.getAttribute('href');
+      link.setAttribute('href', previousURL);
+      link.setAttribute('data-original-href', originalPreviousURL);
+    });
+  }
+});
+
+class SummaryManager {
+  constructor(placeholder) {
+    this.placeholder = placeholder;
+    this.basePath = window.location.pathname
+      .split('/')
+      .filter(part => !part.includes('.html'))
+      .join('/');
+
+    this.config = [];
+    this.html = [];
+    this.setConfig();
+    this.render();
+  }
+
+  setConfig() {
+    // Filter out only session storage keys for this prototype
+    const keys = Object.keys(sessionStorage).filter(key => key !== this.basePath && key.toLowerCase().includes(this.basePath));
+    // Filter out questions with no answers and map questions
+    const unsortedQuestions = keys
+      .filter(key => {
+        const data = JSON.parse(sessionStorage.getItem(key));
+        const inputs = data.inputs.filter(input => input.label);
+        return inputs.length;
+      })
+      .map(key => ({ key, ...JSON.parse(sessionStorage.getItem(key)) }));
+
+    const firstQuestion = unsortedQuestions.find(question => !question.previousURL);
+    const remainingUnsortedQuestions = unsortedQuestions.filter(question => question.previousURL).length;
+
+    const questions = [firstQuestion];
+    for (let i = 0; i < remainingUnsortedQuestions; i++) {
+      const lastQuestionKey = questions[questions.length - 1].key;
+
+      const nextQuestion = unsortedQuestions.find(question => question.previousURL === lastQuestionKey);
+
+      questions.push(nextQuestion);
+    }
+
+    questions
+      .filter(question => !question.hideFromSummary)
+      .forEach(question => {
+        let answers = question.inputs
+          .filter(input => input.label && input.value)
+          .map(input => (input.value === true ? input.label : input.value));
+        let joinString;
+        if (answers.length === 1) {
+          const answer = answers[0];
+
+          if (answer.includes('{pipe}')) {
+            const templateParts = answer.replace('{/pipe}', '').split('{pipe}');
+
+            const templatedAnswer = templateParts
+              .map(part => {
+                const pipedAnswer = sessionStorage.getItem(part);
+
+                if (pipedAnswer) {
+                  return JSON.parse(pipedAnswer).inputs.find(input => input.label).value;
+                } else {
+                  return part;
+                }
+              })
+              .join('');
+
+            answers = [templatedAnswer];
+          } else {
+            const pipedAnswer = sessionStorage.getItem(answer);
+
+            if (pipedAnswer) {
+              answers = JSON.parse(pipedAnswer)
+                .inputs.filter(input => input.label && input.value)
+                .map(input => (input.value === true ? input.label : input.value));
+            }
+          }
+        }
+
+        if (answers.length > 3 || question.inputs.find(input => input.checked === true) || question.multipleLineAnswer) {
+          joinString = '<br>';
+        } else {
+          joinString = ' ';
+        }
+
+        const value = {
+          text: answers.join(joinString)
+        };
+
+        if (!value.text) {
+          value.text = 'No answer provided';
+        }
+
+        const row = {
+          title: question.title,
+          itemsList: [
+            {
+              valueList: [value],
+              actions: [
+                {
+                  text: 'Change',
+                  ariaLabel: 'Change answer',
+                  url: `${question.key}?edit=true`
+                }
+              ]
+            }
+          ]
+        };
+
+        this.config.push(row);
+      });
+  }
+
+  generateHTML() {
+    this.config.forEach(row => {
+      this.html.push(
+        '<div class="ons-summary__item">' +
+        '<dt class="ons-summary__item-title">' +
+          `<div class="ons-summary__item--text">${row.title}</div>` +
+        '</dt>' +
+        '<dd class="ons-summary__values">' +
+          `<span class="ons-summary__text">${row.itemsList[0].valueList[0].text}</span>`+
+        '</dd>' +
+        '<dd class="ons-summary__actions">' +
+          `<a href="${row.itemsList[0].actions[0].url}" class="ons-summary__button" aria-label="Change answer">Change</a>` +
+        '</dd>'+
+      '</div>'
+      );
+    });
+    return this.html;
+  }
+
+  render() {
+    const html = this.generateHTML();
+    html.forEach(element => {
+      this.placeholder.insertAdjacentHTML('beforeend', element);
+    });
+
+    const tableHeader =
+      '<div class="ons-summary__item ons-u-vh"> <dt>' + 'Question' + '/dt' + '<dd>Answer given</dd>' + '<dd>Change answer</dd>' + '</div>';
+
+    this.placeholder.insertAdjacentHTML('afterBegin', tableHeader);
+  }
+}
+
+const summaryPlaceholder = document.querySelector('.js-summary');
+
+if (summaryPlaceholder) {
+  new SummaryManager(summaryPlaceholder);
+}
+
+/***********************************************************************************
+Imports question manager, summary generator, answer piping and previous link history
+************************************************************************************/
+
+document.addEventListener('DOMContentLoaded', function () {
+  const menuLink = document.getElementById('menuLink');
+  const searchLink = document.getElementById('searchLink');
+  const menuItems = document.getElementById('menuItems');
+  const menuSearch = document.getElementById('menuSearch');
+  const navItems = document.querySelectorAll('.nav-item a');
+
+  menuLink.addEventListener('click', function (e) {
+    e.preventDefault();
+    const isOpen = menuItems.classList.toggle('open');
+    menuSearch.classList.remove('open');
+    toggleActiveClass(menuLink, isOpen);
+    toggleChevronRotation(menuLink.querySelector('.chevron, .white-chevron'), isOpen);
+  });
+
+  searchLink.addEventListener('click', function (e) {
+    e.preventDefault();
+    const isOpen = menuSearch.classList.toggle('open');
+    menuItems.classList.remove('open');
+    toggleActiveClass(searchLink, isOpen);
+  });
+
+  function toggleActiveClass(clickedItem, isOpen) {
+    navItems.forEach(item => {
+      if (item === clickedItem && isOpen) {
+        item.classList.add('active');
+      } else {
+        item.classList.remove('active');
+      }
+    });
+  }
+
+  function toggleChevronRotation(chevron, isOpen) {
+    if (chevron) {
+      if (isOpen) {
+        chevron.classList.add('up');
+      } else {
+        chevron.classList.remove('up');
+      }
+    }
+  }
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+  function updateStickyToc() {
+    const tocContainer = document.querySelector(".ons-grid__col--sticky\\@m");
+    const toc = document.querySelector(".ons-toc-container");
+
+    if (toc && tocContainer) {
+      const tocHeight = toc.offsetHeight;
+      const viewportHeight = window.innerHeight;
+
+      if (tocHeight > viewportHeight) {
+        tocContainer.classList.remove("ons-grid__col--sticky@m");
+      } else {
+        tocContainer.classList.add("ons-grid__col--sticky@m");
+      }
+    }
+  }
+
+  // Run on page load
+  updateStickyToc();
+
+  // Run on window resize
+  window.addEventListener("resize", updateStickyToc);
+});
+  
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const selectAllBtn = document.querySelector(".ons-js-auto-selector");
+    const checkboxes = document.querySelectorAll(".ons-js-checkbox");
+    const downloadBtn = document.getElementById("download-selected");
+    const btnText = selectAllBtn.querySelector(".ons-js-button-text");
+
+    function updateDownloadButtonState() {
+      const anyChecked = Array.from(checkboxes).some(cb => cb.checked);
+      downloadBtn.disabled = !anyChecked;
+      downloadBtn.classList.toggle("ons-btn--disabled", !anyChecked);
+    }
+
+    checkboxes.forEach(cb => {
+      cb.addEventListener("change", updateDownloadButtonState);
+    });
+
+    selectAllBtn.addEventListener("click", () => {
+      const allChecked = Array.from(checkboxes).every(cb => cb.checked);
+      checkboxes.forEach(cb => cb.checked = !allChecked);
+      btnText.textContent = allChecked ? "Select all" : "Unselect all";
+      updateDownloadButtonState();
+    });
+
+    downloadBtn.addEventListener("click", () => {
+      const selected = Array.from(checkboxes)
+        .filter(cb => cb.checked)
+        .map(cb => cb.value);
+      console.log("Files to download:", selected);
+      // Replace this with your download logic (trigger file downloads or POST to server)
+    });
+  });
+
+  document.addEventListener("DOMContentLoaded", function () {
+  const detailComponents = document.querySelectorAll(".ons-js-details");
+
+  detailComponents.forEach(detail => {
+    const content = detail.querySelector(".ons-js-details-content");
+    const heading = detail.querySelector(".ons-js-details-heading");
+
+    // Ensure it's hidden on load
+    if (content) {
+      content.style.display = "none";
+    }
+
+    // Attach toggle functionality
+    heading?.addEventListener("click", function () {
+      const isVisible = content.style.display === "block";
+      content.style.display = isVisible ? "none" : "block";
+
+      // Optional: toggle 'open' class or icon direction if needed
+      detail.classList.toggle("open", !isVisible);
+    });
+  });
+});
+//# sourceMappingURL=index.js.map
