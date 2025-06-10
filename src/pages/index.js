@@ -33,13 +33,6 @@ function HomepageHeader() {
         <p className={styles.subtitle}>
             {subtitle}
         </p>
-
-
-          {/* <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link> */}
         </div>
       </div>
     </header>
