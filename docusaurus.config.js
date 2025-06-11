@@ -99,34 +99,44 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Handbook',
-            items: [
-              {
-                label: 'Experiences  Lessons',
-                to: '/docs/experiences-lessons-2020/ch1',
-              },
 
-              {
-                label: 'Case Studies',
-                to: '/docs/case-studies/ch1',
-              },
+      algolia: {
+      apiKey: "7b70333c5747e48f62c728cd3215a3d4",
+      indexName: "ecensus_index",
+      appId: "3KS0CR1XE2",  
+      contextualSearch: true,
+      searchPagePath: false,
+      },
 
-              {
-                label: 'Recommendations',
-                to: '/docs/recommendations/ch1',
-              },
 
-              {
-                label: 'Resources',
-                to: '/docs/resources/ch1',
-              },
+      // footer: {
+      //   style: 'dark',
+        // links: [
+        //   {
+        //     title: 'Handbook',
+        //     items: [
+        //       {
+        //         label: 'Experiences  Lessons',
+        //         to: '/docs/experiences-lessons-2020/ch1',
+        //       },
 
-            ],
-          },
+        //       {
+        //         label: 'Case Studies',
+        //         to: '/docs/case-studies/ch1',
+        //       },
+
+        //       {
+        //         label: 'Recommendations',
+        //         to: '/docs/recommendations/ch1',
+        //       },
+
+        //       {
+        //         label: 'Resources',
+        //         to: '/docs/resources/ch1',
+        //       },
+
+        //     ],
+        //   },
           // {
           //   title: 'Community',
           //   items: [
@@ -144,22 +154,22 @@ const config = {
           //     },
           //   ],
           // },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/YonSci/eca-census-handbook/',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} UNECA, Inc. Built with Docusaurus.`,
-      },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
-      },
+          // {
+      //       title: 'More',
+      //       items: [
+      //         {
+      //           label: 'GitHub',
+      //           href: 'https://github.com/YonSci/eca-census-handbook/',
+      //         },
+      //       ],
+      //     },
+      //   ],
+      //   copyright: `Copyright © ${new Date().getFullYear()} UNECA, Inc. Built with Docusaurus.`,
+      // },
+      // prism: {
+      //   theme: prismThemes.github,
+      //   darkTheme: prismThemes.dracula,
+      // },
     }),
 };
 
