@@ -1,12 +1,14 @@
 import React from "react";
 import Link from '@docusaurus/Link';
+import styles from './index.module.css';
 
-const styles = `
+
+const styles1 = `
   body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
+    background-color:rgb(255, 255, 255);
     line-height: 1.6;
   }
   .header {
@@ -19,7 +21,7 @@ const styles = `
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(32, 96, 149, 1);
   }
   .header h1 {
     margin: 0;
@@ -145,21 +147,22 @@ const styles = `
     color: #218838;
   }
   .footer {
-    background-color:rgb(123, 192, 245);
+    background-color:rgb(0, 60, 87);
     color: black;
     padding: 2rem;
     text-align: center;
   }
   .footer p {
     margin: 0.5rem 0;
+    color: rgb(255, 255, 255);
   }
   .footer a {
-    color:rgb(19, 20, 21);
+    color:rgb(255, 255, 255);
     text-decoration: none;
     transition: color 0.3s ease;
   }
   .footer a:hover {
-    color:rgb(0, 21, 251);
+    color:rgb(225, 74, 74);
   }
   .logos {
     display: flex;
@@ -172,11 +175,7 @@ const styles = `
     flex-direction: column;
     align-items: center;
   }
-  .logo-item img {
-    width: 160px;
-    height: auto;
-    margin-bottom: 0.5rem;
-  }
+  
   .logo-item span {
     font-size: 0.9rem;
   }
@@ -208,13 +207,15 @@ const styles = `
     .logo-item {
       margin-bottom: 1rem;
     }
+
+
   }
 `;
 
 
 const HomePage = () => (
   <>
-    <style>{styles}</style>
+    <style>{styles1}</style>
     <div className="header">
       <h1>
         E-Census Handbook
@@ -346,52 +347,18 @@ const HomePage = () => (
     </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <div className="footer">
       <div className="logos">
         <div className="logo-item">
-          <img src="img/uneca111.png" alt="UNECA Logo" />
+          <img src="img/uneca2.png" alt="UNECA Logo" className={styles.uneccaLogo} />
           <span></span>
         </div>
         <div className="logo-item">
-          <img src="img/unfpa11.png" alt="UNFPA Logo" />
+          <img src="img/unfpa2.png" alt="UNFPA Logo" className={styles.unfpaLogo} />
           <span></span>
         </div>
         <div className="logo-item">
-          <img src="img/ons22.png" alt="ONS-UK Logo" />
+          <img src="img/ons11.png" alt="ONS-UK Logo" className={styles.onsLogo} />
           <span></span>
         </div>
       </div>

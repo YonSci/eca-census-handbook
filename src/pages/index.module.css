@@ -40,3 +40,18 @@
   font-size: 1.6rem;
   
 }
+
+.uneccaLogo {
+  width: 160px; /* Customize UNECA logo size */
+  height: auto;
+}
+
+.unfpaLogo {
+  width: 170px; /* Customize UNFPA logo size */
+  height: auto;
+}
+
+.onsLogo {
+  width: 320px; /* Customize ONS logo size */
+  height: auto;
+}
