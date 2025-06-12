@@ -23,7 +23,7 @@ const styles = `
   }
   .header h1 {
     margin: 0;
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     display: flex;
     align-items: center;
   }

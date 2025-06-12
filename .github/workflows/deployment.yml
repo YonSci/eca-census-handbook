@@ -2,8 +2,8 @@ name: Deploy e-census-handbook content to GitHub Pages
 
 on:
     push:
-      branches:
-        - master # Change this to your default branch if it's different
+      branches: [main]
+      paths: [eca-census-handbook/**]
 jobs:
     deploy:
       runs-on: ubuntu-latest
@@ -27,4 +27,4 @@ jobs:
           uses: peaceiris/actions-gh-pages@v3
           with:
             github_token: ${{ secrets.GITHUB_TOKEN }}
-            publish_dir: ./build # Change this if your build output directory is different
+            publish_dir: ./eca-census-handbook/build # Change this if your build output directory is different

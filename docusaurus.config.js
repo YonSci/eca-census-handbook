@@ -18,7 +18,7 @@ const config = {
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/eca-census-handbook',
+  baseUrl: '/eca-census-handbook/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -107,7 +107,7 @@ const config = {
       },
 
       algolia: {
-      apiKey: "2c24d60784ee55d0fef558baa6c08240",
+      apiKey: "7b70333c5747e48f62c728cd3215a3d4", 
       indexName: "ecensus_index",
       appId: "3KS0CR1XE2",  
       contextualSearch: true,
