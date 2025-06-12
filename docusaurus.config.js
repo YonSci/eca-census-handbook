@@ -24,7 +24,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'YonSci', // Usually your GitHub org/user name.
   projectName: 'eca-census-handbook', // Usually your repo name.
-  deploymentBranch: 'gh-pages', // The branch that GitHub pages will deploy from.
+  deploymentBranch: 'landing-page1', // The branch that GitHub pages will deploy from.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
