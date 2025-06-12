@@ -40,7 +40,7 @@ const styles = `
     color: white;
     text-decoration: none;
     margin-left: 1.5rem;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     transition: color 0.3s ease;
   }
   .nav-links a:hover {
