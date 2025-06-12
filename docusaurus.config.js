@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/uneca1.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://yonsci.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/eca-census-handbook/',

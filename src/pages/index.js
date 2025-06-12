@@ -23,7 +23,7 @@ const styles = `
   }
   .header h1 {
     margin: 0;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     display: flex;
     align-items: center;
   }
@@ -40,7 +40,7 @@ const styles = `
     color: white;
     text-decoration: none;
     margin-left: 1.5rem;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     transition: color 0.3s ease;
   }
   .nav-links a:hover {
