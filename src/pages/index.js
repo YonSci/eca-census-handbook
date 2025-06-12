@@ -12,7 +12,7 @@ const styles1 = `
     line-height: 1.6;
   }
   .header {
-    background: linear-gradient(90deg, #1b3a5e, #2a5d8f);
+    background: linear-gradient(90deg, #206095, #206095);
     color: white;
     padding: 1.5rem 2rem;
     position: sticky;
@@ -48,65 +48,7 @@ const styles1 = `
   .nav-links a:hover {
     color: #ff5733;
   }
-  .hero {
-    background: linear-gradient(135deg, #f4e1e1 0%, #ffffff 100%);
-    padding: 5rem 2rem;
-    text-align: center;
-    position: relative;
-    overflow: hidden;
-  }
-  .hero-content {
-    max-width: 800px;
-    margin: 0 auto;
-    position: relative;
-    z-index: 1;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  .hero h2 {
-    font-size: 2.8rem;
-    color: #1b3a5e;
-    margin-bottom: 1rem;
-  }
-  .hero h2 span {
-    font-weight: bolder;
-    color: #28a745;
-  }
-  .hero p {
-    font-size: 1.2rem;
-    color: #333 ;
-    max-width: 800px;
-    margin: 0 auto 2rem;
-  }
-  .hero button {
-    background-color: #28a745;
-    color: white;
-    border: none;
-    padding: 1rem 2rem;
-    font-size: 1.2rem;
-    cursor: pointer;
-    border-radius: 5px;
-    transition: transform 0.2s ease, background-color 0.3s ease;
-  }
-  .hero button:hover {
-    background-color: #218838;
-    transform: scale(1.05);
-  }
-  .hero::after {
-    content: '';
-    display: block;
-    position: absolute;
-    right: 10%;
-    top: 20%;
-    width: 200px;
-    height: 200px;
-    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200"><path fill="rgba(27,58,94,0.1)" d="M150 100c0-50-50-90-100-50 50 40 100 0 100 50z"/></svg>');
-    background-repeat: no-repeat;
-    transform: rotate(45deg);
-    pointer-events: none;
-    z-index: 0;
-  }
+  
   .feature-blocks {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -190,12 +132,7 @@ const styles1 = `
     .nav-links a {
       margin: 0 0.5rem;
     }
-    .hero {
-      padding: 3rem 1rem;
-    }
-    .hero h2 {
-      font-size: 2rem;
-    }
+    
     .feature-blocks {
       grid-template-columns: 1fr;
       padding: 2rem 1rem;
@@ -236,36 +173,27 @@ const HomePage = () => (
       style={{width: "1600px", height: "10px", display: "block", margin: "0 auto" }}
       />
   
-
-    <div className="hero">
-      <div className="hero-content">
-        <h2>
-            e-Census Handbook for <span>Africa</span>
-        </h2>
-        <p>
-          Based on Experiences and Lessons from the 2020 Round of Population and Housing Censuses
-        </p>
-        <button onClick={() => (window.location.href = "#feature-blocks")}>
-          Explore Features
-        </button>
+    <div className={styles.heroSection}>
+      <div className={styles.heroContentFlex}>
+        <div className={styles.heroText}>
+          <h2>
+            <span className={styles.heroTitleBlue}>E-Census Handbook for</span> <span className={styles.heroTitleGreen}>Africa</span>
+          </h2>
+          <p className={styles.heroSubtitle}>
+            Based on Experiences and Lessons from the 2020 Round of Population and Housing Censuses
+          </p>
+          <button className={styles.heroButton} onClick={() => (window.location.href = "#feature-blocks")}>
+            Explore Features
+          </button>
+        </div>
+        <div className={styles.heroImage}>
+          <img
+            src="img/africa1.png"
+            alt="Africa Map"
+            className={styles.africaMap}
+          />
+        </div>
       </div>
-      <div
-        style={{
-          content: "",
-          position: "absolute",
-          right: "10%",
-          top: "20%",
-          width: 200,
-          height: 200,
-          backgroundImage:
-            "url('data:image/svg+xml,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"200\" viewBox=\"0 0 200 200\"><path fill=\"rgba(27,58,94,0.1)\" d=\"M150 100c0-50-50-90-100-50 50 40 100 0 100 50z\"/></svg>')",
-          backgroundRepeat: "no-repeat",
-          transform: "rotate(45deg)",
-          pointerEvents: "none",
-          zIndex: 0,
-        }}
-        aria-hidden="true"
-      />
     </div>
 
     <div className="feature-blocks" id="feature-blocks">
