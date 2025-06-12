@@ -96,7 +96,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'checklistSidebar',
             position: 'left',
-            label: 'Checklist',
+            label: 'checklist',
           },
           {
             href: 'https://github.com/YonSci/eca-census-handbook',

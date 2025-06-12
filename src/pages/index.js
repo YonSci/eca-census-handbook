@@ -225,7 +225,7 @@ const HomePage = () => (
        <Link to="/docs/case-studies/ch1">Case Studies</Link>
        <Link to="/docs/recommendations/ch1">Recommendations</Link>
        <Link to="/docs/resources/ch1">Resources</Link>
-       <Link to="/docs/Checklist/ch1">Checklist</Link> 
+       <Link to="/docs/checklist/ch1">Checklist</Link> 
       </div>
     </div>
 
