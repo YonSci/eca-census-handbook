@@ -107,9 +107,9 @@ const config = {
       },
 
       algolia: {
-      apiKey: "7b70333c5747e48f62c728cd3215a3d4", 
-      indexName: "ecensus_index",
-      appId: "3KS0CR1XE2",  
+      apiKey: "6852f8e55563301cb8d05f4ef18260b1", 
+      indexName: "yonsciio",
+      appId: "0HXGAP1E79",  
       contextualSearch: true,
       searchPagePath: false,
       },

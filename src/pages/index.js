@@ -86,7 +86,7 @@ const styles1 = `
     margin-top: 1rem;
   }
   .feature-card a:hover {
-    color: #218838;
+    color:rgb(34, 48, 137);
   }
   .footer {
     background-color:rgb(0, 60, 87);
