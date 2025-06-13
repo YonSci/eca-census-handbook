@@ -13,16 +13,17 @@ const headerStyles = `
     color: white;
     padding: 1.5rem 2rem;
     position: sticky;
-    top: 0; /* This makes it stick to the very top of the viewport */
+    top: 10px; /* Adjusted to make space for the 10px banner */
     z-index: 1000; /* Ensures it stays on top of other content */
     display: flex;
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 2px 5px rgba(32, 96, 149, 1);
+    height: 90px; /* Adjusted height to accommodate the header content */
   }
   .custom-page-header h1 {
     margin: 0;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     display: flex;
     align-items: center;
   }

@@ -104,6 +104,21 @@ const pageSpecificStyles = `
 
 const HomePage = () => (
   <>
+    {/* Manually added banner for landing page */}
+    <img
+      src="/eca-census-handbook/img/un8.png" // Absolute path from site root
+      alt="UN Banner"
+      style={{
+        width: "100%", 
+        height: "10px", 
+        display: "block", 
+        margin: "0 auto",
+        position: "sticky", // Make the banner sticky
+        top: "0",           // Stick to the very top
+        zIndex: 1001        // Ensure it's above other content but potentially below a modal if needed
+      }}
+    />
+    
     <CustomHeader /> {/* Use the new CustomHeader component */}
     <style>{pageSpecificStyles}</style> {/* Styles for the rest of the homepage content */}
   

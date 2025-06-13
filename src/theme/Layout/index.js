@@ -52,13 +52,26 @@ function LayoutWrapper(props) {
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
 
-      <img
-        src="/eca-census-handbook/img/un8.png" // Use absolute path from site root
-        alt="UN Banner"
-        style={{width: "100%", height: "10px", display: "block", margin: "0 auto" }} // Adjusted width to 100%
-      />
+      {/* Only render global banner and header if NOT the homepage */}
+      {!isHomepage && (
+        <>
+          <img
+            src="/eca-census-handbook/img/un8.png" // Use absolute path from site root
+            alt="UN Banner"
+            style={{
+              width: "100%", 
+              height: "10px", 
+              display: "block", 
+              margin: "0 auto",
+              position: "sticky", // Make the banner sticky
+              top: "0",           // Stick to the very top
+              zIndex: 1001        // Ensure it's above CustomHeader but below modals etc.
+            }}
+          />
+          <CustomHeader />
+        </>
+      )}
 
-      <CustomHeader /> {/* Add your CustomHeader here, above the default Navbar slot */}
       <SkipToContent />
 
       <AnnouncementBar />
