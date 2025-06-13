@@ -1,54 +1,18 @@
 import React from "react";
 import Link from '@docusaurus/Link';
 import styles from './index.module.css';
+import CustomHeader from '@site/src/components/CustomHeader'; // Import the new CustomHeader
 
-
-const styles1 = `
+const pageSpecificStyles = `
   body {
+    /* Consider moving global body styles to src/css/custom.css */
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
     background-color:rgb(255, 255, 255);
     line-height: 1.6;
   }
-  .header {
-    background: linear-gradient(90deg, #206095, #206095);
-    color: white;
-    padding: 1.5rem 2rem;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    box-shadow: 0 2px 5px rgba(32, 96, 149, 1);
-  }
-  .header h1 {
-    margin: 0;
-    font-size: 1.4rem;
-    display: flex;
-    align-items: center;
-  }
-  .header h1::before {
-    content: '';
-    display: inline-block;
-    width: 24px;
-    height: 24px;
-    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="white"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>');
-    margin-right: 0.5rem;
-    vertical-align: middle;
-  }
-  .nav-links a {
-    color: white;
-    text-decoration: none;
-    margin-left: 1.5rem;
-    font-size: 1.0rem;
-    transition: color 0.3s ease;
-  }
-  .nav-links a:hover {
-    color: #ff5733;
-  }
-  
+  /* Header styles have been moved to CustomHeader.js */
   .feature-blocks {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -123,17 +87,7 @@ const styles1 = `
     font-size: 0.9rem;
   }
   @media (max-width: 768px) {
-    .header {
-      flex-direction: column;
-      padding: 1rem;
-    }
-    .nav-links {
-      margin-top: 1rem;
-    }
-    .nav-links a {
-      margin: 0 0.5rem;
-    }
-    
+    /* Header media queries have been moved to CustomHeader.js */
     .feature-blocks {
       grid-template-columns: 1fr;
       padding: 2rem 1rem;
@@ -145,34 +99,13 @@ const styles1 = `
     .logo-item {
       margin-bottom: 1rem;
     }
-
-
   }
 `;
 
-
 const HomePage = () => (
   <>
-    <style>{styles1}</style>
-    <div className="header">
-      <h1>
-        E-Census Handbook
-      </h1>
-      <div className="nav-links">
-       <Link to="/">Home</Link>
-       <Link to="/docs/experiences-lessons-2020/Chapter-01/Background">Experiences and Lessons</Link>
-       <Link to="/docs/case-studies/ch1">Case Studies</Link>
-       <Link to="/docs/recommendations/ch1">Recommendations</Link>
-       <Link to="/docs/resources/ch1">Resources</Link>
-       <Link to="/docs/checklist/ch1">Checklist</Link> 
-      </div>
-    </div>
-
-    <img
-      src="img/un8.png"
-      alt="UN Banner"
-      style={{width: "1600px", height: "10px", display: "block", margin: "0 auto" }}
-      />
+    <CustomHeader /> {/* Use the new CustomHeader component */}
+    <style>{pageSpecificStyles}</style> {/* Styles for the rest of the homepage content */}
   
     <div className={styles.heroSection}>
       <div className={styles.heroContentFlex}>

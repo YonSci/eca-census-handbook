@@ -1,3 +1,9 @@
+/* Global reset for body to ensure consistency across landing and doc pages */
+body {
+  margin: 0;
+  padding: 0; /* Ensure body has no padding that might affect sticky header */
+}
+
 /* Justify paragraphs */
 p {
   text-align: justify;
@@ -12,3 +18,32 @@ ul li, ol li {
 ul, ol {
   padding-left: 20px; /* Adjust as needed */
 }
+
+/* Hide the default Docusaurus theme navbar container */
+/* This allows our CustomHeader to be the true top sticky element on all pages */
+.navbar--fixed-top { /* This is the class for Docusaurus's own navbar */
+  display: none !important;
+}
+
+/*
+  The .main-wrapper is the primary container for page content below the navbar area.
+  Since our CustomHeader is sticky and the default Docusaurus navbar is hidden,
+  we ensure this wrapper has no top padding that might have been intended
+  to push content below the original Docusaurus navbar.
+*/
+.main-wrapper {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* Remove any top padding/margin from the direct children of main-wrapper if necessary.
+   Often, Docusaurus themes might add padding here.
+   This is a more general catch-all if specific inner containers still cause issues.
+   However, the .main-wrapper rule above might be sufficient.
+   You can uncomment and test this if a gap still exists below your CustomHeader. */
+/*
+.main-wrapper > * {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+*/

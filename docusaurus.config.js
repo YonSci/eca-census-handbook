@@ -56,56 +56,20 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'E-Census Handbook',
-        logo: {
-          alt: 'My Site LogE-Census Handbook Logo',
-          src: 'img/uneca1.png',
-        },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'experienceslessons2020Sidebar',
-            position: 'left',
-            label: 'Experiences and lessons',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'casestudiesSidebar',
-            position: 'left',
-            label: 'Case Studies',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'recommendationsSidebar',
-            position: 'left',
-            label: 'Recommendations',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'resourcesSidebar',
-            position: 'left',
-            label: 'Resources',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'checklistSidebar',
-            position: 'left',
-            label: 'Checklist',
-          },
-          // {
-          //   href: 'https://github.com/YonSci/eca-census-handbook',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
-        ],
+        // title: 'E-Census Handbook', // Commented out or remove
+        // logo: { // Commented out or remove
+        //   alt: 'My Site LogE-Census Handbook Logo',
+        //   src: 'img/uneca1.png',
+        // },
+        items: [], // Set items to an empty array to effectively hide the default navbar content
       },
 
       algolia: {
       apiKey: "6852f8e55563301cb8d05f4ef18260b1", 
       indexName: "yonsciio",
-      appId: "0HXGAP1E79",  
-      contextualSearch: true,
-      searchPagePath: false,
+      appId: "0HXGAP1E79",
+      contextualSearch: false, // Ensure this is explicitly false
+      searchPagePath: false,   // Keep this for modal search results
       },
 
       prism: {
