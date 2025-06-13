@@ -1,12 +1,6 @@
 // @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
-
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -46,8 +40,8 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/YonSci/eca-census-handbook/tree/main/',
+          // editUrl:
+          //   'https://github.com/YonSci/eca-census-handbook/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -64,7 +58,7 @@ const config = {
       navbar: {
         title: 'E-Census Handbook',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'My Site LogE-Census Handbook Logo',
           src: 'img/uneca1.png',
         },
         items: [
@@ -96,13 +90,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'checklistSidebar',
             position: 'left',
-            label: 'checklist',
+            label: 'Checklist',
           },
-          {
-            href: 'https://github.com/YonSci/eca-census-handbook',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/YonSci/eca-census-handbook',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
 
@@ -113,6 +107,20 @@ const config = {
       contextualSearch: true,
       searchPagePath: false,
       },
+
+      prism: {
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
+      },
+      metadata: [
+        { name: 'keywords', content: 'census, digital census, Africa, E-Census Handbook, UNECA, UNFPA, ONS-UK' },
+        { property: 'og:title', content: 'E-Census Handbook' },
+        { property: 'og:description', content: 'Digital Population and Housing Census Handbook for Africa' },
+        { property: 'og:image', content: 'https://yonsci.github.io/eca-census-handbook/img/docusaurus-social-card.jpg' },
+      ],
+      
+      customCss: [require.resolve('./src/css/custom.css')],
+
 
     }),
 };

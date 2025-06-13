@@ -97,6 +97,7 @@ const styles1 = `
   .footer p {
     margin: 0.5rem 0;
     color: rgb(255, 255, 255);
+    text-align: center;
   }
   .footer a {
     color:rgb(255, 255, 255);
@@ -159,7 +160,7 @@ const HomePage = () => (
       </h1>
       <div className="nav-links">
        <Link to="/">Home</Link>
-       <Link to="/docs/experiences-lessons-2020/ch1">Experiences and Lessons</Link>
+       <Link to="/docs/experiences-lessons-2020/Chapter-01/Background">Experiences and Lessons</Link>
        <Link to="/docs/case-studies/ch1">Case Studies</Link>
        <Link to="/docs/recommendations/ch1">Recommendations</Link>
        <Link to="/docs/resources/ch1">Resources</Link>
@@ -207,7 +208,7 @@ const HomePage = () => (
         <p>
           Discover key takeaways and lessons learned from digital census implementations across Africa.
         </p>
-        <a href="docs/experiences-lessons-2020/ch1">Learn More</a>
+        <a href="docs/experiences-lessons-2020/Chapter-01/Background">Learn More</a>
       </div>
       <div className="feature-card">
         {/* Document SVG (Case Studies card) */}
