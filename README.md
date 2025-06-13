@@ -1,41 +1,27 @@
-# Website
+# E-Census Handbook for Africa
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This project provides comprehensive documentation, guidelines, and resources for conducting and managing census activities within the Economic Commission for Africa (ECA). The handbook covers best practices, methodologies, data management procedures, and tools to support effective census operations. It is intended for census planners, field staff, data analysts, and stakeholders involved in census projects.
 
-### Installation
+## About the Documentation Site
 
-```
-$ yarn
-```
+The E-Census Handbook documentation site is built with `Docusaurus`, offering a user-friendly and informative experience with several custom features:
 
-### Local Development
+- **Custom Homepage Layout:**  
+    - Redesigned Docusaurus header appears on all pages, displaying the application title "E-Census Handbook" with an icon and primary navigation links (Home, Experiences and Lessons, Case Studies, Recommendations, Resources, and Checklist).  
+    - A thin, sticky UNECA banner is present at the top of every page.  
+    - Dynamic hero section with title, subtitle, and an "Explore Features" button.  
+    - Six visually distinct feature cards highlight the core sections of the handbook, each with custom inline SVG icons, a title, concise description, and direct link, all using responsive design.  
+    - Footer includes partner logos (UNECA, UNFPA, ONS-UK), copyright information, and a contact email.
 
-```
-$ yarn start
-```
+- **Integrated Search:**  Algolia Search integration enables quick information retrieval within the documentation.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+- **Mobile-Friendly Responsive Design:**  The site adapts seamlessly to various screen sizes and platforms.
 
-### Build
+- **Content Justification:** Paragraphs and list items are styled with justified text alignment for a formal document appearance.
 
-```
-$ yarn build
-```
+- **SEO Optimization:** Configured with relevant titles, taglines, metadata, and keywords to enhance search engine visibility.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+- **Streamlined Deployment:** Continuous integration and delivery are managed via GitHub Actions.
 
-### Deployment
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Conatact : [yonas.ygezu@un.org](mailto:info@ecensus.org) for any questions or inquiries.

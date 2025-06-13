@@ -1,0 +1,27 @@
+The E-Census Handbook documentation site built with Docusaurus, offering a user-friendly and informative experience. Key features include:
+
+
+1) Custom Homepage Layout for Consistent User Experience:
+  
+ - header: the standard Docusaurus header is re-designed to appears on all pages (landing page and documentation pages)
+ - Displays the application title "E-Census Handbook" with an icon and contains primary navigation links ( Home, Experiences and Lessons, Case Studies, Recommendations, Resources, and Checklist) 
+ - A thin UNECA banner is added at the very top of every page (sticky).
+
+ - Dynamic Hero Section: includes title, subtitle, and a "Explore Features" button.
+
+ - Informative Feature blocks/cards : Six visually distinct feature cards, each with custom inline SVG icons, a title, a concise description, and a direct link, highlight the core sections of the handbook.
+
+used to describe sections of the handbook, each with an inline SVG icons, title, description, and link using responsive design
+
+ - Footer: Displays partner logos (UNECA, UNFPA, ONS-UK) and including copyright information and a contact email address.
+
+2) Search bar: is integrated into the documentation using Algolia Search Integration, to quickly find information within the documentation pages.
+
+3) Mobile friendly responsive design: a responsive design to adapt various screen sizes of different platforms.  
+
+4) Content Justification: Paragraphs and list items are styled to have justified text alignment for a more formal document look.
+
+5) Optimized for SEO: The site is configured with a relevant title, tagline, metadata, and keywords to improve its visibility and ranking on search engines.
+
+6) Streamlined Deployment: The application is configured and deployed leveraging GitHub Actions for continuous integration and delivery.
+
