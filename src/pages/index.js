@@ -206,7 +206,7 @@ const HomePage = () => (
           The handbook will be regularly updated with new lessons and recommendations as these unfold.
           If you have a case study that you would like to be included in the handbook please contact us via email.
         </p>
-        <a href="mailto:rachel.shipsey@ons.gov.uk">Contact Us</a>
+        <a href="mailto:muhawava@un.org">Contact Us</a>
       </div>
 
       {/* New Checklist card */}
@@ -241,7 +241,7 @@ const HomePage = () => (
       </div>
       <p>© 2024 UN Economic Commission for Africa (ECA)</p>
       <p>
-        Contact us at <a href="mailto:info@example.com">rachel.shipsey@ons.gov.uk</a>
+        Contact us at <a href=" muhawava@un.org">muhawava@un.org</a>
       </p>
     </div>
   </>
