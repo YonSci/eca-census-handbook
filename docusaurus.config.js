@@ -14,6 +14,18 @@ const config = {
   tagline: 'Documentation for E-Census Handbook',
   favicon: 'img/uneca1.ico',
 
+
+  scripts: [
+          {
+              src: "https://app.qanswer.ai/integration/widget.js",
+              async: true,
+              'data-name': "QA AI Assistant",
+              'data-owner': "Yonas M.",
+              'data-type': "text",
+              'data-frontend': "https://app.qanswer.ai/",
+          },
+      ],
+
   // Set the production url of your site here
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -107,6 +119,17 @@ const config = {
       contextualSearch: true,
       searchPagePath: false,
       },
+
+      
+   
+
+
+      
+   
+  
+    
+
+      
 
 
       // footer: {
