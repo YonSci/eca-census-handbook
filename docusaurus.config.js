@@ -23,6 +23,18 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  scripts: [
+        {
+            src: "https://app.qanswer.ai/integration/widget.js",
+            async: true,
+            'data-name': "QA AI Assistant",
+            'data-owner': "Yonas M.",
+            'data-type': "text",
+            'data-frontend': "https://app.qanswer.ai/",
+        },
+    ],
+  
+
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
