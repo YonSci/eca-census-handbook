@@ -91,7 +91,7 @@ const config = {
         { property: 'og:image', content: 'https://yonsci.github.io/eca-census-handbook/img/docusaurus-social-card.jpg' },
       ],
       
-      customCss: [require.resolve('./src/css/custom.css')],
+      // customCss: [require.resolve('./src/css/custom.css')],
 
 
     }),
