@@ -169,7 +169,7 @@ const HomePage = () => (
           Discover key takeaways and lessons learned from digital census
           implementations across Africa.
         </p>
-        <a href="docs/experiences-lessons-2020/Chapter-01/Background">
+        <a href="docs/experiences-lessons-2020/Chapter-01/introduction">
           Learn More
         </a>
       </div>
