@@ -19,7 +19,7 @@ const headerStyles = `
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 2px 5px rgba(32, 96, 149, 1);
-    height: 90px; /* Adjusted height to accommodate the header content */
+    height: 60px; /* Adjusted height to accommodate the header content */
   }
   .custom-page-header h1 {
     margin: 0;
