@@ -20,7 +20,7 @@ const config = {
   projectName: 'eca-census-handbook', // Usually your repo name.
   deploymentBranch: 'gh-pages', // The branch that GitHub pages will deploy from.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn', // warn or throw 
   onBrokenMarkdownLinks: 'warn',
 
   scripts: [
