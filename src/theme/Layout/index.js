@@ -56,7 +56,7 @@ function LayoutWrapper(props) {
       {!isHomepage && (
         <>
           <img
-            src="/eca-census-handbook/img/un8.png" // Use absolute path from site root
+            src="/img/un8.png" // Use absolute path from site root
             alt="UN Banner"
             style={{
               width: "100%", 

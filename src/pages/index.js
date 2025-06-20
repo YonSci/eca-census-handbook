@@ -106,7 +106,7 @@ const HomePage = () => (
   <>
     {/* Manually added banner for landing page */}
     <img
-      src="/eca-census-handbook/img/un8.png" // Absolute path from site root
+      src="/img/un8.png" // Absolute path from site root
       alt="UN Banner"
       style={{
         width: "100%",
