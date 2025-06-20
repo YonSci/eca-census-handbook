@@ -193,7 +193,7 @@ const HomePage = () => (
           Explore detailed case studies showcasing innovative practices and
           solutions in digital censuses.
         </p>
-        <a href="docs/case-studies/ch1">View Case Studies</a>
+        <a href="docs/case-studies/Chapter-01/ch01-pes-case-studies">View Case Studies</a>
       </div>
       <div className="feature-card">
         {/* Checkmark SVG (Recommendations card) */}
