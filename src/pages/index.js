@@ -316,7 +316,7 @@ const HomePage = () => (
       </div>
       <p>© 2024 UN Economic Commission for Africa (ECA)</p>
       <p>
-        Contact us at <a href="muhawava@un.org">muhawava@un.org</a>
+        Contact us at <a href="mailto:muhawava@un.org">muhawava@un.org</a>
       </p>
       <p>
         Last Updated:{" "}
