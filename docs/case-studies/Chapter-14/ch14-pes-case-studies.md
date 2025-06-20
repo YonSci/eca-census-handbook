@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Post-enumeration survey - case studies
+# Case studies
 
 [back to Handbook Chapter 14](/docs/experiences-lessons-2020/Chapter-14/Selected-Country-Experiences)
 
