@@ -92,7 +92,7 @@ const config = {
         { property: 'og:url', content: 'https://yonsci.github.io/eca-census-handbook' },
       ],
       
-      // customCss: [require.resolve('./src/css/custom.css')],
+      customCss: [require.resolve('./src/css/custom.css')],
 
 
     }),
