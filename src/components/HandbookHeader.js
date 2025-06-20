@@ -10,7 +10,7 @@ export default function HandbookHeader() {
       </h1>
       <div className="nav-links">
         <Link to="/">Home</Link>
-        <Link to="/docs/experiences-lessons-2020/Chapter-01/Background">Experiences and Lessons</Link>
+        <Link to="/docs/experiences-lessons-2020/Chapter-01/introduction">Experiences and Lessons</Link>
         <Link to="/docs/case-studies/ch1">Case Studies</Link>
         <Link to="/docs/recommendations/ch1">Recommendations</Link>
         <Link to="/docs/resources/ch1">Resources</Link>
