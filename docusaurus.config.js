@@ -62,7 +62,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/uneca1.ico',
+      image: 'img/uneca2.png',
       navbar: {
         // title: 'E-Census Handbook', // Commented out or remove
         // logo: { // Commented out or remove
@@ -88,7 +88,8 @@ const config = {
         { name: 'keywords', content: 'census, digital census, Africa, E-Census Handbook, UNECA, UNFPA, ONS-UK' },
         { property: 'og:title', content: 'E-Census Handbook' },
         { property: 'og:description', content: 'Digital Population and Housing Census Handbook for Africa' },
-        { property: 'og:image', content: 'https://yonsci.github.io/eca-census-handbook/img/docusaurus-social-card.jpg' },
+        { property: 'og:image', content: 'https://yonsci.github.io/eca-census-handbook/img/android-chrome.png' },
+        { property: 'og:url', content: 'https://yonsci.github.io/eca-census-handbook' },
       ],
       
       // customCss: [require.resolve('./src/css/custom.css')],
