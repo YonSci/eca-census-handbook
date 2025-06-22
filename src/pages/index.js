@@ -141,7 +141,7 @@ const HomePage = () => (
         </div>
         <div className={styles.heroImage}>
           <img
-            src="img/africa1.png"
+            src="img/e-census1.png" 
             alt="Africa Map"
             className={styles.africaMap}
           />
