@@ -239,6 +239,29 @@ const HomePage = () => (
         <a href="docs/resources/ch1">Explore Resources</a>
       </div>
 
+      {/* New Checklist card */}
+      <div className="feature-card">
+        {/* Checklist SVG */}
+        <svg
+          width="48"
+          height="48"
+          fill="none"
+          stroke="#3b5bdb"
+          strokeWidth="3"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          viewBox="0 0 24 24"
+        >
+          <polyline points="20 6 9 17 4 12" />
+        </svg>
+        <h3>Checklist</h3>
+        <p>
+          Use our checklist to ensure that all necessary steps and best
+          practices are met during your census process.
+        </p>
+        <a href="docs/checklist/ch1">View Checklist</a>
+      </div>
+
       {/* New Enquiries card */}
       <div className="feature-card">
         {/* Envelope SVG for Enquiries */}
@@ -262,29 +285,6 @@ const HomePage = () => (
           would like to be included in the handbook please contact us via email.
         </p>
         <a href="mailto:muhawava@un.org">Contact Us</a>
-      </div>
-
-      {/* New Checklist card */}
-      <div className="feature-card">
-        {/* Checklist SVG */}
-        <svg
-          width="48"
-          height="48"
-          fill="none"
-          stroke="#3b5bdb"
-          strokeWidth="3"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          viewBox="0 0 24 24"
-        >
-          <polyline points="20 6 9 17 4 12" />
-        </svg>
-        <h3>Checklist</h3>
-        <p>
-          Use our checklist to ensure that all necessary steps and best
-          practices are met during your census process.
-        </p>
-        <a href="docs/checklist/ch1">View Checklist</a>
       </div>
     </div>
     <div className="footer">
@@ -314,7 +314,7 @@ const HomePage = () => (
           <span></span>
         </div>
       </div>
-      <p>© 2024 UN Economic Commission for Africa (ECA)</p>
+      <p>© 2025 UN Economic Commission for Africa (ECA)</p>
       <p>
         Contact us at <a href="mailto:muhawava@un.org">muhawava@un.org</a>
       </p>

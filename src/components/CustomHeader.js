@@ -102,8 +102,9 @@ const CustomHeader = () => {
            <Link to="/docs/experiences-lessons-2020/Chapter-01/introduction">Experiences and Lessons</Link>
            <Link to="/docs/case-studies/Chapter-01/ch01-pes-case-studies">Case Studies</Link>
            <Link to="/docs/recommendations/ch1">Recommendations</Link>
-           <Link to="/docs/resources/ch1">Resources</Link>
-           <Link to="/docs/checklist/ch1">Checklist</Link> 
+           <Link to="/docs/resources/ch1">Resources</Link> 
+           <Link to="/docs/checklist/ch1">Checklist</Link>
+
           </div>
           {showSearchBar && (
             <div className="search-bar-container">
