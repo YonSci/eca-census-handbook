@@ -44,7 +44,7 @@ const headerStyles = `
     color: white;
     text-decoration: none;
     margin-left: 1.5rem;
-    font-size: 0.93rem;
+    font-size: 1.0rem;
     transition: color 0.3s ease;
   }
   .custom-page-header .nav-links a:hover {
@@ -98,7 +98,6 @@ const CustomHeader = () => {
         <h1>E-Census Handbook</h1>
         <div className="nav-links-and-search"> {/* Wrapper for nav links and search */}
           <div className="nav-links">
-           <Link to="/">Home</Link>
            <Link to="/docs/about-us/background">About Us</Link>
            <Link to="/docs/experiences-lessons-2020/Chapter-01/introduction">Experiences and Lessons</Link>
            <Link to="/docs/case-studies/Chapter-01/ch01-pes-case-studies">Case Studies</Link>
