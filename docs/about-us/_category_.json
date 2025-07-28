@@ -1,6 +1,6 @@
 {
-  "label": "Recommendations",
-  "position": 4,
+  "label": "about-us",
+  "position": 1,
   "link": {
     "type": "generated-index"
   }
