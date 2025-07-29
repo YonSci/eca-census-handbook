@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
+hide_title: true
 ---
 
-# Background
+## Background
 
 Population and housing censuses (PHC) provide countries with fundamental demographic and socio-economic information. This information is key for planning, programming, and monitoring international, regional, and national commitments like the global 2030 Agenda for Sustainable Development, Africa Agenda 2063, and various national development framework targets. 
 

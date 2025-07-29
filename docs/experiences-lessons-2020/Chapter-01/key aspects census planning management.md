@@ -1,8 +1,9 @@
 ---
 sidebar_position: 2
+hide_title: true
 ---
 
-# Key Aspects of Census Planning and Management
+## Key Aspects of Census Planning and Management
 
 This subsection highlights the key aspects of concern during the 2020 round during planning management. The detail census planning aspects for the 2030 round can be accessed in the [UN P&R rev 4](1.%09UN%20Principles%20and%20Recommendations%20for%20population%20and%20housing%20Census.%20Revision%204.), part two on planning, organization and management. Further information is available in the UN Handbook on the Management of Population and Housing Censuses (Rev 2) pages 11-25. A planning checklist to help guide your planning is included in this e-census handbook.
 

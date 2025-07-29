@@ -1,8 +1,10 @@
 ---
 sidebar_position: 2
+hide_title: true
+
 ---
 
-# Purpose 
+## Purpose 
 
 The e-census handbook provides a repository of experiences, key lessons learned and good practices in planning and implementation of digital censuses in Africa during the 2020 Round of Population and Housing Censuses.  It enables NSOs and other partners to have exposure to experiences from across Africa and apply these to their own census planning and design context.
 

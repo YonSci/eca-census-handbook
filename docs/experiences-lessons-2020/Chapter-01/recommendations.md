@@ -1,8 +1,9 @@
 ---
 sidebar_position: 4
+hide_title: true
 ---
 
-# Recommendations
+## Recommendations
 
 *   Ideally, planning for a digital PHC should start immediately after completion of the previous census. This should start with the evaluation and development of an administrative report that puts together the lessons learnt from one census and recommendations for improvement. The use of knowledge management tools and techniques is thus beneficial for preserving institutional memory so that lessons learned are used for better management of future census planning and execution. Additionally, benchmarking lessons from countries that have already undertaken their digital census is a critical input to development of a census proposal.
 *   The COVID-19 experience underscored the need for more resilient and adaptable census planning, with a strong emphasis on contingency planning and sustainable national funding mechanisms to ensure that every person is counted.

@@ -1,8 +1,9 @@
 ---
 sidebar_position: 4
+hide_title: true
 ---
 
-# Challenges lessons learnt
+## Challenges lessons learnt
 
 * If person and household information (demographic and metadata) is processed as two separate datasets, ensure that there is an easy and unambiguous way to join this information back together again as automatic matching will rely on using information from both datasets. For example, assign a unique identifier to each household and make sure that each person within a household is also labelled with that identifier. This applies to both census and PES data.
 

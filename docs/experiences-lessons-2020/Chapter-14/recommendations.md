@@ -1,8 +1,9 @@
 ---
 sidebar_position: 5
+hide_title: true
 ---
 
-# Recommendations
+## Recommendations
 
 
 *   The PES should be planned and budgeted for as an integral part of the census operations. A PES is unlikely to yield useful results if it is a last-minute addition only considered once the census operation has been completed. As such, unless the PES is properly planned, funded and executed it is unlikely to yield value for money as the results may not be valid. Consider whether or not carrying out a PES is a good use of resource. Furthermore, the budget for the PES should be independent from the principal budget and should be ring-fenced so that the PES is adequately funded and an independent PES team, separate from the main census team can be properly staffed.

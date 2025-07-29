@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
+hide_title: true
 ---
 
-# Introduction
+## Introduction
 
 A population and housing census undertaking involves complex, complicated, and interrelated processes that require proper and timely planning. Census planning should therefore aim to:
 

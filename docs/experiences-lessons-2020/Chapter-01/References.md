@@ -1,8 +1,9 @@
 ---
 sidebar_position: 5
+hide_title: true
 ---
 
-# References
+## References
 
 
 1.  [UN Principles and Recommendations for population and housing Census. Revision 4](https://unstats.un.org/UNSDWebsite/statcom/session_56/documents/BG-3b-Draft_P&R_4th_Rev-E.pdf).

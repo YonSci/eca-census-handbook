@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
+hide_title: true
 ---
 
-# Introduction
+## Introduction
 
 A census post-enumeration survey (PES) is a survey carried out in a sample of enumeration areas (EA) soon after the census enumeration has been completed. The main purpose of a PES is to assess the coverage of the census i.e., to estimate how many usual residents have been missed from or double-counted in the census. The PES can also be used to verify the accuracy of responses for some key census questions. The census figures may or may not be adjusted according to the result of the PES analysis, but in either case the estimates of the true population should feed into subsequent population projections, making these more accurate. Finally, lessons learnt from the PES can inform the improved design of future censuses and surveys. 
 However, whilst a well conducted PES will yield valuable insights into the quality of the census coverage and accuracy, if not properly planned, funded and staffed, as an integral part of the census operations, the PES risks becoming a waste of resource. If the results are not used, because for example, the necessary assumptions regarding independence and matching quality are not met, or there is too much uncertainty in estimates, then the time and money spent on the PES may have been better used elsewhere e.g., in improving the quality of the census enumeration. If a PES is going to be conducted, the objectives should be clear from the outset regarding its purpose and how the PES fits into the overarching statistical design and analysis plan of the census (see P&R v 4, para. 3.223)

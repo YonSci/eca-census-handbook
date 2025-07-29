@@ -1,8 +1,9 @@
 ---
 sidebar_position: 2
+hide_title: true
 ---
 
-# Key implementation areas in a digital PES
+## Key implementation areas in a digital PES
 
 Many of the key implementation areas in the PES will be similar to the key implementation areas in the census. However, to preserve the independence of the PES, its data collection and processing operations must be completely separate from the census data collection and processing. Notes below are only reflecting on the implications of digitalisation of the census. More general guidance on conducting a PES can be found in the UN Post Enumeration Surveys Operational Guidelines (2010). Microsoft Word - PESManual_final.doc
 

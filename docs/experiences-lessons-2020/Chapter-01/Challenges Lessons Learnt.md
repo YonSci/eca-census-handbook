@@ -1,8 +1,9 @@
 ---
 sidebar_position: 3
+hide_title: true
 ---
 
-# Challenges and lessons learnt
+## Challenges and lessons learnt
 
 The development of census proposals and program documents in Africa during the 2020 round was a formidable task.
 

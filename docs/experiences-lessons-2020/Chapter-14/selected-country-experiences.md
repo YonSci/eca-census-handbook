@@ -1,8 +1,9 @@
 ---
 sidebar_position: 3
+hide_title: true
 ---
 
-# Selected Country Experiences
+## Selected Country Experiences
 
 
 Rwanda and Togo used different methodologies for the PES matching. Rwanda carried out matching at head-quarters once all PES data had been collected. In contrast, Togo carried out matching in the field as PES enumeration was ongoing.

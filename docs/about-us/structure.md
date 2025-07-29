@@ -1,8 +1,10 @@
 ---
 sidebar_position: 5
+hide_title: true
+
 ---
 
-# Structure 
+## Structure 
 
 This e-census handbook has chapters structured along the Census business model including a checklist to guide the planning process. The full list of the chapters is as indicated below. 
 
