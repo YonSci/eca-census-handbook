@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
+hide_title: true
 ---
 
-# Selected Country Experiences
 
 [back to Handbook Chapter 1](/docs/experiences-lessons-2020/Chapter-01/introduction)
 
