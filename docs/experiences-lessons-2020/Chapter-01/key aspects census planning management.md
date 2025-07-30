@@ -37,4 +37,10 @@ Some of the identified best practices from selected countries in Africa regardin
 
 The leadership of the census organization should be guided to undertake their respective activities as outlined in the UN P&R rev 4 para 2.171 and 2.172.
 
-[Vist the case studies section](/docs/case-studies/Chapter-01/ch01-pes-case-studies)
+
+
+
+
+
+
+
