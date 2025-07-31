@@ -104,6 +104,7 @@ const headerStyles = `
     padding: 0.75rem 0;
     border-bottom: 1px solid rgba(255,255,255,0.2);
     font-size: 1.0rem;
+    display: block;
   }
   
   .mobile-nav a:hover {
@@ -116,6 +117,46 @@ const headerStyles = `
     margin: 1rem 0 0 0;
     padding-top: 1rem;
     border-top: 1px solid rgba(255,255,255,0.2);
+  }
+  
+  .mobile-nav-item {
+    position: relative;
+  }
+  
+  .mobile-nav-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .mobile-nav-link .arrow {
+    transition: transform 0.3s ease;
+    font-size: 1.2rem;
+  }
+  
+  .mobile-nav-link .arrow.expanded {
+    transform: rotate(90deg);
+  }
+  
+  .mobile-submenu {
+    display: none;
+    background-color: rgba(0,0,0,0.2);
+    padding-left: 1rem;
+  }
+  
+  .mobile-submenu.open {
+    display: block;
+  }
+  
+  .mobile-submenu a {
+    font-size: 0.9rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+  
+  .mobile-submenu a:hover {
+    background-color: rgba(255,255,255,0.05);
+    padding-left: 1rem;
   }
   
   @media (max-width: 768px) {
@@ -150,6 +191,7 @@ const headerStyles = `
 
 const CustomHeader = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [expandedSubmenu, setExpandedSubmenu] = useState(null);
   const location = useLocation();
   const { siteConfig } = useDocusaurusContext();
   
@@ -170,12 +212,78 @@ const CustomHeader = () => {
 
   const closeMobileMenu = () => {
     setMobileMenuOpen(false);
+    setExpandedSubmenu(null);
+  };
+
+  const toggleSubmenu = (index) => {
+    setExpandedSubmenu(expandedSubmenu === index ? null : index);
+  };
+
+  const handleMobileNavClick = (link, index, e) => {
+    if (link.submenu) {
+      e.preventDefault();
+      toggleSubmenu(index);
+    } else {
+      closeMobileMenu();
+    }
   };
 
   const navigationLinks = [
-    { to: "/docs/about-us/background", label: "About Us" },
-    { to: "/docs/experiences-lessons-2020/Chapter-01/introduction", label: "Experiences and Lessons" },
-    { to: "/docs/case-studies/Chapter-01/Case%20Studies", label: "Case Studies" },
+    { 
+      to: "/docs/about-us/background", 
+      label: "About Us",
+      submenu: [
+        { to: "/docs/about-us/Background", label: "Background" },
+        { to: "/docs/about-us/Purpose", label: "Purpose" },
+        { to: "/docs/about-us/Rationale", label: "Rationale" },
+        { to: "/docs/about-us/Structure", label: "Structure" },
+        { to: "/docs/about-us/Target%20Audience", label: "Target Audience" }
+      ]
+    },
+    { 
+      to: "/docs/experiences-lessons-2020/Chapter-01/introduction", 
+      label: "Experiences and Lessons",
+      submenu: [
+        { to: "/docs/experiences-lessons-2020/Chapter-01/Introduction", label: "1. Project Planning and Management" },
+        { to: "/docs/experiences-lessons-2020/Chapter-02/Introduction", label: "2. Geospatial Mapping and EA Database" },
+        { to: "/docs/experiences-lessons-2020/Chapter-03/Introduction", label: "3. Enumeration Instruments and Tools" },
+        { to: "/docs/experiences-lessons-2020/Chapter-04/Introduction", label: "4. Data Capture and Management" },
+        { to: "/docs/experiences-lessons-2020/Chapter-05/Introduction", label: "5. Census Testing and Pilots" },
+        { to: "/docs/experiences-lessons-2020/Chapter-06/Introduction", label: "6. Recruitment and Training" },
+        { to: "/docs/experiences-lessons-2020/Chapter-07/Introduction", label: "7. Deployment and Supervision" },
+        { to: "/docs/experiences-lessons-2020/Chapter-08/Introduction", label: "8. Enumeration and Logistics" },
+        { to: "/docs/experiences-lessons-2020/Chapter-09/Introduction", label: "9. Quality Assurance and Risk Management" },
+        { to: "/docs/experiences-lessons-2020/Chapter-10/Introduction", label: "10. Census Analysis and Products" },
+        { to: "/docs/experiences-lessons-2020/Chapter-11/Introduction", label: "11. Partnerships and Collaboration" },
+        { to: "/docs/experiences-lessons-2020/Chapter-12/Introduction", label: "12. Advocacy and Publicity" },
+        { to: "/docs/experiences-lessons-2020/Chapter-13/Introduction", label: "13. Procurement and Financial Management" },
+        { to: "/docs/experiences-lessons-2020/Chapter-14/Introduction", label: "14. Post-Enumeration Survey" },
+        { to: "/docs/experiences-lessons-2020/Chapter-15/Introduction", label: "15. Alternative Approaches" },
+        { to: "/docs/experiences-lessons-2020/Chapter-16/Introduction", label: "16. Planning Checklist" }
+      ]
+    },
+    { 
+      to: "/docs/case-studies/Chapter-01/Case%20Studies", 
+      label: "Case Studies",
+      submenu: [
+        { to: "/docs/case-studies/Chapter-01/Case%20Studies", label: "1. Project Planning and Management" },
+        { to: "/docs/case-studies/Chapter-02/Case%20Studies", label: "2. Geospatial Mapping" },
+        { to: "/docs/case-studies/Chapter-03/Case%20Studies", label: "3. Enumeration Instruments" },
+        { to: "/docs/case-studies/Chapter-04/Case%20Studies", label: "4. Data Capture" },
+        { to: "/docs/case-studies/Chapter-05/Case%20Studies", label: "5. Census Testing" },
+        { to: "/docs/case-studies/Chapter-06/Case%20Studies", label: "6. Recruitment and Training" },
+        { to: "/docs/case-studies/Chapter-07/Case%20Studies", label: "7. Deployment and Supervision" },
+        { to: "/docs/case-studies/Chapter-08/Case%20Studies", label: "8. Enumeration and Logistics" },
+        { to: "/docs/case-studies/Chapter-09/Case%20Studies", label: "9. Quality Assurance" },
+        { to: "/docs/case-studies/Chapter-10/Case%20Studies", label: "10. Census Analysis" },
+        { to: "/docs/case-studies/Chapter-11/Case%20Studies", label: "11. Partnerships" },
+        { to: "/docs/case-studies/Chapter-12/Case%20Studies", label: "12. Advocacy" },
+        { to: "/docs/case-studies/Chapter-13/Case%20Studies", label: "13. Procurement" },
+        { to: "/docs/case-studies/Chapter-14/Case%20Studies", label: "14. Post-Enumeration Survey" },
+        { to: "/docs/case-studies/Chapter-15/Case%20Studies", label: "15. Alternative Approaches" },
+        { to: "/docs/case-studies/Chapter-16/Case%20Studies", label: "16. Planning Checklist" }
+      ]
+    },
     { to: "/docs/recommendations/ch1", label: "Recommendations" },
     { to: "/docs/resources/ch1", label: "Resources" },
     { to: "/docs/checklist/ch1", label: "Checklist" }
@@ -211,9 +319,40 @@ const CustomHeader = () => {
         {/* Mobile Navigation Menu */}
         <div className={`mobile-nav ${mobileMenuOpen ? 'open' : ''}`}>
           {navigationLinks.map((link, index) => (
-            <Link key={index} to={link.to} onClick={closeMobileMenu}>
-              {link.label}
-            </Link>
+            <div key={index} className="mobile-nav-item">
+              {link.submenu ? (
+                <>
+                  <div
+                    className="mobile-nav-link"
+                    onClick={(e) => handleMobileNavClick(link, index, e)}
+                    style={{
+                      color: 'white',
+                      textDecoration: 'none',
+                      padding: '0.75rem 0',
+                      borderBottom: '1px solid rgba(255,255,255,0.2)',
+                      fontSize: '1.0rem',
+                      cursor: 'pointer'
+                    }}
+                  >
+                    <span>{link.label}</span>
+                    <span className={`arrow ${expandedSubmenu === index ? 'expanded' : ''}`}>
+                      ▶
+                    </span>
+                  </div>
+                  <div className={`mobile-submenu ${expandedSubmenu === index ? 'open' : ''}`}>
+                    {link.submenu.map((sublink, subIndex) => (
+                      <Link key={subIndex} to={sublink.to} onClick={closeMobileMenu}>
+                        {sublink.label}
+                      </Link>
+                    ))}
+                  </div>
+                </>
+              ) : (
+                <Link to={link.to} onClick={closeMobileMenu}>
+                  {link.label}
+                </Link>
+              )}
+            </div>
           ))}
           {showSearchBar && (
             <div className="search-bar-container">
