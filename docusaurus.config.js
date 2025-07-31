@@ -12,12 +12,12 @@ const config = {
   url: 'https://yonsci.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/eca-census-handbook/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'YonSci', // Usually your GitHub org/user name.
-  projectName: 'eca-census-handbook', // Usually your repo name.
+  projectName: '/eca-census-handbook/', // Usually your repo name.
   deploymentBranch: 'gh-pages', // The branch that GitHub pages will deploy from.
 
   onBrokenLinks: 'warn', // warn or throw 
