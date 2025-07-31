@@ -231,7 +231,7 @@ const CustomHeader = () => {
   const navigationLinks = [
     { to: "/", label: "Home" },
     { 
-      to: "/docs/about-us/background", 
+      to: "/docs/about-us/", 
       label: "About Us",
       submenu: [
         { to: "/docs/about-us/Background", label: "Background" },
@@ -264,7 +264,7 @@ const CustomHeader = () => {
       ]
     },
     { 
-      to: "/docs/case-studies/Chapter-01/Case%20Studies", 
+      to: "/docs/case-studies/", 
       label: "Case Studies",
       submenu: [
         { to: "/docs/case-studies/Chapter-01/Case%20Studies", label: "1. Project Planning and Management" },
@@ -285,9 +285,9 @@ const CustomHeader = () => {
         { to: "/docs/case-studies/Chapter-16/Case%20Studies", label: "16. Planning Checklist" }
       ]
     },
-    { to: "/docs/recommendations/ch1", label: "Recommendations" },
-    { to: "/docs/resources/ch1", label: "Resources" },
-    { to: "/docs/checklist/ch1", label: "Checklist" }
+    { to: "/docs/recommendations/", label: "Recommendations" },
+    { to: "/docs/resources/", label: "Resources" },
+    { to: "/docs/checklist/", label: "Checklist" }
   ];
 
   return (

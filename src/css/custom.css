@@ -83,10 +83,73 @@ ul, ol {
   line-height: 1.0 !important;
 }
 
-/* Reduce font size for the main page title "Experiences and Lessons from the 2020 Round" */
+/* Reduce font size for main page titles on overview pages */
 body[data-pathname="/docs/experiences-lessons-2020/"] h1,
 body[data-pathname="/docs/experiences-lessons-2020/"] .theme-doc-markdown h1:first-child {
   font-size: 2.2rem !important;
   line-height: 1.2 !important;
   margin-bottom: 1.5rem !important;
+}
+
+/* About Us page title - more specific selectors */
+body[data-pathname="/docs/about-us/"] article h1,
+body[data-pathname="/docs/about-us/"] .theme-doc-markdown h1,
+body[data-pathname="/docs/about-us/"] .markdown h1,
+[data-pathname="/docs/about-us/"] h1 {
+  font-size: 1.2rem !important;
+  line-height: 1.2 !important;
+  margin-bottom: 1.5rem !important;
+}
+
+/* Case Studies page title - more specific selectors */
+body[data-pathname="/docs/case-studies/"] article h1,
+body[data-pathname="/docs/case-studies/"] .theme-doc-markdown h1,
+body[data-pathname="/docs/case-studies/"] .markdown h1,
+[data-pathname="/docs/case-studies/"] h1 {
+  font-size: 1.2rem !important;
+  line-height: 1.2 !important;
+  margin-bottom: 1.5rem !important;
+}
+
+/* Recommendations page title */
+body[data-pathname="/docs/recommendations/"] h1,
+body[data-pathname="/docs/recommendations/"] .theme-doc-markdown h1:first-child {
+  font-size: 2.0rem !important;
+  line-height: 1.2 !important;
+  margin-bottom: 1.5rem !important;
+}
+
+/* Resources page title */
+body[data-pathname="/docs/resources/"] h1,
+body[data-pathname="/docs/resources/"] .theme-doc-markdown h1:first-child {
+  font-size: 2.2rem !important;
+  line-height: 1.2 !important;
+  margin-bottom: 1.5rem !important;
+}
+
+/* Checklist page title */
+body[data-pathname="/docs/checklist/"] h1,
+body[data-pathname="/docs/checklist/"] .theme-doc-markdown h1:first-child {
+  font-size: 2.2rem !important;
+  line-height: 1.2 !important;
+  margin-bottom: 1.5rem !important;
+}
+
+/* Super aggressive font size override for specific pages */
+html body main article h1,
+html body .main-wrapper article h1,
+html body [class*="docItemWrapper"] h1 {
+  font-size: inherit;
+}
+
+/* Force smaller font sizes on specific pages */
+html[data-pathname="/docs/about-us/"] body h1,
+html[data-pathname="/docs/case-studies/"] body h1 {
+  font-size: 1.9rem !important;
+}
+
+/* Alternative approach using URL-based targeting */
+body:has([href*="/docs/about-us/"]) h1:first-of-type,
+body:has([href*="/docs/case-studies/"]) h1:first-of-type {
+  font-size: 1.9rem !important;
 }
