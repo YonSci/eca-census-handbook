@@ -1,9 +1,7 @@
 ---
-sidebar_position: 1
-hide_title: true
+sidebar_position: 3
+hide_title: true 
 ---
-
-[back to Handbook Chapter 11](/docs/experiences-lessons-2020/Chapter-11/Introduction)
 
 
 ## Selected country experiences
@@ -33,4 +31,4 @@ hide_title: true
 - Donors and development partners also provide resources to hire research institutions or national/international consultant(s) to lead in areas/topics where national capacity is lacking in partnership with NSO and sectoral ministries/national institutions.
 
 
-[back to Handbook Chapter 11](/docs/experiences-lessons-2020/Chapter-11/Introduction)
+[Vist the case studies section](/docs/case-studies/Chapter-11/Case%20Studies.md)
