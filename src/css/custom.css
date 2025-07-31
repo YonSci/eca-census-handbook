@@ -75,3 +75,18 @@ ul, ol {
   transform: scaleX(0.9) !important;
   transform-origin: left !important;
 }
+
+/* Reduce font size for the main "Experiences and Lessons from the 2020 Round" sidebar title */
+.theme-doc-sidebar-container a[href="/docs/experiences-lessons-2020/"],
+.theme-doc-sidebar-container .menu__link[href="/docs/experiences-lessons-2020/"] {
+  font-size: 0.95em !important;
+  line-height: 1.0 !important;
+}
+
+/* Reduce font size for the main page title "Experiences and Lessons from the 2020 Round" */
+body[data-pathname="/docs/experiences-lessons-2020/"] h1,
+body[data-pathname="/docs/experiences-lessons-2020/"] .theme-doc-markdown h1:first-child {
+  font-size: 2.2rem !important;
+  line-height: 1.2 !important;
+  margin-bottom: 1.5rem !important;
+}

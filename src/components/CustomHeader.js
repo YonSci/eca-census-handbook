@@ -229,6 +229,7 @@ const CustomHeader = () => {
   };
 
   const navigationLinks = [
+    { to: "/", label: "Home" },
     { 
       to: "/docs/about-us/background", 
       label: "About Us",
@@ -241,7 +242,7 @@ const CustomHeader = () => {
       ]
     },
     { 
-      to: "/docs/experiences-lessons-2020/Chapter-01/introduction", 
+      to: "/docs/experiences-lessons-2020/", 
       label: "Experiences and Lessons",
       submenu: [
         { to: "/docs/experiences-lessons-2020/Chapter-01/Introduction", label: "1. Project Planning and Management" },
