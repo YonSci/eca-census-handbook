@@ -34,6 +34,7 @@ Also found in the bar at the top of the page is a search bar, type a word or phr
 
 
 
-Clicking on the chat icon ![](/img/chatbot-icon.png)  in the bottom right corner of the page will open a chatbot that you can interrogate about the e-census handbook.
-![](/img/chatbot.png) 
+Clicking on the chat icon <img src="/img/chat-bot.png" alt="chat bot icon" width="30" height="30"/>  in the bottom right corner of the page will open a chatbot that you can interrogate about the e-census handbook.
+
+<img src="/img/chatbot-full.png" alt="chatbot interface" width="400"/> 
 
