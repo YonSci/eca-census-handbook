@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Link from '@docusaurus/Link';
 import SearchBar from '@theme/SearchBar'; // Import the SearchBar
 import { useLocation } from '@docusaurus/router';
@@ -11,22 +11,25 @@ const headerStyles = `
   .custom-page-header {
     background: linear-gradient(90deg, #206095, #206095);
     color: white;
-    padding: 1.5rem 2rem;
+    padding: 1rem 2rem;
     position: sticky;
-    top: 10px; /* Adjusted to make space for the 10px banner */
-    z-index: 1000; /* Ensures it stays on top of other content */
+    top: 10px;
+    z-index: 1000;
     display: flex;
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 2px 5px rgba(32, 96, 149, 1);
-    height: 60px; /* Adjusted height to accommodate the header content */
+    min-height: 60px;
   }
+  
   .custom-page-header h1 {
     margin: 0;
     font-size: 1.6rem;
     display: flex;
     align-items: center;
+    flex-shrink: 0;
   }
+  
   .custom-page-header h1::before {
     content: '';
     display: inline-block;
@@ -36,47 +39,117 @@ const headerStyles = `
     margin-right: 0.5rem;
     vertical-align: middle;
   }
-  .custom-page-header .nav-links-and-search { /* New wrapper for nav links and search */
+  
+  .nav-links-and-search {
     display: flex;
     align-items: center;
   }
-  .custom-page-header .nav-links a {
+  
+  .nav-links {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-links a {
     color: white;
     text-decoration: none;
     margin-left: 1.5rem;
     font-size: 1.0rem;
     transition: color 0.3s ease;
+    white-space: nowrap;
   }
-  .custom-page-header .nav-links a:hover {
-    color: #ff5733; /* You might want to use a CSS variable for this color for easier theming */
+  
+  .nav-links a:hover {
+    color: #ff5733;
   }
-  .custom-page-header .search-bar-container { /* Style for the search bar container */
-    margin-left: 1.5rem; /* Adjust as needed for spacing */
+  
+  .search-bar-container {
+    margin-left: 1.5rem;
+  }
+  
+  .hamburger-menu {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+    padding: 5px;
+  }
+  
+  .hamburger-menu span {
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 3px 0;
+    transition: 0.3s;
+  }
+  
+  .mobile-nav {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #206095;
+    flex-direction: column;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  }
+  
+  .mobile-nav.open {
+    display: flex;
+  }
+  
+  .mobile-nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    font-size: 1.0rem;
+  }
+  
+  .mobile-nav a:hover {
+    color: #ff5733;
+    background-color: rgba(255,255,255,0.1);
+    padding-left: 1rem;
+  }
+  
+  .mobile-nav .search-bar-container {
+    margin: 1rem 0 0 0;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255,255,255,0.2);
   }
   
   @media (max-width: 768px) {
     .custom-page-header {
-      flex-direction: column;
+      position: relative;
       padding: 1rem;
     }
-    .custom-page-header .nav-links {
-      display: flex; /* Ensure links are still manageable */
-      flex-direction: column; /* Stack links vertically */
-      align-items: center; /* Center links */
-      margin-top: 1rem;
+    
+    .custom-page-header h1 {
+      font-size: 1.4rem;
     }
-    .custom-page-header .nav-links a {
-      margin: 0.5rem 0; /* Adjust vertical margin for stacked links */
+    
+    .nav-links-and-search {
+      display: none;
     }
-    .custom-page-header .search-bar-container {
-      margin-left: 0; /* Remove left margin */
-      margin-top: 1rem; /* Add top margin for spacing */
-      width: 100%; /* Allow search bar to take full width if desired */
+    
+    .hamburger-menu {
+      display: flex;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .custom-page-header {
+      padding: 0.75rem;
+    }
+    
+    .custom-page-header h1 {
+      font-size: 1.2rem;
     }
   }
 `;
 
 const CustomHeader = () => {
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const location = useLocation();
   const { siteConfig } = useDocusaurusContext();
   
@@ -91,21 +164,57 @@ const CustomHeader = () => {
   // Show SearchBar only on documentation pages
   const showSearchBar = location.pathname.startsWith(`${siteConfig.baseUrl}${docsRouteBasePath}/`);
 
+  const toggleMobileMenu = () => {
+    setMobileMenuOpen(!mobileMenuOpen);
+  };
+
+  const closeMobileMenu = () => {
+    setMobileMenuOpen(false);
+  };
+
+  const navigationLinks = [
+    { to: "/docs/about-us/background", label: "About Us" },
+    { to: "/docs/experiences-lessons-2020/Chapter-01/introduction", label: "Experiences and Lessons" },
+    { to: "/docs/case-studies/Chapter-01/Case%20Studies", label: "Case Studies" },
+    { to: "/docs/recommendations/ch1", label: "Recommendations" },
+    { to: "/docs/resources/ch1", label: "Resources" },
+    { to: "/docs/checklist/ch1", label: "Checklist" }
+  ];
+
   return (
     <>
       <style>{headerStyles}</style>
       <div className="custom-page-header">
         <h1>E-Census Handbook</h1>
-        <div className="nav-links-and-search"> {/* Wrapper for nav links and search */}
+        
+        {/* Desktop Navigation */}
+        <div className="nav-links-and-search">
           <div className="nav-links">
-           <Link to="/docs/about-us/background">About Us</Link>
-           <Link to="/docs/experiences-lessons-2020/Chapter-01/introduction">Experiences and Lessons</Link>
-           <Link to="/docs/case-studies/Chapter-01/Case%20Studies">Case Studies</Link>
-           <Link to="/docs/recommendations/ch1">Recommendations</Link>
-           <Link to="/docs/resources/ch1">Resources</Link> 
-           <Link to="/docs/checklist/ch1">Checklist</Link>
-
+            {navigationLinks.map((link, index) => (
+              <Link key={index} to={link.to}>{link.label}</Link>
+            ))}
           </div>
+          {showSearchBar && (
+            <div className="search-bar-container">
+              <SearchBar />
+            </div>
+          )}
+        </div>
+
+        {/* Mobile Hamburger Menu */}
+        <div className="hamburger-menu" onClick={toggleMobileMenu}>
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+
+        {/* Mobile Navigation Menu */}
+        <div className={`mobile-nav ${mobileMenuOpen ? 'open' : ''}`}>
+          {navigationLinks.map((link, index) => (
+            <Link key={index} to={link.to} onClick={closeMobileMenu}>
+              {link.label}
+            </Link>
+          ))}
           {showSearchBar && (
             <div className="search-bar-container">
               <SearchBar />
