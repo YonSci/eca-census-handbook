@@ -3,8 +3,7 @@ sidebar_position: 1
 hide_title: true
 ---
 
-[back to Handbook Chapter 16](/docs/experiences-lessons-2020/Chapter-16/Introduction)
-
+[back to Handbook Chapter 2](/docs/experiences-lessons-2020/Chapter-02/Introduction)
 
 **Namibia**
 
@@ -22,7 +21,6 @@ A Communication Plan focusing on advocacy and publicity of the mapping was devel
 
 the census mapping. Mobilization was done in each selected EA before commencement of data collection exercises to ensure that local people were aware of the project and what was expected of them. Courtesy visits to constituency and local councilors were also undertaken to introduce the exercise and request them to inform their constituency inhabitants about the exercise during their respective radio announcements and community meetings. In addition, FM Radio announcements, local newspapers, television, and specific talk shows among others to announce the commencement of fieldwork.
 
-**Kenya**
 
 **Kenya** aimed to update her geography file for all counties and sub-counties with villages and Enumeration Areas as well as number of households.
 
@@ -44,29 +42,25 @@ A team of GIS technicians were recruited to support the GIS team in undertaking 
 
 **Stage 1**
 
-•           Digitization was carried out by first downloading the spatial data collected from the cloud server. ArcGIS software was used to overlay spatial data on satellite imagery for rural areas or aerial photographs for urban areas.  The data would be symbolized by village name to determine the extent of a village. Digitization of village boundaries was guided by already generated schema.
+- Digitization was carried out by first downloading the spatial data collected from the cloud server. ArcGIS software was used to overlay spatial data on satellite imagery for rural areas or aerial photographs for urban areas.  The data would be symbolized by village name to determine the extent of a village. Digitization of village boundaries was guided by already generated schema.
 
-•           Delineation of EAs was done based on measure of size which is between 50 and 149 households making an average of 100 households. A village with more than 149 households was subdivided to create more than one EA whereas one with less than 50 households was merged with another next to it. An EA was therefore either part of a village, an entire village or several villages combined.
+- Delineation of EAs was done based on measure of size which is between 50 and 149 households making an average of 100 households. A village with more than 149 households was subdivided to create more than one EA whereas one with less than 50 households was merged with another next to it. An EA was therefore either part of a village, an entire village or several villages combined.
 
-•           The EA polygons were cleaned by creating topologies to show where overlaps and gaps exist. Each EA was described by its administrative and political units, type (rural or urban), status (informal or formal) and universal (special or conventional). The information was added on the EA polygons attribute table to create the census geo-file.
+- The EA polygons were cleaned by creating topologies to show where overlaps and gaps exist. Each EA was described by its administrative and political units, type (rural or urban), status (informal or formal) and universal (special or conventional). The information was added on the EA polygons attribute table to create the census geo-file.
 
-•           A 13-digit code was generated from administrative units to uniquely identify each EA. Maps were prepared using templates generated during development of tools. Two maps were created, a sub-location map with all the EAs or several EAs in that sub-location and every individual EA map.
+- A 13-digit code was generated from administrative units to uniquely identify each EA. Maps were prepared using templates generated during development of tools. Two maps were created, a sub-location map with all the EAs or several EAs in that sub-location and every individual EA map.
 
-**Stage 2**
+**Stage 2** The maps were printed for editing guided by the editing forms and later printed for use during verification. Rural maps were printed on A3 size paper while urban maps were printed on A2 size paper.
 
-•           The maps were printed for editing guided by the editing forms and later printed for use during verification. Rural maps were printed on A3 size paper while urban maps were printed on A2 size paper.
+- Maps returned from verification were returned to map production for the GIS technicians to effect changes from the field. After effecting the changes, final PDF maps and geo-files were forwarded by counties to uploaded on the tablets to be used during census enumeration.
 
-•           Maps returned from verification were returned to map production for the GIS technicians to effect changes from the field. After effecting the changes, final PDF maps and geo-files were forwarded by counties to uploaded on the tablets to be used during census enumeration.
-
-•           Hard copy maps were also printed for training and EA identification.
+- Hard copy maps were also printed for training and EA identification.
 
 The EA map verification exercise was undertaken by trained verification officers and coordinators who worked with the National Government Administration Officers (NGAO) with a collective role of confirming that all the maps and geo- file for their respective administrative units were available and that they were in their correct geographic locations and had correct spellings. During verification, several NGAOs were brought together.
 
 Additionally, the verification process identified missing features/facilities, spelling mistakes, confirmed the number of villages and boundaries, etc. The key tools were therefore the sub-location map and geo- file. The exercise started after several EA maps were produced for several counties. It was conducted in phases where in each phase several counties were covered.
 
 Verified maps and verification forms were forwarded to the map production office to effect the changes documented before final production of maps. Major errors noted during verification included: spelling errors, wrong village/EA naming, incorrect EA numbering, disjointed/fragmented (Flying) villages, omission of features, gaps where some households had not been mapped, unclear boundaries, incomplete naming of features. 32% of the EAs had one or more of the above errors.
-
-**Sierra Leone**
 
 **Sierra Leone** aimed to achieve a verified and categorized nationwide locality list of all administrative levels showing the name of each locality, district, chiefdom, and section with a unique code.
 
@@ -86,11 +80,11 @@ In Sierra Leone, the actual field work started with annotation of Satellite imag
 
 The Data quality assurance officers and Assistants were busy with the required quality checks. The National quality officer was supervising all the quality assurance officers also used a customized application to ensure that data from the field mappers shows a true representation of the real information on the ground and in addition do ground trotting for randomly selected delineated EAs.
 
-•           Mappers were in the field collecting data and creating temporary Enumeration Area boundaries and saving the data into the cloud. The GIS Officers and assistants who were in the respective District Offices downloaded data as sent from the field via google cloud. The EAs were digitized and delineated using ArcGIS Mapping software tool.
+- Mappers were in the field collecting data and creating temporary Enumeration Area boundaries and saving the data into the cloud. The GIS Officers and assistants who were in the respective District Offices downloaded data as sent from the field via google cloud. The EAs were digitized and delineated using ArcGIS Mapping software tool.
 
-•           The mapping PAD remote submission process utilizes a top-level security cloud system to scan and safely deliver uploaded tasks to GIS portal. GIS portal can only be opened by registered and verified GIS Officers.
+- The mapping PAD remote submission process utilizes a top-level security cloud system to scan and safely deliver uploaded tasks to GIS portal. GIS portal can only be opened by registered and verified GIS Officers.
 
-•           No physical maps were printed for actual census enumeration instead a Census Pad application was used with online resources like Open Street based on cartographic enumeration area boundary shapefiles, and the spatial data collected. These facilitated the census staff to locate their Enumeration areas without hard copy maps. 
+- No physical maps were printed for actual census enumeration instead a Census Pad application was used with online resources like Open Street based on cartographic enumeration area boundary shapefiles, and the spatial data collected. These facilitated the census staff to locate their Enumeration areas without hard copy maps. 
 
 The verification process was followed up with a ground trotting exercise. To ensure that only accredited functionaries use the App, the mapping PAD periodically runs system authentication on every phone the App is installed.
 
@@ -114,4 +108,4 @@ Zambia partnered with GRID3 to produce high-resolution gridded population estima
 
 South Africa conducted its first fully digital census in 2022, using three data collection modes: face-to-face (CAPI), telephonic (CATI), and online (CAWI). To support this, Statistics South Africa (Stats SA) updated its Geo-Frame across all settlements, collecting data on dwelling units, addresses, and gatekeeper information. This update helped fieldworkers navigate enumeration areas and ensured accurate data collection. The digital census infrastructure included tools like the Digital Census Atlas and interactive mapping products, which allowed users to explore demographic data at various administrative levels. These innovations marked a significant shift toward integrated geospatial and statistical systems in South Africa’s census operations.
 
-[back to Handbook Chapter 16](/docs/experiences-lessons-2020/Chapter-16/Introduction)
+[back to Handbook Chapter 2](/docs/experiences-lessons-2020/Chapter-02/Introduction)
