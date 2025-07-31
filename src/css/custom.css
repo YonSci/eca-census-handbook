@@ -54,7 +54,7 @@ ul, ol {
 .theme-doc-sidebar-container .menu__link,
 [class*="sidebar"] a,
 [class*="menu"] a {
-  word-spacing: 1.0em !important;
+  word-spacing: 1.em !important;
   letter-spacing: -0.02em !important;
 }
 
@@ -63,15 +63,15 @@ ul, ol {
 [class*="collapsible"] a {
   transform: scaleX(0.95) !important;
   transform-origin: left !important;
-  word-spacing: 3.1em !important;
-  font-size: 1.15em !important;
+  word-spacing: 0.1em !important;
+  font-size: 0.99em !important;
 }
 
 /* Target sub-items (non-collapsible menu items) */
 .menu__list-item:not(.menu__list-item-collapsible) a,
 .menu__list-item .menu__link:not([class*="collapsible"]) {
-  word-spacing: 0.1em !important;
+  word-spacing: -0.1em !important;
   letter-spacing: -0.03em !important;
-  transform: scaleX(0.95) !important;
+  transform: scaleX(0.9) !important;
   transform-origin: left !important;
 }
