@@ -1,7 +1,7 @@
 ---
+title: About Us
 sidebar_position: 0
-hide_title: false
-title:  About US
+hide_title: true
 ---
 
 <h1 style={{fontSize: '1.2rem', lineHeight: '1.2', marginBottom: '1.5rem'}}>About the E-Census Handbook</h1>
