@@ -12,8 +12,8 @@ const config = {
   url: 'https://yonsci.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/eca-census-handbook/',   // GitHub pages
-  // baseUrl: '/',  // Netlify 
+  // baseUrl: '/eca-census-handbook/',   // GitHub pages
+  baseUrl: '/',  // Netlify 
 
 
   // GitHub pages deployment config.
