@@ -153,3 +153,82 @@ body:has([href*="/docs/about-us/"]) h1:first-of-type,
 body:has([href*="/docs/case-studies/"]) h1:first-of-type {
   font-size: 1.9rem !important;
 }
+
+/* ===== SIDEBAR ACTIVE STATE STYLING ===== */
+
+/* Active state for sidebar navigation links */
+.theme-doc-sidebar-container .menu__link--active,
+.theme-doc-sidebar-container .menu__link[aria-current="page"] {
+  background-color: rgba(40, 167, 69, 0.15) !important;
+  color: #28a745 !important;
+  font-weight: 600 !important;
+  border-left: 4px solid #28a745 !important;
+  border-radius: 0 4px 4px 0 !important;
+  padding-left: 1rem !important;
+}
+
+/* Hover states for active sidebar links */
+.theme-doc-sidebar-container .menu__link--active:hover,
+.theme-doc-sidebar-container .menu__link[aria-current="page"]:hover {
+  background-color: rgba(40, 167, 69, 0.25) !important;
+  color: #28a745 !important;
+}
+
+/* Active state for collapsible category headers */
+.theme-doc-sidebar-container .menu__list-item-collapsible .menu__link--active,
+.theme-doc-sidebar-container .menu__list-item-collapsible .menu__link[aria-current="page"] {
+  background-color: rgba(40, 167, 69, 0.1) !important;
+  color: #28a745 !important;
+  font-weight: 700 !important;
+  border-left: 6px solid #28a745 !important;
+}
+
+/* Enhance regular hover states for sidebar links */
+.theme-doc-sidebar-container .menu__link:hover:not(.menu__link--active):not([aria-current="page"]) {
+  background-color: rgba(40, 167, 69, 0.08) !important;
+  color: #28a745 !important;
+  transition: all 0.3s ease !important;
+}
+
+/* Active state for mobile sidebar if it exists */
+@media (max-width: 768px) {
+  .theme-doc-sidebar-container .menu__link--active,
+  .theme-doc-sidebar-container .menu__link[aria-current="page"] {
+    border-left: 6px solid #28a745 !important;
+    padding-left: 1.2rem !important;
+  }
+}
+
+/* Dark mode support for sidebar active states */
+[data-theme='dark'] .theme-doc-sidebar-container .menu__link--active,
+[data-theme='dark'] .theme-doc-sidebar-container .menu__link[aria-current="page"] {
+  background-color: rgba(40, 167, 69, 0.25) !important;
+  color: #34d058 !important;
+}
+
+[data-theme='dark'] .theme-doc-sidebar-container .menu__link:hover:not(.menu__link--active):not([aria-current="page"]) {
+  background-color: rgba(40, 167, 69, 0.15) !important;
+  color: #34d058 !important;
+}
+
+/* Section-specific sidebar enhancements */
+.theme-doc-sidebar-container.case-studies-section .menu__link--active,
+.theme-doc-sidebar-container.case-studies-section .menu__link[aria-current="page"] {
+  box-shadow: 0 2px 8px rgba(40, 167, 69, 0.2) !important;
+}
+
+.theme-doc-sidebar-container.recommendations-section .menu__link--active,
+.theme-doc-sidebar-container.recommendations-section .menu__link[aria-current="page"] {
+  box-shadow: 0 2px 8px rgba(40, 167, 69, 0.2) !important;
+}
+
+/* Enhanced active state animation */
+.theme-doc-sidebar-container .menu__link {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+.theme-doc-sidebar-container .menu__link--active,
+.theme-doc-sidebar-container .menu__link[aria-current="page"] {
+  transform: translateX(2px) !important;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}

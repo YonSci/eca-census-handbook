@@ -11,7 +11,7 @@ const headerStyles = `
   .custom-page-header {
     background: linear-gradient(90deg, #206095, #206095);
     color: white;
-    padding: 1rem 0.5rem 1rem 1rem;
+    padding: 1rem 0.5rem 1rem 0.5rem;
     position: sticky;
     top: 10px;
     z-index: 1000;
@@ -29,16 +29,18 @@ const headerStyles = `
   .nav-links-and-search {
     display: flex;
     align-items: center;
-    gap: 1rem;
-    justify-content: flex-end;
+    gap: 0;
+    justify-content: flex-start;
     padding-right: 2rem;
+    padding-left: 1rem;
     width: 100%;
     min-height: 60px;
   }
   
-  /* Move docs page navigation to the left to match homepage alignment */
+  /* Ensure proper navigation alignment on docs pages */
   .nav-links-and-search.with-search {
-    margin-left: -60px;
+    margin-left: 0;
+    justify-content: flex-start;
   }
   
   /* No margin adjustment needed - filler takes exact search bar position */
@@ -53,7 +55,8 @@ const headerStyles = `
   }
   
   .homepage-filler.search-position {
-    margin-left: 2rem;
+    margin-left: auto;
+    margin-right: 1rem;
     flex-shrink: 0;
   }
   
@@ -79,31 +82,58 @@ const headerStyles = `
   .nav-links {
     display: flex;
     align-items: center;
-    gap: 0.8rem;
+    gap: 0;
+    flex-shrink: 0;
+    min-width: fit-content;
   }
   
   .nav-links a {
     color: white;
     text-decoration: none;
-    margin-left: 1.5rem;
+    margin-left: 0;
+    margin-right: 0.2rem;
     font-size: 1.0rem;
-    transition: color 0.3s ease;
+    transition: all 0.3s ease;
     white-space: nowrap;
+    padding: 0.5rem 0.6rem;
+    border-radius: 4px;
+    position: relative;
+  }
+  
+  .nav-links a:first-child {
+    margin-left: 0;
+  }
+  
+  .nav-links a:last-child {
+    margin-right: 1rem;
   }
   
   .nav-links a:hover {
-    color: #ff5733;
+    color: #28a745;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .nav-links a.active {
+    background-color: rgba(40, 167, 69, 0.2);
+    color: #28a745;
+    font-weight: 600;
+    border-bottom: 2px solid #28a745;
+  }
+  
+  .nav-links a.active:hover {
+    background-color: rgba(40, 167, 69, 0.3);
   }
   
   .search-bar-container {
-    margin-left: 1.5rem;
+    margin-left: auto;
+    margin-right: 0.5rem;
   }
   
   .theme-toggle-container {
     display: flex;
     align-items: center;
     flex-shrink: 0;
-    margin-left: 1rem;
+    margin-left: 0.3rem;
   }
   
   .dark-mode-toggle {
@@ -172,12 +202,25 @@ const headerStyles = `
     border-bottom: 1px solid rgba(255,255,255,0.2);
     font-size: 1.0rem;
     display: block;
+    transition: all 0.3s ease;
   }
   
   .mobile-nav a:hover {
-    color: #ff5733;
+    color: #28a745;
     background-color: rgba(255,255,255,0.1);
     padding-left: 1rem;
+  }
+  
+  .mobile-nav a.active {
+    color: #28a745;
+    background-color: rgba(40, 167, 69, 0.2);
+    font-weight: 600;
+    border-left: 4px solid #28a745;
+    padding-left: 1rem;
+  }
+  
+  .mobile-nav a.active:hover {
+    background-color: rgba(40, 167, 69, 0.3);
   }
   
   .mobile-nav .search-bar-container {
@@ -256,6 +299,14 @@ const headerStyles = `
     transform: rotate(90deg);
   }
   
+  .mobile-nav-link.active {
+    color: #28a745 !important;
+    background-color: rgba(40, 167, 69, 0.2) !important;
+    font-weight: 600 !important;
+    border-left: 4px solid #28a745 !important;
+    padding-left: 1rem !important;
+  }
+  
   .mobile-submenu {
     display: none;
     background-color: rgba(0,0,0,0.2);
@@ -314,6 +365,23 @@ const CustomHeader = () => {
   const showSearchBar = location.pathname.startsWith('/docs');
   // Show theme toggle only on docs pages 
   const showThemeToggle = location.pathname.startsWith('/docs');
+  
+  // Function to determine if a navigation link is active
+  const isActiveLink = (linkTo) => {
+    const currentPath = location.pathname;
+    
+    // Handle exact home match
+    if (linkTo === "/" && currentPath === "/") {
+      return true;
+    }
+    
+    // Handle docs sections - check if current path starts with the link path
+    if (linkTo !== "/" && currentPath.startsWith(linkTo.replace(/\/$/, ''))) {
+      return true;
+    }
+    
+    return false;
+  };
   
   // Initialize theme and search functionality
   React.useEffect(() => {
@@ -452,7 +520,13 @@ const CustomHeader = () => {
         <div className={`nav-links-and-search ${showSearchBar ? 'with-search' : ''}`}>
           <div className="nav-links">
             {navigationLinks.map((link, index) => (
-              <Link key={index} to={link.to}>{link.label}</Link>
+              <Link 
+                key={index} 
+                to={link.to} 
+                className={isActiveLink(link.to) ? 'active' : ''}
+              >
+                {link.label}
+              </Link>
             ))}
                     </div>
           {showSearchBar ? (
@@ -492,7 +566,7 @@ const CustomHeader = () => {
               {link.submenu ? (
                 <>
                   <div
-                    className="mobile-nav-link"
+                    className={`mobile-nav-link ${isActiveLink(link.to) ? 'active' : ''}`}
                     onClick={(e) => handleMobileNavClick(link, index, e)}
                     style={{
                       color: 'white',
@@ -517,7 +591,11 @@ const CustomHeader = () => {
                   </div>
                 </>
               ) : (
-                <Link to={link.to} onClick={closeMobileMenu}>
+                <Link 
+                  to={link.to} 
+                  onClick={closeMobileMenu}
+                  className={isActiveLink(link.to) ? 'active' : ''}
+                >
                   {link.label}
                 </Link>
               )}
