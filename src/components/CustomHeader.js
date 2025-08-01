@@ -197,6 +197,46 @@ const headerStyles = `
     border-color: rgba(255, 255, 255, 0.4);
   }
   
+  /* Fix Algolia DocSearch modal positioning and visibility */
+  .DocSearch-Modal {
+    z-index: 9999 !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+  }
+  
+  .DocSearch-Container {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    z-index: 9999 !important;
+  }
+  
+  .DocSearch-SearchBar {
+    background: white !important;
+  }
+  
+  .DocSearch-Input {
+    color: #1a1a1a !important;
+    background: transparent !important;
+  }
+  
+  .DocSearch-Input::placeholder {
+    color: #666 !important;
+  }
+  
+  .DocSearch-Search-Icon {
+    color: #666 !important;
+  }
+  
+  .DocSearch-Hit-title {
+    color: #1a1a1a !important;
+  }
+  
   .mobile-nav-item {
     position: relative;
   }
