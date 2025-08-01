@@ -1,6 +1,7 @@
 ---
 sidebar_position: 0
-hide_title: true
+hide_title: false
+title: Case Studies
 ---
 
 <h1 style={{fontSize: '1.2rem', lineHeight: '1.2', marginBottom: '1.5rem'}}>Case Studies from the 2020 Round of Population and Housing Censuses</h1>

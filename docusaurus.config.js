@@ -94,6 +94,8 @@ const config = {
         { property: 'og:url', content: 'https://yonsci.github.io/eca-census-handbook' },
       ],
       
+      // Scripts removed - Algolia search now loaded directly in CustomHeader component
+      
       customCss: [require.resolve('./src/css/custom.css')],
 
 

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Link from '@docusaurus/Link';
-import SearchBar from '@theme/SearchBar'; // Import the SearchBar
+import SearchBar from '@theme/SearchBar'; // Import the SearchBar for docs pages
 import { useLocation } from '@docusaurus/router';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
@@ -11,7 +11,7 @@ const headerStyles = `
   .custom-page-header {
     background: linear-gradient(90deg, #206095, #206095);
     color: white;
-    padding: 1rem 2rem;
+    padding: 1rem 0.5rem 1rem 1rem;
     position: sticky;
     top: 10px;
     z-index: 1000;
@@ -22,32 +22,64 @@ const headerStyles = `
     min-height: 60px;
   }
   
-  .custom-page-header h1 {
-    margin: 0;
-    font-size: 1.6rem;
-    display: flex;
-    align-items: center;
-    flex-shrink: 0;
-  }
+
   
-  .custom-page-header h1::before {
-    content: '';
-    display: inline-block;
-    width: 24px;
-    height: 24px;
-    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="white"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>');
-    margin-right: 0.5rem;
-    vertical-align: middle;
-  }
+
   
   .nav-links-and-search {
     display: flex;
     align-items: center;
+    gap: 1rem;
+    justify-content: flex-end;
+    padding-right: 2rem;
+    width: 100%;
+    min-height: 60px;
+  }
+  
+  /* Move docs page navigation to the left to match homepage alignment */
+  .nav-links-and-search.with-search {
+    margin-left: -60px;
+  }
+  
+  /* No margin adjustment needed - filler takes exact search bar position */
+  
+  .homepage-filler {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 1rem;
+    font-weight: 500;
+  }
+  
+  .homepage-filler.search-position {
+    margin-left: 2rem;
+    flex-shrink: 0;
+  }
+  
+  .africa-icon {
+    font-size: 1.2rem;
+    filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.3));
+  }
+  
+  .homepage-tagline {
+    white-space: nowrap;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    letter-spacing: 0.3px;
+  }
+  
+  .homepage-filler.mobile {
+    margin: 1rem 0 0 0;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    justify-content: center;
+    text-align: center;
   }
   
   .nav-links {
     display: flex;
     align-items: center;
+    gap: 0.8rem;
   }
   
   .nav-links a {
@@ -65,6 +97,41 @@ const headerStyles = `
   
   .search-bar-container {
     margin-left: 1.5rem;
+  }
+  
+  .theme-toggle-container {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin-left: 1rem;
+  }
+  
+  .dark-mode-toggle {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 20px;
+    color: white;
+    padding: 8px 12px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+    white-space: nowrap;
+    min-width: fit-content;
+  }
+  
+  .dark-mode-toggle:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.5);
+  }
+  
+  .dark-mode-toggle.mobile {
+    width: 100%;
+    justify-content: center;
+    margin-top: 0.5rem;
+    padding: 10px 16px;
+    display: flex;
+    align-items: center;
   }
   
   .hamburger-menu {
@@ -119,6 +186,17 @@ const headerStyles = `
     border-top: 1px solid rgba(255,255,255,0.2);
   }
   
+  /* Dark mode support for theme toggle */
+  [data-theme='dark'] .dark-mode-toggle {
+    background: rgba(255, 255, 255, 0.08);
+    border-color: rgba(255, 255, 255, 0.2);
+  }
+  
+  [data-theme='dark'] .dark-mode-toggle:hover {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.4);
+  }
+  
   .mobile-nav-item {
     position: relative;
   }
@@ -165,11 +243,11 @@ const headerStyles = `
       padding: 1rem;
     }
     
-    .custom-page-header h1 {
-      font-size: 1.4rem;
+    .nav-links-and-search {
+      display: none;
     }
     
-    .nav-links-and-search {
+    .theme-toggle-container .dark-mode-toggle:not(.mobile) {
       display: none;
     }
     
@@ -182,29 +260,65 @@ const headerStyles = `
     .custom-page-header {
       padding: 0.75rem;
     }
-    
-    .custom-page-header h1 {
-      font-size: 1.2rem;
-    }
   }
 `;
 
 const CustomHeader = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [expandedSubmenu, setExpandedSubmenu] = useState(null);
+  const [colorMode, setColorMode] = useState('light');
   const location = useLocation();
   const { siteConfig } = useDocusaurusContext();
   
-  // Determine the base path for your documentation for SearchBar logic
-  let docsRouteBasePath = 'docs';
-  if (siteConfig.presets && siteConfig.presets.length > 0) {
-    const classicPreset = siteConfig.presets.find(p => p[0] === 'classic');
-    if (classicPreset && classicPreset[1] && classicPreset[1].docs && classicPreset[1].docs.routeBasePath) {
-      docsRouteBasePath = classicPreset[1].docs.routeBasePath;
+  // Show search only on docs pages to avoid context errors
+  const showSearchBar = location.pathname.startsWith('/docs');
+  // Show theme toggle only on docs pages 
+  const showThemeToggle = location.pathname.startsWith('/docs');
+  
+  // Initialize theme and search functionality
+  React.useEffect(() => {
+    // Initialize theme from localStorage or system preference
+    const savedTheme = localStorage.getItem('theme') || 
+                      localStorage.getItem('docusaurus.tab.theme') || 
+                      (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    
+    setColorMode(savedTheme);
+    document.documentElement.setAttribute('data-theme', savedTheme);
+    
+    // Set up search keyboard shortcut only on docs pages
+    if (showSearchBar) {
+      const handleKeyDown = (event) => {
+        if ((event.ctrlKey || event.metaKey) && event.key === 'k') {
+          event.preventDefault();
+          console.log('Ctrl+K pressed on docs page');
+          
+          // Try to use existing SearchBar functionality
+          const searchButton = document.querySelector('.DocSearch-Button');
+          if (searchButton) {
+            searchButton.click();
+          }
+        }
+      };
+      
+      document.addEventListener('keydown', handleKeyDown);
+      return () => document.removeEventListener('keydown', handleKeyDown);
     }
-  }
-  // Show SearchBar only on documentation pages
-  const showSearchBar = location.pathname.startsWith(`${siteConfig.baseUrl}${docsRouteBasePath}/`);
+  }, [showSearchBar]);
+
+  // Theme toggle function
+  const toggleColorMode = () => {
+    const newTheme = colorMode === 'dark' ? 'light' : 'dark';
+    setColorMode(newTheme);
+    document.documentElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+    localStorage.setItem('docusaurus.tab.theme', newTheme);
+    
+    // Dispatch storage event for cross-tab sync
+    window.dispatchEvent(new StorageEvent('storage', {
+      key: 'theme',
+      newValue: newTheme
+    }));
+  };
 
   const toggleMobileMenu = () => {
     setMobileMenuOpen(!mobileMenuOpen);
@@ -294,18 +408,32 @@ const CustomHeader = () => {
     <>
       <style>{headerStyles}</style>
       <div className="custom-page-header">
-        <h1>E-Census Handbook</h1>
-        
         {/* Desktop Navigation */}
-        <div className="nav-links-and-search">
+        <div className={`nav-links-and-search ${showSearchBar ? 'with-search' : ''}`}>
           <div className="nav-links">
             {navigationLinks.map((link, index) => (
               <Link key={index} to={link.to}>{link.label}</Link>
             ))}
-          </div>
-          {showSearchBar && (
+                    </div>
+          {showSearchBar ? (
             <div className="search-bar-container">
               <SearchBar />
+            </div>
+          ) : (
+            <div className="homepage-filler search-position">
+              <span className="africa-icon">🌍</span>
+              <span className="homepage-tagline">Digital Census Guide for Africa</span>
+            </div>
+          )}
+          {showThemeToggle && (
+            <div className="theme-toggle-container">
+              <button 
+                className="dark-mode-toggle"
+                onClick={toggleColorMode}
+                title={`Switch to ${colorMode === 'dark' ? 'light' : 'dark'} mode`}
+              >
+                {colorMode === 'dark' ? '☀️' : '🌙'}
+              </button>
             </div>
           )}
         </div>
@@ -355,9 +483,25 @@ const CustomHeader = () => {
               )}
             </div>
           ))}
-          {showSearchBar && (
+          {showSearchBar ? (
             <div className="search-bar-container">
               <SearchBar />
+            </div>
+          ) : (
+            <div className="homepage-filler mobile">
+              <span className="africa-icon">🌍</span>
+              <span className="homepage-tagline">Digital Census Guide for Africa</span>
+            </div>
+          )}
+          {showThemeToggle && (
+            <div className="theme-toggle-container">
+              <button 
+                className="dark-mode-toggle mobile"
+                onClick={toggleColorMode}
+                title={`Switch to ${colorMode === 'dark' ? 'light' : 'dark'} mode`}
+              >
+                {colorMode === 'dark' ? '☀️ Light Mode' : '🌙 Dark Mode'}
+              </button>
             </div>
           )}
         </div>
