@@ -132,12 +132,9 @@ const HomePage = () => (
             Based on Experiences and Lessons from the 2020 Round of Population
             and Housing Censuses
           </p>
-          <button
-            className={styles.heroButton}
-            onClick={() => (window.location.href = "#feature-blocks")}
-          >
+          <Link to="/docs/about-us" className={styles.heroButton}>
             About Us
-          </button>
+          </Link>
         </div>
         <div className={styles.heroImage}>
           <img
