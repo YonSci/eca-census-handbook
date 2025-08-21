@@ -136,7 +136,7 @@ const HomePage = () => (
             className={styles.heroButton}
             onClick={() => (window.location.href = "#feature-blocks")}
           >
-            Explore Features
+            About Us
           </button>
         </div>
         <div className={styles.heroImage}>
