@@ -3,7 +3,8 @@ sidebar_position: 1
 hide_title: true
 ---
 
-[back to Handbook Chapter 9](/docs/experiences-lessons-2020/Chapter-09/Introduction)
+[back to Handbook Chapter 9](/docs/experiences-lessons-2020/Chapter-09/Selected-Country-Experiences)
+
 
 **Zambia**
 
@@ -55,4 +56,5 @@ After enumeration, the monitors prepared reports which were presented to the KNB
 
 Additionally, as part of quality assurance, supervisor module was included in the CAPI application in which the supervisors were able to select a few households randomly, conduct re-interview and generate a report. Any variations were addressed by the enumerators in discussion with the supervisors. A team of coordinators drawn from the various census committees were also deployed to undertake monitoring and observations of the enumeration process.
 
-[back to Handbook Chapter 9](/docs/experiences-lessons-2020/Chapter-09/Introduction)
+[back to Handbook Chapter 9](/docs/experiences-lessons-2020/Chapter-09/Selected-Country-Experiences)
+

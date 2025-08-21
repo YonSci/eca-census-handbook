@@ -4,7 +4,7 @@ hide_title: true
 ---
 
 
-[back to Handbook Chapter 1](/docs/experiences-lessons-2020/Chapter-01/Introduction)
+[back to Handbook Chapter 1](/docs/experiences-lessons-2020/Chapter-01/Selected-Country-Experiences)
 
 **Kenya** began its census planning in 2015, four years ahead of the 2019 census. The Kenya National Bureau of Statistics (KNBS) developed a comprehensive proposal covering all census phases, which underwent extensive revisions with input from experts and stakeholders. The finalized proposal was approved in 2017, followed by a cabinet memo and legal gazettement in 2018, providing constitutional and legal backing. Budgeting involved subject matter specialists drafting individual budgets, which were consolidated and refined through stakeholder consultations before cabinet approval. Implementation was coordinated through various committees, including the National Census Steering Committee and County Census Committees, with roles and responsibilities clearly defined in legal notices and circulars.
 
@@ -91,4 +91,4 @@ Census Communication, Publicity and Advocacy Committee was established to inform
 
 Outsourcing technical support was done and consultancy support was provided by UNFPA/World Bank/ UNECA. Technical backstopping was in the fields of census organization, census desk top review, census quality control and evaluation, census communication/operational control, electronic programming of questionnaire/analysis (mapping/listing of localities, data processing/ data base management and data analysis/ dissemination.)
 
-[back to Handbook Chapter 1](/docs/experiences-lessons-2020/Chapter-01/Introduction)
+[back to Handbook Chapter 1](/docs/experiences-lessons-2020/Chapter-01/Selected-Country-Experiences)

@@ -3,7 +3,8 @@ sidebar_position: 1
 hide_title: true
 ---
 
-[back to Handbook Chapter 8](/docs/experiences-lessons-2020/Chapter-08/Introduction)
+[back to Handbook Chapter 8](/docs/experiences-lessons-2020/Chapter-08/Selected-Country-Experiences)
+
 
 
 **Kenya**
@@ -65,4 +66,5 @@ Materials and equipment transported includes the
 - The training materials such as census manuals, power banks, plastic bags, brochures, notebooks, identification badges, chalk, pens and cards (for building enumeration, callback, and travellers’ cards).
 
 
-[back to Handbook Chapter 8](/docs/experiences-lessons-2020/Chapter-08/Introduction)
+[back to Handbook Chapter 8](/docs/experiences-lessons-2020/Chapter-08/Selected-Country-Experiences)
+

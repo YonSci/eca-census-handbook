@@ -47,10 +47,9 @@ The recommendations are designed to be:
 
 ## Access Full Recommendations
 
-**[View Detailed Recommendations →](/docs/recommendations/ch1)**
+**[View Detailed Recommendations →](/docs/recommendations/Chapter-01/Recommendations.md)**
+
 
 Navigate through the comprehensive set of recommendations that will help guide your digital census planning and implementation process.
 
 ---
-
-*These recommendations represent collective wisdom from multiple African countries and international experts who have successfully implemented digital census operations.* 

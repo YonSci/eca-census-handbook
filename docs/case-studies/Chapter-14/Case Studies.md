@@ -3,7 +3,8 @@ sidebar_position: 1
 hide_title: true
 ---
 
-[back to Handbook Chapter 14](/docs/experiences-lessons-2020/Chapter-14/Introduction)
+[back to Handbook Chapter 14](/docs/experiences-lessons-2020/Chapter-14/Selected-Country-Experiences)
+
 
 
 **Rwanda** 
@@ -68,4 +69,5 @@ The data collected from households by survey agents is transferred to the team l
 The web system interface consists of two parts: one displaying the main census data (left) and the other displaying EPC data (right). These parts allow the operator to navigate easily, display only matched or unmatched households by category, and generate a summary table with omission and coverage rates by enumeration zone at the end of the matching process.
 
 
-[back to Handbook Chapter 14](/docs/experiences-lessons-2020/Chapter-14/Introduction)
+[back to Handbook Chapter 14](/docs/experiences-lessons-2020/Chapter-14/Selected-Country-Experiences)
+

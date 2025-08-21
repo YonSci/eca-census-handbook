@@ -3,7 +3,8 @@ sidebar_position: 1
 hide_title: true
 ---
 
-[back to Handbook Chapter 4](/docs/experiences-lessons-2020/Chapter-04/Introduction)
+[back to Handbook Chapter 4](/docs/experiences-lessons-2020/Chapter-04/Selected-Country-Experiences)
+
 
 **Kenya**
 
@@ -49,4 +50,5 @@ Statistics Botswana used fort iGATE firewall as the first layer of security to p
 
 Overall, the 2022 PHC had four end users with authorized access to tablets, laptops, and desktops. In addition, each IT personnel used their Passwords to log in to the servers.
 
-[back to Handbook Chapter 4](/docs/experiences-lessons-2020/Chapter-04/Introduction)
+[back to Handbook Chapter 4](/docs/experiences-lessons-2020/Chapter-04/Selected-Country-Experiences)
+

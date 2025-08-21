@@ -3,7 +3,8 @@ sidebar_position: 1
 hide_title: true
 ---
 
-[back to Handbook Chapter 15](/docs/experiences-lessons-2020/Chapter-15/Introduction)
+[back to Handbook Chapter 15](/docs/experiences-lessons-2020/Chapter-15/Selected-Country-Experiences)
+
 
 **Burkina Faso**
 
@@ -53,4 +54,5 @@ The household points from the cartographic survey were combined with the adminis
 
 Population estimates for the whole of Ethiopia were produced, and work is now taking place to validate and refine these estimates so that they can be published by ESS.
 
-[back to Handbook Chapter 15](/docs/experiences-lessons-2020/Chapter-15/Introduction)
+[back to Handbook Chapter 15](/docs/experiences-lessons-2020/Chapter-15/Selected-Country-Experiences)
+

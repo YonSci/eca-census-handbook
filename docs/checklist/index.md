@@ -8,6 +8,15 @@ title: Digital Census Planning Checklist
 
 This section provides a comprehensive planning checklist designed to guide countries through the complex process of planning and implementing a digital population and housing census. The checklist ensures that all critical aspects are considered and properly planned.
 
+## Benefits of Using This Checklist
+
+- **Comprehensive Coverage** - Ensures no critical elements are overlooked
+- **Proven Framework** - Based on successful implementations across Africa
+- **Flexible Application** - Adaptable to different country contexts and scales
+- **Quality Assurance** - Built-in quality gates and validation points
+- **Risk Mitigation** - Helps identify and address potential issues early
+
+
 ## What's Included
 
 ### ✅ **Comprehensive Planning Framework**
@@ -64,12 +73,5 @@ Get access to the comprehensive planning checklist that will guide you through e
 
 ---
 
-## Benefits of Using This Checklist
 
-- **Comprehensive Coverage** - Ensures no critical elements are overlooked
-- **Proven Framework** - Based on successful implementations across Africa
-- **Flexible Application** - Adaptable to different country contexts and scales
-- **Quality Assurance** - Built-in quality gates and validation points
-- **Risk Mitigation** - Helps identify and address potential issues early
 
-*This checklist has been developed based on extensive analysis of census implementations across Africa and incorporates international best practices and standards.* 

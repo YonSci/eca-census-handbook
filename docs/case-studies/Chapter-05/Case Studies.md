@@ -3,7 +3,8 @@ sidebar_position: 1
 hide_title: true
 ---
 
-[back to Handbook Chapter 5](/docs/experiences-lessons-2020/Chapter-05/Introduction)
+[back to Handbook Chapter 5](/docs/experiences-lessons-2020/Chapter-05/Selected-Country-Experiences)
+
 
 
 **Kenya**
@@ -41,4 +42,5 @@ Namibia conducted the Census Pilot Enumeration in September to October 2021 that
 The sampling design was purposive and included: special populations such as the Nomadic people in Opuwo that are based in Kunene region and Tsumkwe, holiday homes in Walvis/Swakop (coastal areas of Namibia); EAs in: commercial farms, resettlement farms, gated communities, communal settlements and urban (high class society, middle Class, low / informal).
 
 
-[back to Handbook Chapter 5](/docs/experiences-lessons-2020/Chapter-05/Introduction)
+[back to Handbook Chapter 5](/docs/experiences-lessons-2020/Chapter-05/Selected-Country-Experiences)
+

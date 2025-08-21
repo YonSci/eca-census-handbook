@@ -3,7 +3,7 @@ sidebar_position: 1
 hide_title: true
 ---
 
-[back to Handbook Chapter 3](/docs/experiences-lessons-2020/Chapter-03/Introduction)
+[back to Handbook Chapter 3](/docs/experiences-lessons-2020/Chapter-03/Selected-Country-Experiences)
 
 
 The country practices outlined below in as much as possible followed the principles and recommendations for development of a digital census questionnaire. The US Census Bureau provided support to some countries to develop the electronic data collection application.
@@ -71,4 +71,4 @@ Three questionnaires were developed for the Namibia census including the main ce
 
 Development of the questionnaires was done internally by the NSO in collaboration with the US Census Bureau to support development of the electronic data collection application. Statisticians developed paper questionnaire including edit specifications (detailing the skip patterns and validations) which were used during the application development. Another team comprising Statisticians, Cartographers, Developers and Data entry supervisors were responsible for testing and documenting the test results after a scheduled system test.
 
-[back to Handbook Chapter 3](/docs/experiences-lessons-2020/Chapter-03/Introduction)
+[back to Handbook Chapter 3](/docs/experiences-lessons-2020/Chapter-03/Selected-Country-Experiences)

@@ -3,7 +3,8 @@ sidebar_position: 1
 hide_title: true
 ---
 
-[back to Handbook Chapter 12](/docs/experiences-lessons-2020/Chapter-12/Introduction)
+[back to Handbook Chapter 12](/docs/experiences-lessons-2020/Chapter-12/Selected-Country-Experiences)
+
 
 **Statistics Sierra Leone**
 
@@ -78,4 +79,5 @@ Publicity and advocacy activities that were undertaken included:
 - A **web portal** was also procured and developed by the publicity firm. A generic email signature, with the Census theme and slogan, was developed and used in all KNBS emails.
 
 
-[back to Handbook Chapter 12](/docs/experiences-lessons-2020/Chapter-12/Introduction)
+[back to Handbook Chapter 12](/docs/experiences-lessons-2020/Chapter-12/Selected-Country-Experiences)
+

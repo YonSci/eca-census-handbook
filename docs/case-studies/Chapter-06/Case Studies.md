@@ -3,7 +3,8 @@ sidebar_position: 1
 hide_title: true
 ---
 
-[back to Handbook Chapter 6](/docs/experiences-lessons-2020/Chapter-06/Introduction)
+[back to Handbook Chapter 6](/docs/experiences-lessons-2020/Chapter-06/Selected-Country-Experiences)
+
 
 **Tanzania and Zanzibar**
 
@@ -103,4 +104,5 @@ Operational phase:
 
 *   **Chasing for Completion:** Despite the requirement to complete the training within a specific timeframe being clearly outlined during recruitment and onboarding, efforts were still required from both the supplier and LMS to ensure completion. In some cases, extensions needed to be granted, requiring operational teams to work additional hours to accommodate the extended period. Future improvements could include allowing more time for completion to ease the pressure on both learners and staff.
 
-[back to Handbook Chapter 6](/docs/experiences-lessons-2020/Chapter-06/Introduction)
+[back to Handbook Chapter 6](/docs/experiences-lessons-2020/Chapter-06/Selected-Country-Experiences)
+
