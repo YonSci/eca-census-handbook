@@ -30,10 +30,10 @@ Digital cartographic mapping involves the use of digital technology for:
 Census Planning
 - Integration of enumerators’ area of assignment allocation and codes as attributes of EA maps for Tablets Provisioning and Enumerators profiling
 - Logistics planning: Transportation and Internet connectivity.
-- Planning for the enumeration of ‘hard -to- reach’, special and ‘high fenced’ population
-- Provisioning of Census Enumeration dashboard for total coverage, data validation and qQuality management
+- Planning for the enumeration of ‘hard-to-reach’, special and ‘high fenced’ population
+- Provisioning of Census Enumeration dashboard for total coverage, data validation and quality management
 
 Census Data Dissemination
 - Production of georeferenced population data
-- Thematic Maps and chloropleths for georeferenced population data analysis
+- Thematic Maps and choropleths for georeferenced population data analysis
 
