@@ -28,7 +28,7 @@ Data transmission methods include:
 
 - Bluetooth transfer: Enabling data transfer between enumerator devices and supervisor devices, particularly in areas with limited connectivity.
 
-Ensuring secure and efficient data transmission requires robust infrastructure and protocols. Encryption should be used to protect data during transmission, and access controls should be implemented to prevent unauthorized access. Supervisors play a key role in verifying data quality before it is uploaded, ensuring that any errors or inconsistencies are addressed promptly.
+Ensuring secure and efficient data transmission requires robust infrastructure and protocols. Encryption should be used to protect data during transmission, and access controls should be implemented to prevent unauthorised access. Supervisors play a key role in verifying data quality before it is uploaded, ensuring that any errors or inconsistencies are addressed promptly.
 
 ### Data Management
 
