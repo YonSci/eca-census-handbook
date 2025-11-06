@@ -5,16 +5,16 @@ hide_title: true
 
 ## Introduction
 
-Carrying out census field enumeration will require many personnel who cannot be raised from the NSO employees alone. Thousands of people will have to be engaged for a short period of time, in various roles such as enumerators, supervisors, and IT support staff. These short-term staff may have limited experience in statistical operations. Therefore, it is crucial that sufficient training is undertaken so that all personnel fully understand their duties; how their efforts fit into overall census goals; and their obligations with regards to confidentiality, security and accuracy of data.
+Carrying out census field enumeration will require many personnel who cannot be raised from the National Statistics Office (NSO) employees alone. Thousands of people will have to be engaged for a short period of time, in various roles such as enumerators, supervisors, and IT support staff. These short-term staff may have limited experience in statistical operations. Therefore, it is crucial that sufficient training is undertaken so that all personnel fully understand their duties, how their efforts fit into overall census goals, and their obligations with regards to confidentiality, security and accuracy of data. 
 
 ### Recruitment and training of field staff during the non-digital vs digital era
 
-In a digital census additional personnel will be required to handle the ICT component. This will include a team to undertake data quality checks, and a team to provide IT support to the supervisors and enumerators including trouble shooting of both hardware and software IT issues.
+In a digital census, additional personnel will be required to handle the Information and Communications Technology (ICT)component. This will include a team to undertake data quality checks, and a team to provide Information and Technology (IT) support to the supervisors and enumerators including trouble shooting of both hardware and software IT issues.
 
 The effective use of digital tools in a census necessitates a workforce of IT-literate enumerators. Enumerators must possess a range of digital skills, including:
 
 *   Proficiency in using tablets or other data collection devices.
-*   Navigating data collection applications (CAPI).
+*   •	Navigating data collection applications (Computer-Assisted Personal Interviewing (CAPI)).
 *   Understanding data security protocols.
 *   Basic troubleshooting.
 
@@ -24,7 +24,7 @@ Comprehensive training programs are essential to equip enumerators with these sk
 *   Ensuring accurate and complete data capture.
 *   Adhering to data collection protocols and standards
 
-Whilst it can be challenging to recruit sufficient numbers of field staff with good IT skills, supervisors should be IT literate and enumerators should at least have experience of using smartphones.  Training will differ from a non-digital census in that additional efforts will be required to train the census personnel on using the CAPI application. This may include basic IT skills, security of the device and data held within, navigation and use of the various tablet/phone applications and digital map reading. It is therefore essential that the training is planned to incorporate practical sessions on use of the CAPI devices.
+Whilst it can be challenging to recruit sufficient numbers of field staff with good IT skills, supervisors should be IT literate and enumerators should at least have experience of using smartphones. Training will differ from a non-digital census in that additional efforts will be required to train the census personnel on using the CAPI application. This may include basic IT skills, security of the device and data held within, navigation and use of the various tablet/phone applications and digital map reading. It is therefore essential that training is planned to incorporate practical sessions on the use of the CAPI devices.
 
 An automated e-recruitment system may be used for recruitment of enumerators and other temporary staff, for example enabling candidates to apply, carry out initial sifting and complete tests online (see **Botswana** for an example of carrying out online recruitment tests). Essential information such as identification numbers and banking details can also be collected via the e-recruitment system.
 
@@ -32,13 +32,13 @@ Adequate testing and piloting of the e-recruitment approach should be carried ou
 
 *   Capacity of the ICT infrastructure to handle millions of applications, with peaks expected to occur as deadlines approach
 *   Nationwide network coverage
-*   Experience in using and ability to access the e-recruitment system
+*   Experience in using, and ability to access the e-recruitment system
 *   How to recruit in areas that lack network coverage
 *   How to provide adequate information about the recruitment campaign in all areas of the country
 
 The main advantage of using e-recruitment is the time saved. For example, if tests are automatically graded, the results can be shown instantly after finishing the assessment. Experience from countries using e-recruitment shows that setting up an online assessment for 1,000 people took almost the same amount of effort as to set up a manual assessment for ten people. There are also reduced costs relating to printing of test papers as well as costs for purchasing printing paper, toner, time taken to print, manpower/resource personnel, binding etc. The assessments are more secure and there are less exam malpractices because there were fewer chances of leaks since there were no physical papers that can go missing during the printing and logistics processes. See **Tanzania** for a comprehensive example of a successful implementation of an e-recruitment system.
 
-Training can be carried out online or in a hybrid fashion with a mixture of online and in-person training sessions. Countries who carried out their training during the covid pandemic often found innovative ways of carrying out more online training. Depending on how online training is delivered, this can have advantages in that the same training can be delivered to many people at the same time improving consistency and reducing costs. However, online training may not be perceived as being as thorough as face-to-face training, and it is important to ensure that the quality of the training is maintained. Note that there is a difference between **_online virtual training_** which is similar to teacher led classroom training but delivered over Zoom or a similar online platform, and **_e-learning_** whereby students self-study pre-prepared modules. Most African countries used online virtual training but had issues with engagement and assessment using this mode. However, see **England and Wales**  for an example of  e-learning which could be applied as part of a hybrid training model in the African context for delivery of standard training modules which could be completed prior to the commencement of face-to-face classroom training.
+Training can be carried out online or in a hybrid fashion with a mixture of online and in-person training sessions. Countries who carried out their training during the COVID-19 pandemic often found innovative ways of carrying out more online training. Depending on how online training is delivered, this can have advantages in that the same training can be delivered to many people at the same time, improving consistency and reducing costs. However, online training may not be perceived as being as thorough as face-to-face training, and it is important to ensure that the quality of the training is maintained. Note that there is a difference between **_online virtual training_** which is similar to teacher-led classroom training but delivered over Zoom or a similar online platform, and **_e-learning_** whereby students self-study pre-prepared modules. Most African countries used online virtual training but had issues with engagement and assessment using this mode. However, see **England and Wales**  for an example of e-learning which could be applied as part of a hybrid training model in the African context for delivery of standard training modules which could be completed prior to the commencement of face-to-face classroom training.
 
 ### Considerations for recruitment and training of field staff for a digital census
 
