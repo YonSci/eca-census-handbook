@@ -15,13 +15,13 @@ National Statistics Offices (NSOs) across Africa may face greater challenges in 
 
 **Cartographic mapping during the non-digital vs digital era**
 
-In the non-digital era, all the above activities were manually done on paper and were prone to human error and produced bulky papers for field teams to carry around.[\[RD1\]](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/chapter2_to_upload.docx#_msocom_1)  This approach limits the ability to explore location data throughout the design and implementation of the census, including in dissemination, but it also limits the usefulness of collection data as this cannot be integrated with the geospatial. The time needed to standardize, print and distribute paper-based maps is very resource intensive, both in time and money, and it reduces the re-usability of cartographic assets for other statistical and operational activities carried out by the NSO.
+In the non-digital era, all the above activities were manually done on paper and were prone to human error and produced bulky papers for field teams to carry around. [\[RD1\]](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/chapter2_to_upload.docx#_msocom_1)  This approach limits the ability to explore location data throughout the design and implementation of the census, including in dissemination, but it also limits the usefulness of collected data as this cannot be easily georeferenced. The time needed to standardise, print and distribute paper-based maps is very resource intensive, both in time and money, and it reduces the re-usability of cartographic assets for other statistical and operational activities carried out by the NSO.
 
-Digital cartographic mapping has a wide range of benefits including better quality products, reduced costs, and reduced time for development of EA maps, increased accuracy, and improved consistency etc. _(Handbook on geographic information systems and digital mapping, pg. 10-13)._
+Digital cartographic mapping has a wide range of benefits including better quality products, reduced costs time for development of EA maps, increased accuracy, and improved consistency etc. [(UNSD, Handbook on geographic information systems and digital mapping, p. 10-13)](https://unstats.un.org/unsd/publication/seriesf/seriesf_79e.pdf).
 
 Digital cartographic mapping involves the use of digital technology for:
 
-*   map production which includes overlaying of spatial data collected in the field on satellite imageries/aerial photos, digitization of EA boundaries, preparation of EA maps
+*   map production which includes overlaying of spatial data collected in the field on satellite imageries/aerial photos, digitisation of EA boundaries, preparation of EA maps
 *   EA map verification and quality assurance of EA delineation through either high-resolution satellite imagery or field operations by cartographers
 *   collecting spatial data (GPS coordinates for structures, households, features such as schools, hospitals, churches, etc.) from the field to be used in delineation of EAs
 *   Integration of cartographic mapping and EA boundaries into digital mobile devices used by enumerators during the census collection operation
