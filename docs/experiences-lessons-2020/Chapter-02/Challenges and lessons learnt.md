@@ -19,7 +19,7 @@ hide_title: true
 - There was a lack of sufficient computer machines with adequate processing capacity.
 - In most cases, the map production process started late causing delays in concluding the mapping phase. 
 - New administrative units may come up after mapping and these interfere with the geo-file, several points of interest were missed out by the mapping assistants therefore not reflecting the actual picture on the ground.
-- •	Insufficient communication given to the community leaders during sensitisation led to having absent Chiefs and Assistant Chiefs that made verification of their area maps difficult because the team had to make alternative arrangements to use other people or come back later.
+- Insufficient communication given to the community leaders during sensitisation led to having absent Chiefs and Assistant Chiefs that made verification of their area maps difficult because the team had to make alternative arrangements to use other people or come back later.
 - Allowances for some levels of NGAOs were not factored in the census payment guidelines and rates therefore created a challenge on how to compensate them when they attended the verification meetings. This calls for comprehensive planning and budgeting along the mapping business process.
 - Politics and insecurity can affect map verification: political and partisan interests on the ground tended to interfere with the workflow. Insecurity in some areas led to the team requiring special security arrangements that necessitated rescheduling of the programme.
 - Illiterate administrators in some areas made interpretation of the map and geo-file difficult.
