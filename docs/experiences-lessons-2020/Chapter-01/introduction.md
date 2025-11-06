@@ -45,5 +45,5 @@ During planning for each phase of a digital census, the following issues should 
 *   In establishing **implementation committees**, the following considerations should be made:
   *   The committees should have clear responsibilities and roles of providing advice on strategic or technical issues and will not only be involved in the planning and preparatory phases but also in the operational phases.
   *   The membership should have sufficient technical expertise and understanding of digital technologies to inform technological decisions.
-  *     They should be created early enough to provide advice at the relevant time.
+  *   They should be created early enough to provide advice at the relevant time.
   *   As well as national committees, consideration should be given to regional committees which could assist with implementation activities and utilizing local knowledge and networks.
