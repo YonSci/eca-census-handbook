@@ -5,9 +5,13 @@ hide_title: true
 
 ## References
 
-1.  UN Principles and Recommendations for population and housing Census. Revision  4. [https://unstats.un.org/UNSDWebsite/statcom/session\_56/documents/BG-3b-Draft\_P&R\_4th\_Rev-E.pdf](https://unstats.un.org/UNSDWebsite/statcom/session_56/documents/BG-3b-Draft_P&R_4th_Rev-E.pdf)
+1.	United Nations. (2025). Principles and Recommendations for Population and Housing Census. Revision 4. Available at: https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf
 
-2.  UNSD. Guidelines on the use of electronic data collection technologies in population and housing censuses. [https://unstats.un.org/unsd/demographic/standmeth/handbooks/guideline-edct-census-v1.pdf](https://unstats.un.org/unsd/demographic/standmeth/handbooks/guideline-edct-census-v1.pdf)
+2.	United Nations Statistics Division. Guidelines on the Use of Electronic Data Collection Technologies in Population and Housing Censuses. Available at: https://unstats.un.org/unsd/demographic/standmeth/handbooks/guideline-edct-census-v1.pdf
 
+3.	United States Census Bureau. (2021). Evaluating a Pilot Electronic Census. Select Topics in International Censuses. Available at: https://www.census.gov/programs-surveys/international-programs/events/training/select-topics-in-international-censuses/planning/evaluating-a-pilot-electronic-census.html 
 
-3.  International Programs in the U.S. Census Bureau’s Population Division. The United States Agency for International Development, United Nations Population Fund. Released November 2021. Evaluating a Pilot Electronic Census. Select Topics in International Censuses.
+4.	United States Census Bureau. (2024). Tool for Assessing Pilot Electronic Censuses (TAPEC). Available at: https://www.census.gov/data/software/tapec.html
+
+5.	United States Census Bureau. (2021). Evaluating a Pilot Electronic Census. Available at: https://www.census.gov/programs-surveys/international-programs/events/training/select-topics-in-international-censuses/planning/evaluating-a-pilot-electronic-census.html 
+ 
