@@ -12,7 +12,7 @@ hide_title: true
 
 **Gambia** Bureau of Statistics (GBoS) also leverage partnerships to address its challenge of lack of a designated communication and publicity unit. by engaging with the National Population Commission for effective census [communication and publicity](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter11%20Partnerships%20and%20collaboration-to%20upload.docx#_Selected_country_experiences).
 
-**Kenya** and **Tanzania** leveraged partnerships and collaboration for effective logistics management. See chapter on [enumeration and logistics](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter11%20Partnerships%20and%20collaboration-to%20upload.docx#_Enumeration_and_Logistics)
+**Kenya** and **Tanzania** leveraged partnerships and collaboration for effective logistics management. See chapter on [enumeration and logistics](/docs/experiences-lessons-2020/Chapter-08/Introduction)
 
 **Tanzania** contracted experts from the universities to write monographs, through this partnership staff from NBS and OCGS and interns from universities built their skills and capacity. Several countries partnered in the development of census products and there were clear stakeholder roles based on their comparative advantage. The roles and responsibilities were clear at the [planning stage](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter11%20Partnerships%20and%20collaboration-to%20upload.docx#_2.1%EF%BF%BCDevelopment_of_the) such as:
 
