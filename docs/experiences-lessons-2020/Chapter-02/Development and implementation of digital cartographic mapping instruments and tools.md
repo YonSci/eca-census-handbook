@@ -23,14 +23,13 @@ Prioritisation of the most important cartographic features is important for ensu
 
 Pilot mapping is recommended to test the preparedness of the NSO to undertake the main cartographic mapping process. The aim is to test the validity and reliability of methodology, tools, and equipment to be used in the main cartographic mapping process. The findings from the pilot will inform the finalisation of tools, instruments, and methodology. The pilot mapping process entails testing the suitability of the tools, logistical arrangements, assessment of the workload, providing a basis for NSOs to mobilise resources and plan for an effective implementation of the process to ensure acquisition of high quality data sets. 
 
-While planning for a digital cartographic mapping pilot, it is important to consider the terrain, type of settlement patterns (urban, rural, hard-to-reach, arid and semi-arid lands) to enable effective testing of processes. 
- See also [Census Testing and Pilots](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/chapter2_to_upload.docx#_CHAPTER_SIX:_Census).
+While planning for a digital cartographic mapping pilot, it is important to consider the terrain, type of settlement patterns (urban, rural, hard to reach, arid and semi-arid lands) to enable effective testing of processes. See also [Census Testing and Pilots](/docs/experiences-lessons-2020/Chapter-05/Introduction).
 
 Using base maps or cartographic resources already available can assist this process. Working with geospatial authorities in the country to adopt best practice for tools and methods can also help with reducing the cost of pilot and field operation activities while not compromising on the quality. Where newer technologies and resources are being integrated into cartographic activities, such as the use of satellite imagery, pilot mapping should include some testing of the quality of outputs and if these meet assumptions regarding the production of EAs and other geospatial content.
 
 **Publicity and advocacy for cartographic mapping**
 
-Publicity and advocacy for cartographic mapping is done to create awareness of the activity and seek support for the main cartographic mapping and census enumeration. During publicity NSOs seek collaboration, support, involvement, and ownership of the grassroot stakeholders and local leadership. The roles and responsibilities of all the stakeholders are also established. See also [Advocacy, Publicity and Resource Mobilisation](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/chapter2_to_upload.docx#_CHAPTER_ELEVEN:_Post-Enumeration).
+Publicity and advocacy for cartographic mapping is done to create awareness of the activity and seek support for the main cartographic mapping and census enumeration. During publicity NSOs seek collaboration, support, involvement, and ownership of the grassroot stakeholders and local leadership. The roles and responsibilities of all the stakeholders are also established. See also [Advocacy, Publicity and Resource Mobilization](/docs/experiences-lessons-2020/Chapter-12/Introduction).
 
 **Field data collection for cartographic mapping**
 
@@ -58,4 +57,4 @@ Delineation of EAs should consider the distance, number of households or populat
 
 **EA Map verification**
 
-EA map verification is the process of undertaking field verification of the boundaries of the created EAs by the local administration before the maps are finalised for census enumeration. At the end of the delineation process, it is necessary to assess the accuracy of the maps, completeness of the mapping, household size and to verify EA boundaries. EA map verification is therefore aimed at reducing the EA boundary errors before the maps can be used. The verification process provides an opportunity to review, inspect, check, audit, establish and document whether EA maps reflect the actual situation on the ground. 
+EA map verification is the process of undertaking field verification of the boundaries of the created EAs by the local administration before the maps are finalized for census enumeration. At the end of the delineation process, it is necessary to assess the accuracy of the maps, completeness of the mapping, household size and to verify EA boundaries. EA map verification is therefore aimed at reducing the EA boundary errors before the maps can be used. The verification process provides an opportunity to review, inspect, check, audit, establish and document whether EA maps reflected the actual situation on the ground.
