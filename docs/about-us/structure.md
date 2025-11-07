@@ -6,7 +6,7 @@ hide_title: true
 
 ## Structure
 
-This e-census handbook has chapters structured along the Census business model including a checklist to guide the planning process. The full list of the chapters is as indicated below. 
+This e-census handbook has chapters structured along the Census business model including a checklist to guide the planning process. The full list of the chapters is as indicated below:
 
 1.	[Project Planning and Management](/docs/experiences-lessons-2020/Chapter-01/Introduction)
 2.	[Geospatial Mapping and EA Database Management](/docs/experiences-lessons-2020/Chapter-02/Introduction)
@@ -19,22 +19,21 @@ This e-census handbook has chapters structured along the Census business model i
 9.	[Quality Assurance, Monitoring, Evaluation and Risk Management](/docs/experiences-lessons-2020/Chapter-09/Introduction)
 10.	[Census Analysis, Products, Dissemination and Archiving](/docs/experiences-lessons-2020/Chapter-10/Introduction)
 11.	[Partnerships and Collaboration](/docs/experiences-lessons-2020/Chapter-11/Introduction)
-12.	[Advocacy, Publicity and Resource Mobilization](/docs/experiences-lessons-2020/Chapter-12/Introduction)
+12.	[Advocacy, Publicity and Resource Mobilisation](/docs/experiences-lessons-2020/Chapter-12/Introduction)
 13.	[Procurement and Financial Management](/docs/experiences-lessons-2020/Chapter-13/Introduction) 
 14.	[Post-Enumeration Survey](/docs/experiences-lessons-2020/Chapter-14/Introduction.md)
 15.	[Alternative Approaches](/docs/experiences-lessons-2020/Chapter-15/Introduction)
 16.	[Checklist for Planning a Digital Population and Housing Census](/docs/experiences-lessons-2020/Chapter-16/Introduction)
 
 
-You can easily navigate to any chapter by clicking on Experiences and Lessons  in the bar at the top of the page, and then clicking on any chapter in the menu on the left-hand side of the page. Each chapter includes a summary of the relevant case studies, you can also find the full text of the case studies by clicking on the link within the chapter or clicking on Case Studies  in the bar at the top of the page. Recommendations  are included in each chapter, but can also be found in a separate section, again this can be easily found by clicking on the relevant link in the bar at the top of the page. The planning checklist can also be easily accessed by clicking on the Checklist  link.
+You can easily navigate to any chapter by clicking on ‘Experiences and Lessons’ in the bar at the top of the page and then clicking on any chapter in the menu on the left-hand side of the page. Each chapter includes a summary of the relevant case studies; you can also find the full text of the case studies by clicking on the link within the chapter or clicking on ‘Case Studies’ in the bar at the top of the page. Recommendations are included in each chapter, but can also be found in a separate section, again this can be easily found by clicking on the relevant link in the bar at the top of the page. The planning checklist can also be easily accessed by clicking on the ‘Checklist’ link.
 
-
-Also found in the bar at the top of the page is a search bar, type a word or phrase here and you will be presented with a list of all the places in the E-Handbook where that occurs.
+Also found in the bar at the top of the page is a search bar - type a word or phrase here, and you will be presented with a list of all the places in the e-handbook where that occurs.
 ![](/img/search-bar.png)
 
 
 
-Clicking on the chat icon <img src="/img/chat-bot.png" alt="chat bot icon" width="30" height="30"/>  in the bottom right corner of the page will open a chatbot that you can interrogate about the e-census handbook.
+Clicking on the chat icon <img src="/img/chat-bot.png" alt="chat bot icon" width="30" height="30"/>  in the bottom right corner of the page will open a chatbot that you can question about the e-census handbook.
 
 <img src="/img/chatbot-full.png" alt="chatbot interface" width="400"/> 
 

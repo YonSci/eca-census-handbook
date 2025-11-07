@@ -14,7 +14,7 @@ While essential, these partnerships come with their own risks and require carefu
 
 - Becoming overly dependent on a single private sector vendor for technology can lead to vendor lock-in.
 
-- Storing sensitive citizen data on foreign-owned cloud servers raises legal and security questions can jeopardize data sovereignty.
+- Storing sensitive citizen data on foreign-owned cloud servers raises legal and security questions can jeopardise data sovereignty. 
 
 - Different partners may have conflicting priorities or timelines that are misaligned with census goals.
 

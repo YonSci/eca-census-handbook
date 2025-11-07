@@ -15,17 +15,17 @@ Although financial management guidelines are developed to ease the process of ha
 
 - When making various payments to the census personnel, there were numerous cases of bank rejections due to dormant or inactive bank accounts coupled with inaccurate bank details.
 
-Although, procurement guidelines are developed to ease the process of handling the acquisition of census materials. Countries experience challenges that can disrupt work as such mechanisms should be put in place to ensure smooth operations. Procurement for goods, works and services for the 2019 KPHC presented some challenges despite the timely planning by the procurement sub-committee, from which lessons are drawn:
+Although procurement guidelines are developed to ease the process of handling the acquisition of census materials, countries experience challenges that can disrupt work. As such, mechanisms should be put in place to ensure smooth operations. Procurement for goods, works and services for the 2019 Kenya PHC presented some challenges despite the timely planning by the procurement sub-committee, from which lessons are drawn:
 
 - Lack of an in-country market survey to identify large scale production companies to allow for proper planning about whether to procure locally or internationally. If not done, this will cause delay in supplying some items due to the large quantities required yet the contracted suppliers had to import the materials
 
 - Emerging new procurement requirements that were not initially captured in the census procurement plan and budget may arise. For instance, during uploading of maps on mobile devices, those for urban areas failed thus reverted to printing which had not been planned for. There being inadequate printing machines, outsourcing of printing services had to be done instead of printing in-house as planned.
 
-Some of the challenges experienced included in Kenya and in some other African countries:
+Some of the challenges experienced including in Kenya and in some other African countries:
 
 - Census materials were procured on time, but some other materials were greatly delayed by the procurement process. This was because suppliers had to import almost everything and required several loads to be dispatched to the regions. 
 
-- Census materials were delivered in single small batches to the enumeration centers due to shortage of time at a very high cost. 
+- Census materials were delivered in single small batches to the enumeration centres due to shortage of time at a very high cost.  
 
 - The shortage of transport means for census materials due to gross under estimations in quantities and budget.
 

@@ -5,9 +5,11 @@ hide_title: true
 
 ## Compilation approach
 
-The checklist is grounded in the values of the UN P &R Rev 4 as well as the application of project management principles to each phase as an effective business practice. Adopted a project management approach based on the UN Handbook on census management-section II B 3: Developing project plans Para. 2.32 -2.70. Adopted a hierarchical framework to a census project starting with the broad census phases each showing the corresponding component activities and tasks while highlighting the key milestones as shown in figure 1.
+The checklist is grounded in the values of the UN P&R Rev 4 as well as the application of project management principles to each phase as an effective business practice. Adopted a project management approach based on the UN Handbook on the Management of PHCs, para. 2.32-2.70. Adopted a hierarchical framework to a census project starting with the broad census phases each showing the corresponding component activities and tasks while highlighting the key milestones as shown in Figure 1.
 
 **Figure 1: Hierarchical framework adopted to achieve a census project.**
+
+(IMAGE TO BE INSERTED FIGURE 1)
 
 The approach used to arrange the activities and tasks is in sync with the Generic Statistical Business Process Model (GSBPM) and a project approach in each phase. It therefore presents each phase (critical step) with its corresponding key activities and tasks from beginning to end and in chronology of achievement of census milestones (see annex table). Figure 2 shows the critical census steps as outlined in the UNFPA Step-By-Step reference guide (Gant Chart) and their alignment to the GSBPM and the three census phases.
 
