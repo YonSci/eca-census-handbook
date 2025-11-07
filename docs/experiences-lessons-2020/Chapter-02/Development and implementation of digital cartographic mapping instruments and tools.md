@@ -20,13 +20,13 @@ Prioritization of the most important cartographic features is important for ensu
 
 Pilot mapping is recommended to test the preparedness to undertake the main cartographic mapping process. The aim is to test the validity and reliability of methodology, tools, and equipment to be used in the main cartographic mapping process. The findings from the pilot inform the finalization of tools, instruments, and methodology. The pilot mapping process entails testing the suitability of the tools, logistical arrangements, assessing the workload, providing a basis for NSOs to mobilize resources and plan for an effective implementation of the process to ensure quality data is obtained.
 
-While planning for a digital cartographic mapping pilot, it is important to consider the terrain, type of settlement patterns (urban, rural, hard to reach, arid and semi-arid lands) to enable effective testing of processes. See also [Census Testing and Pilots](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/chapter2_to_upload.docx#_CHAPTER_SIX:_Census).
+While planning for a digital cartographic mapping pilot, it is important to consider the terrain, type of settlement patterns (urban, rural, hard to reach, arid and semi-arid lands) to enable effective testing of processes. See also [Census Testing and Pilots](/docs/experiences-lessons-2020/Chapter-05/Introduction).
 
 Using base maps or cartographic resources already available can assist this process. Working with geospatial authorities in the country to adopt best practice for tools and methods can also help with reducing the cost of pilot and field operation activities while not compromising on the quality. Where newer technologies and resources are being integrated into cartographic activities, such as the use of satellite imagery, pilot mapping should include some testing of the quality of outputs and if these meet assumptions regarding the production of EAs and other geospatial content.
 
 **Publicity and advocacy for cartographic mapping**
 
-Publicity and advocacy for cartographic mapping is done to create awareness of the activity and seek support for the main cartographic mapping and census enumeration. During publicity NSOs seek collaboration, support, involvement, and ownership of the grassroot stakeholders and local leadership. The roles and responsibilities of all the stakeholders are also established. See also [Advocacy, Publicity and Resource Mobilization](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/chapter2_to_upload.docx#_CHAPTER_ELEVEN:_Post-Enumeration).
+Publicity and advocacy for cartographic mapping is done to create awareness of the activity and seek support for the main cartographic mapping and census enumeration. During publicity NSOs seek collaboration, support, involvement, and ownership of the grassroot stakeholders and local leadership. The roles and responsibilities of all the stakeholders are also established. See also [Advocacy, Publicity and Resource Mobilization](/docs/experiences-lessons-2020/Chapter-12/Introduction).
 
 **Field data collection for cartographic mapping**
 
