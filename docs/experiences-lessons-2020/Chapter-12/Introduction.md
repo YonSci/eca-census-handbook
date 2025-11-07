@@ -11,21 +11,21 @@ Communication and publicity are key for the successful implementation of a popul
 
 - To promote public understanding of the significance of census data as a veritable tool for socio-economic planning.
 
-- To neutralize possible misconceptions, suspicion and tensions that could be generated while planning and conducting the census.
+- To neutralise possible misconceptions, suspicion and tensions that could be generated while planning and conducting the census.
 
 - To solicit the understanding and cooperation of the public in all census activities.
 
 - To solicit the support of all stakeholders, influential/pressure groups (e.g., women, youth groups, persons with disability groups) and civil society groups in the conduct of census enumeration.
 
-- To promote wider utilization of census products.
+- To promote wider utilisation of census products.
 
-The United Nations and other international organizations advocate for the census as a public good that contributes to improving people’s wellbeing and advocate for evidence-based policy making. Civil society organizations advocate for the data needs and awareness for specific population groups to ensure inclusiveness in the census.
+The United Nations and other international organisations advocate for the census as a public good that contributes to improving people’s wellbeing and advocate for evidence-based policy making. Civil society organisations (CSOs) advocate for the data needs and awareness for specific population groups to ensure inclusiveness in the census.
 
-Resource mobilization for a digital census may need to go beyond financial and personnel resources that are not available within the NSO, such as technology, data infrastructure, and cybersecurity.
+Resource mobilisation for a digital census may need to go beyond financial and personnel resources that are not available within the NSO, such as technology, data infrastructure, and cybersecurity.
 
-This chapter focuses on census advocacy, publicity and resource mobilization in the digital era.
+This chapter focuses on census advocacy, publicity and resource mobilisation in the digital era.
 
-### Comparison of advocacy, publicity and resource mobilization in the non-digital versus digital census era
+### Comparison of advocacy, publicity and resource mobilisation in the non-digital versus digital census era
 
 In the non-digital era, advocacy was about getting the "go-ahead" from the powerful. Success meant the Minister of Finance signed off on the budget. In the digital era, advocacy is about building a broad social contract. Success means citizens understand why the census is important and demand its successful completion. Digital tools allow advocacy to become a tool for accountability.
 
@@ -33,31 +33,31 @@ The biggest change in publicity is the move from a monologue to a dialogue using
 
 The non-digital census was seen as a massive, one-off operational expense. The digital census is increasingly viewed as an investment in national data infrastructure. In the digital era, the ability to solicit in-kind support is a game-changer that diversifies the resource base beyond the strained national budget.
 
-The digital census era has transformed advocacy, publicity, and resource mobilization from linear, top-down processes into dynamic, multi-stakeholder ecosystems. It has introduced new efficiencies and opportunities for engagement while also demanding new skills and vigilance against new risks.
+The digital census era has transformed advocacy, publicity, and resource mobilisation from linear, top-down processes into dynamic, multi-stakeholder ecosystems. It has introduced new efficiencies and opportunities for engagement while also demanding new skills and vigilance against new risks.
 
-### Considerations for advocacy, publicity and resource mobilization in a digital census
+### Considerations for advocacy, publicity and resource mobilisation in a digital census
 
 Some key considerations for advocacy in a digital census include:
 
-- Frame the census as the bedrock for all other national developments. For instance, Create targeted policy briefs for the Ministry of Finance showing the return on investment of good data. Develop presentations for sector ministries (Health, Education, Agriculture) demonstrating how census data will improve their own planning and efficiency.
+- Frame the census as the bedrock for all other national developments. For instance, create targeted policy briefs for the Ministry of Finance showing the return on investment of good data. Develop presentations for sector ministries (Health, Education, Agriculture) demonstrating how census data will improve their own planning and efficiency.
 
-- Emphasize efficiency, transparency, and speed in advocacy. For instance, advocate to finance ministries and anti-corruption bodies by highlighting how digital tools especially mobile money for paying enumerators create a transparent audit trail and reduce fraud. Emphasize that preliminary results can be available in weeks, not years, allowing for more timely, evidence-based policy.
+- Emphasise efficiency, transparency, and speed in advocacy. For instance, advocate to finance ministries and anti-corruption bodies by highlighting how digital tools especially mobile money for paying enumerators create a transparent audit trail and reduce fraud. Emphasise that preliminary results can be available in weeks, not years, allowing for more timely, evidence-based policy.
 
-- Frame the census as a flagship project in the national digital transformation strategy. This can build political pride and will, and align the project with broader national goals, making it harder to de-prioritize.
+- Frame the census as a flagship project in the national digital transformation strategy. This can build political pride and will, and align the project with broader national goals, making it harder to de-prioritise.
 
 - While traditional partners remain vital, a digital census requires a much broader coalition of support. Engage the technology and telecom sector early, empower civil society and the media as "Trust Brokers" from the beginning.
 
 - Redefine the role of international partners. Advocate for technical assistance in niche, high-skill areas like cybersecurity, data processing architecture, and geospatial analysis. Ask them to act as brokers for technology partnerships and to provide independent quality assurance, which boosts the credibility of the final data.
 
-- Advocacy must include a clear, simple, and public commitment to data security. This means advocating for a strong legal framework for data protection before the census begins. Publicly explain the anonymization and encryption measures being taken. This is non-negotiable for building public trust.
+- Advocacy must include a clear, simple, and public commitment to data security. This means advocating for a strong legal framework for data protection before the census begins. Publicly explain the anonymisation and encryption measures being taken. This is non-negotiable for building public trust.
 
 - The advocacy budget and plan must include a major component for upskilling the staff of the National Statistical Office (NSO). Advocate for investment in training on project management, device management, data science, and cybersecurity.
 
 - The advocacy strategy must clearly articulate the plan for offline data capture. Explain how enumerators will work offline for days and upload data later. Reassure stakeholders that traditional methods (community engagement, radio) will still be used for publicity in these areas, demonstrating a hybrid approach that leaves no one behind.
 
-- Use digital tools for digital advocacy, methods of advocacy must reflect the digital nature of the project itself to make the case. Build a real time advocacy channel
+- Use digital tools for digital advocacy, methods of advocacy must reflect the digital nature of the project itself to make the case. Build a real time advocacy channel.
 
-For census resource mobilization, consider the following and see UN P&R rev4 for further guidance on communication and publicity para 2.109 to 2.111. Resource mobilization should be rooted in seeking funding that is supported by a solid legal basis to ensure effective census operations especially when lobbying government support. Set up a resource mobilization committee in advance.
+For census resource mobilisation, consider the following and see [UN P&R, Rev 4, para. 2.109 to 2.111](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=107) for further guidance on communication and publicity. Resource mobilisation should be rooted in seeking funding that is supported by a solid legal basis to ensure effective census operations especially when lobbying government support. Set up a resource mobilisation committee in advance.
 
 The high cost of digital censuses necessitates creative approaches to resource mobilization to save costs. Consider collaborating with private sector firms, through public-private partnerships, especially technology and telecommunication companies that can provide access to expertise and resources. As demonstrated by the loan of tablets from South Africa to Eswatini, inter-country cooperation can lead to significant cost savings in procurement. Leveraging Donor Funding while striving for national ownership, strategic partnerships with international donors like the World Bank and UNFPA remain crucial for many African nations to cover funding gaps, especially for technology acquisition and technical assistance.
 
