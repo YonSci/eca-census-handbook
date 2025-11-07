@@ -22,7 +22,7 @@ hide_title: true
 
 8.    Statistics Canada. A Guide to Risk Management in a Census Context. May 2022
 
-9.    Guidelines for Independent Census Monitoring in Africa 2030 Round of Population and Housing Censuses[\[RS1\]](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter9_Quality_to_upload.docx#_msocom_1) 
+9.    Guidelines for Independent Census Monitoring in Africa 2030 Round of Population and Housing Censuses[\[RS1\]](/docs/experiences-lessons-2020/Chapter-09/Introduction) 
 
   
 
