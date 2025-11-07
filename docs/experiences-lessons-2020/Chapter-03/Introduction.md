@@ -5,13 +5,13 @@ hide_title: true
 
 ## Introduction
 
-Development of the questionnaires and manuals is among the initial preparatory activities that should be well planned to ensure the census captures the intended quality data to meet the global, regional, and national data requirements. The main tools to be developed include the questionnaires for cartographic mapping, pilot census, the enumeration as well as the Post Enumeration Survey (PES) and their corresponding instructions manuals.
+Development of the questionnaires and manuals is among the initial preparatory activities that should be well planned to ensure the census captures the intended quality data to meet the global, regional, and national data requirements. The main tools to be developed include the questionnaires for cartographic mapping, pilot census, the enumeration as well as the Post-Enumeration Survey (PES) and their corresponding instructions manuals.
 
-Important to note is that the implications of a poorly designed questionnaire cannot be rectified during and after enumeration thus successful implementation of tools development has a significant impact on the quality of data and census outputs.
+It is important to note that the implications of a poorly designed questionnaire cannot be rectified during and after enumeration, thus successful implementation of tools development has a significant impact on the quality of data and census outputs.
 
 ### Census tools development during the non-digital vs digital era
 
-A digital census requires additional efforts during the development of tools and instruments. In addition to the traditional paper questionnaire and instructions manual, a digital census will require a modified paper questionnaire to be programmed for CAPI together with an instruction manual. The planning stage should therefore be started earlier than for a paper questionnaire.
+A digital census requires additional efforts during the development of tools and instruments. In addition to the traditional paper questionnaire and instructions manual, a digital census will require a modified paper questionnaire to be programmed for face-to-face data collection (CAPI), together with an instruction manual. The planning stage should therefore be started earlier than for a paper questionnaire.
 
 For a digital census, the post-enumeration editing is reduced compared to a non-digital census. This is achieved through programming of consistency and data validation checks that are implemented during enumeration by the CAPI application.
 
@@ -25,11 +25,11 @@ The following considerations must be made during the development of digital cens
 
 **Extensive stakeholders’ engagement**
 
-Development of the questionnaires must take into consideration the national priorities and the core topics discussed in part four of the UN Principles and Recommendations (UN P&R) for Population and Housing Censuses Rev. 3.  
+Development of the questionnaires must take into consideration the national priorities and the core topics discussed in part five of the [UN Principles and Recommendations (P&R) for Population and Housing Censuses (Revision 4)](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf).
 
-**Massive stakeholder needs**
+**Complex stakeholder needs**
 
-When taking on stakeholder data needs, consider factors such as respondent fatigue, respondent privacy, time and cost needed. To take care of some of the needs, a short and long questionnaire can be adopted (see details on page 80 in the UN P&R rev3)
+When taking on stakeholder data needs, consider factors such as respondent fatigue, respondent privacy, time and cost needed. To take care of some of the needs, a short and long questionnaire can be adopted (see details in the UN P&R Rev 4, [para. 1.153-1.154](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=51) and [para. 3.9 – 3.17](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=148))
 
 **Quality of previous census data**
 

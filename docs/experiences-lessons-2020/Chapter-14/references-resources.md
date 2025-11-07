@@ -5,10 +5,10 @@ hide_title: true
 
 ## References and Resources
 
-1.  UN Principles and Recommendations for population and housing Census. Revision 4 [https://unstats.un.org/UNSDWebsite/statcom/session\_56/documents/BG-3b-Draft\_P&R\_4th\_Rev-E.pdf](https://unstats.un.org/UNSDWebsite/statcom/session_56/documents/BG-3b-Draft_P&R_4th_Rev-E.pdf)
-2.  Post Enumeration Surveys Operational Guidelines, UN Secretariat, Department of Economic and Social Affairs, Statistics. [https://unstats.un.org/unsd/demographic/standmeth/handbooks/Manual\_PESen.pdf](https://unstats.un.org/unsd/demographic/standmeth/handbooks/Manual_PESen.pdf)
-3.  Peter Benton, 2010. Trout, Catfish and Roach the Beginner's Guid to Census Population Estimates. [https://docslib.org/doc/2577669/trout-catfish-and-roach-the-beginner-s-guide-to-census-population-estimates](https://docslib.org/doc/2577669/trout-catfish-and-roach-the-beginner-s-guide-to-census-population-estimates)
-4.  National Institute of Statistics Rwanda: Thematic Report: Post Enumeration Survey. [https://www.statistics.gov.rw/publication/thematic-report-post-enumeration-survey](https://www.statistics.gov.rw/publication/thematic-report-post-enumeration-survey)
-5.  ONS-UK CROW clerical matching system. [https://github.com/Data-Linkage/Clerical\_Resolution\_Online\_Widget](https://github.com/Data-Linkage/Clerical_Resolution_Online_Widget)
-6.  ONS-UK Data-Linkage/pes\_match: A set of functions for cleaning and matching census data with Post Enumeration Survey data [https://github.com/Data-Linkage/pes\_match](https://github.com/Data-Linkage/pes_match)
-7.  Ministry of Justice UK: Splink probabilistic matching. [https://www.gov.uk/government/publications/joined-up-data-in-government-the-future-of-data-linking-methods/splink-mojs-open-source-library-for-probabilistic-record-linkage-at-scale](https://www.gov.uk/government/publications/joined-up-data-in-government-the-future-of-data-linking-methods/splink-mojs-open-source-library-for-probabilistic-record-linkage-at-scale)
+1.	United Nations. (2025). Principles and Recommendations for Population and Housing Census. Revision 4. Available at: https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf
+2.	United Nations Statistics Division. (2010). Post-Enumeration Surveys Operational Guidelines. Available at: https://unstats.un.org/unsd/demographic/standmeth/handbooks/Manual_PESen.pdf
+3.	UK Office for National Statistics. GitHub - ONSdigital/pes_match: A set of functions for cleaning and matching census data with Post Enumeration Survey data. Available at: https://github.com/ONSdigital/pes_match/tree/main 
+4.	UK Ministry of Justice. (2021). Splink: MoJ’s open source library for probabilistic record linkage at scale. Available at:. https://www.gov.uk/government/publications/joined-up-data-in-government-the-future-of-data-linking-methods/splink-mojs-open-source-library-for-probabilistic-record-linkage-at-scale
+5.	UK Office for National Statistics. CROW clerical matching system. Available at: https://github.com/ONSdigital/ons-crow 
+6.	Peter Benton. (2010). Trout, Catfish and Roach the Beginner's Guide to Census Population Estimates. Available at: https://docslib.org/doc/2577669/trout-catfish-and-roach-the-beginner-s-guide-to-census-population-estimates
+7.	National Institute of Statistics Rwanda. RPHC5 Thematic Report: Post Enumeration Survey. Available at: https://www.statistics.gov.rw/data-sources/censuses/Population-and-Housing-Census/fifth-population-and-housing-census-2022/rphc5-thematic-reports/rphc5-thematic-report-post-enumeration-survey  

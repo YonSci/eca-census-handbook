@@ -15,7 +15,7 @@ Successfully executing a digital census in Africa requires a strategic overhaul 
 
 - Procurement plans must account for areas with poor or no connectivity, potentially requiring devices with offline data storage capabilities and plans for physical data transfer.
 
-- Procurement of specialized services for training a large, temporary workforce on how to use the new digital tools is essential.
+- Procurement of specialised services for training a large, temporary workforce on how to use the new digital tools is essential.
 
 - Procure and establishing technical support contracts for helpdesk support and field-level technical assistance is crucial to quickly resolve hardware or software issues during enumeration.
 

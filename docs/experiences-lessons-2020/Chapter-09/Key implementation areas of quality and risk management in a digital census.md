@@ -17,7 +17,7 @@ Quality should be built into the census from the outset through:
 
 - Establishment of clear data quality standards and procedures, aligned with the overall census objectives.
 
-The potential risks during the planning and design stage may be categorized as:
+The potential risks during the planning and design stage may be categorised as:
 
 - Operational risks arising from delays in procurement, recruitment, or training. These risks could be due to challenges like pandemics, climatic conditions etc.
 
@@ -49,7 +49,7 @@ Comprehensive training of census personnel is essential for data quality assuran
 
 - Promoting understanding of data confidentiality and ethical considerations, emphasizing the importance of accurate and unbiased data collection.
 
-The US Census Bureau emphasizes that training is a high-risk phase in census operations due to its scale and time sensitivity. Proactive risk management ensures that training builds confidence and competence rather than confusion. Some training-related risks may include devices or software malfunction, inadequate internet access can disrupt virtual sessions, trainees may struggle with new tools or platforms and the risk of unauthorized access to training materials or personal data. To mitigate these risks:
+The US Census Bureau emphasises that training is a high-risk phase in census operations due to its scale and time sensitivity. Proactive risk management ensures that training builds confidence and competence rather than confusion. Some training-related risks may include devices or software malfunction, inadequate internet access can disrupt virtual sessions, trainees may struggle with new tools or platforms and the risk of unauthorised access to training materials or personal data. To mitigate these risks:
 
 - Run small-scale trials (pilots) to test content delivery, tech platforms, and participant engagement.
 
@@ -63,7 +63,7 @@ The US Census Bureau emphasizes that training is a high-risk phase in census ope
 
 For monitoring and evaluation during training, the following techniques can be adopted:
 
-- Use tests and quizzes to assess understanding and identify gaps and ensure to have a feedback Loop to the trainees.
+- Use tests and quizzes to assess understanding and identify gaps and ensure feedback is given to the trainees.
 
 - Track attendance, completion rates, and technical issues in real time through performance dashboards.
 
@@ -87,9 +87,9 @@ Digital tools enable quality management by providing:
 
 - Monitoring data collection progress and coverage using dashboards and geospatial tools in real-time.
 
-- Supervisory checks through digital platforms to monitor enumerator performance and identify potential issues. For example,  supervisor field case management should encompass the methods by which interviewers receive assignments and manage questionnaire completeness. Field supervisors should oversee the completeness and quality of interviewer outputs, upload it for management and administrative review. The higher-level field managers should be able to track the progress of survey operations.
+- Supervisory checks through digital platforms to monitor enumerator performance and identify potential issues. For example, supervisor field case management should encompass the methods by which interviewers receive assignments and manage questionnaire completeness. Field supervisors should oversee the completeness and quality of interviewer outputs, upload it for management and administrative review. The higher-level field managers should be able to track the progress of survey operations.
 
-In terms of census monitoring, the use of independent monitors drawn from development partners, donors, Civil Society Organizations, National Statistical Offices in Africa and beyond, academia and other government agencies to monitor enumeration should be considered as an additional quality assurance activity. Independent monitoring in representatively selected enumeration areas can:
+In terms of census monitoring, the use of independent monitors drawn from development partners, donors, Civil Society Organisations, National Statistical Offices (NSOs) in Africa and beyond, academia and other government agencies, to monitor enumeration should be considered as an additional quality assurance activity. Independent monitoring in representatively selected Enumeration Areas (EAs) can:
 
 - Objectively evaluate the census against international standards and national legislation and provide regular feedback to the NSO during and after the census activities.
 
@@ -111,13 +111,13 @@ The quality of the data and thus outputs from the data is enhanced through:
 
 - Documentation of the processing steps for transparency and reproducibility, ensuring that data transformations are well-defined and auditable.
 
-Risk management during data processing in digital census is crucial to ensure accuracy, security, and efficiency. Potential risks may include data corruption due to errors in transmission or storage leading to inaccurate results; cybersecurity threats from unauthorized access, hacking, or data breaches; system overloads or software failures and automated processing errors from algorithm bias in the data editing script affecting data integrity. As a risk mitigation strategy:
+Risk management during data processing in digital census is crucial to ensure accuracy, security, and efficiency. Potential risks may include data corruption due to errors in transmission or storage leading to inaccurate results, cybersecurity threats from unauthorised access, hacking, or data breaches, system overloads or software failures, and automated processing errors from algorithm bias in the data editing script affecting data integrity. As a risk mitigation strategy:
 
 - Adopt cybersecurity measures to protect census data from cyber threats through encryption, access controls, and regular security audits.
 
 - Regularly audit data editing algorithms for fairness and accuracy.
 
-- Maintain backup servers and alternative processing methods or centers by establishing secondary locations for data handling. It can be in another government entity.
+- Maintain backup servers and alternative processing methods or centres by establishing secondary locations for data handling. It can be in another government entity.
 
 - Plan for system failures with a documented disaster recovery plan.
 
@@ -133,7 +133,7 @@ See  also [Data Processing](file:///C:/Users/ymersha/Downloads/e-cencus-handboo
 
 ### Assessment of data quality
 
-Post enumeration, the quality of the enumeration can be assessed through various activities including:
+Post-enumeration, the quality of the enumeration can be assessed through various activities including:
 
 - Comparison of overall responses from the target population with population projections or administrative data.
 
@@ -143,7 +143,7 @@ Post enumeration, the quality of the enumeration can be assessed through various
 
 - Identifying and resolving duplicate responses
 
-- Conducing a post-enumeration survey (PES) to gauge the level of under enumeration or over enumeration of people and dwellings.
+- Conducting a post-enumeration survey (PES) to gauge the level of under enumeration or over enumeration of people and dwellings.
 
 - Reviewing feedback from field staff.
 
@@ -161,7 +161,7 @@ Quality management extends to how data is presented and used by:
 - Providing clear metadata and documentation to facilitate proper interpretation and use of the data.
 - Promoting data literacy and appropriate use through training and user support.
 
-Risk management in digital data dissemination is crucial to ensure data integrity, security, and accessibility. Potential risks include unauthorized access and data breaches, wrong information and misinterpretation of results, system downtime or data loss, and non-adherence to data protection laws. In addition to quality management aspects, validating data accuracy before dissemination, secure data against cyber threats through access controls, and ensure users understand the data correctly through clear communication protocols.
+Risk management in digital data dissemination is crucial to ensure data integrity, security, and accessibility. Potential risks include unauthorised access and data breaches, wrong information and misinterpretation of results, system downtime or data loss, and non-adherence to data protection laws. In addition to quality management aspects, validating data accuracy before dissemination, securing data against cyber threats through access controls, and ensuring users understand the data correctly through clear communication protocols.
 
 See also [Census Analysis, Products, Dissemination and Archiving](/docs/experiences-lessons-2020/Chapter-10/Introduction).
 
