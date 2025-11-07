@@ -23,6 +23,6 @@ The NSO is no longer the sole doer of the census in the digital era. Its primary
 
 Some considerations for partnerships and collaboration in a digital census include:
 
-- Formulating and understanding the roles, responsibilities, capacities and relationships of the various executive and advisory stakeholders that exist at the various administrative levels and for each census phase. Detailed roles and responsibilities of stakeholders that can be adapted to a country are outlined in the UN P&R rev 4 para 2.169 and 2.170.
+- Formulating and understanding the roles, responsibilities, capacities and relationships of the various executive and advisory stakeholders that exist at the various administrative levels and for each census phase. Detailed roles and responsibilities of stakeholders that can be adapted to a country are outlined in the [UN P&R, Rev 4, para 2.169 and 2.170.](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=118)
 
 - Prepare legally signed Memorandum of Understanding (MoU) documents that are tailored to the specific needs of the partnership, providing the essential framework that enables the complex, multi-stakeholder collaboration required for a modern digital census in Africa. E.g. the technical and financial assistance MoU, public-private partnership MoU.
