@@ -69,7 +69,7 @@ For monitoring and evaluation during training, the following techniques can be a
 
 - Evaluate trainers’ effectiveness and adjust methods accordingly through trainer assessments.
 
-See also [recruitment and training](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter9_Quality_to_upload.docx#_Recruitment_and_Training).
+See also [recruitment and training](/docs/experiences-lessons-2020/Chapter-06/Introduction).
 
 ### Data Collection
 
@@ -99,7 +99,7 @@ Further information on independent census monitoring can be found in the Guideli
 
 To manage risk during data collection, prepare backup systems and alternative data collection methods in case of technical failures as a contingency plan.
 
-See also [Enumeration and Logistics](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter9_Quality_to_upload.docx#_Enumeration_and_Logistics)
+See also [Enumeration and Logistics](/docs/experiences-lessons-2020/Chapter-08/Introduction)
 
 ### Data Processing
 
@@ -163,5 +163,5 @@ Quality management extends to how data is presented and used by:
 
 Risk management in digital data dissemination is crucial to ensure data integrity, security, and accessibility. Potential risks include unauthorized access and data breaches, wrong information and misinterpretation of results, system downtime or data loss, and non-adherence to data protection laws. In addition to quality management aspects, validating data accuracy before dissemination, secure data against cyber threats through access controls, and ensure users understand the data correctly through clear communication protocols.
 
-See also [Census Analysis, Products, Dissemination and Archiving](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter9_Quality_to_upload.docx#_Census_Analysis,_Products,).
+See also [Census Analysis, Products, Dissemination and Archiving](/docs/experiences-lessons-2020/Chapter-10/Introduction).
 
