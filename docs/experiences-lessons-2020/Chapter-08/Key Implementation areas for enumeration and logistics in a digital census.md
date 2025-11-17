@@ -17,7 +17,7 @@ The provisioning process can be summarised and demonstrated as shown in Figure 8
 
 Figure 8.1: Process of provisioning tablets
 
-![image info](./static/img/Figure8.1.png)
+![Process of provisioning tablets](./static/img/Figure8.1.png)
 
 Some advantages of the automated provisioning process include:
 
