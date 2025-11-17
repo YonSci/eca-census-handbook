@@ -16,7 +16,7 @@ The approach used to arrange the activities and tasks is in sync with the Generi
 
 **Figure 2: Relationship between census phases, the GSBPM and critical census steps**
 
-![image info](./static/img/Figure2.png)
+![Relationship between census phases, the GSBPM and critical census steps](./static/img/Figure2.png)
 
 ECA is automating this checklist to clearly show the interlinkages between phases and activities.
 
