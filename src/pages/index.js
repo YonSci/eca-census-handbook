@@ -167,7 +167,7 @@ const HomePage = () => (
           implementations across Africa.
         </p>
         <a href="docs/experiences-lessons-2020/Chapter-01/introduction">
-          See the handbook
+          See the Handbook
         </a>
       </div>
       <div className="feature-card">
