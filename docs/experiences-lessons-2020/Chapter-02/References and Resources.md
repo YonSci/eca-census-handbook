@@ -3,7 +3,7 @@ sidebar_position: 7
 hide_title: true
 ---
 
-## References and Resources
+## References and resources
 
 1.	United Nations Statistics Division. (2000). Handbook on geographic information systems and digital mapping. Available at:
 https://unstats.un.org/unsd/publication/seriesf/seriesf_79e.pdf 
