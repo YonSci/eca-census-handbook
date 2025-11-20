@@ -133,7 +133,7 @@ const HomePage = () => (
             and Housing Censuses
           </p>
           <Link to="/docs/about-us" className={styles.heroButton}>
-            About Us
+            Get started
           </Link>
         </div>
         <div className={styles.heroImage}>
@@ -163,11 +163,11 @@ const HomePage = () => (
         </svg>
         <h3>Experiences and Lessons</h3>
         <p>
-          Discover key takeaways and lessons learned from digital census
+          This is the main body of the e-census handbook. Discover key takeaways and lessons learned from digital census
           implementations across Africa.
         </p>
         <a href="docs/experiences-lessons-2020/Chapter-01/introduction">
-          Learn More
+          See the handbook
         </a>
       </div>
       <div className="feature-card">
@@ -190,7 +190,7 @@ const HomePage = () => (
           Explore detailed case studies showcasing innovative practices and
           solutions in digital censuses.
         </p>
-        <a href="docs/case-studies/Chapter-01/Case%20Studies">View Case Studies</a>
+        <a href="docs/case-studies/Chapter-01/Case%20Studies">See Case Studies</a>
       </div>
       <div className="feature-card">
         {/* Checkmark SVG (Recommendations card) */}
@@ -256,7 +256,7 @@ const HomePage = () => (
           Use our checklist to ensure that all necessary steps and best
           practices are met during your census process.
         </p>
-        <a href="docs/checklist/ch1">View Checklist</a>
+        <a href="docs/checklist/ch1">See Checklist</a>
       </div>
 
       {/* New Enquiries card */}
