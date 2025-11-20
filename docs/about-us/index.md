@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About
 sidebar_position: 0
 hide_title: true
 ---
