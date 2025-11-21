@@ -12,7 +12,7 @@ Such guidelines should lay out details regarding the recruitment campaign and pu
 
 ### Development and testing of e-recruitment system
 
-The e-recruitment system for online applications, sifting and grading of tests needs to be thoroughly tested before use. Ensure that the IT experts developing the system are in close communication with the human resources(HR) and census experts in charge of recruitment to make sure that their requirements are met and not misinterpreted. Test your e-recruitment system thoroughly for ease of use by both applicants and recruiters. Bear in mind that when your recruitment campaign goes live there may be millions of applications with peak periods of demand as application deadlines approach. Stress-test your system to ensure that it can handle the expected volume of traffic. 
+The e-recruitment system for online applications, sifting and grading of tests needs to be thoroughly tested before use. Ensure that the IT experts developing the system are in close communication with the human resources (HR) and census experts in charge of recruitment to make sure that their requirements are met and not misinterpreted. Test your e-recruitment system thoroughly for ease of use by both applicants and recruiters. Bear in mind that when your recruitment campaign goes live there may be millions of applications with peak periods of demand as application deadlines approach. Stress-test your system to ensure that it can handle the expected volume of traffic. 
 
 ### Development of integrated systems
 
