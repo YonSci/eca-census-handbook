@@ -27,26 +27,21 @@ In relation to logistics, the following was noted:
 
 Digital enumeration was affected by gadget related concerns such as:
 
-- Failure in real time data transmission to the central server arising from poor network connectivity,
+  - Failure in real time data transmission to the central server arising from poor network connectivity,
 
-- Failure to update and data sharing between the enumerators and content supervisors affected by blockage of the application and late introduction of Mobile Device Management software.
+  - Failure to update and data sharing between the enumerators and content supervisors affected by blockage of the application and late introduction of Mobile Device Management software.
 
-- Interference and slowing down of the enumeration process because for some devices, sim cards kept popping out. (Case in Kenya)
+  - Interference and slowing down of the enumeration process because for some devices, sim cards kept popping out. (Case in Kenya)
 
-- Continuous updating of the census software posed some challenges and the system stabilised after installation of Census live. (Case in Kenya)
+  - Continuous updating of the census software posed some challenges and the system stabilised after installation of Census live. (Case in Kenya)
 
-- Logistical challenges may affect enumeration if not handled appropriately such as:
+Logistical challenges may affect enumeration if not handled appropriately such as:
 
-- Inadequate transport for ICT Supervisors, administrators, and census committee members hampered effective monitoring during enumeration.
+  - Inadequate transport for ICT Supervisors, administrators, and census committee members hampered effective monitoring during enumeration.
 
-- Having few people with knowledge of troubleshooting the CAPI application during enumeration.
+  - Having few people with knowledge of troubleshooting the CAPI application during enumeration.
 
-- Need to have more than one enumerator assigned to an EA with over 150 households can arise and if managed can cause major challenges to the enumerators and supervisors to cover.
+  - Need to have more than one enumerator assigned to an EA with over 150 households can arise and if managed can cause major challenges to the enumerators and supervisors to cover.
 
 - Some respondent refusals may arise during enumeration for instance in Kenya, the “Kavonokia” Sect members in Kitui and Tharaka Nithi counties refused to be enumerated. At the same time, there may be respondents reporting not to have been enumerated during and after the enumeration period. 
 
-[\[PN1\]](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter8_Enumeration_to_upload.docx#_msocom_1) 
-
-
-
- [\[PN1\]](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter8_Enumeration_to_upload.docx#_msoanchor_1)Original documented for data collection.
