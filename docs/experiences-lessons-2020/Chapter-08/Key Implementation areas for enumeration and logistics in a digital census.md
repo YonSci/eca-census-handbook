@@ -15,9 +15,9 @@ The United Nations Economic Commission for Africa (UNECA) developed an end-to-en
 
 The provisioning process can be summarised and demonstrated as shown in Figure 8.1 below.
 
-Figure 8.1: Process of provisioning tablets
+![image info](/static/img/Chapter-8-Key-Image.png)
 
-(IMAGE TO BE ADDED)
+Figure 8.1: Process of provisioning tablets
 
 Some advantages of the automated provisioning process include:
 
@@ -31,7 +31,7 @@ Depending on the Android version installed on devices, there are alternate metho
 
 ### Pre-enumeration listing of households.
 
-The cartographic mapping undertaken prior to enumeration provides the number of EAs and management areas, estimated number of households and population as well as information about problem areas for planning purposes (see [cartographic mapping](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter8_Enumeration_to_upload.docx#_CHAPTER_THREE:_Geospatial)). Just before the enumeration period, a household listing may be undertaken to get a more accurate estimate of the number of households in each EA as a way of quality control to measure coverage. This pre-enumeration household listing should be carried out immediately after the training of enumerators and before the start of enumeration. An ideal EA should be conversed by an enumerator within one day during the pre-enumeration household listing exercise. The listing exercise should preferably capture the Global Positioning System (GPS) coordinates of the households, name of household head, number of usual members of the given household among other variables. 
+The cartographic mapping undertaken prior to enumeration provides the number of EAs and management areas, estimated number of households and population as well as information about problem areas for planning purposes (see [cartographic mapping](docs/experiences-lessons-2020/Chapter-02/Introduction.md)). Just before the enumeration period, a household listing may be undertaken to get a more accurate estimate of the number of households in each EA as a way of quality control to measure coverage. This pre-enumeration household listing should be carried out immediately after the training of enumerators and before the start of enumeration. An ideal EA should be conversed by an enumerator within one day during the pre-enumeration household listing exercise. The listing exercise should preferably capture the Global Positioning System (GPS) coordinates of the households, name of household head, number of usual members of the given household among other variables. 
 
 The objectives of pre-enumeration household listing exercise include:
 
@@ -67,6 +67,6 @@ During data collection, the following should be in place:
 
 - A hierarchical field organisation structure, the central level being responsible for monitoring the enumeration of the entire country, the regional level focusing on preparing and conducting the data collection process, the local level mainly to provide census enumerators and their immediate supervisors within their operational area during the enumeration. The local level should have IT-related skills.
 
-- A real time online monitoring tool for successful field enumeration, it is desirable to transfer data immediately after completing the enumeration of each household. This tool can be set up at the regional level to complement the national system. UNECA has provided support to countries in this area through field monitoring dashboards, issue trackers and set up of call centres. See also [Deployment and supervision of field personnel](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter8_Enumeration_to_upload.docx#_Deployment_and_Supervision).
+- A real time online monitoring tool for successful field enumeration, it is desirable to transfer data immediately after completing the enumeration of each household. This tool can be set up at the regional level to complement the national system. UNECA has provided support to countries in this area through field monitoring dashboards, issue trackers and set up of call centres. See also [Deployment and supervision of field personnel](/docs/experiences-lessons-2020/Chapter-07/Introduction).
 
-- A well-documented data transmission plan to support enumeration efforts. See also [Data capture, transmission and management](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter8_Enumeration_to_upload.docx#_Data_Capture,_Transmission).
+- A well-documented data transmission plan to support enumeration efforts. See also [Data capture, transmission and management](/docs/experiences-lessons-2020/Chapter-04/Introduction).
