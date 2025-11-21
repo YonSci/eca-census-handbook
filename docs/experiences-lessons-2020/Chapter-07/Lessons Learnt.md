@@ -3,7 +3,7 @@ sidebar_position: 4
 hide_title: true 
 ---
 
-## Lessons Learnt
+## Lessons learnt
 
 There have been challenges in data transmission with not all data correctly received at the data centre. This causes problems with census undercount if enumerated households are missing from the census data. Alternatively, if the problem is caught and the households renumerated, this can cause duplication in the census data. These challenges are often caused by poor internet connectivity. Ensure that you have a strategy for dealing with loss of connectivity such as an off-line solution that securely stores the data until there is a good enough Wi-Fi signal for transmission to be completed.
 
