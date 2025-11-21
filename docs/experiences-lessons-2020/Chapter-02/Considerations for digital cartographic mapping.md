@@ -13,7 +13,7 @@ Transitioning to fully digital cartographic mapping for census requires NSOs to 
 *   Adequate digital storage and processing power to undertake the required digital cartographic mapping activities. This can either be on-premise servers or cloud-based infrastructure. 
 *   Well-trained and skilled human resources as detailed on page 35 of the [Handbook on Geospatial Infrastructure in Support of Census Activities](https://unstats.un.org/unsd/demographic/standmeth/handbooks/Series_F103en.pdf).
 *   A clear understanding of how digital cartographic mapping software will integrate with the chosen census data collection devices (such as the functionality and storage limitations of tablets), and the data collection software being used for the census (such as CSPro or ArcGIS Survey123).
-*   A well-defined and sustainable Census geography that can be digitised and seamlessly integrated into future successive Censuses.
+*   A well-defined and sustainable census geography that can be digitised and seamlessly integrated into future successive censuses.
 
 During the 2020 round of PHC, most African countries embraced digital cartographic mapping. Some countries conducted purely digital cartographic mapping where mobile devices and remote sensing products were used, while others embraced hybrid digital cartographic mapping. 
 
