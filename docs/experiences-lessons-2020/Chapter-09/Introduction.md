@@ -57,4 +57,4 @@ To ensure comprehensive quality assurance, monitoring, evaluation and risk manag
 
 - Put in place a risk monitoring and review system by setting up a governance structure to regularly review and update risk strategies and establish a risk register to track identified risks and mitigation actions.
 
-Detailed guidance on emergency preparedness, risk management and contingency planning in the UN P&R, Rev 4, [para 2.125 to 2.157](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=110).
+Detailed guidance on emergency preparedness, risk management and contingency planning in the [UN P&R, Rev 4, para 2.125 to 2.157](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=110).
