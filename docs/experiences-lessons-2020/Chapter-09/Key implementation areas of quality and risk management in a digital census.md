@@ -37,7 +37,7 @@ Risk mitigation strategies include:
 
 - Monitoring the entire census processes to ensure cost effectiveness and the quality of overall census operations crucial.
 
-See also [project planning and management](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter9_Quality_to_upload.docx#_Project_Planning_and).
+See also [project planning and management](/docs/experiences-lessons-2020/Chapter-01/Introduction).
 
 ### Training
 
@@ -129,7 +129,7 @@ For monitoring and evaluation during data processing, the following techniques c
 
 - Conduct external/independent reviews and audits to verify data integrity.
 
-See  also [Data Processing](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter9_Quality_to_upload.docx#_Data_Processing)
+See also [Data Processing](/docs/experiences-lessons-2020/Chapter-09/Introduction)
 
 ### Assessment of data quality
 
@@ -151,7 +151,7 @@ Post-enumeration, the quality of the enumeration can be assessed through various
 
 With the increasing shift to digital methodologies, the risk landscape for these surveys has evolved, introducing new challenges alongside traditional ones. Effective risk management throughout the lifecycle of a digital PES is paramount to ensuring the validity of its results and, consequently, the quality of the census data. A digital PES can be broken down into several key stages, each with its own set of potential risks and each addressed accordingly.
 
-See also [Post-Enumeration Survey](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter9_Quality_to_upload.docx#_Post-Enumeration_Survey).
+See also [Post-Enumeration Survey](/docs/experiences-lessons-2020/Chapter-14/Introduction).
 
 ### Data Dissemination
 
