@@ -42,8 +42,7 @@ Given that a census exercise runs into various logistical and technical issues, 
 
 UNECA developed a support centre system (with a backend system and a field agent application) that is easily customisable, deployable, and integrated with the UNECA tablet provisioning system to help address the challenges highlighted above. The application comes with a dashboard to monitor issue resolution for management. The flow of the issues can be summarised as shown below:
 
-
-
+![image info](/static/img/Chapter7-Key-Image.png)
 
 source: ECA
 
@@ -74,7 +73,7 @@ UNECA has developed a robust Census and Survey Monitoring Dashboard. In the 2020
 
 Key features of the UNECA Census and Survey Monitoring Dashboard are as follows:
 
-●       It is designed to work with any census questionnaire database.
+●  It is designed to work with any census questionnaire database.
 
 ●       It is easy to deploy and requires only read-only access to the census database.
 
