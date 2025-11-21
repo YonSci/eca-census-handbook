@@ -9,12 +9,14 @@ The checklist is grounded in the values of the UN P&R Rev 4 as well as the appli
 
 **Figure 1: Hierarchical framework adopted to achieve a census project.**
 
-(IMAGE TO BE INSERTED FIGURE 1)
+![Hierarchical framework adopted to achieve a census project.](./static/img/Figure1.png)
 
 The approach used to arrange the activities and tasks is in sync with the Generic Statistical Business Process Model (GSBPM) and a project approach in each phase. It therefore presents each phase (critical step) with its corresponding key activities and tasks from beginning to end and in chronology of achievement of census milestones (see annex table). Figure 2 shows the critical census steps as outlined in the UNFPA Step-By-Step reference guide (Gant Chart) and their alignment to the GSBPM and the three census phases.
 
 
 **Figure 2: Relationship between census phases, the GSBPM and critical census steps**
+
+![Relationship between census phases, the GSBPM and critical census steps](./static/img/Figure2.png)
 
 ECA is automating this checklist to clearly show the interlinkages between phases and activities.
 
