@@ -6,11 +6,9 @@ hide_title: true
 ## Selected Country Experience
 
 
-**Botswana** employed the Manage Engine Mobile Device Manager Plus (MDM) application to remotely manage census devices. This tool offered a comprehensive suite of features including device enrolment, app management, remote troubleshooting, security enforcement, location tracking, and audit reporting. A virtual server was set up to support the MDM system, and IT officers were granted access to log in using domain credentials. They also used Zoho Assist for remote support. This setup allowed for real-time monitoring, inventory tracking, and secure data wiping in case of device loss or theft, enhancing both operational efficiency and data security.
+**Botswana** 
 
-**Tanzania** developed an innovative backup data collection system using enumerators’ personal Android devices. A custom Android container was created to temporarily lock personal devices for census use, ensuring secure data collection and synchronization with census servers. Although this solution was not deployed during the actual enumeration, pilot testing showed it to be a viable contingency option. Further testing is recommended to refine the tool for broader use, especially in resource-constrained or emergency scenarios.
-
-LINK TO CASE STUDIES BELOW IN SEPARATE SECTION[\[RS1\]](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter7_Supervision_to_upload.docx#_msocom_1) 
+employed the Manage Engine Mobile Device Manager Plus (MDM) application to remotely manage census devices. This tool offered a comprehensive suite of features including device enrolment, app management, remote troubleshooting, security enforcement, location tracking, and audit reporting. A virtual server was set up to support the MDM system, and IT officers were granted access to log in using domain credentials. They also used Zoho Assist for remote support. This setup allowed for real-time monitoring, inventory tracking, and secure data wiping in case of device loss or theft, enhancing both operational efficiency and data security.
 
 **Tanzania**
 
