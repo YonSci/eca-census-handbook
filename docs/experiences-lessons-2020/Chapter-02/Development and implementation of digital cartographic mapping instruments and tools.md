@@ -8,12 +8,12 @@ hide_title: true
 
 The tools developed for digital cartographic mapping, have various uses in the Census process: sensitisation, field mapping activities, verification, instructions manuals, digitisation schemas, map templates, and map editing, production and verification. In development and finalisation of these tools and instruments, most countries benchmarked and got inputs and assistance from other countries that had undertaken digital census mapping. 
 
-The cartographic tools for census mapping should be able to assign a unique geographical coding and identification system to all Census entities to avoid omissions or duplication
+The cartographic tools for census mapping should be able to assign a unique geographical coding and identification system to all census entities to avoid omissions or duplication.
 
 
 **Defining geospatial products and attributes**
 
-It is important to define the attributes that will need to be collected as part of the digital cartographic mapping prior to commencing mapping activities. This should be informed by countries’ unique peculiarities and data user needs. This includes peculiar characteristics that may affect census enumeration operation (such as topographic or terrain features; the expected population density) or how Census statistics and dynamics will be disaggregated or disseminated as Census data outputs. Having an idea of the intended output up-front, guides the choice of the best application and the questions to use in capturing the data.
+It is important to define the attributes that will need to be collected as part of the digital cartographic mapping prior to commencing mapping activities. This should be informed by countries’ unique peculiarities and data user needs. This includes peculiar characteristics that may affect census enumeration operation (such as topographic or terrain features; the expected population density) or how census statistics and dynamics will be disaggregated or disseminated as census data outputs. Having an idea of the intended output up-front, guides the choice of the best application and the questions to use in capturing the data.
 
 The digital tools used for data collection, processing, production of maps and storage of the repository geospatial data, determines how the digital products are integrated into other digital architecture used by the NSO for census. The cost for carrying out mapping activities should also be factored into how these attributes are define or scaled.
 
@@ -44,7 +44,7 @@ Map production is implemented in two stages.
 **Stage 1:** 
 
 * Digitisation of Country’s administrative  boundaries; as frame for EA delineation.
-* EA boundary digitisation according to the geospatial data collected on the field, delineation rules and established coding and identification system.  Creation of the EA attribute data (geography File - geo-file).
+* EA boundary digitisation according to the geospatial data collected on the field, delineation rules and established coding and identification system.  Creation of the EA attribute data (geography file - geo-file).
 * Preparation of EA maps (map compilation) in digital or hard copy (depending on adopted methodology i.e., fully digital or hybrid).
 
 **Stage 2:**
