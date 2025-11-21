@@ -75,21 +75,21 @@ Key features of the UNECA Census and Survey Monitoring Dashboard are as follows:
 
 ●  It is designed to work with any census questionnaire database.
 
-●       It is easy to deploy and requires only read-only access to the census database.
+●  It is easy to deploy and requires only read-only access to the census database.
 
-●       The indicators to be monitored have increased daily and vary from country to country. Indicators may provide insights on coverage, data quality and operational metadata including but not limited to enumerated number of households, enumerated population, total fertility rate, population distribution, population pyramid, average interview time, etc.
+●  The indicators to be monitored have increased daily and vary from country to country. Indicators may provide insights on coverage, data quality and operational metadata including but not limited to enumerated number of households, enumerated population, total fertility rate, population distribution, population pyramid, average interview time, etc.
 
-●       The dashboard presents these indicators using the most intuitive visualizations, such as charts, infographics, maps, and tables. These components are designed to convey summarized information at different levels of geographic area.
+●  The dashboard presents these indicators using the most intuitive visualizations, such as charts, infographics, maps, and tables. These components are designed to convey summarized information at different levels of geographic area.
 
-●       Users have options to view indicators at the national level or drill down to the geographic area to zoom in for a narrow geographic coverage for more focused information. 
+●  Users have options to view indicators at the national level or drill down to the geographic area to zoom in for a narrow geographic coverage for more focused information. 
 
-●       For selected indicators, the dashboard captures target and/or expected values to compare with the actual census performance.
+●  For selected indicators, the dashboard captures target and/or expected values to compare with the actual census performance.
 
-●       The dashboard presents these indicators using the most intuitive visualisations, such as charts, infographics, maps, and tables. These components are designed to convey summarised information at different levels of geographic area. 
+●  The dashboard presents these indicators using the most intuitive visualisations, such as charts, infographics, maps, and tables. These components are designed to convey summarised information at different levels of geographic area. 
 
-●       A role-based access scheme is implemented in the dashboard, which allows system administrators to define roles with privileges and assign them to system users. Different user groups can access only those indicators of interest instead of overloading users with all the available indicators.
+●  A role-based access scheme is implemented in the dashboard, which allows system administrators to define roles with privileges and assign them to system users. Different user groups can access only those indicators of interest instead of overloading users with all the available indicators.
 
-●       Users can also be restricted from viewing information filtered to selected geographic areas per the countries' specific requirements.   
+●  Users can also be restricted from viewing information filtered to selected geographic areas per the countries' specific requirements.   
 
 ### Enumerator Tracking
 
@@ -99,11 +99,11 @@ The integration of GPS technology into digital enumeration devices allows for th
 *   It provides supervisors with a tool to monitor enumerator progress and identify areas where they may be facing difficulties or require support.
 *   It can enhance the security of enumerators, particularly in challenging or remote areas.
 
-      Software and technologies used for enumerator tracking include:
+Software and technologies used for enumerator tracking include:
 
 *   ArcGIS Survey123: This tool can capture and track location data during enumeration.
 *   Custom-developed mobile applications: Some countries may develop their own applications with GPS tracking functionality.
 
 ### Remuneration of field personnel
 
-Experiences in the 2020 census round have demonstrated the need for a more efficient method of paying census field staff. Due to the huge number of people being employed on a temporary basis, it is important to have an automated system in place that enables straight forward payment and tracking of payments. Information required to make electronic payments, such as bank details should be collected at the time of recruitment using the [automated recruitment system](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter7_Supervision_to_upload.docx#_CHAPTER_SEVEN:_Recruitment). It should be borne in mind that the payroll system generally used by the census implementing institution may not be adequate to cope effectively with the huge number of additional payments required for temporary staff during the census. The use of an electronic payment platform makes it easier to manage the bulky payments expected during the census process.
+Experiences in the 2020 census round have demonstrated the need for a more efficient method of paying census field staff. Due to the huge number of people being employed on a temporary basis, it is important to have an automated system in place that enables straight forward payment and tracking of payments. Information required to make electronic payments, such as bank details should be collected at the time of recruitment using the [automated recruitment system](/docs/experiences-lessons-2020/Chapter-06/Introduction). It should be borne in mind that the payroll system generally used by the census implementing institution may not be adequate to cope effectively with the huge number of additional payments required for temporary staff during the census. The use of an electronic payment platform makes it easier to manage the bulky payments expected during the census process.
