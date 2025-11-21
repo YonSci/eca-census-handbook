@@ -45,9 +45,9 @@ To ensure comprehensive quality assurance, monitoring, evaluation and risk manag
 
 - Determine and test the software or technologies to be used at the start. Here are some examples:
 
-- Statistical software packages (e.g., Stata, R, SPSS) for calculating and visualizing quality indicators.
+  - Statistical software packages (e.g., Stata, R, SPSS) for calculating and visualizing quality indicators.
 
-- Database management systems (e.g., PostgreSQL) for storing and querying data.
+  - Database management systems (e.g., PostgreSQL) for storing and querying data.
 
 - Despite digital advancements, physical field supervision remains crucial to address unforeseen issues and must be factored into the quality assurance and improvement plan.
 
