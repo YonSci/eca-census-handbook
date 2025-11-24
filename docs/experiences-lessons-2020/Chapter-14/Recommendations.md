@@ -19,8 +19,8 @@ hide_title: true
 -   Identify in advance the key variables for estimation – at a minimum these will be age and sex, and programme the CAPI so that these are compulsory questions.
 -   Carrying out data processing steps such as Resolving Multiple Responses (RMR) and Removing False Persons (RFP) before attempting to match the census and PES data will improve the quality of the data and the matching.
 
-  -   RMR means finding and then marking as out-of-scope, any duplicate records. These may appear as within household duplicates, outside household duplicates, or entire duplicate households.
-  -   RFP means finding any records where there is not sufficient evidence of this record representing a true person e.g., name, age/date of birth and sex are all missing. This can be caused by CAPI error, data processing or transmission error, or enumerator error.
+    -   RMR means finding and then marking as out-of-scope, any duplicate records. These may appear as within household duplicates, outside household duplicates, or entire duplicate households.
+    -   RFP means finding any records where there is not sufficient evidence of this record representing a true person e.g., name, age/date of birth and sex are all missing. This can be caused by CAPI error, data processing or transmission error, or enumerator error.
 
 -   Ensure that the codes used to identify EAs are used consistently in census and PES data so that the correct EAs can be selected from the census data for matching with the PES records.
 -   Ensure that household data collected at listing can easily be linked with person data collected during enumeration. There should be a unique identification number that allows for a simple one-to-one join.
