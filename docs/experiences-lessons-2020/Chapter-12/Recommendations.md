@@ -13,9 +13,7 @@ hide_title: true
 
 - It is important to have a fully dedicated census communication and publicity expert within the NSO right at the start of the planning process to avoid realizing the need during implementation, as was the case in Zimbabwe.
 
-- The engagement of a communications firm to lead the process of publicity and advocacy plays a major role in getting the public and leaders to support the census. It is more impactful if the firm is brought on board early. A media firm should carry out road shows rather than the NSO as a good strategy for publicity. Outsourcing or collaborating with the private sector could be considered as another potential
-
-cost-saving option, particularly in the context of publicity and advocacy.
+- The engagement of a communications firm to lead the process of publicity and advocacy plays a major role in getting the public and leaders to support the census. It is more impactful if the firm is brought on board early. A media firm should carry out road shows rather than the NSO as a good strategy for publicity. Outsourcing or collaborating with the private sector could be considered as another potential cost-saving option, particularly in the context of publicity and advocacy.
 
 - It is important to train all people that will be involved in the publicity campaigns to ensure uniformity and consistency. The media engagement training should be extended to more key personnel, especially the CSOs to ensure they pass the correct message on to the public.
 
