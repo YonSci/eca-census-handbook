@@ -7,9 +7,9 @@ hide_title: true
 
 - Although census publicity and advocacy are carried out, there are challenges that may arise and should be anticipated in the design of the publicity and advocacy strategy, such as:
 
-- Opposition political parties formally pronouncing a boycott of the census leading to resistance and rejection of enumerators in opposition party stronghold areas. 
+  - Opposition political parties formally pronouncing a boycott of the census leading to resistance and rejection of enumerators in opposition party stronghold areas. 
 
-- Funding challenges, for instance in Sierra Leone the main donor (World Bank) withdrew funding during the main enumeration.
+  - Funding challenges, for instance in Sierra Leone the main donor (World Bank) withdrew funding during the main enumeration.
 
 - Delays in delivery of some publicity materials to the sub-national levels arising from lack of clear guidelines and procedures for carrying out publicity and advocacy at these levels - inappropriate planning. For example, in Kenya, the use of caravans/roadshows was not effective in some areas. The caravans did not cover some parts of the counties and arrived late; therefore, their regular monitoring is important to ensure the effectiveness of the publicity.
 
