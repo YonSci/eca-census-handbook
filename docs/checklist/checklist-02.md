@@ -21,6 +21,8 @@
 | 13 | Release of census mapping products | Publication (internal) of digital maps and listings | Digital maps, listings released | GIS team | 6 | 2.3 |
 
 **Milestone 1:** Ready Administrative Area, EA and Household Listings for internal use
+| Activity | Description | Output | Responsible Party(ies) | Duration (Months) | Years to Census Night |
+|----------|-------------|--------|-------------------------|--------------------|------------------------|
 | 14 | Production of base maps and EA maps | Development, labelling & print (if needed) of the final NPHC maps | Final EA maps | GIS team | 21 | 1.9 |
 | 14 | Production of the census mapping Report | Mapping Report | GIS team | 5 | 0.3 |
 | 14 | Training in Map reading and Interpretation of EAs | Trained data collection staff | GIS team | 1 | 0.2 |
