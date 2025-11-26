@@ -5,7 +5,7 @@ hide_title: true
 
 ## Introduction
 
-The shift to digital population censuses in Africa has fundamentally changed the operational model, making partnerships and collaboration not just beneficial, but absolutely essential for success, efficiency and cost saving. A modern digital census is too complex and resource-intensive for a National Statistical Office (NSO) to handle alone. It requires a "whole-of-society" approach, bringing together a diverse ecosystem of actors as outlined among the key prerequisites for a digital census in the chapter on [planning](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter11%20Partnerships%20and%20collaboration-to%20upload.docx#_Project_Planning_and) and the [UN P&R, Rev 4, para. 2.165 to 2.172](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=117).
+The shift to digital population censuses in Africa has fundamentally changed the operational model, making partnerships and collaboration not just beneficial, but absolutely essential for success, efficiency and cost saving. A modern digital census is too complex and resource-intensive for a National Statistical Office (NSO) to handle alone. It requires a "whole-of-society" approach, bringing together a diverse ecosystem of actors as outlined among the key prerequisites for a digital census in the chapter on [planning](/docs/experiences-lessons-2020/Chapter-01/Introduction) and the [UN P&R, Rev 4, para. 2.165 to 2.172](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=117).
 
 This chapter focuses on establishing partnerships and collaboration when implementing a digital census.
 
