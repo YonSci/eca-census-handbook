@@ -67,7 +67,7 @@ For census communication and publicity, consider the following and see [UN P&R, 
 
 - A document outlining the strategic plan for communication, publicity and advocacy should be developed. The strategic document should contain a list of stakeholders, target communication channels/media to be used. implementation plan for the various activities, collaborations, required resources, budget for the implementation, and a monitoring and evaluation plan. 
 
-- The strategy should have a description of the statement of purpose, current situation (SWOT, PEST, and good practices), organisational and communications objectives, identifying stakeholders, key messages, key communications methods, work plan, outcomes and key performance indicators, and evaluation plan. This is an important input to the census [planning process](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter12%20Advocacy-to%20upload.docx#_CHAPTER_TWO:_Digital).
+- The strategy should have a description of the statement of purpose, current situation (SWOT, PEST, and good practices), organisational and communications objectives, identifying stakeholders, key messages, key communications methods, work plan, outcomes and key performance indicators, and evaluation plan. This is an important input to the census [planning process](/docs/experiences-lessons-2020/Chapter-01/Introduction).
 
 - Establish a rumor control or myth-busting team that monitors social media (especially WhatsApp and Facebook) and works with CSOs and media to rapidly debunk misinformation before it can derail public participation.
 
