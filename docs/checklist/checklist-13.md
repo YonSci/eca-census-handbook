@@ -24,4 +24,4 @@
 |---|----------|-------------|--------|-------------------------|--------------------|------------------------|
 | 6 | Zonal/regional/Provincial workshops | Disseminate the district population profiles and district data | Regional workshop | Demography & PR | 0 | -1.0 |
 | 6 | Press releases | Publicization of census publications and seminars/workshops etc. | Reports on census publications in newspapers and other media | PR | 0 | -1.0 |
-| 6 | Launch of provisional census results | Feedback about the results | Demography | 0 | -1.0 |
+| 6 | Launch of provisional census results | | Feedback about the results | Demography | 0 | -1.0 |
