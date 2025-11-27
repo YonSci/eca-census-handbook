@@ -20,7 +20,7 @@
 | 6 | Pilot pre-enumeration listing and familiarization of EA boundaries | Carry out household listing in pilot EAs | Piloted field operations plan | Demography, IT & GIS | - | - |
 | 6 | Pilot pre-enumeration listing and familiarization of EA boundaries | Cleaning of the results from pre-enumeration listing and uploading | All electronic devices in place | Demography, IT & GIS | - | - |
 
- Milestone 3: Pilot Census Enumeration
+# Milestone 3: Pilot Census Enumeration
 
 |   | Activity | Description | Output | Responsible Party(ies) | Duration (Months) | Years to Census Night |
 |---|----------|-------------|--------|-------------------------|--------------------|------------------------|
