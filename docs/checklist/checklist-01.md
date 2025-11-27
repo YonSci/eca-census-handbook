@@ -1,10 +1,10 @@
 
 # Checklist 1: Census Planning and Preparation
 
-| Activity | Description | Output | Responsible Party(ies) | Duration (Months) | Years to Census Night |
-|----------|-------------|--------|-------------------------|--------------------|------------------------|
+|   | Activity | Description | Output | Responsible Party(ies) | Duration (Months) | Years to Census Night |
+|---|-------|-------------|--------|-------------------------|--------------------|------------------------|
 | 1 | Setting strategic objectives for the entire census document programme - developing the census project | Overall census planning | Census project document | Census office | 17 | 3.9 |
-|   | Preparation of the Census Strategic Documents | Plan for publicity, data processing, PES, enumeration etc | Census task team | 17 | 3.9 |
+| 1 | Setting strategic objectives for the entire census document programme - developing the census project | Preparation of the Census Strategic Documents | Plan for publicity, data processing, PES, enumeration etc | Census task team | 17 | 3.9 |
 | 2 | Statistical capacity assessment | Carry out an assessment of the NSO capabilities | Report on training needs | Census task team | 17 | 3.9 |
 | 3 | Develop a census calendar | Map out all census activities | Detailed census calendar | Census task team | 17 | 3.9 |
 | 4 | Administrative organisation and management structure | Establishment of an internal census task team | Letter indicating appointment of the National census Coordinator (NCC) | NSO management team | 3 | 3.9 |
