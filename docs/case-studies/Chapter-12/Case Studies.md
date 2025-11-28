@@ -8,7 +8,7 @@ hide_title: true
 
 **Statistics Sierra Leone**
 
-Several stakeholders were involved to build public trust in every step of the way namely: engaged civil society organizations (CSOs) for mid-term census (National Elections Watch (NEW), Institute for Governance Reforms (IGR), Native Consortium, Accountability Sierra Leone, Heal Sierra Leone, Health for All Coalition etc.; engaged Parliamentary Oversight Committee on Population to help in publicity, Members of Publicity Committee also did media engagements on behalf of NSOs, All Political Parties Association of Sierra Leone (APPA) also joined them in publicity, Nation Wide Stakeholders Engagement via town hall meetings in all districts of Sierra Leone. All Critical Voices (CSOs, press, political parties) etc. were given an opportunity to monitor both the census and cartographic mapping. Those engaged included district council chairperson’s/mayors, ministries, departments and agencies (MDAs), youth groups, women's groups, paramount chiefs etc.
+Several stakeholders were involved to build public trust in every step of the way namely: engaged civil society organisations (CSOs) for mid-term census (National Elections Watch (NEW), Institute for Governance Reforms (IGR), Native Consortium, Accountability Sierra Leone, Heal Sierra Leone, Health for All Coalition etc.; engaged Parliamentary Oversight Committee on Population to help in publicity, Members of Publicity Committee also did media engagements on behalf of NSOs, All Political Parties Association of Sierra Leone (APPA) also joined them in publicity, Nation Wide Stakeholders Engagement via town hall meetings in all districts of Sierra Leone. All Critical Voices (CSOs, press, political parties) etc. were given an opportunity to monitor both the census and cartographic mapping. Those engaged included district council chairperson’s/mayors, ministries, departments and agencies (MDAs), youth groups, women's groups, paramount chiefs etc.
 
 During preparation of the mid-term census, publicity was stepped up by creating new communication content that required signing of MoUs with media houses that translated into census hour, media engagement on flagship radio/TV programmes, as well as social media hypes and content creation for digital communication such as websites. 
 
@@ -57,7 +57,7 @@ Kenya developed a publicity and advocacy strategic plan and established a respec
 | 1 | General public | To create awareness of the importance of Census and the need to give accurate information. |
 | 2 | Media | To bring all media on board to assist in disseminating accurate Census messages. |
 | 3 | Government officials | To lobby their support in disseminating accurate Census messages. |
-| 4 | Community leaders | To sensitise them on the importance of Census and their role in sensitizing the public. |
+| 4 | Community leaders | To sensitise them on the importance of Census and their role in sensitising the public. |
 | 5 | Civil Society and other pressure groups | To sensitise them on the Census and request for their support in disseminating accurate Census information. |
 | 6 | Religious leaders | To sensitise them on the importance of Census and the need for their support in sensitising their congregations. |
 | 7 | Parliamentarians, Governors etc. | To appeal for accurate dissemination of Census messages. |
