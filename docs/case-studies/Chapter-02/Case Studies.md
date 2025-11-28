@@ -3,7 +3,7 @@ sidebar_position: 1
 hide_title: true
 ---
 
-[back to Handbook Chapter 2](/docs/experiences-lessons-2020/Chapter-02/Selected-Country-Experiences)
+[back to Handbook Chapter 2](/docs/experiences-lessons-2020/Chapter-02/Selected%20Country%20Experiences)
 
 **Namibia**
 
@@ -112,4 +112,4 @@ Zambia partnered with GRID3 to produce high-resolution gridded population estima
 
 South Africa conducted its first fully digital census in 2022, using three data collection modes: face-to-face (CAPI), telephonic (CATI), and online (CAWI). To support this, Statistics South Africa (Stats SA) updated its Geo-Frame across all settlements, collecting data on dwelling units, addresses, and gatekeeper information. This update helped fieldworkers navigate EAs and ensured accurate data collection. The digital census infrastructure included tools like the Digital Census Atlas and interactive mapping products, which allowed users to explore demographic data at various administrative levels. These innovations marked a significant shift toward integrated geospatial and statistical systems in South Africa’s census operations.
 
-[back to Handbook Chapter 2](/docs/experiences-lessons-2020/Chapter-02/Selected-Country-Experiences)
+[back to Handbook Chapter 2](/docs/experiences-lessons-2020/Chapter-02/Selected%20Country%20Experiences)
