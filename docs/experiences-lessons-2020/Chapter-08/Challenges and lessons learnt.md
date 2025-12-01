@@ -44,9 +44,3 @@ Digital enumeration was affected by gadget related concerns such as:
 - Need to have more than one enumerator assigned to an EA with over 150 households can arise and if managed can cause major challenges to the enumerators and supervisors to cover.
 
 - Some respondent refusals may arise during enumeration for instance in Kenya, the “Kavonokia” Sect members in Kitui and Tharaka Nithi counties refused to be enumerated. At the same time, there may be respondents reporting not to have been enumerated during and after the enumeration period. 
-
-[\[PN1\]](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter8_Enumeration_to_upload.docx#_msocom_1) 
-
-
-
- [\[PN1\]](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter8_Enumeration_to_upload.docx#_msoanchor_1)Original documented for data collection.
