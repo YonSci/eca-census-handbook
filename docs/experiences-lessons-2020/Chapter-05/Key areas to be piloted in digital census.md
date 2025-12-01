@@ -19,7 +19,7 @@ The pilot census can be used to test the final questionnaire in the way that it 
 
 ### Evaluate the data quality monitoring system and dashboard
 
-A digital census utilises electronic data quality assurance and monitoring mechanisms; therefore, the pilot census should test and evaluate their effectiveness. If the census monitoring dashboard is to be used, it needs to be in place and tested during the pilot census. The quality assurance mechanisms should also be tested, for example the supervisors’ re-interview module, field observations/monitoring mechanisms. See more about the census [monitoring dashboard](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter5_pilot_to_upload.docx#_9.2.2_Census_and).
+A digital census utilises electronic data quality assurance and monitoring mechanisms; therefore, the pilot census should test and evaluate their effectiveness. If the census monitoring dashboard is to be used, it needs to be in place and tested during the pilot census. The quality assurance mechanisms should also be tested, for example the supervisors’ re-interview module, field observations/monitoring mechanisms. See more about the census [monitoring dashboard](/docs/experiences-lessons-2020/Chapter-06/Introduction).
 
 ### Census methodology and field operations
 
