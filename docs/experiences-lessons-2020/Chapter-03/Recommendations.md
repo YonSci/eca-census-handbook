@@ -3,6 +3,8 @@ sidebar_position: 4
 hide_title: true
 ---
 
+## Recommendations
+
 Based on country experiences, the following recommendations are based for development of digital census tools:
 
 *   Ensure that there is an app help function installed on the tablet especially for questions and variables that are harder for enumerators to remember, this allows for a quick reference point.

@@ -3,6 +3,7 @@ sidebar_position: 2
 hide_title: true
 ---
 
+## Lessons Learnt
 
 Countries identified some key lessons during the operationalisation of the tool’s development process, and these include:
 

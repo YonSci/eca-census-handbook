@@ -7,7 +7,7 @@ hide_title: true
 
 **Gambia** Bureau of Statistics (GBoS) did not have a designated communication and publicity unit, GBoS engaged with the National Population Commission from the start of the census planning. It therefore utilised the existing governance structures, expertise and technical skills in communication.
 
-**Zimbabwe** Bureau of statistics (ZIMSTAT) initially thought they do not need a census communication and publicity officer, and this was not factored in the plan. However, ZIMSTAT leveraged on [partnership and collaboration](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter12%20Advocacy-to%20upload.docx#_Selected_country_experiences) with the government communication ministry to have an effective census communication and publicity.
+**Zimbabwe** Bureau of statistics (ZIMSTAT) initially thought they do not need a census communication and publicity officer, and this was not factored in the plan. However, ZIMSTAT leveraged on partnership and collaboration with the government communication ministry to have an effective census communication and publicity.
 
 In **Uganda**, a publicity and communication strategy was developed at the time of planning. This enabled bringing various stakeholders on board to support the census. 
 

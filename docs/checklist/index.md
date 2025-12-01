@@ -8,68 +8,23 @@ title: Digital Census Planning Checklist
 
 This section provides a comprehensive planning checklist designed to guide countries through the complex process of planning and implementing a digital population and housing census. The checklist ensures that all critical aspects are considered and properly planned.
 
-## Benefits of Using This Checklist
+1.	[Census Planning and Preparation](/docs/checklist/checklist-01.md)
+2.	[GIS, Mapping and Enumeration Area Delineation](/docs/checklist/checklist-02.md)
+3.	[Design of Census Questionnaires, Manuals and Procedures](/docs/checklist/checklist-03.md)
+4.	[Pilot Census](/docs/checklist/checklist-04.md) 
+5.	[Census communication, publicity and advocacy](/docs/checklist/checklist-05.md)
+6.	[Procurement and preparation of enumeration materials](/docs/checklist/checklist-06.md)
+7.	[Field Operations and Enumeration](/docs/checklist/checklist-07.md)
+8.	[Release of Census Results](/docs/checklist/checklist-08.md)
+9.	[Post-enumeration survey (PES)](/docs/checklist/checklist-09.md)
+10.	[Data processing](/docs/checklist/checklist-10.md)
+11.	[Data analysis and report writing](/docs/checklist/checklist-11.md)
+12.	[Census products](/docs/checklist/checklist-12.md)
+13.	[Dissemination of results](/docs/checklist/checklist-13.md) 
+14.	[Evaluation](/docs/checklist/checklist-14.md)
+15.	[Utilisation](/docs/checklist/checklist-15.md)
+16.	[Documentation and archiving](/docs/checklist/checklist-16.md)
 
-- **Comprehensive Coverage** - Ensures no critical elements are overlooked
-- **Proven Framework** - Based on successful implementations across Africa
-- **Flexible Application** - Adaptable to different country contexts and scales
-- **Quality Assurance** - Built-in quality gates and validation points
-- **Risk Mitigation** - Helps identify and address potential issues early
-
-
-## What's Included
-
-### ✅ **Comprehensive Planning Framework**
-A systematic approach to census planning that covers all phases from initial planning to final evaluation.
-
-### 📅 **Implementation Timeline**
-Detailed timeline templates with key milestones and dependencies to help you plan your census schedule.
-
-### 🎯 **Key Decision Points**
-Critical decisions that need to be made at each stage of the census process, with guidance on timing and considerations.
-
-### 📋 **Quality Gates**
-Checkpoints to ensure quality and readiness before proceeding to the next phase of implementation.
-
----
-
-## Checklist Components
-
-### **Phase 1: Initial Planning**
-- Stakeholder identification and engagement
-- Budget development and approval
-- Legal and regulatory framework
-- Project governance structure
-
-### **Phase 2: Technical Preparation**
-- Technology selection and procurement
-- System development and testing
-- Data security and privacy measures
-- Training program development
-
-### **Phase 3: Field Preparation**
-- Cartographic mapping and enumeration areas
-- Recruitment and training of field staff
-- Pilot testing and validation
-- Logistics and supply chain setup
-
-### **Phase 4: Implementation**
-- Field operation launch
-- Real-time monitoring and support
-- Quality assurance and control
-- Issue resolution and escalation
-
-### **Phase 5: Post-Enumeration**
-- Data processing and validation
-- Analysis and report preparation
-- Dissemination and archiving
-- Evaluation and documentation
-
-## Access the Complete Checklist
-
-**[View Detailed Planning Checklist →](/docs/checklist/ch1)**
-
-Get access to the comprehensive planning checklist that will guide you through every step of your digital census implementation.
 
 ---
 

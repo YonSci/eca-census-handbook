@@ -21,7 +21,7 @@ The results from the pilot mapping were used to review and improve on the mappin
 
 A Communication Plan focusing on advocacy and publicity of the mapping was developed. The most convenient method used was the distribution of flyers and displaying of posters to create awareness. Engaged community leaders through meetings and had the opportunity to elaborate on the objectives of
 
-the census mapping. Mobilization was done in each selected EA before commencement of data collection exercises to ensure that local people were aware of the project and what was expected of them. Courtesy visits to constituency and local councilors were also undertaken to introduce the exercise and request them to inform their constituency inhabitants about the exercise during their respective radio announcements and community meetings. In addition, FM Radio announcements, local newspapers, television, and specific talk shows among others to announce the commencement of fieldwork.
+the census mapping. Mobilisation was done in each selected EA before commencement of data collection exercises to ensure that local people were aware of the project and what was expected of them. Courtesy visits to constituency and local councilors were also undertaken to introduce the exercise and request them to inform their constituency inhabitants about the exercise during their respective radio announcements and community meetings. In addition, FM Radio announcements, local newspapers, television, and specific talk shows among others to announce the commencement of fieldwork.
 
 **Kenya**
 
@@ -33,7 +33,7 @@ The Open Data Kit (ODK) a free application was used to develop and test the mapp
 
 The technology and instruments/tools embraced were tested before the actual cartographic mapping exercise. A pilot mapping exercise was conducted to identify the most ideal tablet for use especially one with high GPS accuracy- Samsung Galaxy J2 phone was identified as having accurate GPS readings; tested the Open Data Kit (ODK) application; tested the use of Satellite imageries and aerial photographs which were used for planning and allocation of work, plotting of boundaries and features; tested the adequacy of the data collection forms; tested the suitability of the KNBS Server and entire ICT system in undertaking the digital cartographic mapping. The pilot was also used to ascertain the type of and number of vehicles to be used as well as the resources that could be required to undertake cartographic mapping in the entire country.
 
-The publicity and advocacy for the cartographic and mapping exercise was cascaded and done through the print media, radio, TV, social media and holding physical community mobilization meetings for the local administration who were in turn to hold community level sensitization meetings. Sensitization of the local administrative leadership was done by NSO staff sensitizing the local administrative officers in each county. The sensitization meetings were held, and the administrative officers were taken through the importance of census and the activities involved in the census process, inform how the village elders were to fill the mapping form 1 provided to them in the rural villages. Due to lack of clear understanding of mapping concepts in Kenya, there was a variance in number of villages provided and the actual number of EAs during the sensitization exercise.
+The publicity and advocacy for the cartographic and mapping exercise was cascaded and done through the print media, radio, TV, social media and holding physical community mobilization meetings for the local administration who were in turn to hold community level sensitisation meetings. Sensitisation of the local administrative leadership was done by NSO staff sensitising the local administrative officers in each county. The sensitisation meetings were held, and the administrative officers were taken through the importance of census and the activities involved in the census process, inform how the village elders were to fill the mapping form 1 provided to them in the rural villages. Due to lack of clear understanding of mapping concepts in Kenya, there was a variance in number of villages provided and the actual number of EAs during the sensitisation exercise.
 
 In Kenya, the exercise started with 12 teams with each team comprising of a team leader and 7 mapping assistants. There were also coordinators in charge of several teams. The number of teams was later increased to 40 with a total of 400 temporary Mapping Assistants (MAs) who were recruited and trained to speed up the mapping process.
 
@@ -45,7 +45,7 @@ A team of GIS technicians were recruited to support the GIS team in undertaking 
 
 **Stage 1**
 
-•           Digitization was carried out by first downloading the spatial data collected from the cloud server. ArcGIS software was used to overlay spatial data on satellite imagery for rural areas or aerial photographs for urban areas.  The data would be symbolized by village name to determine the extent of a village. Digitization of village boundaries was guided by already generated schema.
+•           Digitisation was carried out by first downloading the spatial data collected from the cloud server. ArcGIS software was used to overlay spatial data on satellite imagery for rural areas or aerial photographs for urban areas.  The data would be symbolised by village name to determine the extent of a village. Digitisation of village boundaries was guided by already generated schema.
 
 •           Delineation of EAs was done based on measure of size which is between 50 and 149 households making an average of 100 households. A village with more than 149 households was subdivided to create more than one EA whereas one with less than 50 households was merged with another next to it. An EA was therefore either part of a village, an entire village or several villages combined.
 
@@ -69,7 +69,7 @@ Verified maps and verification forms were forwarded to the map production office
 
 **Sierra Leone**
 
-**Sierra Leone** aimed to achieve a verified and categorized nationwide locality list of all administrative levels showing the name of each locality, district, chiefdom, and section with a unique code.
+**Sierra Leone** aimed to achieve a verified and categorised nationwide locality list of all administrative levels showing the name of each locality, district, chiefdom, and section with a unique code.
 
 The cartographic mapping questionnaire was developed to capture information on, building use, locality class, classes of roads, water bodies and expected drainage type etc. The questionnaire was mainly designed to enable the head of the household to give information about the structure and number of members in the household. Other information was obtained using observation methods by the field staff. 
 
@@ -81,15 +81,15 @@ The pilot mapping was done in two phases and the section administrative boundary
 
 \- In the second phase, the coverage was increased beyond the capital city with diversified prevailing conditions including hard to reach areas and poor internet connectivity. Three sections were randomly selected across the country.
 
-the Communication and Publicity division within the NSOs led the campaigns to sensitize and educate the public on the need to cooperate and support the mapping teams before the start and during the cartographic mapping process. The key tools used included Community sensitization meetings, radio discussions in both local and national languages, use of megaphones, providing local guards by the communities as part of the process to lead field staff for hard-to-reach areas and ensuring all communities are reached.
+the Communication and Publicity division within the NSOs led the campaigns to sensitise and educate the public on the need to cooperate and support the mapping teams before the start and during the cartographic mapping process. The key tools used included Community sensitisation meetings, radio discussions in both local and national languages, use of megaphones, providing local guards by the communities as part of the process to lead field staff for hard-to-reach areas and ensuring all communities are reached.
 
 In Sierra Leone, the actual field work started with annotation of Satellite imagery, updating of verified locality list, deployment of field staff with required logistics and delineation of EAs using the satellite imagery.
 
-The Data quality assurance officers and Assistants were busy with the required quality checks. The National quality officer was supervising all the quality assurance officers also used a customized application to ensure that data from the field mappers shows a true representation of the real information on the ground and in addition do ground trotting for randomly selected delineated EAs.
+The Data quality assurance officers and Assistants were busy with the required quality checks. The National quality officer was supervising all the quality assurance officers also used a customised application to ensure that data from the field mappers shows a true representation of the real information on the ground and in addition do ground trotting for randomly selected delineated EAs.
 
-•           Mappers were in the field collecting data and creating temporary Enumeration Area boundaries and saving the data into the cloud. The GIS Officers and assistants who were in the respective District Offices downloaded data as sent from the field via google cloud. The EAs were digitized and delineated using ArcGIS Mapping software tool.
+•           Mappers were in the field collecting data and creating temporary Enumeration Area boundaries and saving the data into the cloud. The GIS Officers and assistants who were in the respective District Offices downloaded data as sent from the field via google cloud. The EAs were digitised and delineated using ArcGIS Mapping software tool.
 
-•           The mapping PAD remote submission process utilizes a top-level security cloud system to scan and safely deliver uploaded tasks to GIS portal. GIS portal can only be opened by registered and verified GIS Officers.
+•           The mapping PAD remote submission process utilises a top-level security cloud system to scan and safely deliver uploaded tasks to GIS portal. GIS portal can only be opened by registered and verified GIS Officers.
 
 •           No physical maps were printed for actual census enumeration instead a Census Pad application was used with online resources like Open Street based on cartographic enumeration area boundary shapefiles, and the spatial data collected. These facilitated the census staff to locate their Enumeration areas without hard copy maps. 
 
@@ -97,7 +97,7 @@ The verification process was followed up with a ground trotting exercise. To ens
 
 **Senegal**
 
-The design of the Mapping tools was a build up from versions of the previous census. They were finalized in technical workshops and benching marking at INECV Cape Verde (for Cartography) and INSD Burkina Faso (for enumeration).
+The design of the Mapping tools was a build up from versions of the previous census. They were finalised in technical workshops and benching marking at INECV Cape Verde (for Cartography) and INSD Burkina Faso (for enumeration).
 
 The software used for development of the RGPH-5 Mapping tools were: ARCGIS and MOBAC
 
@@ -105,7 +105,7 @@ The cartography team included: mapping agents, team leaders, regional supervisor
 
 **Botswana**
 
-SmartClient for Census a WEB-based Client-Server software solution was used to collect, transmit, store and clean mapping data. SmartClient for Census enables different users to log into the system to execute tasks allocated to them and has GIS architecture with one central database for office and field work, which ensures easy access to data. This ensured that through unique workflows the data capturing was viewed and managed as soon as data was synchronized into the server and field work was ongoing. SmartClient for Census also has online and offline functionality, that ensured that work is continuous even where there is no internet coverage.
+SmartClient for Census a WEB-based Client-Server software solution was used to collect, transmit, store and clean mapping data. SmartClient for Census enables different users to log into the system to execute tasks allocated to them and has GIS architecture with one central database for office and field work, which ensures easy access to data. This ensured that through unique workflows the data capturing was viewed and managed as soon as data was synchronised into the server and field work was ongoing. SmartClient for Census also has online and offline functionality, that ensured that work is continuous even where there is no internet coverage.
 
 **Zambia**
 

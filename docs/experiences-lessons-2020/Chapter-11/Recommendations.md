@@ -18,10 +18,10 @@ The following recommendations are based on country experiences:
 
 - Recommend collaboration with international and multilateral partners, some key partners include:
 
-- United Nations Population Fund (UNFPA) - A leading partner, often providing financial support, procuring hardware (tablets, power banks), and offering extensive technical assistance on all census phases.
+  - United Nations Population Fund (UNFPA) - A leading partner, often providing financial support, procuring hardware (tablets, power banks), and offering extensive technical assistance on    all census phases.
 
-- United Nations Economic Commission for Africa (UNECA) provides technical expertise, develops standardised tools and methodologies, and facilitates knowledge sharing among African countries.
+  - United Nations Economic Commission for Africa (UNECA) provides technical expertise, develops standardised tools and methodologies, and facilitates knowledge sharing among African countries.
 
-- The World Bank and African Development Bank (AfDB) are major sources of funding through loans and grants, often tying census support to broader national development goals.
+  - The World Bank and African Development Bank (AfDB) are major sources of funding through loans and grants, often tying census support to broader national development goals.
 
-- Bilateral Donors: Development agencies from countries like the UK, USA (USAID), and Sweden (Sida) provide financial and technical support.
+  - Bilateral Donors: Development agencies from countries like the UK, USA (USAID), and Sweden (Sida) provide financial and technical support.

@@ -17,7 +17,7 @@ In terms of logistics management before, during and after enumeration, it is rec
 
 - To effectively manage census logistics, there should be strong partnerships and collaboration both within and out of the country. For instance, in Kenya, other government departments with good infrastructure assisted in movement of materials such as the disciplined forces (Army and Police) for provision of transport and security. This collaboration can also continue for future censuses.
 
-- The constitution of a census logistics team is good practice but should be done early in the census planning cycle, at least one year to census enumeration and the team should be part of the [pilot census](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter8_Enumeration_to_upload.docx#_5.1_%EF%BF%BCKey_areas). The operations at the sub-national level should be given attention in terms of staffing and training on logistical operations.
+- The constitution of a census logistics team is good practice but should be done early in the census planning cycle, at least one year to census enumeration and the team should be part of the [pilot census](/docs/experiences-lessons-2020/Chapter-05/Introduction). The operations at the sub-national level should be given attention in terms of staffing and training on logistical operations.
 
 - It is ideal to have a separate warehouse that should be ready at least three months before census enumeration. The material handling should be computerised and integrated into Enterprise Resource Planning systems. However, to minimise costs and in the event of a lack of proper planning, the logistics team should be in a position to improvise within the available resources. For instance, Kenya did not have proper storage space at the national level, and it utilised the unfinished office space that was to be used by library at KNBS headquarters as storage space and logistics operation centre. Other offices within KNBS headquarters were also used as storage facilities.  
 
@@ -30,8 +30,3 @@ Based on the country experiences and lessons learnt from the data collection pro
 - A toll-free line provided to the public to make calls to the census call centre at headquarters should be in place to easy communicate between the office and the community during enumeration. 
 
 - For refusals in enumeration, be clear about the mandatory nature of the census, about why it's important to be counted etc. – use a mixture of convincing messaging and legal aspects.
-
-[\[PN1\]](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter8_Enumeration_to_upload.docx#_msocom_1) 
-
-
-[\[PN1\]](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter8_Enumeration_to_upload.docx#_msoanchor_1)Originally documented for data collection

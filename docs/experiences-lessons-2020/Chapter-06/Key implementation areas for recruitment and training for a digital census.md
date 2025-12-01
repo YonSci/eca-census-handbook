@@ -12,7 +12,7 @@ Such guidelines should lay out details regarding the recruitment campaign and pu
 
 ### Development and testing of e-recruitment system
 
-The e-recruitment system for online applications, sifting and grading of tests needs to be thoroughly tested before use. Ensure that the IT experts developing the system are in close communication with the human resources(HR) and census experts in charge of recruitment to make sure that their requirements are met and not misinterpreted. Test your e-recruitment system thoroughly for ease of use by both applicants and recruiters. Bear in mind that when your recruitment campaign goes live there may be millions of applications with peak periods of demand as application deadlines approach. Stress-test your system to ensure that it can handle the expected volume of traffic. 
+The e-recruitment system for online applications, sifting and grading of tests needs to be thoroughly tested before use. Ensure that the IT experts developing the system are in close communication with the human resources (HR) and census experts in charge of recruitment to make sure that their requirements are met and not misinterpreted. Test your e-recruitment system thoroughly for ease of use by both applicants and recruiters. Bear in mind that when your recruitment campaign goes live there may be millions of applications with peak periods of demand as application deadlines approach. Stress-test your system to ensure that it can handle the expected volume of traffic. 
 
 ### Development of integrated systems
 
@@ -20,7 +20,7 @@ Human resource information systems can greatly assist the management of the larg
 
 ### Deployment of recruitment advertisement campaign
 
-The recruitment campaign should leverage digital media to maximise coverage. See chapter on [Advocacy, Publicity and Resource Mobilization](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter6_Recruitment_to_upload.docx#_Advocacy,_Publicity_and).
+The recruitment campaign should leverage digital media to maximise coverage. See chapter on [Advocacy, Publicity and Resource Mobilization](/docs/experiences-lessons-2020/Chapter-12/Introduction).
 
 ### Development of Training programme
 
@@ -28,7 +28,7 @@ The training programme should utilise an online approach for basic generic modul
 
 ### Pilot of recruitment and training
 
-The [census pilot](file:///C:/Users/ymersha/Downloads/e-cencus-handbook/Chapter6_Recruitment_to_upload.docx#_CHAPTER_SIX:_Census) should include thorough testing of the recruitment and training technology and methodology to ensure that the systems are working as expected. For example, during the pilot, Namibia found that its e-recruitment system was unable to handle the large volumes of applications made. This issue was resolved by the time of the census recruitment.
+The [census pilot](/docs/experiences-lessons-2020/Chapter-05/Introduction) should include thorough testing of the recruitment and training technology and methodology to ensure that the systems are working as expected. For example, during the pilot, Namibia found that its e-recruitment system was unable to handle the large volumes of applications made. This issue was resolved by the time of the census recruitment.
 
 ### Deployment of training programme
 

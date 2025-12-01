@@ -10,7 +10,7 @@ Based on the case studies and lessons learned, it is recommended:
 
 - The tabulation plan and analysis should be handled by the subject matter experts from within the NSO and the relevant line ministries to guide on the relevance and interpretation of the results to enhance its use.
 
-- Ensure adequate budgeting and resource mobilization for development of various products, dissemination and archiving should be in time to ensure the financial support is availed in time.
+- Ensure adequate budgeting and resource mobilisation for development of various products, dissemination and archiving should be in time to ensure the financial support is availed in time.
 
 - Timely launch of the reports has been necessitated and facilitated by technology. Countries should therefore commit to availing the various products in time to the stakeholders to use in the programming and policy formulation.
 
@@ -18,9 +18,9 @@ Based on the case studies and lessons learned, it is recommended:
 
 - There is a need to address geographical boundary disputes before launch and dissemination of reports by administrative/political boundaries. These disputes affect enumeration and can be resolved and agreed upon during map verification.
 
-- Need to identify various users/stakeholders in time and engage them in the entire census process as this ensures key indicators are included in the various products and provision of technical/financial support; Identification of thematic experts and engaging them in time.
+- Need to identify various users/stakeholders in time and engage them in the entire census process as this ensures key indicators are included in the various products and provision of technical/financial support. Also the identification of thematic experts and engaging them in good time.
 
-- For archiving, the nature and format of the census data files created in the data processing and dissemination phase should be anonymized microdata and become a standard feature of census data dissemination for the 2030 round of censuses.
+- For archiving, the nature and format of the census data files created in the data processing and dissemination phase should be anonymised microdata and become a standard feature of census data dissemination for the 2030 round of censuses.
 
 Based on the challenges and lessons documented, the following recommendations are proposed:
 
@@ -30,9 +30,9 @@ Based on the challenges and lessons documented, the following recommendations ar
 
 - Additionally, census implementing agencies should leverage on technology developments and social media platforms for the census products to reach a wider audience while taking care not to neglect those not able to access the technology. 
 
-- There is need to further decentralize the dissemination of census results from regional down to constituency levels.
+- There is need to further decentralise the dissemination of census results from regional down to constituency levels.
 
-- In Eswatini, a national user consultation and telephonic surveys was scheduled. Participants concluded that user involvement is important and productive in all phases of census and development of thematic studies is better to prioritize engaging technical personnel from NSOs, universities and relevant Ministries.
+- In Eswatini, a national user consultation and telephonic surveys was scheduled. Participants concluded that user involvement is important and productive in all phases of census and development of thematic studies is better to prioritise engaging technical personnel from NSOs, universities and relevant ministries.
 
 
 [back to Handbook Chapter 10](/docs/experiences-lessons-2020/Chapter-10/Introduction)
