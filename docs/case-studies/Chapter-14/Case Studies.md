@@ -33,7 +33,10 @@ A computer-based algorithm was developed in Python programming language to perfo
 | 9 | First Name + (Last Name 1 Cen = Last Name 2 PES or Last Name 2 Cen = Last Name 1 PES + Age + Sex + Household |
 | 10 | StdLEV(First Name)>0.79 + RLSoundex4(Last Name) + Age_Difference  + Sex + Relationship to Head of Household + Household |
 
-1. The standardised Levenshtein Edit Distance that measures the number of insertions, deletions or substitutions required to transform one name into another calculated as a proportion of the length of the longest name. 2. The age difference function that allows different tolerance in ages depending on the age  3.  Alphanames is a derived variable that puts all characters of the names into alphabetical order 4. RLSoundex is the Soundex function applied to the name with all Rs replaced with Ls (this adaption was used in Rwanda because R and L are pronounced the same in Kinyarwanda). 
+1. The standardised Levenshtein Edit Distance that measures the number of insertions, deletions or substitutions required to transform one name into another calculated as a proportion of the length of the longest name.
+2. The age difference function that allows different tolerance in ages depending on the age
+3.  Alphanames is a derived variable that puts all characters of the names into alphabetical order
+4. RLSoundex is the Soundex function applied to the name with all Rs replaced with Ls (this adaption was used in Rwanda because R and L are pronounced the same in Kinyarwanda). 
 
 NISR did not carry out a PES pilot which meant that there was no suitable data available for tuning the automatic matching algorithm prior to the PES. Therefore, the algorithms were tested and tuned during the first weeks of the PES data collection. The final matching strategy made use of deterministic matchkeys, associative matching (using existing matches to find additional matches within the same household), probabilistic matching and clerical matching. The Clerical Resolution Online Widget (CROW) clerical matching system was adapted for use with the Rwandan data. 
 
