@@ -80,14 +80,14 @@ The pilot mapping was done in two phases and the section administrative boundary
 The Communication and Publicity division within the NSO led the campaigns to sensitise and educate the public on the need to cooperate and support the mapping teams before the start and during the cartographic mapping process. The key tools used included community sensitisation meetings, radio discussions in both local and national languages, use of megaphones, providing local guards by the communities as part of the process to lead field staff for hard to reach areas and ensuring all communities are reached.
 
 In Sierra Leone, the actual field work started with annotation of Satellite imagery, updating of verified locality list, deployment of field staff with required logistics and delineation of EAs using the satellite imagery. 
-The data quality assurance officers and assistants were busy with the required quality checks. The national quality officer was supervising all the quality assurance officers also used a customised application to ensure that data from the field mappers shows a true representation of the real information on the ground and in addition do ground trotting for randomly selected delineated EAs.
+The data quality assurance officers and assistants were busy with the required quality checks. The national quality officer was supervising all the quality assurance officers and also used a customised application to ensure that data from the field mappers shows a true representation of the real information on the ground and in addition do ground trotting for randomly selected delineated EAs.
 
 
 - Mappers were in the field collecting data and creating temporary Enumeration Area boundaries and saving the data into the cloud. The GIS Officers and assistants who were in the respective District Offices downloaded data as sent from the field via google cloud. The EAs were digitized and delineated using ArcGIS Mapping software tool.
 
 - The mapping PAD remote submission process utilises a top-level security cloud system to scan and safely deliver uploaded tasks to GIS portal. GIS portal can only be opened by registered and verified GIS Officers.
 
-- No physical maps were printed for actual census enumeration instead a Census Pad application was used with online resources like Open Street based on cartographic enumeration area boundary shapefiles, and the spatial data collected. These facilitated the census staff to locate their Enumeration areas without hard copy maps. 
+- No physical maps were printed for actual census enumeration; instead a Census Pad application was used with online resources like Open Street based on cartographic enumeration area boundary shapefiles, and the spatial data collected. These facilitated the census staff to locate their Enumeration areas without hard copy maps. 
 
 The verification process was followed up with a ground trotting exercise. To ensure that only accredited functionaries use the App, the mapping PAD periodically runs system authentication on every phone the App is installed.
 
