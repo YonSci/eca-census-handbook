@@ -93,7 +93,7 @@ The verification process was followed up with a ground trotting exercise. To ens
 
 **Senegal**
 
-The design of the Mapping tools was a build up from versions of the previous census. They were finalised in technical workshops and benching marking at theNational Statistics Institute of Cape Verde (INECV) (for Cartography) and the National Institute of Statistics and Demography forBurkina Faso (INSD) (for enumeration).
+The design of the Mapping tools was a build up from versions of the previous census. They were finalised in technical workshops and benching marking at theNational Statistics Institute of Cape Verde (INECV) (for Cartography) and the National Institute of Statistics and Demography for Burkina Faso (INSD) (for enumeration).
 
 The software used for development of the RGPH-5 Mapping tools were: ArcGIS and MOBAC
 
