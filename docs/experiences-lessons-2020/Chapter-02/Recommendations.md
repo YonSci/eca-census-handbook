@@ -29,7 +29,7 @@ hide_title: true
 
 - It is recommended that proper training and supervision of mapping assistants should be done to avoid the creation of gaps that could delay completion of delineation of EA boundaries.
 
-- NSOs should plan for adequate server space to accommodate the huge geo spatial data such as satellite imageries and aerial photographs.
+- NSOs should plan for adequate server space to accommodate the huge geospatial data such as satellite imageries and aerial photographs.
 
 - There is a need to plan for adequate editing personnel to avoid delaying the EA map editing process.
 
