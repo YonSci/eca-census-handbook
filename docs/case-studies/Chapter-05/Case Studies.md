@@ -27,7 +27,7 @@ Within the resources budgeted for the pilot census, two extra pretests had to be
 
 Ethiopia conducted three pilot censuses in November 2016, March 2017 and June 2018 and the main census enumeration did not take place in the 2020 round. The first and second pilots were conducted to test both enumeration methods - paper and tablet, while the third one was purely digital with backup paper questionnaires for emergencies such as tablet failure and power shortage. After the completion, the first pilot lessons were documented to inform subsequent census activities as outlined below.
 
-- Recruitment guidelines were not followed, leading to appointment of fieldworkers who were physically unfit, some were not familiar with digital technology, while others could not speak the local language, whichnegatively affected the pilot census operations. This,coupled with lack of or poor communication about field worker entitlements, led to discontent and disruption of the training.
+- Recruitment guidelines were not followed, leading to appointment of fieldworkers who were physically unfit, some were not familiar with digital technology, while others could not speak the local language, which negatively affected the pilot census operations. This, coupled with lack of or poor communication about field worker entitlements, led to discontent and disruption of the training.
 
 - The pilot census was done before a thorough review and finalisation of the data collection tools was completed, pretests should have been done earlier to address issues found such as inconsistencies in the translated questionnaires, inappropriate and non-functional skip patterns/rules in the data capture application.
 
