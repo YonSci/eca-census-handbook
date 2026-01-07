@@ -13,7 +13,7 @@ hide_title: true
 - The introduction of new mapping tools midway through the exercise slowed the fieldwork because some mapping assistants could not cope with the changes immediately. This implies that early determination of the end products and testing of all the possible applications is vital.
 - Unclear definition and demarcation of boundaries between urban and rural EAs made it difficult to get accurate data.
 - Lack of prior planning for mapping of mobile populations like nomads and pastoralists, who can be missed or double counted.
-- NSOs did not plan for adequate server space to accommodate the arising huge geo spatial data.
+- NSOs did not plan for adequate server space to accommodate the arising huge geospatial data.
 - There was insufficient planning about the required number and quality of editing personnel for map production.
 - The GIS licenses to enable map production were either unavailable, expired and yet too costly.
 - There was a lack of sufficient computer machines with adequate processing capacity.

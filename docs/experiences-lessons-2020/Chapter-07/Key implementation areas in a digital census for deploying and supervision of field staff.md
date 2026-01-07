@@ -5,7 +5,7 @@ hide_title: true
 
 ## Key implementation areas in a digital census for deploying and supervision of field staff
 
-The following sections describes the technology available to resolve issues in the field and via the central call centre, monitor the progress of the enumeration in real-time using dashboards, track enumerators in the field, and automate the payment of field staff.
+The following section describes the technology available to resolve issues in the field and via the central call centre, monitor the progress of the enumeration in real-time using dashboards, track enumerators in the field, and automate the payment of field staff.
 
 ### Resolving Issues in the Field
 
@@ -34,7 +34,7 @@ The adoption of the Census Field Management Tool has significantly impacted the 
 
 The most frequently used features of the issues tracker include the self-help function, the messaging and notification options. The self-help function allows enumerators to search for solutions to common issues on their own, reducing the burden on the support team. The messaging and notification options allow for real-time communication between the enumerators and the support team, ensuring that issues are addressed in a timely manner. Finally, data integration gives support providers additional context and history about the enumerators and supervisors, and their devices, helping them to better understand and resolve issues.
 
-In conclusion, the Census Field Management Tool (issues tracker) was a valuable addition to UNECA’s support to countries. This tool impacts an area that is often not addressed yet critical to census taking. Like many digital tools it is evolving and addressing key areas of country needs.
+In conclusion, the Census Field Management Tool (issues tracker) was a valuable addition to UNECA’s support to countries. This tool impacts an area that is often not addressed yet critical to census taking. Like many digital tools it is evolving and addressing key areas of the country's needs.
 
 ### Census support centre
 

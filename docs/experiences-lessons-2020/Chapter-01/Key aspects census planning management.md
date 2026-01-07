@@ -5,7 +5,7 @@ hide_title: true
 
 ## Key Aspects of Census Planning and Management
 
-This subsection highlights the key aspects of concern during the 2020 round during planning management. The detail census planning aspects for the 2030 round can be accessed in the [UN P&R, Rev 4](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf), part two on planning, organisation and management. Further information is available in the UN Handbook on the [Management of Population and Housing Censuses, Rev 2, p. 11-25](https://unstats.un.org/unsd/publication/seriesf/series_f83rev2en.pdf#page=26). A planning checklist to help guide your planning is included in this e-census handbook.
+This subsection highlights the key aspects of concern during the 2020 round regarding planning management. The detailed census planning aspects for the 2030 round can be accessed in the [UN P&R, Rev 4](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf), part two on planning, organisation and management. Further information is available in the UN Handbook on the [Management of Population and Housing Censuses, Rev 2, p. 11-25](https://unstats.un.org/unsd/publication/seriesf/series_f83rev2en.pdf#page=26). A planning checklist to help guide your planning is included in this e-census handbook.
 
 ## Census project document
 
@@ -25,9 +25,9 @@ While a universal system for census budgeting is not feasible due to varying fin
 *	Adopt a performance-based framework that ensures that resources are allocated to specific activities within the census phases and are measurable. NSOs should create a comprehensive list of census activities and their costs, no matter how small.
 *	Develop key budget performance indicators and undertake periodic analysis of budgets against actual cash inflows and expenditures as the census phases progress. 
 *	A census budget should contain both planning and reporting structures within the implementing agency given that often the resources come from multiple sources.
-*	Budget plans must be updated as necessary to reflect the current situation and for it to constantly remain relevant and useful. Census plans are not statis. For example, budgets may need to be revised after the pilot census or if the programme is unsuccessful in securing the full budget.
+*	Budget plans must be updated as necessary to reflect the current situation and for it to constantly remain relevant and useful. Census plans are not static. For example, budgets may need to be revised after the pilot census or if the programme is unsuccessful in securing the full budget.
 *	Have a resource mobilisation plan in place to be implemented by the census steering committee.
-*	Allowing for contingency within the budget is essential, particularly as the life-cycle cost of technology alongside more traditional operational costs may be more uncertain.
+*	Allowing for contingency within the budget is essential, particularly as the life-cycle cost of technology alongside more traditional operational costs may be more uncertain. Contingency funding should be included within the overall costs, possibly 15% of the annual budget. 
 
 
 For detailed guidelines for census budget and cost control refer to the [UN P&R, Rev 4, para. 2.97 to 2.108](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=105).

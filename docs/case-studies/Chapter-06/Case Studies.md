@@ -71,7 +71,7 @@ Training of enumerators was conducted on a non-residential basis in schools and 
 
 **Botswana**
 
-Botswana used e-recruitment for the 2022 PHC for enumerators and supervisor’s testing and selection. The recruitment aimed to achieve a ratio of enumerators to content supervisors at four. During the Pilot census, the assessment was done using Google Forms which required internet access for the whole period of writing up to submitting the test and instant receipt of test scores.
+Botswana used e-recruitment for the 2022 PHC for enumerators and supervisors testing and selection. The recruitment aimed to achieve a ratio of four enumerators to each supervisor. During the Pilot census, the assessment was done using Google Forms which required internet access for the whole period of writing up to submitting the test and instant receipt of test scores.  
 
 For the main census, a team of system developers reviewed the assessment tool and developed it in CSPro software. The assessment was accessed through a CAPI system that could work offline but needed internet connection for synchronising/submitting the assessment also backed up on tablets. The assessment was password protected and only made available when allowed and ready to take the test. All applicants taking the assessment were registered in the system by using their national identity card numbers (Omang). For those who were not Omang, the development team had to register them to access the test.
 
