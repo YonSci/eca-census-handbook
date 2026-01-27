@@ -6,6 +6,8 @@ hide_title: true
 
 [back to Handbook Chapter 1](/docs/experiences-lessons-2020/Chapter-01/Selected-Country-Experiences)
 
+# Chapter 1: Planning & Management
+
 **Kenya**
 
 The planning process started in 2015 (four years to the census date). The proposal provided a road map and detailed plan on how to effectively operationalise all three phases of the census processes: the pre-enumeration phase, enumeration phase and post-enumeration phase. The proposal was developed internally by the KNBS staff. The drafted proposal went through vigorous revisions based on inputs from various census experts, stakeholders and other government departments before finalisation and eventual approval of the document two years later in May 2017. After finalisation of the census project proposal, a cabinet memo was developed to forward the proposal to the cabinet for information and approval.
