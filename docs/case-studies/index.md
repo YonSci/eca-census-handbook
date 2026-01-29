@@ -10,52 +10,52 @@ This section presents real-world case studies and practical examples from Africa
 
 ## Browse Case Studies by Chapter
 
-- **[Chapter 1: Project Planning and Management](/docs/case-studies/Chapter-01/Case%20Studies)**  
+- **[Chapter 1: Project Planning and Management](/docs/case-studies/Planning%20&%20Management)**  
   Real examples of project planning and management approaches
 
-- **[Chapter 2: Geospatial Mapping and EA Database Management](/docs/case-studies/Chapter-02/Case%20Studies)**  
+- **[Chapter 2: Geospatial Mapping and EA Database Management](/docs/case-studies/Geospatial%20Mapping%20and%20EA%20Database%20Management)**  
   Country experiences with digital mapping and enumeration area management
 
-- **[Chapter 3: Enumeration Instruments, Applications and Tools](/docs/case-studies/Chapter-03/Case%20Studies)**  
+- **[Chapter 3: Enumeration Instruments, Applications and Tools](/docs/case-studies/Enumeration%20Instruments,%20Applications%20and%20Tools)**  
   Case studies on developing and implementing digital census instruments
 
-- **[Chapter 4: Data Capture, Transmission and Management](/docs/case-studies/Chapter-04/Case%20Studies)**  
+- **[Chapter 4: Data Capture, Transmission and Management](/docs/case-studies/Data%20Capture,%20Transmission%20and%20Management)**  
   Practical examples of data collection and management systems
 
-- **[Chapter 5: Census Testing and Pilots](/docs/case-studies/Chapter-05/Case%20Studies)**  
+- **[Chapter 5: Census Testing and Pilots](/docs/case-studies/Census%20Testing%20and%20Pilots)**  
   Country experiences with piloting and testing census operations
 
-- **[Chapter 6: Recruitment and Training of Field Personnel](/docs/case-studies/Chapter-06/Case%20Studies)**  
+- **[Chapter 6: Recruitment and Training of Field Personnel](docs/case-studies/Recruitment%20and%20Training%20of%20Field%20Personnel)**  
   Case studies on recruitment and training strategies
 
-- **[Chapter 7: Deployment and Supervision of Field Personnel](/docs/case-studies/Chapter-07/Case%20Studies)**  
+- **[Chapter 7: Deployment and Supervision of Field Personnel](/docs/case-studies/Deployment%20and%20Supervision%20of%20Field%20Personnel)**  
   Real-world examples of field staff deployment and supervision
 
-- **[Chapter 8: Enumeration and Logistics](/docs/case-studies/Chapter-08/Case%20Studies)**  
+- **[Chapter 8: Enumeration and Logistics](/docs/case-studies/Enumeration%20and%20Logistics)**  
   Country experiences with enumeration and logistics management
 
-- **[Chapter 9: Quality Assurance, Monitoring, Evaluation and Risk Management](/docs/case-studies/Chapter-09/Case%20Studies)**  
+- **[Chapter 9: Quality Assurance, Monitoring, Evaluation and Risk Management](/docs/case-studies/Quality%20Assurance,%20Monitoring,%20Evaluation,%20and%20Risk%20Management)**  
   Case studies on quality control and risk management
 
-- **[Chapter 10: Census Analysis, Products, Dissemination and Archiving](/docs/case-studies/Chapter-10/Case%20Studies)**  
+- **[Chapter 10: Census Analysis, Products, Dissemination and Archiving](/docs/case-studies/Census%20Analysis,%20Products,%20Dissemination%20and%20Archiving)**  
   Examples of data processing, analysis, and dissemination approaches
 
-- **[Chapter 11: Partnerships and Collaboration](/docs/case-studies/Chapter-11/Case%20Studies)**  
+- **[Chapter 11: Partnerships and Collaboration](/docs/case-studies/Partnerships%20and%20Collaboration)**  
   Case studies on building effective partnerships
 
-- **[Chapter 12: Advocacy, Publicity and Resource Mobilization](/docs/case-studies/Chapter-12/Case%20Studies)**  
+- **[Chapter 12: Advocacy, Publicity and Resource Mobilization](/docs/case-studies/Advocacy,%20Publicity%20and%20Resource%20Mobilization)**  
   Country experiences with advocacy and resource mobilization
 
-- **[Chapter 13: Procurement and Financial Management](/docs/case-studies/Chapter-13/Case%20Studies)**  
+- **[Chapter 13: Procurement and Financial Management](/docs/case-studies/Procurement%20and%20Financial%20Management)**  
   Real examples of procurement and financial management approaches
 
-- **[Chapter 14: Post-Enumeration Survey](/docs/case-studies/Chapter-14/Case%20Studies)**  
+- **[Chapter 14: Post-Enumeration Survey](/docs/case-studies/Post-Enumeration%20Survey)**  
   Case studies on post-enumeration survey implementation
 
-- **[Chapter 15: Alternative Approaches](/docs/case-studies/Chapter-15/Case%20Studies)**  
+- **[Chapter 15: Alternative Approaches](/docs/case-studies/Alternative%20Approaches)**  
   Examples of alternative census methodologies and approaches
 
-- **[Chapter 16: Planning Checklist](/docs/case-studies/Chapter-16/Case%20Studies)**  
+- **[Chapter 16: Planning Checklist](/docs/case-studies/Checklist%20for%20planning%20a%20digital%20Population%20and%20Housing%20Census%20in%20Africa)**  
   Case studies on comprehensive census planning
 
 ---
