@@ -25,7 +25,7 @@ This section presents real-world case studies and practical examples from Africa
 - **[Chapter 5: Census Testing and Pilots](/docs/case-studies/Census%20Testing%20and%20Pilots)**  
   Country experiences with piloting and testing census operations
 
-- **[Chapter 6: Recruitment and Training of Field Personnel](docs/case-studies/Recruitment%20and%20Training%20of%20Field%20Personnel)**  
+- **[Chapter 6: Recruitment and Training of Field Personnel](/docs/case-studies/Recruitment%20and%20Training%20of%20Field%20Personnel)**  
   Case studies on recruitment and training strategies
 
 - **[Chapter 7: Deployment and Supervision of Field Personnel](/docs/case-studies/Deployment%20and%20Supervision%20of%20Field%20Personnel)**  
