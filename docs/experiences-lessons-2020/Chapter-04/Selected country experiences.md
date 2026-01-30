@@ -14,5 +14,5 @@ In Sierra Leone, the use of Geographical Information Systems (GIS) tools and clo
 
 Botswana faced challenges related to device procurement and network coverage. The use of multiple tablet models led to inconsistencies in performance, particularly in GPS functionality and battery life. These issues affected data quality and highlighted the importance of adhering to tested specifications during procurement.
 
-[Vist the case studies section](/docs/case-studies/4.%20Data%20Capture,%20Transmission%20and%20Management)
+[Visit the case studies section](/docs/case-studies/4.%20Data%20Capture,%20Transmission%20and%20Management)
 
