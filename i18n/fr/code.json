@@ -1,0 +1,215 @@
+{
+  "homepage.hero.title.part1": {
+    "message": "Manuel de recensement électronique pour"
+  },
+  "homepage.hero.title.part2": {
+    "message": "l'Afrique"
+  },
+  "homepage.hero.subtitle": {
+    "message": "Basé sur les expériences et les leçons du cycle 2020 des recensements de la population et de l'habitat"
+  },
+  "homepage.hero.cta": {
+    "message": "Commencer"
+  },
+  "homepage.hero.imageAlt": {
+    "message": "Carte de l'Afrique"
+  },
+  "homepage.features.experiences.title": {
+    "message": "Expériences et leçons"
+  },
+  "homepage.features.experiences.description": {
+    "message": "C'est le cœur du manuel de recensement électronique. Découvrez les principaux enseignements tirés des recensements numériques à travers l'Afrique."
+  },
+  "homepage.features.experiences.cta": {
+    "message": "Voir le manuel"
+  },
+  "homepage.features.casestudies.title": {
+    "message": "Études de cas"
+  },
+  "homepage.features.casestudies.description": {
+    "message": "Explorez des études de cas détaillées présentant des pratiques innovantes et des solutions pour les recensements numériques."
+  },
+  "homepage.features.casestudies.cta": {
+    "message": "Voir les études de cas"
+  },
+  "homepage.features.recommendations.title": {
+    "message": "Recommandations"
+  },
+  "homepage.features.recommendations.description": {
+    "message": "Accédez à des recommandations d'experts pour planifier et réaliser des recensements numériques lors du cycle 2030."
+  },
+  "homepage.features.recommendations.cta": {
+    "message": "Voir les recommandations"
+  },
+  "homepage.features.resources.title": {
+    "message": "Ressources"
+  },
+  "homepage.features.resources.description": {
+    "message": "Trouvez des outils, documents et liens utiles pour soutenir vos projets de recensement numérique."
+  },
+  "homepage.features.resources.cta": {
+    "message": "Explorer les ressources"
+  },
+  "homepage.features.checklist.title": {
+    "message": "Liste de contrôle"
+  },
+  "homepage.features.checklist.description": {
+    "message": "Utilisez notre liste de contrôle pour vous assurer que toutes les étapes nécessaires et les bonnes pratiques sont respectées pendant votre processus de recensement."
+  },
+  "homepage.features.checklist.cta": {
+    "message": "Voir la liste de contrôle"
+  },
+  "homepage.features.enquiries.title": {
+    "message": "Demandes"
+  },
+  "homepage.features.enquiries.description": {
+    "message": "Le manuel sera régulièrement mis à jour avec de nouvelles leçons et recommandations. Si vous avez une étude de cas que vous souhaitez inclure, contactez-nous par e-mail."
+  },
+  "homepage.features.enquiries.cta": {
+    "message": "Nous contacter"
+  },
+  "homepage.footer.copyright": {
+    "message": "© 2025 Commission économique pour l'Afrique (CEA)"
+  },
+  "homepage.footer.contact": {
+    "message": "Contactez-nous à"
+  },
+  "homepage.footer.lastUpdated": {
+    "message": "Dernière mise à jour :"
+  },
+  "nav.home": {
+    "message": "Accueil"
+  },
+  "nav.about": {
+    "message": "À propos"
+  },
+  "nav.about.background": {
+    "message": "Contexte"
+  },
+  "nav.about.purpose": {
+    "message": "Objectif"
+  },
+  "nav.about.rationale": {
+    "message": "Justification"
+  },
+  "nav.about.structure": {
+    "message": "Structure"
+  },
+  "nav.about.targetAudience": {
+    "message": "Public cible"
+  },
+  "nav.experiences": {
+    "message": "Expériences et leçons"
+  },
+  "nav.experiences.chapter1": {
+    "message": "1. Planification et gestion du projet"
+  },
+  "nav.experiences.chapter2": {
+    "message": "2. Cartographie géospatiale et base des ZD"
+  },
+  "nav.experiences.chapter3": {
+    "message": "3. Instruments et outils de dénombrement"
+  },
+  "nav.experiences.chapter4": {
+    "message": "4. Collecte et gestion des données"
+  },
+  "nav.experiences.chapter5": {
+    "message": "5. Tests et pilotes de recensement"
+  },
+  "nav.experiences.chapter6": {
+    "message": "6. Recrutement et formation"
+  },
+  "nav.experiences.chapter7": {
+    "message": "7. Déploiement et supervision"
+  },
+  "nav.experiences.chapter8": {
+    "message": "8. Dénombrement et logistique"
+  },
+  "nav.experiences.chapter9": {
+    "message": "9. Assurance qualité et gestion des risques"
+  },
+  "nav.experiences.chapter10": {
+    "message": "10. Analyse du recensement et produits"
+  },
+  "nav.experiences.chapter11": {
+    "message": "11. Partenariats et collaboration"
+  },
+  "nav.experiences.chapter12": {
+    "message": "12. Plaidoyer et communication"
+  },
+  "nav.experiences.chapter13": {
+    "message": "13. Achats et gestion financière"
+  },
+  "nav.experiences.chapter14": {
+    "message": "14. Enquête post-recensement"
+  },
+  "nav.experiences.chapter15": {
+    "message": "15. Approches alternatives"
+  },
+  "nav.experiences.chapter16": {
+    "message": "16. Liste de planification"
+  },
+  "nav.caseStudies": {
+    "message": "Études de cas"
+  },
+  "nav.caseStudies.chapter1": {
+    "message": "1. Planification et gestion du projet"
+  },
+  "nav.caseStudies.chapter2": {
+    "message": "2. Cartographie géospatiale"
+  },
+  "nav.caseStudies.chapter3": {
+    "message": "3. Instruments de dénombrement"
+  },
+  "nav.caseStudies.chapter4": {
+    "message": "4. Collecte des données"
+  },
+  "nav.caseStudies.chapter5": {
+    "message": "5. Tests du recensement"
+  },
+  "nav.caseStudies.chapter6": {
+    "message": "6. Recrutement et formation"
+  },
+  "nav.caseStudies.chapter7": {
+    "message": "7. Déploiement et supervision"
+  },
+  "nav.caseStudies.chapter8": {
+    "message": "8. Dénombrement et logistique"
+  },
+  "nav.caseStudies.chapter9": {
+    "message": "9. Assurance qualité"
+  },
+  "nav.caseStudies.chapter10": {
+    "message": "10. Analyse du recensement"
+  },
+  "nav.caseStudies.chapter11": {
+    "message": "11. Partenariats"
+  },
+  "nav.caseStudies.chapter12": {
+    "message": "12. Plaidoyer"
+  },
+  "nav.caseStudies.chapter13": {
+    "message": "13. Achats"
+  },
+  "nav.caseStudies.chapter14": {
+    "message": "14. Enquête post-recensement"
+  },
+  "nav.caseStudies.chapter15": {
+    "message": "15. Approches alternatives"
+  },
+  "nav.caseStudies.chapter16": {
+    "message": "16. Liste de planification"
+  },
+  "nav.recommendations": {
+    "message": "Recommandations"
+  },
+  "nav.resources": {
+    "message": "Ressources"
+  },
+  "nav.checklist": {
+    "message": "Liste de contrôle"
+  },
+  "nav.tagline": {
+    "message": "Guide du recensement numérique pour l'Afrique"
+  }
+}

@@ -31,4 +31,4 @@ hide_title: true
 - Donors and development partners also provide resources to hire research institutions or national/international consultant(s) to lead in areas/topics where national capacity is lacking in partnership with NSO and sectoral ministries/national institutions.
 
 
-[Vist the case studies section](/docs/case-studies/Chapter-11/Case%20Studies.md)
+[Vist the case studies section](/docs/case-studies/11.%20Partnerships%20and%20Collaboration)

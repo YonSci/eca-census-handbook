@@ -3,6 +3,7 @@ import Link from '@docusaurus/Link';
 import SearchBar from '@theme/SearchBar'; // Import the SearchBar for docs pages
 import { useLocation } from '@docusaurus/router';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import Translate from '@docusaurus/Translate';
 
 // Styles extracted from the original HomePage header
 // Global 'body' styles were removed as they should be handled by Docusaurus global styles (e.g., src/css/custom.css)
@@ -134,6 +135,25 @@ const headerStyles = `
     align-items: center;
     flex-shrink: 0;
     margin-left: 0.3rem;
+  }
+
+  .locale-switcher {
+    margin-left: 0.5rem;
+    flex-shrink: 0;
+  }
+
+  .locale-select {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 20px;
+    color: white;
+    padding: 6px 10px;
+    font-size: 0.9rem;
+    cursor: pointer;
+  }
+
+  .locale-select option {
+    color: black;
   }
   
   .dark-mode-toggle {
@@ -345,6 +365,15 @@ const headerStyles = `
     .hamburger-menu {
       display: flex;
     }
+
+    .locale-switcher {
+      width: 100%;
+      margin: 0.75rem 0 0 0;
+    }
+
+    .locale-select {
+      width: 100%;
+    }
   }
   
   @media (max-width: 480px) {
@@ -359,16 +388,75 @@ const CustomHeader = () => {
   const [expandedSubmenu, setExpandedSubmenu] = useState(null);
   const [colorMode, setColorMode] = useState('light');
   const location = useLocation();
-  const { siteConfig } = useDocusaurusContext();
-  
+  const { i18n } = useDocusaurusContext();
+  const currentLocale = i18n?.currentLocale || 'en';
+  const defaultLocale = i18n?.defaultLocale || 'en';
+  const locales = i18n?.locales || ['en'];
+
+  const changeLocale = (newLocale) => {
+    if (newLocale === currentLocale) {
+      return;
+    }
+
+    if (typeof window === 'undefined') {
+      return;
+    }
+
+    const { pathname, search, hash } = window.location;
+    let newPath = pathname;
+
+    // Remove current non-default locale prefix from path
+    if (currentLocale !== defaultLocale) {
+      const currentPrefix = `/${currentLocale}`;
+      if (newPath === currentPrefix) {
+        newPath = '/';
+      } else if (newPath.startsWith(`${currentPrefix}/`)) {
+        newPath = newPath.substring(currentPrefix.length);
+      }
+    }
+
+    // Add new non-default locale prefix to path
+    if (newLocale !== defaultLocale) {
+      if (newPath === '/') {
+        newPath = `/${newLocale}/`;
+      } else {
+        newPath = `/${newLocale}${newPath}`;
+      }
+    }
+
+    window.location.href = `${newPath}${search}${hash}`;
+  };
+
+  const normalizePath = (path) => {
+    if (currentLocale !== defaultLocale) {
+      const prefix = `/${currentLocale}`;
+      if (path === prefix) {
+        return '/';
+      }
+      if (path.startsWith(`${prefix}/`)) {
+        return path.substring(prefix.length);
+      }
+    }
+    return path;
+  };
+
+  const localizePath = (path) => {
+    if (currentLocale !== defaultLocale) {
+      return path === '/' ? `/${currentLocale}/` : `/${currentLocale}${path}`;
+    }
+    return path;
+  };
+
+  const normalizedPathname = normalizePath(location.pathname);
+
   // Show search only on docs pages to avoid context errors
-  const showSearchBar = location.pathname.startsWith('/docs');
+  const showSearchBar = normalizedPathname.startsWith('/docs');
   // Show theme toggle only on docs pages 
-  const showThemeToggle = location.pathname.startsWith('/docs');
+  const showThemeToggle = normalizedPathname.startsWith('/docs');
   
   // Function to determine if a navigation link is active
   const isActiveLink = (linkTo) => {
-    const currentPath = location.pathname;
+    const currentPath = normalizedPathname;
     
     // Handle exact home match
     if (linkTo === "/" && currentPath === "/") {
@@ -451,65 +539,65 @@ const CustomHeader = () => {
   };
 
   const navigationLinks = [
-    { to: "/", label: "Home" },
+    { path: "/", label: <Translate id="nav.home">Home</Translate> },
     { 
-      to: "/docs/about-us/", 
-      label: "About Us",
+      path: "/docs/about-us/", 
+      label: <Translate id="nav.about">About</Translate>,
       submenu: [
-        { to: "/docs/about-us/Background", label: "Background" },
-        { to: "/docs/about-us/Purpose", label: "Purpose" },
-        { to: "/docs/about-us/Rationale", label: "Rationale" },
-        { to: "/docs/about-us/Structure", label: "Structure" },
-        { to: "/docs/about-us/Target%20Audience", label: "Target Audience" }
+        { path: "/docs/about-us/Background", label: <Translate id="nav.about.background">Background</Translate> },
+        { path: "/docs/about-us/Purpose", label: <Translate id="nav.about.purpose">Purpose</Translate> },
+        { path: "/docs/about-us/Rationale", label: <Translate id="nav.about.rationale">Rationale</Translate> },
+        { path: "/docs/about-us/Structure", label: <Translate id="nav.about.structure">Structure</Translate> },
+        { path: "/docs/about-us/Target%20Audience", label: <Translate id="nav.about.targetAudience">Target Audience</Translate> }
       ]
     },
     { 
-      to: "/docs/experiences-lessons-2020/", 
-      label: "Experiences and Lessons",
+      path: "/docs/experiences-lessons-2020/", 
+      label: <Translate id="nav.experiences">Experiences and Lessons</Translate>,
       submenu: [
-        { to: "/docs/experiences-lessons-2020/Chapter-01/Introduction", label: "1. Project Planning and Management" },
-        { to: "/docs/experiences-lessons-2020/Chapter-02/Introduction", label: "2. Geospatial Mapping and EA Database" },
-        { to: "/docs/experiences-lessons-2020/Chapter-03/Introduction", label: "3. Enumeration Instruments and Tools" },
-        { to: "/docs/experiences-lessons-2020/Chapter-04/Introduction", label: "4. Data Capture and Management" },
-        { to: "/docs/experiences-lessons-2020/Chapter-05/Introduction", label: "5. Census Testing and Pilots" },
-        { to: "/docs/experiences-lessons-2020/Chapter-06/Introduction", label: "6. Recruitment and Training" },
-        { to: "/docs/experiences-lessons-2020/Chapter-07/Introduction", label: "7. Deployment and Supervision" },
-        { to: "/docs/experiences-lessons-2020/Chapter-08/Introduction", label: "8. Enumeration and Logistics" },
-        { to: "/docs/experiences-lessons-2020/Chapter-09/Introduction", label: "9. Quality Assurance and Risk Management" },
-        { to: "/docs/experiences-lessons-2020/Chapter-10/Introduction", label: "10. Census Analysis and Products" },
-        { to: "/docs/experiences-lessons-2020/Chapter-11/Introduction", label: "11. Partnerships and Collaboration" },
-        { to: "/docs/experiences-lessons-2020/Chapter-12/Introduction", label: "12. Advocacy and Publicity" },
-        { to: "/docs/experiences-lessons-2020/Chapter-13/Introduction", label: "13. Procurement and Financial Management" },
-        { to: "/docs/experiences-lessons-2020/Chapter-14/Introduction", label: "14. Post-Enumeration Survey" },
-        { to: "/docs/experiences-lessons-2020/Chapter-15/Introduction", label: "15. Alternative Approaches" },
-        { to: "/docs/experiences-lessons-2020/Chapter-16/Introduction", label: "16. Planning Checklist" }
+        { path: "/docs/experiences-lessons-2020/Chapter-01/Introduction", label: <Translate id="nav.experiences.chapter1">1. Project Planning and Management</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-02/Introduction", label: <Translate id="nav.experiences.chapter2">2. Geospatial Mapping and EA Database</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-03/Introduction", label: <Translate id="nav.experiences.chapter3">3. Enumeration Instruments and Tools</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-04/Introduction", label: <Translate id="nav.experiences.chapter4">4. Data Capture and Management</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-05/Introduction", label: <Translate id="nav.experiences.chapter5">5. Census Testing and Pilots</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-06/Introduction", label: <Translate id="nav.experiences.chapter6">6. Recruitment and Training</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-07/Introduction", label: <Translate id="nav.experiences.chapter7">7. Deployment and Supervision</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-08/Introduction", label: <Translate id="nav.experiences.chapter8">8. Enumeration and Logistics</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-09/Introduction", label: <Translate id="nav.experiences.chapter9">9. Quality Assurance and Risk Management</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-10/Introduction", label: <Translate id="nav.experiences.chapter10">10. Census Analysis and Products</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-11/Introduction", label: <Translate id="nav.experiences.chapter11">11. Partnerships and Collaboration</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-12/Introduction", label: <Translate id="nav.experiences.chapter12">12. Advocacy and Publicity</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-13/Introduction", label: <Translate id="nav.experiences.chapter13">13. Procurement and Financial Management</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-14/Introduction", label: <Translate id="nav.experiences.chapter14">14. Post-Enumeration Survey</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-15/Introduction", label: <Translate id="nav.experiences.chapter15">15. Alternative Approaches</Translate> },
+        { path: "/docs/experiences-lessons-2020/Chapter-16/Introduction", label: <Translate id="nav.experiences.chapter16">16. Planning Checklist</Translate> }
       ]
     },
     { 
-      to: "/docs/case-studies/", 
-      label: "Case Studies",
+      path: "/docs/case-studies/", 
+      label: <Translate id="nav.caseStudies">Case Studies</Translate>,
       submenu: [
-        { to: "/docs/case-studies/Chapter-01/Case%20Studies", label: "1. Project Planning and Management" },
-        { to: "/docs/case-studies/Chapter-02/Case%20Studies", label: "2. Geospatial Mapping" },
-        { to: "/docs/case-studies/Chapter-03/Case%20Studies", label: "3. Enumeration Instruments" },
-        { to: "/docs/case-studies/Chapter-04/Case%20Studies", label: "4. Data Capture" },
-        { to: "/docs/case-studies/Chapter-05/Case%20Studies", label: "5. Census Testing" },
-        { to: "/docs/case-studies/Chapter-06/Case%20Studies", label: "6. Recruitment and Training" },
-        { to: "/docs/case-studies/Chapter-07/Case%20Studies", label: "7. Deployment and Supervision" },
-        { to: "/docs/case-studies/Chapter-08/Case%20Studies", label: "8. Enumeration and Logistics" },
-        { to: "/docs/case-studies/Chapter-09/Case%20Studies", label: "9. Quality Assurance" },
-        { to: "/docs/case-studies/Chapter-10/Case%20Studies", label: "10. Census Analysis" },
-        { to: "/docs/case-studies/Chapter-11/Case%20Studies", label: "11. Partnerships" },
-        { to: "/docs/case-studies/Chapter-12/Case%20Studies", label: "12. Advocacy" },
-        { to: "/docs/case-studies/Chapter-13/Case%20Studies", label: "13. Procurement" },
-        { to: "/docs/case-studies/Chapter-14/Case%20Studies", label: "14. Post-Enumeration Survey" },
-        { to: "/docs/case-studies/Chapter-15/Case%20Studies", label: "15. Alternative Approaches" },
-        { to: "/docs/case-studies/Chapter-16/Case%20Studies", label: "16. Planning Checklist" }
+        { path: "/docs/case-studies/1.%20Planning%20%26%20Management", label: <Translate id="nav.caseStudies.chapter1">1. Project Planning and Management</Translate> },
+        { path: "/docs/case-studies/2.%20Geospatial%20Mapping%20and%20EA%20Database%20Management", label: <Translate id="nav.caseStudies.chapter2">2. Geospatial Mapping</Translate> },
+        { path: "/docs/case-studies/3.%20Enumeration%20Instruments,%20Applications%20and%20Tools", label: <Translate id="nav.caseStudies.chapter3">3. Enumeration Instruments</Translate> },
+        { path: "/docs/case-studies/4.%20Data%20Capture,%20Transmission%20and%20Management", label: <Translate id="nav.caseStudies.chapter4">4. Data Capture</Translate> },
+        { path: "/docs/case-studies/5.%20Census%20Testing%20and%20Pilots", label: <Translate id="nav.caseStudies.chapter5">5. Census Testing</Translate> },
+        { path: "/docs/case-studies/6.%20Recruitment%20and%20Training%20of%20Field%20Personnel", label: <Translate id="nav.caseStudies.chapter6">6. Recruitment and Training</Translate> },
+        { path: "/docs/case-studies/7.%20Deployment%20and%20Supervision%20of%20Field%20Personnel", label: <Translate id="nav.caseStudies.chapter7">7. Deployment and Supervision</Translate> },
+        { path: "/docs/case-studies/8.%20Enumeration%20and%20Logistics", label: <Translate id="nav.caseStudies.chapter8">8. Enumeration and Logistics</Translate> },
+        { path: "/docs/case-studies/9.%20Quality%20Assurance,%20Monitoring,%20Evaluation,%20and%20Risk%20Management", label: <Translate id="nav.caseStudies.chapter9">9. Quality Assurance</Translate> },
+        { path: "/docs/case-studies/10.%20Census%20Analysis,%20Products,%20Dissemination%20and%20Archiving", label: <Translate id="nav.caseStudies.chapter10">10. Census Analysis</Translate> },
+        { path: "/docs/case-studies/11.%20Partnerships%20and%20Collaboration", label: <Translate id="nav.caseStudies.chapter11">11. Partnerships</Translate> },
+        { path: "/docs/case-studies/12.%20Advocacy,%20Publicity%20and%20Resource%20Mobilization", label: <Translate id="nav.caseStudies.chapter12">12. Advocacy</Translate> },
+        { path: "/docs/case-studies/13.%20Procurement%20and%20Financial%20Management", label: <Translate id="nav.caseStudies.chapter13">13. Procurement</Translate> },
+        { path: "/docs/case-studies/14.%20Post-Enumeration%20Survey", label: <Translate id="nav.caseStudies.chapter14">14. Post-Enumeration Survey</Translate> },
+        { path: "/docs/case-studies/15.%20Alternative%20Approaches", label: <Translate id="nav.caseStudies.chapter15">15. Alternative Approaches</Translate> },
+        { path: "/docs/case-studies/16.%20Checklist%20for%20planning%20a%20digital%20Population%20and%20Housing%20Census%20in%20Africa", label: <Translate id="nav.caseStudies.chapter16">16. Planning Checklist</Translate> }
       ]
     },
-    { to: "/docs/recommendations/", label: "Recommendations" },
-    { to: "/docs/resources/", label: "Resources" },
-    { to: "/docs/checklist/", label: "Checklist" }
+    { path: "/docs/recommendations/", label: <Translate id="nav.recommendations">Recommendations</Translate> },
+    { path: "/docs/resources/", label: <Translate id="nav.resources">Resources</Translate> },
+    { path: "/docs/checklist/", label: <Translate id="nav.checklist">Checklist</Translate> }
   ];
 
   return (
@@ -522,8 +610,8 @@ const CustomHeader = () => {
             {navigationLinks.map((link, index) => (
               <Link 
                 key={index} 
-                to={link.to} 
-                className={isActiveLink(link.to) ? 'active' : ''}
+                to={localizePath(link.path)} 
+                className={isActiveLink(link.path) ? 'active' : ''}
               >
                 {link.label}
               </Link>
@@ -536,7 +624,25 @@ const CustomHeader = () => {
           ) : (
             <div className="homepage-filler search-position">
               <span className="africa-icon">🌍</span>
-              <span className="homepage-tagline">Digital Census Guide for Africa</span>
+              <span className="homepage-tagline">
+                <Translate id="nav.tagline">Digital Census Guide for Africa</Translate>
+              </span>
+            </div>
+          )}
+          {locales.length > 1 && (
+            <div className="locale-switcher">
+              <select
+                className="locale-select"
+                value={currentLocale}
+                onChange={(e) => changeLocale(e.target.value)}
+                aria-label="Change language"
+              >
+                {locales.map((locale) => (
+                  <option key={locale} value={locale}>
+                    {locale === 'en' ? 'English' : locale === 'fr' ? 'Français' : locale}
+                  </option>
+                ))}
+              </select>
             </div>
           )}
           {showThemeToggle && (
@@ -566,7 +672,7 @@ const CustomHeader = () => {
               {link.submenu ? (
                 <>
                   <div
-                    className={`mobile-nav-link ${isActiveLink(link.to) ? 'active' : ''}`}
+                    className={`mobile-nav-link ${isActiveLink(link.path) ? 'active' : ''}`}
                     onClick={(e) => handleMobileNavClick(link, index, e)}
                     style={{
                       color: 'white',
@@ -584,7 +690,7 @@ const CustomHeader = () => {
                   </div>
                   <div className={`mobile-submenu ${expandedSubmenu === index ? 'open' : ''}`}>
                     {link.submenu.map((sublink, subIndex) => (
-                      <Link key={subIndex} to={sublink.to} onClick={closeMobileMenu}>
+                      <Link key={subIndex} to={localizePath(sublink.path)} onClick={closeMobileMenu}>
                         {sublink.label}
                       </Link>
                     ))}
@@ -592,9 +698,9 @@ const CustomHeader = () => {
                 </>
               ) : (
                 <Link 
-                  to={link.to} 
+                  to={localizePath(link.path)} 
                   onClick={closeMobileMenu}
-                  className={isActiveLink(link.to) ? 'active' : ''}
+                  className={isActiveLink(link.path) ? 'active' : ''}
                 >
                   {link.label}
                 </Link>
@@ -608,7 +714,28 @@ const CustomHeader = () => {
           ) : (
             <div className="homepage-filler mobile">
               <span className="africa-icon">🌍</span>
-              <span className="homepage-tagline">Digital Census Guide for Africa</span>
+              <span className="homepage-tagline">
+                <Translate id="nav.tagline">Digital Census Guide for Africa</Translate>
+              </span>
+            </div>
+          )}
+          {locales.length > 1 && (
+            <div className="locale-switcher">
+              <select
+                className="locale-select"
+                value={currentLocale}
+                onChange={(e) => {
+                  changeLocale(e.target.value);
+                  closeMobileMenu();
+                }}
+                aria-label="Change language"
+              >
+                {locales.map((locale) => (
+                  <option key={locale} value={locale}>
+                    {locale === 'en' ? 'English' : locale === 'fr' ? 'Français' : locale}
+                  </option>
+                ))}
+              </select>
             </div>
           )}
           {showThemeToggle && (
