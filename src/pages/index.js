@@ -1,5 +1,6 @@
 import React from "react";
 import Link from '@docusaurus/Link';
+import Translate, { translate } from '@docusaurus/Translate';
 import styles from './index.module.css';
 import CustomHeader from '@site/src/components/CustomHeader'; // Import the new CustomHeader
 
@@ -125,21 +126,30 @@ const HomePage = () => (
       <div className={styles.heroContentFlex}>
         <div className={styles.heroText}>
           <h2>
-            <span className={styles.heroTitleBlue}>E-Census Handbook for</span>{" "}
-            <span className={styles.heroTitleGreen}>Africa</span>
+            <span className={styles.heroTitleBlue}>
+              <Translate id="homepage.hero.title.part1">E-Census Handbook for</Translate>
+            </span>{" "}
+            <span className={styles.heroTitleGreen}>
+              <Translate id="homepage.hero.title.part2">Africa</Translate>
+            </span>
           </h2>
           <p className={styles.heroSubtitle}>
-            Based on Experiences and Lessons from the 2020 Round of Population
-            and Housing Censuses
+            <Translate id="homepage.hero.subtitle">
+              Based on Experiences and Lessons from the 2020 Round of Population
+              and Housing Censuses
+            </Translate>
           </p>
           <Link to="/docs/about-us" className={styles.heroButton}>
-            Get started
+            <Translate id="homepage.hero.cta">Get started</Translate>
           </Link>
         </div>
         <div className={styles.heroImage}>
           <img
             src="img/e-census1.png" 
-            alt="Africa Map"
+            alt={translate({
+              id: 'homepage.hero.imageAlt',
+              message: 'Africa Map',
+            })}
             className={styles.africaMap}
           />
         </div>
@@ -161,13 +171,17 @@ const HomePage = () => (
         >
           <path d="M9 18h6M10 22h4M12 2a7 7 0 0 1 7 7c0 2.5-1.5 4.5-3.5 5.5V17a1 1 0 0 1-2 0v-2.5C6.5 13.5 5 11.5 5 9a7 7 0 0 1 7-7z" />
         </svg>
-        <h3>Experiences and Lessons</h3>
+        <h3>
+          <Translate id="homepage.features.experiences.title">Experiences and Lessons</Translate>
+        </h3>
         <p>
-          This is the main body of the e-census handbook. Discover key takeaways and lessons learned from digital census
-          implementations across Africa.
+          <Translate id="homepage.features.experiences.description">
+            This is the main body of the e-census handbook. Discover key takeaways and lessons learned from digital census
+            implementations across Africa.
+          </Translate>
         </p>
         <a href="docs/experiences-lessons-2020/Chapter-01/introduction">
-          See the Handbook
+          <Translate id="homepage.features.experiences.cta">See the Handbook</Translate>
         </a>
       </div>
       <div className="feature-card">
@@ -185,12 +199,18 @@ const HomePage = () => (
           <rect x="4" y="2" width="16" height="20" rx="2" />
           <path d="M8 6h8M8 10h8M8 14h4" />
         </svg>
-        <h3>Case Studies</h3>
+        <h3>
+          <Translate id="homepage.features.casestudies.title">Case Studies</Translate>
+        </h3>
         <p>
-          Explore detailed case studies showcasing innovative practices and
-          solutions in digital censuses.
+          <Translate id="homepage.features.casestudies.description">
+            Explore detailed case studies showcasing innovative practices and
+            solutions in digital censuses.
+          </Translate>
         </p>
-        <a href="docs/case-studies/Chapter-01/Case%20Studies">See Case Studies</a>
+        <a href="docs/case-studies/Chapter-01/Case%20Studies">
+          <Translate id="homepage.features.casestudies.cta">See Case Studies</Translate>
+        </a>
       </div>
       <div className="feature-card">
         {/* Checkmark SVG (Recommendations card) */}
@@ -207,12 +227,18 @@ const HomePage = () => (
           <circle cx="12" cy="12" r="10" />
           <path d="M16 8l-5.5 7L8 13" />
         </svg>
-        <h3>Recommendations</h3>
+        <h3>
+          <Translate id="homepage.features.recommendations.title">Recommendations</Translate>
+        </h3>
         <p>
-          Access expert recommendations for planning and executing digital
-          censuses in the 2030 round.
+          <Translate id="homepage.features.recommendations.description">
+            Access expert recommendations for planning and executing digital
+            censuses in the 2030 round.
+          </Translate>
         </p>
-        <a href="docs/recommendations/ch1">See Recommendations</a>
+        <a href="docs/recommendations/ch1">
+          <Translate id="homepage.features.recommendations.cta">See Recommendations</Translate>
+        </a>
       </div>
       <div className="feature-card">
         {/* Folder SVG (Resources card) */}
@@ -228,12 +254,18 @@ const HomePage = () => (
         >
           <path d="M3 7a2 2 0 0 1 2-2h4l2 3h8a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
         </svg>
-        <h3>Resources</h3>
+        <h3>
+          <Translate id="homepage.features.resources.title">Resources</Translate>
+        </h3>
         <p>
-          Find useful tools, documents, and links to support your digital census
-          projects.
+          <Translate id="homepage.features.resources.description">
+            Find useful tools, documents, and links to support your digital census
+            projects.
+          </Translate>
         </p>
-        <a href="docs/resources/ch1">Explore Resources</a>
+        <a href="docs/resources/ch1">
+          <Translate id="homepage.features.resources.cta">Explore Resources</Translate>
+        </a>
       </div>
 
       {/* New Checklist card */}
@@ -251,12 +283,18 @@ const HomePage = () => (
         >
           <polyline points="20 6 9 17 4 12" />
         </svg>
-        <h3>Checklist</h3>
+        <h3>
+          <Translate id="homepage.features.checklist.title">Checklist</Translate>
+        </h3>
         <p>
-          Use our checklist to ensure that all necessary steps and best
-          practices are met during your census process.
+          <Translate id="homepage.features.checklist.description">
+            Use our checklist to ensure that all necessary steps and best
+            practices are met during your census process.
+          </Translate>
         </p>
-        <a href="docs/checklist/ch1">See Checklist</a>
+        <a href="docs/checklist/ch1">
+          <Translate id="homepage.features.checklist.cta">See Checklist</Translate>
+        </a>
       </div>
 
       {/* New Enquiries card */}
@@ -275,13 +313,19 @@ const HomePage = () => (
           <rect x="2" y="4" width="20" height="16" rx="2" ry="2" />
           <polyline points="2,4 12,13 22,4" />
         </svg>
-        <h3>Enquiries</h3>
+        <h3>
+          <Translate id="homepage.features.enquiries.title">Enquiries</Translate>
+        </h3>
         <p>
-          The handbook will be regularly updated with new lessons and
-          recommendations as these unfold. If you have a case study that you
-          would like to be included in the handbook please contact us via email.
+          <Translate id="homepage.features.enquiries.description">
+            The handbook will be regularly updated with new lessons and
+            recommendations as these unfold. If you have a case study that you
+            would like to be included in the handbook please contact us via email.
+          </Translate>
         </p>
-        <a href="mailto:muhawava@un.org">Contact Us</a>
+        <a href="mailto:muhawava@un.org">
+          <Translate id="homepage.features.enquiries.cta">Contact Us</Translate>
+        </a>
       </div>
     </div>
     <div className="footer">
@@ -311,12 +355,17 @@ const HomePage = () => (
           <span></span>
         </div>
       </div>
-      <p>© 2025 UN Economic Commission for Africa (ECA)</p>
       <p>
-        Contact us at <a href="mailto:muhawava@un.org">muhawava@un.org</a>
+        <Translate id="homepage.footer.copyright">
+          © 2025 UN Economic Commission for Africa (ECA)
+        </Translate>
       </p>
       <p>
-        Last Updated:{" "}
+        <Translate id="homepage.footer.contact">Contact us at</Translate>{" "}
+        <a href="mailto:muhawava@un.org">muhawava@un.org</a>
+      </p>
+      <p>
+        <Translate id="homepage.footer.lastUpdated">Last Updated:</Translate>{" "}
         <span>
           {new Date().toLocaleString("default", {
             month: "long",

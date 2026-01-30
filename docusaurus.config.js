@@ -38,7 +38,15 @@ const config = {
   
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'fr'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      fr: {
+        label: 'Français',
+      },
+    },
   },
 
   presets: [
@@ -71,7 +79,12 @@ const config = {
         //   alt: 'My Site LogE-Census Handbook Logo',
         //   src: 'img/uneca1.png',
         // },
-        items: [], // Set items to an empty array to effectively hide the default navbar content
+        items: [
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
+        ],
       },
 
       algolia: {
