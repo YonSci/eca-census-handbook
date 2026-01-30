@@ -9,7 +9,7 @@ const config = {
   favicon: 'img/uneca1.ico',
 
   // Set the production url of your site here
-  url: 'https://yonsci.github.io',
+  url: 'https://eca-census-handbook.netlify.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   // baseUrl: '/eca-census-handbook/',   // GitHub pages
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'YonSci', // Usually your GitHub org/user name.
-  projectName: '/eca-census-handbook/', // Usually your repo name.
+  projectName: 'eca-census-handbook', // Usually your repo name.
   deploymentBranch: 'gh-pages', // The branch that GitHub pages will deploy from.
 
   onBrokenLinks: 'warn', // warn or throw 

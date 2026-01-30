@@ -23,5 +23,11 @@ The E-Census Handbook documentation site is built with `Docusaurus`, offering a 
 
 - **Streamlined Deployment:** Continuous integration and delivery are managed via GitHub Actions.
 
+## Additional Tips
+
+# Locally running language Setup
+```
+    npm run start -- --locale fr
+```
 
 Conatact : [yonas.ygezu@un.org](mailto:info@ecensus.org) for any questions or inquiries.
