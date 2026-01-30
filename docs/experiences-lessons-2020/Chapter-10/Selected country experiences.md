@@ -23,4 +23,4 @@ hide_title: true
 **Zimbabwe** released eight preliminary reports from its 2022 census to support budget planning and constituency delimitation. Dissemination included hybrid workshops, cabinet presentations, social media, and media interviews in local languages. Products included national and provincial reports, thematic reports, and a census atlas. Future dissemination plans involve posters, seminars, and integration into REDATAM for user-generated analysis. Partnerships with media aim to enhance public understanding and access to census data.
 
 
-[Vist the case studies section](/docs/case-studies/10.%20Census%20Analysis,%20Products,%20Dissemination%20and%20Archiving)
+[Visit the case studies section](/docs/case-studies/10.%20Census%20Analysis,%20Products,%20Dissemination%20and%20Archiving)
