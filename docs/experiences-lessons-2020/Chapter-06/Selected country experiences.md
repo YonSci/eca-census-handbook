@@ -19,4 +19,4 @@ In **Kenya**, a manual recruitment process was used, guided by a standardised r
 
 **England and Wales** conducted their census during the COVID-19 pandemic, necessitating a fully digital training approach. Training was delivered through a Learning Management System (LMS) with interactive e-learning modules and virtual classroom sessions for managers. The training was comprehensive, with 32 modules, assessments, and strict completion timelines. Despite technical and operational challenges, such as LMS integration issues and the need for deadline extensions, the digital model proved effective. It reduced costs, ensured consistent training delivery, and allowed for flexible, self-paced learning. Quality assurance was embedded throughout the process, and the model demonstrated the potential for scalable, high-quality digital training.
 
-[Vist the case studies section](/docs/case-studies/Chapter-06/Case%20Studies.md)
+[Vist the case studies section](/docs/case-studies/6.%20Recruitment%20and%20Training%20of%20Field%20Personnel)

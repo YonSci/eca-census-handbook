@@ -13,4 +13,4 @@ hide_title: true
 
 **Sierra Leone** adopted an inclusive approach to census planning, learning from past experiences to ensure a more efficient and responsive process aligned with national and sustainable development goals. Legal authority was established through the NSO Operations Act and a presidential proclamation. The budget and planning emphasised national ownership and coordination. Implementation was supported by a Census Advisory Committee and a Census Secretariat with regional offices. Technical aspects were managed by a committee comprising government, academia, and development partners. Public engagement was handled by a dedicated communication committee. Technical support was outsourced to international organisations like UNFPA and the World Bank, covering areas such as quality control, data processing, and dissemination.
 
-[Vist the case studies section](/docs/case-studies/Chapter-01/Case%20Studies)
+[Vist the case studies section](/docs/case-studies/1.%20Planning%20%26%20Management)

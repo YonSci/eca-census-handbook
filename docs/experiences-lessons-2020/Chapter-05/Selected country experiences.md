@@ -11,4 +11,4 @@ In **Kenya**, the census preparation involved multiple field tests and a pilot 
 
 In **Namibia**, the pilot census was conducted from September to October 2021 and provided valuable insights into field organisation, supervisory structures, training programs, and data processing plans. Preliminary tests helped refine the batch editing program and monitoring dashboard. The sampling design was purposive, targeting diverse population groups and living environments, including nomadic communities in Kunene and Tsumkwe, holiday homes along the coast, commercial and resettlement farms, gated communities, and various urban settings. These efforts aimed to ensure that the actual census would be well-informed and effectively executed.
 
-[Vist the case studies section](/docs/case-studies/Chapter-05/Case%20Studies.md)
+[Vist the case studies section](/docs/case-studies/5.%20Census%20Testing%20and%20Pilots)

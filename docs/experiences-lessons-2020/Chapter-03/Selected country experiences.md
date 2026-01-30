@@ -17,5 +17,5 @@ For enumeration, Namibia developed three main tools: the main census questionnai
 
 **Botswana**’s census tool development was led internally by the National Statistical Office (NSO), with support from the US Census Bureau. Statisticians created the paper questionnaire and edit specifications, which guided the development of the electronic data collection application. A multidisciplinary team—including statisticians, cartographers, developers, and data entry supervisors—was responsible for testing the application and documenting results after system tests.
 
-[Vist the case studies section](/docs/case-studies/Chapter-03/Case%20Studies.md)
+[Vist the case studies section](/docs/case-studies/3.%20Enumeration%20Instruments,%20Applications%20and%20Tools)
 

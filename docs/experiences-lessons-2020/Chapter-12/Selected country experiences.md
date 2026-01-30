@@ -19,4 +19,4 @@ In **Uganda**, a publicity and communication strategy was developed at the time 
 
 **Tanzania** conducted the 2022 Population and Housing Census (PHC) with a strong emphasis on nationwide publicity and advocacy. The campaign, branded with the slogan “SENSA KWA MAENDELEO: JIANDAE KUHESABIWA” (“Census for Development: Prepare to be Counted”) was supported by two Census Commissioners and guided by standardised publicity guidelines. A month before enumeration, the “SENSABIKA” campaign was launched, reaching millions via SMS and social media. Presidential involvement was key—President Samia Suluhu Hassan declared the census date, launched the logo, and addressed the nation on census night. Fireworks events and early enumeration of national leaders helped boost public engagement. The government funded 97% of the census, with the remainder supported by development partners.
 
-[Vist the case studies section](/docs/case-studies/Chapter-12/Case%20Studies.md)
+[Vist the case studies section](/docs/case-studies/12.%20Advocacy,%20Publicity%20and%20Resource%20Mobilization)
