@@ -13,4 +13,4 @@ hide_title: true
 Kenya also established a financial management sub-committee within the census Technical Working Committee (TWC) to mobilise and manage resources, primarily sourced from the government. Funds were centrally managed through a dedicated KNBS bank account, with county-level accounts opened for local transactions. Regulations were shared with officers handling funds, and all payments were supported by authorised documentation. Activities such as allowances, venue rentals, material storage, and transportation were funded through these accounts. Post-census, accounting documents-including payment schedules, attendance registers, and meeting minutes-were submitted to both the central finance office and county accountants to ensure transparency and accountability.
 
 
-[Vist the case studies section](/docs/case-studies/13.%20Procurement%20and%20Financial%20Management)
+[Visit the case studies section](/docs/case-studies/13.%20Procurement%20and%20Financial%20Management)
