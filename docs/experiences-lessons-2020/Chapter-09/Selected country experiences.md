@@ -26,4 +26,4 @@ To ensure data quality, **Ghana** implemented a multi-faceted approach that incl
 **South Africa** experienced a census undercount, even with the use of digital systems. This points to the fact that technology alone cannot solve underlying challenges like respondent fatigue and reaching hard-to-count populations, indicating that risk mitigation must also focus on these persistent social issues.
 
 
-[Vist the case studies section](/docs/case-studies/9.%20Quality%20Assurance,%20Monitoring,%20Evaluation,%20and%20Risk%20Management)
+[Visit the case studies section](/docs/case-studies/9.%20Quality%20Assurance,%20Monitoring,%20Evaluation,%20and%20Risk%20Management)
