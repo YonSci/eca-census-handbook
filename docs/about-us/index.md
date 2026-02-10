@@ -4,7 +4,7 @@ sidebar_position: 0
 hide_title: true
 ---
 
-#<h1 style={{fontSize: '1.2rem', lineHeight: '1.2', marginBottom: '1.5rem'}}>About the E-Census Handbook</h1>
+<h1 style={{fontSize: '1.2rem', lineHeight: '1.2', marginBottom: '1.5rem'}}>About the E-Census Handbook</h1>
 
 Welcome to the comprehensive guide about the E-Census Handbook for Africa. This section provides essential information about the handbook's background, purpose, and structure to help you understand and navigate this valuable resource.
 
