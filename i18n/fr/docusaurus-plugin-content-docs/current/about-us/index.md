@@ -10,19 +10,19 @@ Bienvenue dans le guide complet du Manuel de recensement électronique pour l'Af
 
 ## En savoir plus sur ce manuel
 
-### 📖 **[Contexte](./Background)**
+- **[Contexte](./Background)**  
 Découvrez le contexte et le développement de ce Manuel de recensement électronique, y compris les efforts de collaboration qui ont permis sa réalisation.
 
-### 🎯 **[Objectif](./Purpose)**
+- **[Objectif](./Purpose)**  
 Comprenez les objectifs spécifiques et les buts que ce manuel vise à atteindre pour les opérations de recensement en Afrique.
 
-### 💡 **[Justification](./Rationale)**
+- **[Justification](./Rationale)**  
 Découvrez pourquoi ce manuel était nécessaire et comment il répond aux besoins essentiels de la mise en œuvre des recensements numériques.
 
-### 🗂️ **[Structure](./Structure)**
+- **[Structure](./Structure)**  
 Explorez l'organisation du manuel et la manière de parcourir efficacement ses différentes sections.
 
-### 👥 **[Public cible](./Target%20Audience)**
+- **[Public cible](./Target%20Audience)**  
 Découvrez à qui s'adresse ce manuel et comment les différentes parties prenantes peuvent bénéficier de son contenu.
 
 ---
