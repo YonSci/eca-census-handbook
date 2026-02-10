@@ -11,18 +11,23 @@ Welcome to the comprehensive guide about the E-Census Handbook for Africa. This 
 ## Learn About This Handbook
 
 - **[Background](/docs/about-us/Background)**
+
   Discover the context and development of this E-Census Handbook, including the collaborative efforts that brought it to life.
 
 - **[Purpose](/docs/about-us/Purpose)**
+
   Understand the specific objectives and goals this handbook aims to achieve for African census operations.
 
 - **[Rationale](/docs/about-us/Rationale)**
+
   Learn why this handbook was necessary and how it addresses critical needs in digital census implementation.
 
 - **[Structure](/docs/about-us/Structure)**
+
   Explore how the handbook is organized and how to navigate its various sections effectively.
 
 - **[Target Audience](/docs/about-us/Target%20Audience)**
+
   Find out who this handbook is designed for and how different stakeholders can benefit from its content.
 
 ---
