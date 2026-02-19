@@ -17,7 +17,7 @@ https://unstats.un.org/unsd/publication/seriesf/seriesf_79e.pdf
 
 4.  Division de statistique des Nations Unies. Lignes directrices sur l'utilisation des technologies de collecte électronique de données dans les recensements de la population et des logements. Accessible à l'adresse : https://unstats.un.org/unsd/demographic/standmeth/handbooks/guideline-edct-census-v1.pdf
 
-5.  Bureau du recensement des États-Unis (U.S. Census Bureau). (2021). Évaluation d'un recensement électronique pilote. Thèmes choisis dans les recensements internationaux. Accessible à l'adresse : <https://www.census.gov/programs-surveys/international-programs/events/training/select-topics-in-international-censuses/planning/evaluating-a-pilot-electronic-census.html>
+5.  Bureau du recensement des États-Unis (U.S. Census Bureau). (2021). Évaluation d'un recensement électronique pilote. Thèmes choisis dans les recensements internationaux. Accessible à l'adresse : https://www.census.gov/programs-surveys/international-programs/events/training/select-topics-in-international-censuses/planning/evaluating-a-pilot-electronic-census.html
 
 6.  Office de statistique du Botswana. (2019). Document de projet du recensement de la population et des habitations de 2021. Accessible à l'adresse : https://botswana.unfpa.org/sites/default/files/pub-pdf/census_project_document_-_2021_population_and_housing_census.pdf#:~:text=Statistics%20Botswana%20in%20collaboration%20with%2C%20and%20support%20from,the%202021%20Population%20and%20Housing%20Census%20%28PHC%29%20undertaking
 
@@ -32,6 +32,7 @@ https://unstats.un.org/unsd/publication/seriesf/seriesf_79e.pdf
 11. Statistics South Africa. Mise à jour du cadre géographique pour le recensement. Accessible à l'adresse : [https://www.statssa.gov.za/?page_id=11703](https://www.statssa.gov.za/?page_id=11703 -) -
 
 12. Statistics South Africa. Produits interactifs et électroniques. Accessible à l'adresse : https://www.statssa.gov.za/?page_id=3902
+
 
 
 
