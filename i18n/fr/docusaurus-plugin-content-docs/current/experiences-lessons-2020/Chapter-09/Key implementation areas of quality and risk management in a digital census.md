@@ -39,7 +39,7 @@ Les stratégies d'atténuation incluent notamment :
 
 - Le suivi de l'ensemble du processus de recensement, afin de garantir la rentabilité et la qualité des opérations globales, est essentiel.
 
-Voir également la section [Planification et gestion de projet](#planification-et-gestion-de-projet).
+Voir également la section [Planification et gestion de projet](/docs/experiences-lessons-2020/Chapter-01/Introduction).
 
 ### Formation 
 
@@ -71,7 +71,7 @@ Concernant le suivi et l'évaluation pendant la formation, les techniques suivan
 
 - Évaluer l'efficacité des formateurs et adapter les méthodes en conséquence grâce à des évaluations des formateurs.
 
-Voir également la section « [Recrutement et formation](#recrutement-et-formation-du-personnel-de-terrain) ».
+Voir également la section « [Recrutement et formation](/docs/experiences-lessons-2020/Chapter-06/Introduction)».
 
 ### Collecte de données 
 
@@ -105,7 +105,7 @@ De plus amples informations sur le suivi indépendant du recensement sont dispon
 
 Afin de gérer les risques pendant la collecte des données, préparer des systèmes de secours et des méthodes alternatives de collecte des données en cas de défaillance technique, à titre de plan d'urgence.
 
-Voir également la section « [Recensement et logistique](#dénombrement-et-logistique) ».
+Voir également la section « [Recensement et logistique](/docs/experiences-lessons-2020/Chapter-08/Introduction) ».
 
 ### Traitement des données 
 
@@ -135,7 +135,7 @@ Concernant le suivi et l'évaluation pendant le traitement des données, les tec
 
 - Réaliser des examens et des audits externes/indépendants afin de vérifier l'intégrité des données.
 
-Voir également [Traitement des données](#traitement-des-données).
+Voir également [Traitement des données](/docs/experiences-lessons-2020/Chapter-09/Introduction).
 
 ### Évaluation de la qualité des données.
 
@@ -157,7 +157,7 @@ Après le recensement, la qualité du recensement peut être évaluée à traver
 
 Avec le passage croissant aux méthodologies numériques, le paysage des risques liés à ces enquêtes a évolué, introduisant de nouveaux défis qui s'ajoutent aux défis traditionnels. Une gestion efficace des risques tout au long du cycle de vie d'une PES numérique est primordiale afin de garantir la validité de ses résultats et, par conséquent, la qualité des données du recensement. Une PES numérique peut être divisée en plusieurs étapes clés, chacune présentant ses propres risques potentiels et chacune étant traitée en conséquence.
 
-Voir également la section « [Enquête post-recensement](#enquête-post-dénombrement) ».
+Voir également la section « [Enquête post-recensement](/docs/experiences-lessons-2020/Chapter-14/Introduction) ».
 
 ### Diffusion des données 
 
@@ -171,5 +171,6 @@ La gestion de la qualité s'étend à la manière dont les données sont présen
 
 La gestion des risques liés à la diffusion des données numériques est essentielle afin de garantir l'intégrité, la sécurité et l'accessibilité des données. Les risques potentiels comprennent l'accès non autorisé et les violations de données, les informations erronées et la mauvaise interprétation des résultats, les pannes du système ou la perte de données, et le non-respect des lois relatives à la protection des données. Outre les aspects liés à la gestion de la qualité, il convient de valider l'exactitude des données avant leur diffusion, de les protéger contre les cybermenaces grâce à des contrôles d'accès et de garantir que les utilisateurs les comprennent correctement grâce à des protocoles de communication clairs.
 
-Voir également la section « [Analyse du recensement, Produits, Diffusion et Archivage](#analyse-produits-diffusion-et-archivage-du-recensement) ».
+Voir également la section « [Analyse du recensement, Produits, Diffusion et Archivage](/docs/experiences-lessons-2020/Chapter-10/Introduction)».
+
 
