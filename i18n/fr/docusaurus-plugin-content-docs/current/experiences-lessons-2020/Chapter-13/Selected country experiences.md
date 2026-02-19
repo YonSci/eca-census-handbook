@@ -50,3 +50,5 @@ Plusieurs activités entreprises pendant le processus de recensement ont été f
 
 Une fois le recensement terminé, les documents comptables approuvés ont été renvoyés au service financier de Real Towers à Nairobi et aux bureaux des comptables du comté. Ces documents comptables comprenaient les calendriers de paiement signés, les registres de présence et les procès-verbaux des réunions afin de justifier les indemnités versées aux membres des comités sous-comtaux lors de la planification du recrutement, de la présélection, des entretiens, de l'approbation de la liste des candidats retenus et de la prise de contact avec ces derniers.
 
+
+[Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/13.%20Procurement%20and%20Financial%20Management)
