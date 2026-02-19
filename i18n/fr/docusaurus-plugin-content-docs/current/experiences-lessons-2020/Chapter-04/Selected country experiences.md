@@ -1,0 +1,65 @@
+﻿---
+sidebar_position: 3
+hide_title: true
+---
+
+
+
+
+## Expériences de certains pays
+
+Le recensement de 2019 au **Kenya** a mis en évidence les avantages et les défis du recensement numérique. Les agents recenseurs ont utilisé des tablettes pour collecter et transmettre les données, avec l'appui de tableaux de bord en temps réel et de contrôles de supervision. Toutefois, des problèmes tels que des dysfonctionnements des appareils et l'instabilité du réseau ont mis en évidence la nécessité d'un soutien technique solide et d'un plan d'urgence.
+
+L'**Afrique du Sud** a adopté une approche multimodale, combinant les méthodes CAPI, CAWI et CATI. La souplesse de ce modèle a permis une participation plus large, notamment grâce à la méthode CAWI, présentée comme une option rapide et sans frais de données pour les répondants. Le succès de la méthode CAWI en Afrique du Sud souligne l'importance de la sensibilisation du public et de la convivialité des plateformes numériques.
+
+En **Sierra Leone**, le recours aux outils des systèmes d'information géographique (SIG) et aux systèmes infonuagiques a permis une collecte et une transmission efficaces des données. Les opérateurs de téléphonie mobile locaux ont joué un rôle clé dans la garantie de la connectivité, et l'intégration d'outils cartographiques a amélioré la précision du recensement.
+
+Le **Botswana** a été confronté à des difficultés liées à l'acquisition des appareils et à la couverture réseau. L'utilisation de plusieurs modèles de tablettes a entraîné des incohérences de performance, en particulier concernant la fonctionnalité GPS et l'autonomie de la batterie. Ces problèmes ont nui à la qualité des données et ont souligné l'importance de respecter les spécifications testées lors de l'acquisition.
+
+**Lien vers la section sur les expériences des pays**
+
+**Kenya**
+
+Le choix de recourir à la technologie mobile pour la collecte de données reposait, entre autres, sur l'utilisation déjà très répandue de cette technologie au Kenya, la large couverture du réseau, la baisse du prix des appareils mobiles et l'amélioration du niveau de maîtrise des TIC.
+
+Les tablettes et les téléphones Android ont été retenus en raison de leur prix abordable et de la disponibilité de plateformes pour les outils de développement d'applications mobiles. Les technologies mobiles ont été utilisées pour la cartographie, testées dans le cadre d'un essai pilote et déployées lors du recensement principal.
+
+Deux universités locales, disposant d'une expérience avérée dans la fourniture de tablettes, ont été sollicitées pour assembler les appareils mobiles et installer le logiciel de recensement et les fichiers connexes.
+
+Les données collectées ont été envoyées au serveur central par les enquêteurs après la réalisation de chaque ménage ou de plusieurs ménages, en fonction de la disponibilité de la connectivité Internet. Les coordinateurs, les responsables des technologies de l'information et de la communication (TIC) et les superviseurs de contenu, appuyés par les membres des comités de recensement des comtés et des sous-comtés, ont coordonné et supervisé l'opération. Dans le cas où une tablette ne parvenait pas à envoyer les données au serveur, les enquêteurs ont partagé leurs données via Bluetooth avec leurs superviseurs de contenu respectifs, qui les ont finalement envoyées au serveur.
+
+L'ensemble des agents recenseurs ont transmis leurs données au serveur du siège chaque jour et, en l'absence de connexion Internet, ont envoyé les données au superviseur par Bluetooth, le couplage ayant été préalablement configuré entre les appareils du superviseur et ceux des agents recenseurs. Les superviseurs ont exécuté des rapports prédéfinis et examiné les données pour en vérifier l'exhaustivité avant de les téléverser sur le serveur. Un serveur robuste était donc nécessaire pour gérer l'ampleur du trafic et le nombre de connexions attendus pendant le processus de recensement. En arrière-plan, le personnel autorisé extrayait les données du serveur pour en évaluer la qualité et informait le personnel de terrain concerné en cas d'incohérence. Ce personnel préparait également les rapports de suivi.
+
+L'équipe chargée du traitement des données s'est attelée à l'évaluation de la couverture du recensement immédiatement après la collecte des données. Ce processus impliquait l'harmonisation des géocodes des zones de dénombrement attribués lors de l'assemblage des tablettes et de ceux utilisés pendant le recensement. Il était nécessaire de confirmer que toutes les zones de dénombrement créées pendant l'exercice cartographique avaient été prises en compte (avec ou sans données). L'étape suivante a consisté à extraire les données des tablettes dont les données n'avaient pas atteint le serveur à la fin du recensement. Il a ensuite fallu vérifier et confirmer que toutes les zones de dénombrement disposaient à la fois des données issues du recensement préalable des ménages et des données issues du recensement. Une comparaison entre les ménages répertoriés et les résultats effectifs a été effectuée, et les écarts ont été pris en compte. En outre, une comparaison entre les ménages cartographiés, les ménages répertoriés et les ménages effectivement recensés a également été effectuée, et toutes les divergences ont été corrigées.
+
+L'étape suivante a consisté à vérifier la cohérence des données au niveau des ménages et des individus. Des spécifications d'édition de base ont été élaborées afin de détecter les incohérences. L'objectif de l'édition était de s'assurer que l'ensemble de données final ne comprenait pas de données de formation (données collectées pendant la formation du personnel du recensement) ni d'individus non éligibles (enregistrements vides). En outre, le processus d'édition a pris en compte les éléments suivants : les ménages dont le chef de ménage était manquant ; les enregistrements individuels dépourvus d'âge, de sexe et de lien de parenté pour les ménages ordinaires ; les enregistrements individuels dépourvus de sexe et d'âge pour les ménages collectifs ; et les enregistrements en double concernant la structure, le nombre de ménages et les codes des agents recenseurs. Par la suite, des plans de tabulation ont été élaborés et utilisés pour générer des tableaux récapitulatifs destinés aux rapports de base et aux rapports analytiques. Les données des tableaux générés ont été comparées aux ensembles de données existants afin d'évaluer la cohérence de la couverture du recensement, et les résultats ont été validés par les principales parties prenantes avant publication.
+
+Édition des données du recensement : Le Kenya a utilisé le manuel sur l'édition des recensements de la population et des logements (RGPH) pour établir les spécifications d'édition des différents modules du recensement. Équipe d'édition des données du recensement : L'équipe de traitement était composée d'agents de traitement des données, de spécialistes (démographes et non-démographes), d'informaticiens-programmeurs, de superviseurs et de responsables ; le Bureau national de statistique du Kenya (KNBS) disposait des capacités internes nécessaires pour programmer les spécifications de traitement et les exécuter afin de générer des fichiers de données apurés ; le KNBS a également fait appel à des agents de traitement CSPro expérimentés (anciens employés du KNBS) qui ont contribué à la programmation des codes de traitement et d'imputation. Rapports analytiques : Des spécialistes thématiques ayant participé au RGPH 2019 du Kenya ont rédigé les rapports, puis les ont communiqués aux parties prenantes pour examen ; le KNBS a bénéficié d'une assistance technique (AT) par l'intermédiaire du bureau régional de l'UNFPA pour l'Afrique orientale et australe (ESARO) aux fins de l'élaboration du rapport sur les projections démographiques ; le KNBS souhaite bénéficier d'une AT supplémentaire pour mettre au point un système de diffusion géospatiale. Contrôles de la qualité des données : Un document de spécifications d'édition doit être préparé par les spécialistes thématiques et communiqué avant le lancement de l'essai pilote ; des contrôles rigoureux doivent être intégrés dans l'application CAPI pour la majorité des questions afin de réduire les erreurs de contenu.
+
+La sécurité des données a été assurée par plusieurs méthodes, notamment le chiffrement, le transfert sécurisé de fichiers et l'authentification. Le système utilisé pour la transmission des données depuis les appareils mobiles vers les serveurs du recensement recourait à des mécanismes de chiffrement de pointe afin de garantir que les données demeurent chiffrées et sécurisées pendant leur transfert. En outre, la technologie SSL (Secure Sockets Layer) et des clés de chiffrement robustes ont été mises en œuvre au point de collecte et de transmission vers le serveur.
+
+Afin de garantir la sécurité des appareils mobiles, y compris l'application et les données, les mesures suivantes ont été mises en œuvre : les appareils mobiles fonctionnaient sous un système d'exploitation Android testé et à jour ; un code PIN ou un mot de passe de connexion était requis pour protéger l'appareil contre tout accès non autorisé ; un logiciel de gestion des appareils mobiles (MDM) a été installé pour localiser les appareils en cas de vol. Le logiciel MDM était doté d'une fonction de verrouillage des applications afin d'empêcher la désinstallation des applications installées et l'installation d'applications non autorisées. Enfin, les appareils étaient protégés par un film de protection d'écran et un étui à rabat afin d'éviter les dommages en cas de chute.
+
+Afin de garantir la sécurité des données, un nom de point d'accès privé (APN) a été configuré pour s'assurer que les cartes SIM ne puissent communiquer qu'avec les serveurs du recensement.
+
+**Sierra Leone**
+
+La Sierra Leone a acquis la licence du logiciel EA Pad 4.0 ainsi que des images satellitaires comportant l'empreinte récente de l'ensemble des structures et autres éléments caractéristiques. Les données ont été téléversées via Google Cloud par les assistants cartographes sur le terrain vers les bureaux de district respectifs, au moyen de la numérisation à l'écran des zones de dénombrement délimitées à l'aide du logiciel cartographique ArcGIS.
+
+Chaque instrument technologique destiné à être utilisé dans le cadre de la collecte des données du recensement était disponible pendant la période de préparation et a été intégralement testé avec les autres applications connexes.
+
+Les opérateurs de téléphonie mobile locaux ont fourni les services Internet à un tarif convenu, ce qui a joué un rôle essentiel en permettant la connexion aux serveurs du siège de Statistics Sierra Leone et en facilitant le transfert des données directement du terrain vers les bureaux centraux.
+
+L'application cartographique PAD (progiciel d'acquisition de données mis au point par Milsat Technologies) a exporté directement les données au format CSV, et les bureaux du siège ont téléchargé les données via un système de serveur infonuagique.
+
+Pour des raisons de sécurité des données, seuls les agents accrédités étaient autorisés à utiliser l'application. Le PAD cartographique effectuait périodiquement une authentification du système sur chaque téléphone sur lequel l'application était installée. Le processus de transmission à distance du PAD cartographique utilisait un système infonuagique hautement sécurisé pour analyser et transmettre de manière sécurisée les tâches téléversées vers le portail SIG. Le portail SIG n'était accessible qu'aux agents SIG dûment enregistrés et habilités.
+
+**Botswana**
+
+Le transfert de données vers et depuis les serveurs s'effectuait via les connexions de données mobiles des cartes SIM, dotées de forfaits de données différenciés selon le rôle des utilisateurs finaux pour l'ensemble des tablettes, ou via le réseau Wi-Fi.
+
+Statistics Botswana a utilisé le pare-feu renforcé iGATE comme première couche de sécurité afin de protéger le réseau interne contre le trafic externe non fiable. L'organisme a veillé à ce que l'antivirus institutionnel soit installé sur tous les serveurs, y compris le serveur du recensement, afin de protéger les données.
+
+Au total, le RGPH 2022 comptait quatre utilisateurs finaux disposant d'un accès autorisé aux tablettes, ordinateurs portables et ordinateurs de bureau. De plus, chaque membre du personnel informatique utilisait son propre mot de passe pour se connecter aux serveurs.
+
+[Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/4.%20Data%20Capture,%20Transmission%20and%20Management)

@@ -1,0 +1,23 @@
+﻿---
+sidebar_position: 5
+hide_title: true 
+---
+
+
+
+##  Recommandations
+
+Sur la base de l'expérience des pays concernés et des enseignements tirés de la mise en œuvre d'essais pilotes de recensement numérique, les recommandations suivantes sont formulées pour les futurs RGPH :
+
+- Un budget et des ressources suffisants doivent être prévus pour l'essai pilote et les autres activités de test afin d'éviter les contraintes budgétaires, comme cela a été le cas au Kenya, où le budget prévu ne couvrait qu'un seul exercice pilote. Des ressources suffisantes doivent être allouées pour mener à bien l'essai pilote, les prétests des questionnaires et les exercices de test post-pilotes. La planification et l'affectation des ressources pour l'essai pilote et les prétests doivent être effectuées avec soin, ces aspects étant généralement négligés lors du processus de planification. Pour en savoir plus sur la [budgétisation](#_2.2￼Development_of_census).
+
+- Une proposition complète relative à la mise en œuvre des tests du recensement doit être élaborée. Cette proposition doit inclure tous les aspects à tester à chaque étape : avant, pendant et après l'essai pilote. Pour chaque aspect à tester, la méthodologie de test, les indicateurs de mesure, l'exploitation des résultats, le budget et le plan de travail doivent être décrits.
+
+- Les zones de dénombrement sélectionnées à dessein pour l'essai pilote doivent être représentatives de l'ensemble des situations rencontrées dans le pays, y compris les zones présentant des difficultés en matière de connectivité Internet. Cette approche permettra de tester les plans d'urgence en cas de défaillance de la connexion Internet.
+
+- Avant la mise en œuvre de l'essai pilote, tous les outils de collecte de données numériques, y compris tous les menus d'application, doivent être testés et les données générées doivent servir à effectuer des révisions, par exemple du programme d'édition par lots et du tableau de bord de suivi. Il convient d'éviter de mener un essai pilote lorsque tous les éléments ne sont pas prêts, y compris le contenu du questionnaire.
+
+- Il est important de s'assurer que tous les aspects du RGPH numérique sont testés avant le recensement proprement dit. Après chaque modification, un test doit être effectué afin de s'assurer que le système de saisie et de suivi des données mis à jour fonctionne correctement.
+
+- Les procédures de recrutement et de formation du personnel doivent être préparées à l'avance et faire partie des tests de l'essai pilote. Elles doivent également prendre en compte les questions linguistiques et la rémunération. L'idéal est de recruter les agents recenseurs au sein ou à proximité des zones de dénombrement afin d'éviter les difficultés rencontrées en Éthiopie. Toutefois, l'expérience de l'essai pilote a permis de respecter strictement les directives de recrutement pour le RGPH principal afin de garantir le recrutement d'un personnel approprié. Il est important de publier les offres d'emploi pour le personnel de terrain dans les médias au moins deux à trois mois avant la période de recrutement, afin de laisser suffisamment de temps pour le processus de vérification, à savoir vérifier si le personnel de terrain répond aux exigences requises pour le recrutement (Namibie). Les pays ont également recommandé l'utilisation d'un système de recrutement électronique autonome, adapté aux besoins de l'organisme en matière de recrutement. Pour en savoir plus sur le [recrutement](#_6.1_Recruitment).
+

@@ -1,0 +1,19 @@
+﻿---
+sidebar_position: 5
+hide_title: true
+---
+
+
+
+## Recommandations
+
+- L'acquisition des appareils et des serveurs doit être effectuée bien à l'avance, idéalement six mois avant le recensement, afin de permettre les tests et la configuration. La normalisation des appareils utilisés par le personnel de terrain simplifie la formation et l'assistance.
+
+- La transmission des données doit suivre un modèle à plusieurs niveaux, les superviseurs vérifiant les données avant leur téléversement vers les serveurs centraux. Dans les zones où les réseaux mobiles ne sont pas fiables, des solutions de connectivité alternatives, telles que les antennes VSAT, doivent être envisagées.
+
+- La sécurité doit être intégrée à tous les niveaux de l'opération. Cette exigence implique le recours au chiffrement, la mise en place de contrôles d'accès et la réalisation d'audits réguliers. La formation doit être complète et continue, couvrant à la fois l'utilisation des outils numériques et l'importance de la confidentialité des données.
+
+- Afin de garantir la sécurité de l'ensemble de l'infrastructure à tous les niveaux, l'organisme chargé de la mise en œuvre du recensement peut faire appel à un consultant pour collaborer avec l'équipe TIC dans des domaines tels que la sécurité des centres de données, la sécurité de la transmission, la sécurité des réseaux et les tests d'intrusion.
+
+- La réalisation d'essais pilotes est essentielle. Tous les systèmes et outils doivent être testés de manière approfondie lors d'exercices pilotes afin d'identifier et de résoudre les problèmes avant le recensement principal. La mobilisation du public est également essentielle. La sensibilisation de la population aux méthodes de recensement numérique peut accroître la participation et réduire les réticences.
+

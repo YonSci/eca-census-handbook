@@ -1,0 +1,27 @@
+﻿---
+sidebar_position: 5
+hide_title: true 
+---
+
+
+
+##  Recommandations
+
+- Les technologies numériques offrent davantage de choix quant à la manière de mener un recensement, mais introduisent une nouvelle complexité. Il est donc important d'examiner attentivement comment les outils et la conception qui en découle permettront de répondre aux exigences des utilisateurs en matière de qualité tout en respectant les normes statistiques.
+
+<!-- -->
+
+- Intégrer le suivi, l'évaluation, la gestion de la qualité et des risques dans toutes les phases du recensement numérique, de la planification à la diffusion.
+
+- Tirer parti des outils numériques concernant la validation des données en temps réel, la détection automatisée des erreurs et le suivi continu.
+
+- Investir dans la formation et le renforcement des capacités afin de garantir que le personnel chargé du recensement soit en mesure d'utiliser efficacement les outils numériques d'assurance qualité et d'interpréter leurs résultats.
+
+- Établir des protocoles clairs concernant l'évaluation des risques et de la qualité des données, la communication d'informations et les mesures correctives, afin de garantir que les problèmes liés aux risques et à la qualité soient traités rapidement et efficacement.
+
+- Évaluer et adapter les stratégies d'assurance qualité et d'atténuation des risques en fonction des enseignements tirés et des progrès technologiques, en améliorant continuellement l'efficacité des pratiques de gestion des risques et de la qualité.
+
+- Le suivi indépendant par des observateurs internationaux doit être encouragé, car il renforce la crédibilité de l'ensemble du processus de recensement et fournit des enseignements utiles aux pays qui prévoient de mener un recensement.
+
+- Élaborer une stratégie globale de gestion des risques abordant un large éventail de défis, depuis les questions fondamentales d'infrastructure et de sécurité jusqu'aux facteurs socioculturels et de gouvernance plus nuancés. S'efforcer de renforcer les capacités nécessaires à la mise en œuvre de ce plan dans un environnement difficile.
+
