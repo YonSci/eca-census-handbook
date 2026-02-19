@@ -1,26 +1,35 @@
-﻿# Liste de contrôle 1 : Planification et préparation du recensement
+# Liste de contrôle 4 : Recensement pilote
 
-| Clé d'appariement | Désignation |
-| --- | --- |
-| 1. | Prénom + Nom + Année + Sexe + Ménage |
-| 2. | StdLEV1(Prénom)>0,79 + StdLEV(Nom) >0,79 + Année + Mois + Ménage |
-| 3. | Prénom + Nom + Différence_d'âge2 + Sexe + Ménage |
-| 4. | Prénom + Nom + Lien de parenté avec le chef de ménage + Ménage |
-| 5. | StdLEV(Prénom)>0,79 + StdLEV(Nom) >0,79 + Sexe + Ménage |
-| 6. | Alphanames3 + Année + Sexe + Ménage |
-| 7. | StdLEV(Noms alphabétiques)>0,79 + Sexe + Année + Ménage |
-| 8. | Prénom + StdLEV(Nom de famille)>0,69 + Sexe + Âge + Ménage |
-| 9. | Prénom + (Nom 1 Rec = Nom 2 EPR ou Nom 2 Rec = Nom 1 EPR) + Âge + Sexe + Ménage |
-| 10. | StdLEV(Prénom)>0,79 + RLSoundex4(Nom de famille) + Différence_d'âge + Sexe + Lien de parenté avec le chef de ménage + Ménage |
-| 1 La distance d'édition de Levenshtein normalisée qui mesure le nombre d'insertions, de suppressions ou de substitutions nécessaires afin de transformer un nom en un autre, calculée comme une proportion de la longueur du nom le plus long. 2 La fonction de différence d'âge qui permet une tolérance différente en fonction de l'âge. 3 Alphanames est une variable dérivée qui classe tous les caractères des noms par ordre alphabétique. 4 RLSoundex est la fonction Soundex appliquée au nom, tous les R étant remplacés par des L (cette adaptation a été utilisée au Rwanda car R et L se prononcent de la même manière en kinyarwanda). |  |
-|  | Activités |
-| 1 | Définition des objectifs stratégiques relatifs à l'ensemble du programme de documents du recensement - élaboration du projet de recensement |
-| 1 | Définition des objectifs stratégiques relatifs à l'ensemble du programme de documents du recensement - élaboration du projet de recensement |
-| 2 | Évaluation des capacités statistiques |
-| 3 | Élaboration d'un calendrier du recensement |
-| 4 | Organisation administrative et structure de gestion |
-| 5 | Réunion des parties prenantes gouvernementales |
-| 6 | Organisation des commissions et comités |
-| 7 | Consultation des utilisateurs |
-| 8 | Gestion financière |
-| 9 | Assurance qualité |
+|   | Activités | Désignation | Résultat | Partie(s) responsable(s) | Durée (mois) | Années jusqu'à la nuit du recensement |
+|---|-----------|-------------|----------|---------------------------|--------------|----------------------------------------|
+| 1 | Planification du recensement pilote | Élaboration d'une note conceptuelle et d'autres documents relatifs au recensement pilote, notamment le plan de travail, le plan d'acquisition, le budget, le plan de recrutement et de formation. | Ensemble de documents en vue d'un exercice pilote de recensement bien planifié. | ?? | 4 | 1,5 |
+| 2 | Sélection des zones d'évaluation environnementale dans le cadre du recensement pilote | Un échantillon de ZD est sélectionné dans le cadre du recensement pilote, en veillant à inclure différents types de ZD, par exemple urbaines, rurales, difficiles à recenser, etc. | Liste des zones d'évaluation environnementale relatives au recensement pilote | Démographie et SIG | 1 | 1,5 |
+| 3 | Mise en place des opérations sur le terrain dans le cadre du recensement pilote | Déterminer les besoins des opérations sur le terrain (tablettes/téléphones intelligents et autres matériels de terrain) | Liste de contrôle relative au travail sur le terrain | Démographie et TI | 1 | 1,5 |
+| 3 | Mise en place des opérations sur le terrain dans le cadre du recensement pilote | Déterminer les besoins en matière de traitement des données (procédures, contrôles de qualité ou opérationnels, édition, tabulation) | Guide du traitement des données | Démographie et TI | 3 | 1,5 |
+| 3 | Mise en place des opérations sur le terrain dans le cadre du recensement pilote | Sélection des logiciels de traitement des données et formation appropriée du personnel de l'ONS | Former le personnel à tous les logiciels et applications nécessaires | Démographie, TI et SIG | 2 | 1,3 |
+| 3 | Mise en place des opérations sur le terrain dans le cadre du recensement pilote | Élaboration du plan des opérations sur le terrain/plan logistique relatif au déploiement du personnel, des appareils et du matériel | Plan d'opérations pilotes sur le terrain | Démographie, TI et SIG | 2 | 1,3 |
+| 3 | Mise en place des opérations sur le terrain dans le cadre du recensement pilote | Acquisition et installation de tablettes et autres appareils/équipements de traitement des données à utiliser dans le cadre du recensement pilote | Tous les appareils électroniques en place | Démographie, TI et SIG | 2 | 1,3 |
+| 3 | Mise en place des opérations sur le terrain dans le cadre du recensement pilote | Acquisition d'autres matériels et accessoires de terrain | Matériel imprimé connexe et matériel de formation | Démographie, TI et SIG | 2 | 1,3 |
+| 4 | Recrutement et formation des superviseurs | Organisation d'une campagne de recrutement relative aux superviseurs et aux agents recenseurs du recensement | Superviseurs et agents recenseurs nommés | Gestion et RH | 3 | 1,2 |
+| 4 | Recrutement et formation des superviseurs | Identification des formateurs/superviseurs pilotes du recensement au niveau des districts | Superviseur de district disponible | Gestion et RH | 1 | 1,3 |
+| 4 | Recrutement et formation des superviseurs | Orientation du personnel du district pilote concernant les activités du recensement (recrutement, publicité, etc.) | Superviseurs de district orientés | Démographie, TI et SIG | 0.9 | 1,2 |
+| 5 | Recrutement et formation des agents recenseurs | Recrutement du personnel de terrain (superviseurs et agents recenseurs) | Rapport de formation | Démographie, TI et SIG | 0.9 | 1,1 |
+| 5 | Recrutement et formation des agents recenseurs | Téléchargement et essai des questionnaires sur les tablettes, tableau de bord de suivi du recensement | Applications et tableaux de bord robustes relatifs aux questionnaires | Démographie, TI et SIG | 0.9 | 1,0 |
+| 5 | Recrutement et formation des agents recenseurs | Formation du personnel de terrain (superviseurs et agents recenseurs) | Nettoyage de la liste des ménages avant le recensement | Démographie, TI et SIG | 0.9 | 1,0 |
+| 6 | Liste pilote pré-recensement et familiarisation avec les limites des zones d'enquête | Réalisation de la liste des ménages dans les zones d'enquête pilotes | Plan d'opérations pilotes sur le terrain | Démographie, TI et SIG |  |  |
+| 6 | Liste pilote pré-recensement et familiarisation avec les limites des zones d'enquête | Nettoyage des résultats du recensement préalable et téléchargement | Tous les appareils électroniques en place | Démographie, TI et SIG |  |  |
+
+#Étape 3 : Recensement pilote
+
+|   | Activités | Désignation | Résultat | Partie(s) responsable(s) | Durée (mois) | Années jusqu'à la nuit du recensement |
+|---|-----------|-------------|----------|---------------------------|--------------|----------------------------------------|
+| 7 | Identification des éditeurs de données du recensement pilote | Sélectionner le personnel approprié de l'ONS ou recruter des éditeurs de données | Identification des éditeurs de données à former | Démographie et TI | 0,9 | 1,0 |
+| 8 | Réception des appareils et du matériel de recensement pilote au siège de l'ONS | Livraison des tablettes/téléphones intelligents et autres matériels | Réception des appareils et du matériel | Démographie et TI | 0,9 | 1,0 |
+| 9 | Traitement des données (codage, saisie et tabulation) | Formation des éditeurs de données du recensement pilote | Rapport d'édition des données | Démographie et TI | 1 | 1,0 |
+| 9 | Traitement des données (codage, saisie et tabulation) | Édition des données du recensement pilote | Données du recensement pilote | Démographie et TI | 1 | 1,0 |
+| 10 | Analyse des données et rédaction des rapports | Réunion de bilan et examen des rapports des responsables techniques de district | Rapports consolidés des responsables techniques de district | Démographie et TI | 1 | 0,9 |
+| 10 | Analyse des données et rédaction des rapports | Analyse et évaluation du recensement pilote avec rapport | Questionnaire, formulaires de candidature et manuels révisés | Démographie et TI | 1 | 0,9 |
+| 11 | Mise à jour du questionnaire et autres opérations sur la base des conclusions du projet pilote | Finalisation du questionnaire, du CAPI et des manuels | Outils finaux de collecte de données | Démographie et TI | 2 | 0,8 |
+| 12 | Soumission du questionnaire au cabinet en vue d'approbation | Liaison avec les organismes gouvernementaux compétents afin d'obtenir l'approbation du questionnaire finalisé | Outils de collecte de données approuvés | Gestion | 0 | 0,8 |
+| 13 | Tester le nouveau système CAPI sur la base des conclusions du recensement pilote | Mise à jour et essai de la nouvelle application CAPI | Application CAPI entièrement testée | Démographie et TI | 0,9 | 0,5 |
+| 14 | Publication des dates du recensement au journal officiel, si cela n'a pas déjà été fait | Publier officiellement la nuit de référence du recensement | La nuit de référence du recensement est fixée | Démographie | 0 | 1,0 |
