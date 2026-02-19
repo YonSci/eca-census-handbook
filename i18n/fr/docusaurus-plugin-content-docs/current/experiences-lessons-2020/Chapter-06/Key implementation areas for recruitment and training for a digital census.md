@@ -22,7 +22,7 @@ hide_title: true
 
 ### Déploiement de la campagne de recrutement
 
-> La campagne de recrutement doit tirer parti des médias numériques afin d'optimiser sa portée. Voir le chapitre consacré à la sensibilisation, à la publicité et à la mobilisation des ressources dont le lien en anglais « [Advocacy, Publicity and Resource Mobilisation](#sensibilisation-publicité-et-mobilisation-des-ressources) ».
+> La campagne de recrutement doit tirer parti des médias numériques afin d'optimiser sa portée. Voir le chapitre consacré à la sensibilisation, à la publicité et à la mobilisation des ressources dont le lien en anglais « [Advocacy, Publicity and Resource Mobilisation](/docs/experiences-lessons-2020/Chapter-12/Introduction) ».
 
 ### Élaboration d'un programme de formation 
 
@@ -30,9 +30,10 @@ hide_title: true
 
 ### Essai pilote de recrutement et de formation
 
-> L'[essai pilote](#essais-et-projets-pilotes-de-recensement) du recensement doit inclure des tests approfondis de la technologie et de la méthodologie de recrutement et de formation afin de s'assurer que les systèmes fonctionnent comme prévu. À titre d'exemple, lors de l'essai pilote, la Namibie a constaté que son système de recrutement en ligne n'était pas en mesure de traiter le grand nombre de candidatures reçues. Ce problème a été résolu avant le recrutement pour le recensement principal.
+> L'[essai pilote](/docs/experiences-lessons-2020/Chapter-05/Introduction) du recensement doit inclure des tests approfondis de la technologie et de la méthodologie de recrutement et de formation afin de s'assurer que les systèmes fonctionnent comme prévu. À titre d'exemple, lors de l'essai pilote, la Namibie a constaté que son système de recrutement en ligne n'était pas en mesure de traiter le grand nombre de candidatures reçues. Ce problème a été résolu avant le recrutement pour le recensement principal.
 
 ### Mise en œuvre du programme de formation
 
 > La formation au recensement se déroule généralement de manière descendante, en commençant par les formateurs principaux, qui sont pour la plupart des spécialistes thématiques, puis les formateurs, les superviseurs et enfin les agents recenseurs. Afin d'assurer la cohérence de la formation sur l'ensemble du territoire national, le matériel de formation doit être élaboré de manière centralisée et testé auprès d'utilisateurs non experts. Pendant la formation, il est recommandé que les formateurs se réunissent en fin de journée pour examiner les progrès réalisés et traiter les questions en suspens afin d'améliorer la qualité de la formation. Des centres de formation gérés par des administrateurs peuvent être mis en place dans différentes régions du pays afin de faciliter la formation en présentiel.
+
 
