@@ -7,10 +7,6 @@ hide_title: true
 
 
 
-
-
-
-
 ## Expériences de certains pays
 
 Le **Burkina Faso** a rencontré des difficultés lors de son recensement de 2019 en raison de problèmes de sécurité dans le nord et l'est du pays, qui ont empêché le recensement de certaines zones. Afin de remédier à cette situation, l'Institut national de la statistique et de la démographie (INSD), en collaboration avec le Fonds des Nations Unies pour la population (FNUAP) et WorldPop, a mis au point des méthodes prédictives en vue d'estimer les populations dans les régions inaccessibles. Ces méthodes ont permis d'obtenir des estimations démographiques maillées relatives à l'ensemble du pays, contribuant ainsi à combler des lacunes critiques en matière de données.
@@ -73,3 +69,5 @@ Les points de ménages issus de l'enquête cartographique ont été combinés av
 
 Des estimations démographiques relatives à l'ensemble de l'Éthiopie ont été produites, et des travaux sont actuellement en cours afin de valider et d'affiner ces estimations, en vue de leur publication par l'ESS.
 
+
+[Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/15. Alternative Approaches.md)
