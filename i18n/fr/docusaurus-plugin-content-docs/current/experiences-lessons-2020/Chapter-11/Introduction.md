@@ -13,7 +13,7 @@ hide_title: true
 
 ## Introduction
 
-Le passage aux recensements numériques de la population en Afrique a fondamentalement changé le modèle opérationnel, rendant les partenariats et la collaboration non seulement bénéfiques, mais absolument essentiels afin de garantir le succès, l'efficacité et la réduction des coûts. Un recensement numérique moderne est trop complexe et nécessite trop de ressources pour être géré seul par un office national de statistique. Il nécessite une approche « globale de la société », réunissant un écosystème diversifié d'acteurs, comme indiqué parmi les conditions préalables essentielles à un recensement numérique dans le chapitre sur la [planification](#planification-et-gestion-de-projet) et dans le document [Principes et recommandations de l'ONU, Rév. 4, paragraphe 2.165 à 2.172](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=117).
+Le passage aux recensements numériques de la population en Afrique a fondamentalement changé le modèle opérationnel, rendant les partenariats et la collaboration non seulement bénéfiques, mais absolument essentiels afin de garantir le succès, l'efficacité et la réduction des coûts. Un recensement numérique moderne est trop complexe et nécessite trop de ressources pour être géré seul par un office national de statistique. Il nécessite une approche « globale de la société », réunissant un écosystème diversifié d'acteurs, comme indiqué parmi les conditions préalables essentielles à un recensement numérique dans le chapitre sur la [planification](/docs/experiences-lessons-2020/Chapter-01/Introduction) et dans le document [Principes et recommandations de l'ONU, Rév. 4, paragraphe 2.165 à 2.172](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=117).
 
 Le présent chapitre se concentre sur l'établissement de partenariats et de collaborations lors de la mise en œuvre d'un recensement numérique.
 
@@ -34,4 +34,5 @@ Voici quelques considérations relatives aux partenariats et à la collaboration
 - Formuler et comprendre les rôles, les responsabilités, les capacités et les relations des différents acteurs exécutifs et consultatifs qui existent aux différents niveaux administratifs et concernant chaque phase du recensement. Les rôles et responsabilités détaillés des parties prenantes qui peuvent être adaptés à un pays sont décrits dans le document [Principes et recommandations des Nations Unies, Rév. 4, paragraphes 2.169 et 2.170](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=118).
 
 - Préparer des protocoles d'accord signés légalement et adaptés aux besoins spécifiques du partenariat, fournissant le cadre essentiel qui permet la collaboration complexe entre les multiples parties prenantes requise concernant un recensement numérique moderne en Afrique. Par exemple, le protocole d'accord d'assistance technique et financière, le protocole d'accord de partenariat public-privé.
+
 
