@@ -62,3 +62,4 @@ Statistics Botswana a utilisé le pare-feu renforcé iGATE comme première couch
 
 Au total, le RGPH 2022 comptait quatre utilisateurs finaux disposant d'un accès autorisé aux tablettes, ordinateurs portables et ordinateurs de bureau. De plus, chaque membre du personnel informatique utilisait son propre mot de passe pour se connecter aux serveurs.
 
+[Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/4.%20Data%20Capture,%20Transmission%20and%20Management)
