@@ -79,3 +79,4 @@ Matériel et équipement de recensement, compétences des recenseurs en matière
 
 En outre, dans le cadre de l'assurance qualité, un module de supervision a été intégré dans l'application CAPI, dans lequel les superviseurs pouvaient sélectionner quelques ménages au hasard, mener de nouveaux entretiens et générer un rapport. Toute variation a été traitée par les recenseurs en concertation avec les superviseurs. Une équipe de coordinateurs issus des différents comités de recensement a également été déployée afin d'assurer le suivi et l'observation du processus de recensement.
 
+[Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/9.%20Quality%20Assurance,%20Monitoring,%20Evaluation,%20and%20Risk%20Management)
