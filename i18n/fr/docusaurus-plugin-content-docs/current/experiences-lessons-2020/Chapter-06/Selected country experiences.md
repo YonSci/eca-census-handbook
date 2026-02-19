@@ -138,5 +138,6 @@ Phase opérationnelle :
 \- Suivi de l'achèvement de la formation : bien que l'obligation d'achever la formation dans un délai spécifique ait été clairement énoncée lors du recrutement et de l'intégration, des efforts ont tout de même été nécessaires de la part du prestataire et du LMS pour garantir l'achèvement. Dans certains cas, des prolongations ont dû être accordées, ce qui a obligé les équipes opérationnelles à effectuer des heures supplémentaires pour s'adapter à la prolongation de la période. À l'avenir, il pourrait être envisagé d'accorder davantage de temps pour l'achèvement de la formation afin d'alléger la pression sur les apprenants et le personnel.
 
 
-[Lien vers la section des études de cas](/i18n/fr/docusaurus-plugin-content-docs/current/case-studies/6.%20Recruitment%20and%20Training%20of%20Field%20Personnel)
+[Lien vers la section des études de cas](/docs/case-studies/6.%20Recruitment%20and%20Training%20of%20Field%20Personnel)
+
 
