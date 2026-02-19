@@ -64,9 +64,9 @@ L'analyse des données du recensement de la population constitue une entreprise 
 
 - Un plan de tabulation détaillé et la structure souhaitée concernant le rapport. Pour des orientations détaillées sur la tabulation, consulter le document Principes et recommandations des Nations Unies, Rév. 4, par. [3.297 à 3.301](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=210).
 
-Les produits du recensement doivent être élaborés sur la base d'un plan de communication et de publicité convenu qui définit clairement le public cible en fonction des différents groupes de parties prenantes. La segmentation des parties prenantes améliore la compréhension et l'utilisation des produits, car ceux-ci répondent à leurs besoins. Voir la section « [[Sensibilisation, publicité et mobilisation des ressources](#sensibilisation-publicité-et-mobilisation-des-ressources)](#planification-et-gestion-de-projet) » . Les considérations suivantes doivent être prises en compte lors de l'élaboration des produits du recensement :
+Les produits du recensement doivent être élaborés sur la base d'un plan de communication et de publicité convenu qui définit clairement le public cible en fonction des différents groupes de parties prenantes. La segmentation des parties prenantes améliore la compréhension et l'utilisation des produits, car ceux-ci répondent à leurs besoins. Voir la section « [[Sensibilisation, publicité et mobilisation des ressources](/docs/experiences-lessons-2020/Chapter-12/Introduction)](#planification-et-gestion-de-projet) » . Les considérations suivantes doivent être prises en compte lors de l'élaboration des produits du recensement :
 
-- Avant de produire des produits de diffusion des données du recensement, les ONS doivent identifier les produits appropriés et nécessaires afin de répondre aux besoins des parties prenantes. Cette identification est déterminée par le biais d'une consultation des parties prenantes au [stade de la planification](#planification-et-gestion-de-projet).
+- Avant de produire des produits de diffusion des données du recensement, les ONS doivent identifier les produits appropriés et nécessaires afin de répondre aux besoins des parties prenantes. Cette identification est déterminée par le biais d'une consultation des parties prenantes au [stade de la planification](/docs/experiences-lessons-2020/Chapter-01/Introduction).
 
 - Les produits de diffusion des données de recensement doivent être élaborés et adaptés aux différents groupes de parties prenantes, car la segmentation des parties prenantes améliore la compréhension et l'utilisation des produits élaborés.
 
@@ -134,4 +134,5 @@ Les considérations suivantes doivent être prises en compte en vue d'un archiva
 - les politiques de sécurité visant à prévenir les pertes accidentelles ou malveillantes.
 
 Pour des orientations détaillées sur l'archivage, consulter le document [Principes et recommandations des Nations Unies, Rév. 4, par. 3.581 à 3.594](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=269).
+
 
