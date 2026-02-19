@@ -1,0 +1,22 @@
+﻿---
+sidebar_position: 4
+hide_title: true
+---
+
+
+
+## Recommandations
+
+Sur la base de l'expérience des pays, les recommandations suivantes sont formulées concernant l'élaboration d'outils de recensement numériques :
+
+* Veiller à ce qu'une fonction d'aide soit intégrée à la tablette, en particulier pour les questions et les variables difficiles à mémoriser pour les agents recenseurs, afin de leur permettre de consulter rapidement les informations nécessaires.
+
+* Il était essentiel de s'inspirer de l'expérience de pays ayant déjà réalisé un recensement à l'aide d'appareils portables. Les apports d'autres pays ont grandement contribué à la finalisation des outils et des instruments.
+
+* Les questionnaires doivent être finalisés et testés avant le début de la formation du personnel de terrain. Cette précaution permet d'éviter que l'application de collecte de données ne contienne des questions non testées. Le questionnaire ne doit pas être trop long et les questions doivent être formulées clairement.
+
+* La réussite de la mise en œuvre d'un recensement dématérialisé a été attribuée aux nombreux prétests, aux tests en bureau et à l'essai pilote. En outre, les agents recenseurs doivent être à l'aise avec les appareils ; il est donc important de prévoir des journées consacrées à la pratique sur le terrain avec ces équipements. Ces exercices permettent aux agents recenseurs et à leurs superviseurs d'examiner différents scénarios et de se familiariser avec l'application de collecte de données.
+
+* Gestion des versions : une version unique du logiciel doit être maintenue. Lorsque plusieurs personnes travaillent sur l'application, un référentiel central où sont consignées les modifications apportées au système, tel que GitHub, doit être mis en place. À défaut, si un seul développeur gère les versions, plusieurs versions de l'application risquent d'apparaître et de créer de la confusion. En outre, un inventaire de tous les formulaires doit être tenu, celui-ci étant nécessaire à des fins de référence et d'amélioration ultérieures.
+
+
