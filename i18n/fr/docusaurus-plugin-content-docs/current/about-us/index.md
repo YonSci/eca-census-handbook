@@ -1,34 +1,35 @@
----
-title: À propos
+﻿---
+title: About
 sidebar_position: 0
 hide_title: true
 ---
 
-<h1 style={{fontSize: '1.2rem', lineHeight: '1.2', marginBottom: '1.5rem'}}>À propos du Manuel de recensement électronique</h1>
+<h1 style={{fontSize: '1.2rem', lineHeight: '1.2', marginBottom: '1.5rem'}}>About the E-Census Handbook</h1>
 
-Bienvenue dans le guide complet du Manuel de recensement électronique pour l'Afrique. Cette section fournit des informations essentielles sur le contexte, l'objectif et la structure du manuel afin de vous aider à comprendre et à parcourir cette ressource précieuse.
+Welcome to the comprehensive guide about the E-Census Handbook for Africa. This section provides essential information about the handbook's background, purpose, and structure to help you understand and navigate this valuable resource.
 
-## En savoir plus sur ce manuel
+## Learn About This Handbook
 
-- **[Contexte](./Background)**  
-Découvrez le contexte et le développement de ce Manuel de recensement électronique, y compris les efforts de collaboration qui ont permis sa réalisation.
+- **[Background](/docs/about-us/Background)**  
+  Discover the context and development of this E-Census Handbook, including the collaborative efforts that brought it to life.
 
-- **[Objectif](./Purpose)**  
-Comprenez les objectifs spécifiques et les buts que ce manuel vise à atteindre pour les opérations de recensement en Afrique.
+- **[Purpose](/docs/about-us/Purpose)**  
+  Understand the specific objectives and goals this handbook aims to achieve for African census operations.
 
-- **[Justification](./Rationale)**  
-Découvrez pourquoi ce manuel était nécessaire et comment il répond aux besoins essentiels de la mise en œuvre des recensements numériques.
+- **[Rationale](/docs/about-us/Rationale)**  
+  Learn why this handbook was necessary and how it addresses critical needs in digital census implementation.
 
-- **[Structure](./Structure)**  
-Explorez l'organisation du manuel et la manière de parcourir efficacement ses différentes sections.
+- **[Structure](/docs/about-us/Structure)**  
+  Explore how the handbook is organized and how to navigate its various sections effectively.
 
-- **[Public cible](./Target%20Audience)**  
-Découvrez à qui s'adresse ce manuel et comment les différentes parties prenantes peuvent bénéficier de son contenu.
+- **[Target Audience](/docs/about-us/Target%20Audience)**  
+  Find out who this handbook is designed for and how different stakeholders can benefit from its content.
 
 ---
 
-## Navigation rapide
+## Quick Navigation
 
-Ce manuel est conçu pour servir plusieurs groupes d'acteurs impliqués dans la planification et la mise en œuvre des recensements en Afrique. Que vous soyez statisticien gouvernemental, partenaire de développement, expert technique ou décideur politique, vous trouverez des orientations adaptées à vos besoins.
+This handbook is designed to serve multiple stakeholder groups involved in census planning and implementation across Africa. Whether you're a government statistician, development partner, technical expert, or policy maker, you'll find relevant guidance tailored to your needs.
 
-Utilisez le menu latéral pour explorer chaque section en détail, ou cliquez sur l'un des liens ci-dessus pour accéder directement aux sujets qui vous intéressent le plus.
+Use the sidebar menu to explore each section in detail, or click on any of the links above to jump directly to specific topics that interest you most. 
+
