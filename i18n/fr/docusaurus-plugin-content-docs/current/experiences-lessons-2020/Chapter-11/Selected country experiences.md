@@ -18,11 +18,11 @@ Lors de la réalisation de l'exercice de cartographie, l'Agence **namibienne** d
 
 Le Bureau des statistiques du **Zimbabwe** s'est associé au ministère de la Communication du gouvernement et a travaillé à travers sa structure décentralisée en créant un comité de communication et de publicité sur le recensement au niveau national qui a collaboré avec les comités de district et a inclus le public politique. Ce partenariat visait à remédier au manque de responsables de la communication et de la publicité concernant le recensement.
 
-Le Bureau des statistiques de la **Gambie** a également tiré parti de partenariats afin de relever le défi posé par l'absence d'une unité de communication et de publicité désignée, en collaborant avec la Commission nationale de la population en vue d'assurer [une communication et une publicité](#expériences-de-certains-pays-10) efficaces sur le recensement.
+Le Bureau des statistiques de la **Gambie** a également tiré parti de partenariats afin de relever le défi posé par l'absence d'une unité de communication et de publicité désignée, en collaborant avec la Commission nationale de la population en vue d'assurer [une communication et une publicité](/docs/experiences-lessons-2020/Chapter-11/Introduction) efficaces sur le recensement.
 
-Le **Kenya** et la **Tanzanie** ont tiré parti de partenariats et de collaborations afin d'assurer une gestion logistique efficace. Voir le chapitre sur [le recensement et la logistique](#dénombrement-et-logistique).
+Le **Kenya** et la **Tanzanie** ont tiré parti de partenariats et de collaborations afin d'assurer une gestion logistique efficace. Voir le chapitre sur [le recensement et la logistique](/docs/experiences-lessons-2020/Chapter-08/Introduction)
 
-La **Tanzanie** a engagé des experts universitaires afin de rédiger des monographies. Grâce à ce partenariat, le personnel du Bureau national des statistiques et du Bureau du statisticien en chef du gouvernement ainsi que les stagiaires universitaires ont pu renforcer leurs compétences et leurs capacités. Plusieurs pays se sont associés afin d'élaborer des produits liés au recensement et les rôles des parties prenantes ont été clairement définis en fonction de leurs avantages comparatifs. Les rôles et responsabilités étaient clairement définis dès la [phase de planification](#_2.1￼Development_of_the), par exemple :
+La **Tanzanie** a engagé des experts universitaires afin de rédiger des monographies. Grâce à ce partenariat, le personnel du Bureau national des statistiques et du Bureau du statisticien en chef du gouvernement ainsi que les stagiaires universitaires ont pu renforcer leurs compétences et leurs capacités. Plusieurs pays se sont associés afin d'élaborer des produits liés au recensement et les rôles des parties prenantes ont été clairement définis en fonction de leurs avantages comparatifs. Les rôles et responsabilités étaient clairement définis dès la [phase de planification](/docs/experiences-lessons-2020/Chapter-11/Introduction), par exemple :
 
 - L'agence chargée de la mise en œuvre du recensement assure la direction technique et la gestion ; la planification du calendrier de publication des produits du recensement ; l'analyse des données et la production de contenu ; la diffusion et le partage des données si nécessaire.
 
@@ -39,5 +39,6 @@ La **Tanzanie** a engagé des experts universitaires afin de rédiger des monogr
 - Les bailleurs de fonds et les partenaires de développement fournissent également des ressources afin d'engager des instituts de recherche ou des consultants nationaux-internationaux pour diriger les domaines-thèmes dans lesquels les capacités nationales font défaut, en partenariat avec les ONS et les ministères sectoriels-institutions nationales.
 
 [Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/11.%20Partnerships%20and%20Collaboration)
+
 
 
