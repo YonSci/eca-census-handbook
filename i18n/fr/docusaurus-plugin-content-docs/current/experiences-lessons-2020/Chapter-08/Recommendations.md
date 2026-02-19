@@ -1,0 +1,39 @@
+﻿---
+sidebar_position: 5
+hide_title: true 
+---
+
+
+
+## Recommandations
+
+- Il est recommandé que le recensement préalable des ménages soit effectué peu après la formation, achevé la veille du début du recensement, et que la communauté en soit clairement informée. Il devrait être réalisé par voie électronique afin d'obtenir des résultats rapides.
+
+<!-- -->
+
+- Il a été noté que, bien qu'il s'agisse d'un recensement numérique, les recenseurs pourraient devoir disposer de copies papier des cartes, selon les circonstances et les résultats du recensement pilote. Par conséquent, un budget relatif à l'impression des cartes devrait être prévu, en particulier pour les zones urbaines.
+
+<!-- -->
+
+- Le processus de cartographie devrait être réalisé bien avant le recensement, et le recensement pilote devrait cibler les zones frontalières susceptibles de poser problème. Il devrait également tester de manière approfondie l'application de lecture des cartes, afin de parvenir à une solution uniforme avant la réalisation du recensement.
+
+En matière de gestion logistique avant, pendant et après le recensement, il est recommandé ce qui suit :
+
+- Concernant une **logistique intégrée**, un plan logistique complet est nécessaire afin d'assurer la distribution sécurisée des appareils de collecte de données (tablettes, téléphones, etc.) à l'ensemble des recenseurs à travers le pays, ainsi qu'un plan de logistique inverse relatif à leur collecte après le recensement.
+
+- Afin de gérer efficacement la logistique du recensement, il convient d'établir des partenariats et une collaboration solides, tant à l'intérieur qu'à l'extérieur du pays. Au Kenya, par exemple, d'autres services gouvernementaux disposant d'une bonne infrastructure ont contribué au transport des matériels, notamment les forces de l'ordre (armée et police), qui ont assuré le transport et la sécurité. Cette collaboration peut également être maintenue lors des futurs recensements.
+
+- La constitution d'une équipe logistique dédiée est une bonne pratique, mais celle-ci doit être mise en place dès le début du cycle de planification, au moins un an avant le recensement, et participer au [recensement pilote](#essais-et-projets-pilotes-de-recensement). Les opérations au niveau infranational doivent faire l'objet d'une attention particulière en matière de dotation en personnel et de formation aux opérations logistiques.
+
+- L'idéal est de disposer d'un entrepôt séparé, prêt au moins trois mois avant le recensement. La manutention du matériel doit être informatisée et intégrée aux systèmes de planification des ressources de l'entreprise. Toutefois, afin de minimiser les coûts et en cas de planification insuffisante, l'équipe logistique doit pouvoir improviser dans la limite des ressources disponibles. À titre d'exemple, le Kenya ne disposait pas d'un espace de stockage adéquat au niveau national et a utilisé des locaux inachevés, initialement destinés à accueillir une bibliothèque au siège du KNBS, comme espace de stockage et centre d'opérations logistiques. D'autres bureaux du siège du KNBS ont également été utilisés en tant qu'entrepôts.
+
+- La flotte nécessaire doit être planifiée et acquise en temps utile. Il convient d'identifier les stations-service et de mettre en place des mécanismes de ravitaillement en carburant afin d'assurer l'approvisionnement dans toutes les régions du pays.
+
+Sur la base des expériences nationales et des enseignements tirés des processus de collecte de données, les pays devraient élaborer un plan de gestion des risques relatif à la phase de recensement, et les recommandations suivantes sont formulées :
+
+- Au cas où certains équipements ne parviendraient pas à transmettre les données au serveur, il convient de définir une stratégie claire concernant l'envoi par d'autres moyens, tels que le partage Bluetooth avec les superviseurs ou l'extraction manuelle des données des tablettes. Cette dernière option comporte toutefois un risque de perte totale des données en cas de perte de la tablette. Les programmeurs informatiques sont essentiels afin de proposer des solutions et doivent être disponibles en nombre suffisant, tout comme les administrateurs locaux, qui peuvent intervenir en médiation en cas de refus des répondants.
+
+- Une ligne téléphonique gratuite destinée au public, permettant de contacter le centre d'appels du recensement au siège, devrait être mise en place afin de faciliter la communication entre l'institution et la communauté pendant le recensement.
+
+- En cas de refus de participer au recensement, il convient d'expliquer clairement le caractère obligatoire du recensement, son importance, etc., en combinant des messages de sensibilisation convaincants et des arguments juridiques.
+

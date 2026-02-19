@@ -1,0 +1,102 @@
+﻿---
+sidebar_position: 3
+hide_title: true 
+---
+
+
+
+
+
+
+
+
+
+## Expériences de certains pays
+
+Le Bureau des statistiques de la **Gambie** ne disposait pas d'une unité de communication et de publicité désignée, mais il a collaboré avec la Commission nationale de la population dès le début de la planification du recensement. Il a donc utilisé les structures de gouvernance, l'expertise et les compétences techniques existantes en matière de communication.
+
+Le Bureau des statistiques du **Zimbabwe** a d'abord pensé qu'il n'avait pas besoin d'un responsable de la communication et de la publicité concernant le recensement, et cela n'a pas été pris en compte dans le plan. Toutefois, le Bureau des statistiques du Zimbabwe a tiré parti de [son partenariat et de sa collaboration](#expériences-de-certains-pays-10) avec le ministère de la Communication du gouvernement afin d'assurer une communication et une publicité efficaces autour du recensement.
+
+En **Ouganda**, une stratégie de publicité et de communication a été élaborée au moment de la planification. Cette démarche a permis de rallier diverses parties prenantes à la cause du recensement.
+
+La **Sierra Leone** a adopté une approche globale et inclusive afin de renforcer la confiance du public lors de son recensement à mi-parcours. De multiples parties prenantes ont été impliquées, notamment des organisations de la société civile, des commissions parlementaires, des partis politiques et des dirigeants locaux tels que des maires, des groupes de jeunes et des chefs suprêmes. Les efforts de publicité ont été intensifiés grâce à des partenariats avec les médias, des réunions publiques et des campagnes numériques. Les messages clés mettaient l'accent sur les avantages du recensement, les obligations légales et les risques liés à la non-participation. Les outils de communication comprenaient des émissions simultanées à la radio et à la télévision, les réseaux sociaux, des documents imprimés, des lignes d'assistance téléphonique gratuites et des actions de sensibilisation communautaire par le biais de crieurs publics et de véhicules équipés de haut-parleurs. Une attention particulière a été accordée aux communautés réticentes, avec des messages adaptés afin de les encourager à participer.
+
+Le **Kenya** a mis en œuvre un plan stratégique de publicité et de sensibilisation concernant son recensement de la population et des logements de 2019, en engageant une agence de communication afin de gérer la campagne. Le plan a segmenté les publics cibles, allant du grand public à des groupes particuliers tels que les nomades, et a adapté les messages à chacun d'entre eux. Les activités comprenaient des points presse, la production de supports d'information, d'éducation et de communication, la formation du personnel chargé du recensement et une utilisation intensive de la télévision, de la radio et des réseaux sociaux. Des tournées de présentation en langues locales et des partenariats avec des établissements d'enseignement ont contribué à sensibiliser le public. Un centre d'appels et une plateforme d'envoi massif de SMS ont été mis en place afin de répondre aux questions du public, et un mot-dièse dédié, \#KenyaCensus2019, a été utilisé afin de centraliser la communication en ligne. Un portail web et des signatures électroniques personnalisées ont également contribué à soutenir la campagne.
+
+La **Namibie** a apporté des informations précieuses lors d'une réunion centrale au cours de laquelle des statisticiens régionaux ont partagé leur expérience en matière de collaboration avec les programmes de surveillance de quartier et les agriculteurs lors de la collecte de données. Cette approche locale a été recommandée dans d'autres régions afin de renforcer l'engagement communautaire et l'exactitude des données.
+
+La **Tanzanie** a mené le recensement de la population et des logements de 2022 en mettant fortement l'accent sur la publicité et la sensibilisation à l'échelle nationale. La campagne, dont le slogan était « SENSA KWA MAENDELEO : JIANDAE KUHESABIWA » (« Recensement pour le développement : Préparez-vous à être recensé »), a été soutenue par deux commissaires au recensement et guidée par des directives publicitaires standardisées. Un mois avant le recensement, la campagne « SENSABIKA » a été lancée, touchant des millions de personnes par SMS et sur les réseaux sociaux. L'implication présidentielle a été déterminante : la présidente Samia Suluhu Hassan a annoncé la date du recensement, dévoilé le logo et s'est adressée à la nation le soir du recensement. Des feux d'artifice et le recensement anticipé des dirigeants nationaux ont contribué à renforcer l'engagement du public. Le gouvernement a financé 97 % du recensement, le reste étant pris en charge par des partenaires de développement.
+
+Lien vers des études de cas
+
+**Statistiques Sierra Leone**
+
+Plusieurs parties prenantes ont été impliquées afin de renforcer la confiance du public à chaque étape du processus, à savoir : des organisations de la société civile engagées dans le recensement à mi-parcours (National Elections Watch, Institute for Governance Reforms, Native Consortium, Accountability Sierra Leone, Heal Sierra Leone, Health for All Coalition, etc.) ; la commission parlementaire de surveillance de la population, qui a contribué à la publicité ; les membres de la commission de publicité ont également pris la parole dans les médias au nom de l'ONS ; l'Association de tous les partis politiques de Sierra Leone s'est également jointe à eux concernant la publicité ; et les parties prenantes à l'échelle nationale ont été mobilisées par le biais de réunions publiques dans tous les districts de Sierra Leone. Toutes les voix critiques (OSC, presse, partis politiques, etc.) ont eu la possibilité de surveiller à la fois le recensement et la cartographie. Parmi les participants figuraient les présidents des conseils de district-maires, les ministères, départements et agences, les groupes de jeunes, les groupes de femmes, les chefs suprêmes, etc.
+
+Au cours de la préparation du recensement à mi-parcours, la publicité a été intensifiée grâce à la création de nouveaux contenus de communication qui ont nécessité la signature de protocoles d'accord avec les médias, ce qui s'est traduit par une heure consacrée au recensement, la participation des médias à des programmes phares de radio-télévision, ainsi que des campagnes sur les réseaux sociaux et la création de contenus concernant la communication numérique, tels que des sites web.
+
+De nouveaux messages clés ont été créés afin de sensibiliser le public au recensement, l'informer des avantages du recensement (concernant lui et le pays), lui rappeler son obligation légale et son devoir de participer au recensement, lui expliquer CE qu'il doit faire, QUAND et COMMENT les communautés seront recensées, y compris les dates, la durée, les méthodes de collecte des données, la population cible, etc. Des messages spéciaux ont été préparés concernant les communautés réticentes, par exemple : *« Si vous ne vous laissez pas recenser, vous courez le risque que votre communauté ne soit pas prise en compte dans la planification. »* Cette démarche a beaucoup contribué à apaiser la résistance.
+
+Plusieurs canaux ont été utilisés, tels que : des bannières imprimées concernant le recensement de la population et des logements à mi-parcours et les ont déployées dans toute la Sierra Leone ; le recours à des crieurs publics équipés de mégaphones portatifs ; l'impression de t-shirts-bracelets-affiches du recensement de la population et des logements à mi-parcours ; la mise en place d'une ligne d'assistance téléphonique gratuite concernant le recensement (881) en partenariat avec des opérateurs de télécommunications qui ont envoyé des SMS groupés à leurs clients ; et le recours à des OSC-influenceurs-ambassadeurs afin de soutenir les engagements.
+
+Les principaux outils utilisés ont été les suivants : mobilisation des médias (Stats SL Hour-Radio et TV, diffusion simultanée (40 stations de radio) dans tout le pays, diffusion simultanée (4 chaînes de télévision) dans tout le pays, publications dans les journaux – battage médiatique, etc., compte à rebours du recensement à mi-parcours sur les chaînes de télévision, conférences de presse, communication numérique (réseaux sociaux et site web)) ; sensibilisation (réunions (régionales et de district), jingles (différentes langues), spots télévisés et courtes vidéos, annonces porte-à-porte avec mégaphones (aux niveaux district et national), annonces publiques (véhicules équipés de mégaphones), panneaux d'affichage sur le recensement, bannières, affiches, chanson thème du recensement (en anglais et en krio)).
+
+**Tanzanie**
+
+Le recensement de la population et des logements 2022 a utilisé des programmes de publicité et de sensibilisation intensifs et étendus afin d'éduquer, de sensibiliser et de mobiliser la population pour qu'elle participe au processus de recensement. En Tanzanie, la plupart des gens ont été sensibilisés et motivés à participer au recensement, à tel point qu'ils ont appelé le bureau pendant la période de recensement afin de demander à ce qu'un recenseur se rende chez eux.
+
+Le logo et le slogan du recensement sont restés les mêmes que ceux du recensement de 2012 : « SENSA KWA MAENDELEO : JIANDAE KUHESABIWA », c'est-à-dire « RECENSEMENT POUR LE DÉVELOPPEMENT : PRÉPAREZ-VOUS À ÊTRE RECENSÉS ». Deux commissaires au recensement existaient, l'un concernant la Tanzanie continentale et l'autre concernant la Tanzanie Zanzibar. La principale fonction des commissaires était de faire connaître la mise en œuvre du recensement de la population et des logements et les activités de sensibilisation. Afin d'harmoniser les campagnes de publicité et de sensibilisation à travers le pays, le Bureau national des statistiques et le Bureau du statisticien en chef du gouvernement de Zanzibar ont élaboré des directives en matière de publicité qui ont été utilisées lors des opérations de publicité et de sensibilisation au recensement. Ces directives expliquaient brièvement la signification et l'objectif du recensement, ainsi que les grands thèmes abordés.
+
+Un mois avant le jour du recensement, une campagne médiatique intensive intitulée SENSABIKA \[Soyez recensé\] et coordonnée par le ministère de la Culture, des Arts et des Sports a été lancée. Cette campagne a contribué à mobiliser l'ensemble du pays afin de participer au recensement. Une campagne massive par SMS (messages quotidiens) touchant environ 45 millions d'abonnés mobiles par jour et d'autres campagnes sur les réseaux sociaux ont également été intensifiées pendant cette période.
+
+La volonté politique était forte, comme en témoignent les faits suivants :
+
+– La présidente de la République unie de Tanzanie, Son Excellence Samia Suluhu Hassan, a annoncé la date du recensement et dévoilé le logo du recensement en avril 2022. Le lancement a été organisé officiellement et a impliqué divers médias. Cet événement a motivé tous les citoyens à participer au recensement de 2022.
+
+– Après que la présidente eut annoncé la date du recensement, le logo du recensement a été imprimé en vue d'être distribué dans tout le pays. Le logo a été imprimé dans les journaux, sur des autocollants, des dépliants, des enjoliveurs, des drapeaux et des enveloppes. Des autocollants avec le logo ont été placés à des endroits stratégiques, notamment dans les véhicules de service public et sur les panneaux d'affichage publics, afin d'informer et d'éduquer le public sur le processus et la date du recensement.
+
+– La nuit du recensement, c'est-à-dire dans la nuit du 22 au 23 août 2022, la présidente s'est adressée à la nation et son discours a été diffusé sur toutes les chaînes de télévision et sur diverses stations de radio. Des SMS de la présidente exhortant le public à participer et lui souhaitant un recensement réussi ont été diffusés. Un programme spécial (feux d'artifice) a également été organisé dans six grandes villes (Dar es Salaam, Mwanza, Arusha, Dodoma, Mbeya et Tanga) juste avant le début du recensement (à minuit) afin d'attirer l'attention du public. Le président de la République unie de Tanzanie et le président de Zanzibar ont été recensés dès le premier jour de la période de recensement et, peu après, ils se sont adressés à la nation afin de sensibiliser la population et d'assurer la publicité.
+
+– Les résultats préliminaires du recensement ont été rendus publics par le président de la République unie de Tanzanie.
+
+En termes de mobilisation des ressources, le Comité des parties prenantes au recensement, composé de partenaires au développement et présidé par le secrétaire principal du ministère des Finances, a été créé afin d'assurer la mobilisation des ressources nécessaires aux activités du recensement. Le Comité central du recensement, coprésidé par le Premier ministre et le deuxième vice-président de Zanzibar, a fourni des orientations générales et mobilisé les ressources nécessaires. Le gouvernement de la République-Unie de Tanzanie a financé le recensement de 2022 à hauteur de 97 %, les 3 % restants provenant des partenaires de développement.
+
+**Namibie**
+
+La Namibie a élaboré un plan de communication axé sur la promotion et la publicité du projet de cartographie du recensement au niveau national. La méthode la plus pratique utilisée a été la distribution de dépliants et l'affichage de posters afin de sensibiliser la population. Au cours de ce projet, les statisticiens régionaux ont pu dialoguer avec les dirigeants communautaires lors de réunions et ont eu l'occasion d'expliquer en détail les objectifs du recensement cartographique. Une mobilisation a eu lieu dans chaque ZD sélectionnée avant le début des exercices de collecte de données afin de s'assurer que la population locale était au courant du projet et de ce que l'on attendait d'elle.
+
+Des visites de courtoisie ont également été effectuées auprès des électeurs et des conseillers locaux afin de leur présenter le projet de cartographie du recensement et ses composantes, ainsi que pour leur demander leur aide en vue d'informer les habitants de leur circonscription au sujet du projet de cartographie du recensement lors de leurs annonces radio et réunions communautaires respectives. En outre, des annonces à la radio FM, complétées par des articles et des publicités dans les journaux locaux, ont également été diffusées afin d'informer le public sur le projet de cartographie du recensement et son approche. Des spots télévisés ont été diffusés sur NBC-TV avant le bulletin d'information et dans des émissions-débats spécifiques telles que Good Morning Namibia et Business Today afin d'annoncer le début du travail sur le terrain.
+
+**Kenya**
+
+Le Kenya a élaboré un plan stratégique de publicité et de sensibilisation et a créé un sous-comité dédié. Une agence de communication a été engagée afin de mettre en œuvre la stratégie de publicité et de sensibilisation et de traiter toute autre question relative à la publicité et à la sensibilisation pendant le recensement de la population du Kenya de 2019. Au Kenya, l'agence a pu segmenter différents groupes et organiser des ateliers de sensibilisation avec des messages spécifiques élaborés à leur intention. Les publics cibles et les résultats escomptés des interventions ont été identifiés comme suit :
+
+**Public cible et résultats escomptés des interventions**
+
+| N° | Public cible | Résultats escomptés des interventions |
+|:---|:---|:---|
+| 1\. | Grand public | Sensibiliser à l'importance du recensement et à la nécessité de fournir des informations exactes. |
+| 2\. | Médias | Mobiliser tous les médias afin d'aider à diffuser des messages précis sur le recensement. |
+| 3\. | Fonctionnaires | Obtenir leur soutien afin de diffuser des messages précis sur le recensement. |
+| 4\. | Leaders communautaires | Les sensibiliser à l'importance du recensement et à leur rôle dans la sensibilisation du public. |
+| 5\. | Société civile et autres groupes de pression | Les sensibiliser au recensement et solliciter leur soutien afin de diffuser des informations exactes sur le recensement. |
+| 6\. | Chefs religieux | Les sensibiliser à l'importance du recensement et à la nécessité de leur soutien afin de sensibiliser leurs congrégations. |
+| 7\. | Parlementaires, gouverneurs, etc. | Les appeler à diffuser des messages précis sur le recensement. |
+| 8\. | Écoliers | Les sensibiliser à l'importance du recensement et solliciter leur soutien afin de diffuser les messages relatifs au recensement. |
+| 9\. | Personnes ayant un accès limité aux médias | Veiller à ce que les messages relatifs au recensement parviennent même à ceux qui n'ont pas accès aux médias. |
+| 10\. | Groupes particuliers (par exemple, les nomades et les sans-abri) | Veiller à ce que tout le monde soit inclus dans le recensement. |
+
+Les activités de publicité et de sensibilisation qui ont été menées comprenaient :
+
+– Organisation de points presse-communiqués de presse, y compris une réunion d'information avec l'association des rédacteurs en chef et le lancement du compte à rebours du recensement, ainsi que l'élaboration et la production de supports d'information, d'éducation et de communication (brochures, bannières, dépliants, affiches, t-shirts, gilets réfléchissants). La formation du personnel clé du recensement à la gestion des médias, aux publicités télévisées, aux annonces radio et aux émissions-débats. Organisation d'une visite de presse sur la chaîne de production et d'assemblage et documentation de la production et de l'assemblage des tablettes mobiles utilisées dans le cadre du recensement, qui a été diffusée dans les médias concernés.
+
+– Partenariat avec le ministère de l'Éducation et parrainage de chansons et de poèmes sur le thème du recensement concernant la 93e édition du Festival de musique du Kenya ; la chorale du Bureau national de statistique du Kenya a composé, produit et enregistré des chansons audio et vidéo axées sur le thème du recensement.
+
+Une entreprise a été engagée afin d'assurer la publicité par le biais de tournées de présentation dans chaque comté, en utilisant les langues vernaculaires-locales.
+
+– Un centre d'appels a été mis en place et une plateforme d'envoi massif de SMS a été utilisée afin d'informer le public de la période de recensement. Un centre d'appels a également été créé au siège du Bureau national de statistique du Kenya, où toutes les communications, plaintes, questions et préoccupations ont été reçues via un numéro gratuit mis à la disposition du public.
+
+– Différents réseaux sociaux ont été utilisés, notamment Facebook (Kenya Stats) et Twitter (KNBStats). Un logiciel intégré de gestion des réseaux sociaux a été acheté et a permis de regrouper tous les réseaux sociaux sur un seul portail afin de faciliter la maintenance et le suivi. Un mot-dièse « KenyaCensus2019 » a été créé afin de partager toutes les informations relatives au recensement.
+
+– Un portail web a également été acheté et développé par l'agence de publicité. Une signature électronique générique, reprenant le thème et le slogan du recensement, a été créée et utilisée dans tous les courriels du Bureau national de statistique du Kenya.
+

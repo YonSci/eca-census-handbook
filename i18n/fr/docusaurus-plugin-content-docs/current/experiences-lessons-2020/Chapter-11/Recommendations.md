@@ -1,0 +1,36 @@
+﻿---
+sidebar_position: 5
+hide_title: true 
+---
+
+
+
+
+
+
+
+
+
+
+## Recommandations
+
+Les recommandations suivantes sont fondées sur les expériences des pays :
+
+- L'ONS doit rester l'organisme chef de file, mais la collaboration interne constitue la première étape essentielle afin de diriger, coordonner et fournir le mandat légal du recensement. Les principaux collaborateurs gouvernementaux peuvent inclure le ministère des Finances-de la Planification, le ministère des TIC-des Communications, l'agence nationale de cartographie, le ministère de l'Intérieur-des Collectivités locales, les forces de défense, entre autres.
+
+- Les pays sont encouragés à tirer parti des partenariats et de la collaboration dans le cadre des recensements numériques, en particulier avec le secteur privé, afin de réduire les coûts. Cette démarche est indispensable afin de fournir la technologie et l'infrastructure qui sous-tendent un recensement numérique. Par exemple, les entreprises de télécommunications jouent un rôle crucial dans la fourniture de la connectivité au réseau mobile, des services SMS groupés concernant la communication avec le personnel sur le terrain et, parfois, des appareils eux-mêmes. Plusieurs recensements réalisés en 2020 ont donné lieu à une collaboration avec les opérateurs de télécommunications locaux. Les entreprises informatiques locales peuvent jouer un rôle essentiel dans le soutien technique sur le terrain, la maintenance des appareils, la localisation des logiciels et le fonctionnement des centres d'appel. Le renforcement des capacités des entreprises locales constitue un avantage clé. Faire appel aux propriétaires d'entrepôts concernant le stockage sécurisé du matériel de recensement.
+
+- Envisager des partenariats avec les organisations de la société civile et les leaders communautaires qui constituent un pont vers la population, en particulier les populations difficiles à atteindre et marginalisées. Ces derniers peuvent jouer un rôle dans la sensibilisation, l'éducation du public, le suivi et le renforcement de la confiance de la communauté.
+
+- Recommander la collaboration avec les universités et les instituts de recherche, en particulier les départements de démographie, d'informatique et de SIG, ainsi que les instituts de recherche.
+
+- Recommander la collaboration avec des partenaires internationaux et multilatéraux, dont certains partenaires clés tels que :
+
+  - Fonds des Nations Unies pour la population – Partenaire de premier plan, fournissant souvent un soutien financier, achetant du matériel (tablettes, batteries externes) et offrant une assistance technique complète à toutes les étapes du recensement.
+
+  - La Commission économique des Nations Unies pour l'Afrique apporte son expertise technique, élabore des outils et des méthodologies standardisés et facilite le partage des connaissances entre les pays africains.
+
+  - La Banque mondiale et la Banque africaine de développement constituent des sources importantes de financement par le biais de prêts et de subventions, associant souvent le soutien au recensement à des objectifs de développement national plus larges.
+
+  - Donateurs bilatéraux : Les agences de développement de pays tels que le Royaume-Uni, les États-Unis (USAID) et la Suède (Sida) fournissent un soutien financier et technique.
+
