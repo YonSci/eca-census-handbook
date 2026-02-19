@@ -100,3 +100,4 @@ Une entreprise a été engagée afin d'assurer la publicité par le biais de tou
 
 – Un portail web a également été acheté et développé par l'agence de publicité. Une signature électronique générique, reprenant le thème et le slogan du recensement, a été créée et utilisée dans tous les courriels du Bureau national de statistique du Kenya.
 
+[Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/12.%20Advocacy,%20Publicity%20and%20Resource%20Mobilization)
