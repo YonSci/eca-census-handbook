@@ -19,4 +19,5 @@ La Tanzanie a mis au point un moyen de sauvegarde alternatif pour la collecte de
 
 L'application ManageEngine Mobile Device Manager Plus (MDM) a été utilisée pour gérer les appareils à distance. Elle comprenait des fonctionnalités telles que l'enregistrement des appareils, la gestion des applications, le dépannage à distance, la sécurité des appareils, le suivi de la localisation et des rapports d'audit. Elle permet également d'effacer les données en cas de vol ou de perte de l'appareil. Un outil MDM standard peut également assurer le suivi de l'inventaire des appareils ainsi qu'une surveillance et des rapports en temps réel. Un serveur virtuel dédié au système MDM a été créé. Afin de permettre le dépannage sur le terrain, tous les responsables informatiques de Statistics Botswana ont reçu le droit de se connecter au système avec leurs identifiants de domaine afin de créer un compte Zoho et d'utiliser Zoho Assist. Transmission des données et connectivité
 
-[Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/7.%20Deployment%20and%20Supervision%20of%20Field%20Personnel)
+[Lien vers la section des études de cas](/docs/case-studies/7.%20Deployment%20and%20Supervision%20of%20Field%20Personnel)
+
