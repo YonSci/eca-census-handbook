@@ -130,3 +130,5 @@ Les données collectées auprès des ménages par les agents d'enquête sont tra
 
 L'interface du système Web se compose de deux parties : l'une affichant les principales données du recensement (à gauche) et l'autre affichant les données de l'EPC (à droite). Ces parties permettent à l'opérateur de naviguer facilement, d'afficher uniquement les ménages appariés ou non appariés par catégorie et de générer un tableau récapitulatif avec les taux d'omission et de couverture par zone de dénombrement à la fin du processus d'appariement.
 
+
+[Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/14.%20Post-Enumeration%20Survey)
