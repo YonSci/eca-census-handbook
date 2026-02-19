@@ -1,8 +1,8 @@
 
- Liste de contrôle 1 : Planification et préparation du recensement
+# Liste de contrôle 1 : Planification et préparation du recensement
 
-| Activité | Désignation | Résultat | Partie(s) responsable(s) | Durée (mois) | Années jusqu'à la nuit du recensement |
-|---------|-------------|----------|---------------------------|--------------|----------------------------------------|
+|  | Activités | Désignation | Résultat | Partie(s) responsable(s) | Durée (mois) | Années jusqu'à la nuit du recensement |
+|---|-----------|-------------|----------|---------------------------|--------------|----------------------------------------|
 | 1 | Définition des objectifs stratégiques relatifs à l'ensemble du programme de documents du recensement - élaboration du projet de recensement | Planification générale du recensement | Document du projet de recensement | Bureau du recensement | 17 | 3,9 |
 | 1 | Préparation des documents stratégiques du recensement | Plan relatif à la publicité, au traitement des données, à l'EPR, au dénombrement, etc. | Équipe de travail chargée du recensement | 17 | 3,9 |
 | 2 | Évaluation des capacités statistiques | Réalisation d'une évaluation des capacités de l'ONS | Rapport relatif aux besoins en formation | Équipe de travail chargée du recensement | 17 | 3,9 |
