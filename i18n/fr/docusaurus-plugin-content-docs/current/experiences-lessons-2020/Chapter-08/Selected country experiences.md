@@ -75,3 +75,5 @@ Le matériel et l'équipement transportés comprenaient :
 
 • Du matériel de formation (manuels de recensement, batteries externes, sacs en plastique, brochures, cahiers, badges d'identification, craie, stylos et cartes : recensement des bâtiments, rappels et cartes de voyageurs).
 
+[Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/8.%20Enumeration%20and%20Logistics)
+
