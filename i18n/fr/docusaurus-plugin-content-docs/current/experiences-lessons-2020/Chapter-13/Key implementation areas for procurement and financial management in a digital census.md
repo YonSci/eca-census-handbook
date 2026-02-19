@@ -29,7 +29,7 @@ La réussite d'un recensement numérique en Afrique nécessite une refonte strat
 
 - La passation de contrats d'assistance technique concernant le support informatique et l'assistance technique sur le terrain afin de résoudre rapidement les problèmes matériels ou logiciels pendant le recensement est cruciale.
 
-La gestion financière d'un recensement numérique doit être agile et transparente, en tirant parti de la technologie afin de contrôler les dépenses et de garantir une utilisation efficace des ressources. Voir également la section sur la [budgétisation](#budget-du-recensement) du recensement.
+La gestion financière d'un recensement numérique doit être agile et transparente, en tirant parti de la technologie afin de contrôler les dépenses et de garantir une utilisation efficace des ressources. Voir également la section sur la [budgétisation](/docs/experiences-lessons-2020/Chapter-01/Key%20aspects%20census%20planning%20management.md)du recensement.
 
 - La planification financière doit tenir compte du coût total de possession de la technologie, y compris la maintenance, l'assistance et la possibilité de réutiliser les actifs concernant d'autres activités statistiques après le recensement, ce qui peut améliorer la proposition de valeur.
 
@@ -38,4 +38,5 @@ La gestion financière d'un recensement numérique doit être agile et transpare
 - Les budgets doivent inclure des fonds de réserve afin de couvrir les coûts imprévus, tels que ceux liés aux retards d'approvisionnement, aux pannes d'équipement ou aux chocs externes comme la pandémie de COVID-19, qui a entraîné une augmentation des coûts concernant plusieurs pays.
 
 - Tirer parti de la surveillance financière en temps réel grâce à des tableaux de bord, l'un des aspects les plus transformateurs d'un recensement numérique. Les responsables financiers peuvent utiliser des tableaux de bord en temps réel afin de suivre la productivité des recenseurs et l'avancement du travail sur le terrain par rapport aux plans opérationnels. Cette démarche permet d'intervenir rapidement si les équipes prennent du retard, évitant ainsi des retards coûteux. Lier les paiements à la performance. Ces outils numériques fournissent des données transparentes et actualisées qui peuvent être partagées avec les partenaires financiers, ce qui renforce la confiance et démontre une gestion efficace des ressources.
+
 
