@@ -1,26 +1,30 @@
-﻿# Liste de contrôle 1 : Planification et préparation du recensement
+﻿# Liste de contrôle 5 : Communication, publicité et promotion du recensement
 
-| Clé d'appariement | Désignation |
-| --- | --- |
-| 1. | Prénom + Nom + Année + Sexe + Ménage |
-| 2. | StdLEV1(Prénom)>0,79 + StdLEV(Nom) >0,79 + Année + Mois + Ménage |
-| 3. | Prénom + Nom + Différence_d'âge2 + Sexe + Ménage |
-| 4. | Prénom + Nom + Lien de parenté avec le chef de ménage + Ménage |
-| 5. | StdLEV(Prénom)>0,79 + StdLEV(Nom) >0,79 + Sexe + Ménage |
-| 6. | Alphanames3 + Année + Sexe + Ménage |
-| 7. | StdLEV(Noms alphabétiques)>0,79 + Sexe + Année + Ménage |
-| 8. | Prénom + StdLEV(Nom de famille)>0,69 + Sexe + Âge + Ménage |
-| 9. | Prénom + (Nom 1 Rec = Nom 2 EPR ou Nom 2 Rec = Nom 1 EPR) + Âge + Sexe + Ménage |
-| 10. | StdLEV(Prénom)>0,79 + RLSoundex4(Nom de famille) + Différence_d'âge + Sexe + Lien de parenté avec le chef de ménage + Ménage |
-| 1 La distance d'édition de Levenshtein normalisée qui mesure le nombre d'insertions, de suppressions ou de substitutions nécessaires afin de transformer un nom en un autre, calculée comme une proportion de la longueur du nom le plus long. 2 La fonction de différence d'âge qui permet une tolérance différente en fonction de l'âge. 3 Alphanames est une variable dérivée qui classe tous les caractères des noms par ordre alphabétique. 4 RLSoundex est la fonction Soundex appliquée au nom, tous les R étant remplacés par des L (cette adaptation a été utilisée au Rwanda car R et L se prononcent de la même manière en kinyarwanda). |  |
-|  | Activités |
-| 1 | Définition des objectifs stratégiques relatifs à l'ensemble du programme de documents du recensement - élaboration du projet de recensement |
-| 1 | Définition des objectifs stratégiques relatifs à l'ensemble du programme de documents du recensement - élaboration du projet de recensement |
-| 2 | Évaluation des capacités statistiques |
-| 3 | Élaboration d'un calendrier du recensement |
-| 4 | Organisation administrative et structure de gestion |
-| 5 | Réunion des parties prenantes gouvernementales |
-| 6 | Organisation des commissions et comités |
-| 7 | Consultation des utilisateurs |
-| 8 | Gestion financière |
-| 9 | Assurance qualité |
+
+|   | Activités | Désignation | Résultat | Partie(s) responsable(s) | Durée (mois) | Années jusqu'à la nuit du recensement |
+|---|-----------|-------------|----------|---------------------------|--------------|----------------------------------------|
+| 1 | Stratégie de communication et de publicité | Élaboration du plan stratégique de publicité et de promotion | Plans de travail, plan d'acquisition, budgets, plans de formation | Division des relations publiques | 17 | 3,0 |
+| 1 | Stratégie de communication et de publicité | Création d'un centre de communication et de coordination | Le centre de communication et de coordination est opérationnel | Division des relations publiques | 1 | 2,1 |
+| 2 | Définition du thème du recensement | Conception du programme de publicité du recensement | Feuille de route de la publicité | Division des relations publiques | 3 | 1,5 |
+| 2 | Définition du thème du recensement | Réalisation d'une analyse de l'environnement | Rapport d'analyse de la situation | Division des relations publiques | 1 | 1,5 |
+| 2 | Définition du thème du recensement | Séminaire professionnel relatif à la publicité du recensement | Révision du plan de publicité et de promotion | Division des relations publiques | 1 | 1,4 |
+| 2 | Définition du thème du recensement | Élaborer l'image de marque du recensement | Logo, slogan, thème, etc. | Division des relations publiques | 17 | 1,4 |
+| 2 | Définition du thème du recensement | Conception, élaboration et pré-essai du message du recensement | Documents sous formats imprimé et électronique | Division des relations publiques | 1 | 1,4 |
+| 2 | Définition du thème du recensement | Mobilisation des parties prenantes et consultations avec les médias | Conseils des parties prenantes et des experts des médias | Division des relations publiques | 12 | 1,3 |
+| 2 | Définition du thème du recensement | Élaboration d'outils et de supports publicitaires relatifs au recensement | Conception et production de produits publicitaires | Division des relations publiques | 12 | 1,0 |
+| 2 | Définition du thème du recensement | Lancement de la procédure d'acquisition des supports, outils et services publicitaires | Biens et services fournis | Division des relations publiques | 17 | 3,9 |
+| 2 | Définition du thème du recensement | Tournage et montage du documentaire relatif au recensement | Documentaire relatif au recensement | Division des relations publiques | 1 | 2,1 |
+| 2 | Définition du thème du recensement | Création de la page d'accueil du recensement | Pages Web du recensement | Division des relations publiques | 12 | 1,0 |
+| 2 | Définition du thème du recensement | Fournir un service gratuit | Service gratuit | Division des relations publiques | 12 | 1,0 |
+| 3 | Ateliers de sensibilisation destinés aux parlementaires | Organiser des ateliers d'une demi-journée à l'intention des parlementaires afin de les sensibiliser et d'obtenir leur soutien | Rapports affirmant le soutien au recensement | Division des relations publiques | 1 | 0,6 |
+| 4 | Campagne de publicité à l'intention des chefs de sous-comtés et des leaders d'opinion | Sensibiliser et recueillir des commentaires concernant les stratégies publicitaires idéales | Idées de stratégies publicitaires | Division des relations publiques | 1 | 0,5 |
+| 5 | Préparation de supports publicitaires relatifs au recensement (jingles, chants, etc.) | Programmes/publicités radio et télévision en différentes langues | Documents publicitaires examinés | Division des relations publiques | 2 | 0,5 |
+| 6 | Organisation de conférences de presse | Canaux de publicité et révision des messages | Documents publicitaires examinés | Division des relations publiques | 1 | 0,3 |
+| 7 | Organisation d'un atelier de publicité destiné aux dirigeants de district | Sensibilisation et recueil de commentaires | Consolidation des commentaires et des stratégies en vue d'un recensement réussi | Division des relations publiques | 2 | 0,3 |
+| 8 | Distribution des documents publicitaires | Distribuer du matériel dans toutes les régions du pays | Toutes les régions du pays ont reçu le matériel publicitaire | Division Relations publiques et logistique | 5 | 0,3 |
+| 9 | Lancement d'activités de publicité intensives | Mener des programmes de publicité et de sensibilisation sur les réseaux sociaux | Rapports affirmant le soutien au recensement | Division des relations publiques | 1 | 0,6 |
+| 9 | Lancement d'activités de publicité intensives | Organisation de tournées de présentation | Rapports affirmant le soutien au recensement | Division des relations publiques | 1 | 0,5 |
+| 9 | Lancement d'activités de publicité intensives | Diffusion du documentaire relatif au recensement | Rapports affirmant le soutien au recensement | Division des relations publiques | 0 | 0,1 |
+| 9 | Lancement d'activités de publicité intensives | Réalisation d'actions de publicité dans les écoles | Les enfants comprennent pourquoi le recensement est nécessaire | Division des relations publiques | 2 | 0,1 |
+| 9 | Lancement d'activités de publicité intensives | Diffuser des jingles et des publicités à la radio et à la télévision sur toutes les stations | Diffusion publicitaire – sensibilisation générale au recensement | Division des relations publiques | 2 | 0,1 |
+| 10 | Mener une campagne de publicité intensive concernant le recensement | Intensifier la publicité | Toutes les activités mises en œuvre – sensibilisation générale au recensement | Division des relations publiques | 2 | 0,1 |
