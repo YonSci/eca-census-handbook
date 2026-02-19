@@ -49,3 +49,4 @@ La Namibie a mené l'essai pilote de septembre à octobre 2021, lequel a fourni 
 
 Le plan d'échantillonnage était ciblé et comprenait : des populations particulières telles que les nomades d'Opuwo vivant dans la région de Kunene et à Tsumkwe, les résidences secondaires à Walvis Bay/Swakopmund (zones côtières de la Namibie) et les zones de dénombrement dans les exploitations agricoles commerciales, les fermes de réinstallation, les résidences sécurisées, les établissements communaux et les zones urbaines (catégories supérieure, moyenne et inférieure/informelle).
 
+[Lien vers la section des études de cas](/docs/case-studies/5.%20Census%20Testing%20and%20Pilots)
