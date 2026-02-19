@@ -15,6 +15,5 @@ hide_title: true
 
 - Devinfo. (2025). Censusinfo. Accessible à l'adresse : [https://www.devinfo.info/censusinfo/faqs.html#1](https://www.devinfo.info/censusinfo/faqs.html#1.)
 
-\
-=
+
 
