@@ -75,7 +75,7 @@ Le coût élevé des recensements numériques nécessite des approches créative
 
 - Un document décrivant le plan stratégique de communication, de publicité et de sensibilisation devrait être élaboré. Ce document stratégique doit contenir une liste des parties prenantes, les canaux de communication-médias cibles à utiliser, un plan de mise en œuvre des différentes activités, les collaborations, les ressources nécessaires, le budget concernant la mise en œuvre et un plan de suivi et d'évaluation.
 
-- La stratégie doit comporter une description de l'énoncé des objectifs, de la situation actuelle (SWOT, PEST et bonnes pratiques), des objectifs organisationnels et de communication, l'identification des parties prenantes, les messages clés, les principales méthodes de communication, le plan de travail, les résultats et les indicateurs de performance clés, ainsi que le plan d'évaluation. Cette démarche constitue une contribution importante au processus de [planification du recensement](#_CHAPTER_TWO:_Digital).
+- La stratégie doit comporter une description de l'énoncé des objectifs, de la situation actuelle (SWOT, PEST et bonnes pratiques), des objectifs organisationnels et de communication, l'identification des parties prenantes, les messages clés, les principales méthodes de communication, le plan de travail, les résultats et les indicateurs de performance clés, ainsi que le plan d'évaluation. Cette démarche constitue une contribution importante au processus de [planification du recensement](/docs/experiences-lessons-2020/Chapter-01/Introduction).
 
 - Mettre en place une équipe chargée de contrôler les rumeurs ou de démystifier les idées reçues, qui surveille les réseaux sociaux (en particulier WhatsApp et Facebook) et travaille avec les OSC et les médias afin de démentir rapidement les fausses informations avant qu'elles ne compromettent la participation du public.
 
@@ -106,4 +106,5 @@ Le coût élevé des recensements numériques nécessite des approches créative
 - **Engagements en personne :** Séminaires participatifs, ateliers, petits-déjeuners de travail, barazas-lancements publics, discours publics, tournées de présentation, webinaires.
 
 - **Médias interactifs :** podcasts, courts clips vidéo, mèmes.
+
 
