@@ -13,7 +13,7 @@ Le processus de cartographie comprend : un examen des particularités culturelle
 
 Des zones de dénombrement (EA) délimitées avec précision sont essentielles à la réussite d'un recensement de la population et des logements, car elles constituent la base de la répartition des agents recenseurs sur le terrain. Cependant, ce processus peut être très coûteux. Les technologies numériques offrent la possibilité d'utiliser des outils et des ressources permettant de réduire ce coût et de produire des zones de dénombrement plus efficaces, telles que des images satellite à haute résolution pour soutenir la cartographie. Cependant, ces outils numériques posent également des défis en matière de qualité de la cartographie et d'intégration des cartes dans les dispositifs de collecte ainsi que dans les logiciels de collecte de données. La cartographie et la cartographie numériques peuvent également augmenter considérablement les besoins en stockage de données numériques relatifs à un recensement, ce qui a des implications financières supplémentaires.
 
-Les offices nationaux de statistique (ONS) à travers l'Afrique peuvent être confrontés à des défis plus importants en matière de cartographie géospatiale que ceux d'autres régions du monde en raison des limites de la couverture et de l'actualité des informations collectées par les agences nationales d'information géospatiale, notamment l'absence de registres d'adresses. Un autre défi peut résider dans l'inaccessibilité de certaines zones permettant la création de zones de dénombrement et la collecte de données de recensement (voir également [Approches alternatives](#approches-alternatives)).
+Les offices nationaux de statistique (ONS) à travers l'Afrique peuvent être confrontés à des défis plus importants en matière de cartographie géospatiale que ceux d'autres régions du monde en raison des limites de la couverture et de l'actualité des informations collectées par les agences nationales d'information géospatiale, notamment l'absence de registres d'adresses. Un autre défi peut résider dans l'inaccessibilité de certaines zones permettant la création de zones de dénombrement et la collecte de données de recensement (voir également [Approches alternatives](/docs/experiences-lessons-2020/Chapter-15/Introduction)).
 
 ### Cartographie à l'ère non numérique par rapport à l'ère numérique
 
@@ -50,5 +50,6 @@ Diffusion des données du recensement
 \- Production de données de population géoréférencées
 
 \- Cartes thématiques et choroplèthes pour l'analyse des données de population géoréférencées
+
 
 
