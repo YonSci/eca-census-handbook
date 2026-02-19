@@ -9,8 +9,8 @@ hide_title: true
 Ce manuel du e-recensement comporte des chapitres structurés selon le modèle de processus métier du recensement, y compris une liste de contrôle destinée à orienter le processus de planification. La liste complète des chapitres est la suivante :
 
 1.	[Planification et gestion de projet](/docs/experiences-lessons-2020/Chapter-01/Introduction)
-2.	[Cartographie géospatiale et gestion de la base de données relatives aux zones de dénombrement](/i18n/fr/docusaurus-plugin-content-docs/current/experiences-lessons-2020/Chapter-02/Introduction)
-3.	[Instruments, applications et outils de recensement](/fr/docusaurus-plugin-content-docs/current/experiences-lessons-2020/Chapter-03/Introduction)
+2.	[Cartographie géospatiale et gestion de la base de données relatives aux zones de dénombrement](/docs//docusaurus-plugin-content-docs/current/experiences-lessons-2020/Chapter-02/Introduction)
+3.	[Instruments, applications et outils de recensement](/docs/docusaurus-plugin-content-docs/current/experiences-lessons-2020/Chapter-03/Introduction)
 4.	[Saisie, transmission et gestion des données](/docs/experiences-lessons-2020/Chapter-04/Introduction) 
 5.	[Essais et projets pilotes de recensement](/docs/experiences-lessons-2020/Chapter-05/Introduction)
 6.	[Recrutement et formation du personnel de terrain](/docs/experiences-lessons-2020/Chapter-06/Introduction)
@@ -35,5 +35,6 @@ La barre située en haut de la page comporte également une barre de recherche :
 En cliquant sur l'icône de discussion <img src="/img/chat-bot.png" alt="chat bot icon" width="30" height="30"/>  dans le coin inférieur droit de la page, vous ouvrirez un robot conversationnel auquel vous pourrez poser des questions relatives au manuel du recensement électronique.
 
 <img src="/img/chatbot-full.png" alt="chatbot interface" width="400"/> 
+
 
 
