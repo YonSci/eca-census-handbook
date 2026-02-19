@@ -97,5 +97,6 @@ Trois questionnaires ont été élaborés pour le recensement en Namibie : le qu
 
 L'élaboration des questionnaires a été réalisée en interne par l'ONS, en collaboration avec le Bureau du recensement des États-Unis, afin d'appuyer la mise au point de l'application de collecte électronique des données. Les statisticiens ont élaboré un questionnaire papier comprenant des spécifications d'édition (détaillant les schémas de saut et les validations), lesquelles ont été utilisées lors de la mise au point de l'application. Une autre équipe, composée de statisticiens, de cartographes, de développeurs et de superviseurs de la saisie des données, était chargée de tester l'application et de documenter les résultats à l'issue d'un test système programmé.
 
-[Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/3.%20Enumeration%20Instruments,%20Applications%20and%20Tools)
+[Lien vers la section des études de cas](/docs/case-studies/3.%20Enumeration%20Instruments,%20Applications%20and%20Tools)
+
 
