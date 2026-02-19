@@ -1,26 +1,20 @@
-﻿# Liste de contrôle 1 : Planification et préparation du recensement
 
-| Clé d'appariement | Désignation |
-| --- | --- |
-| 1. | Prénom + Nom + Année + Sexe + Ménage |
-| 2. | StdLEV1(Prénom)>0,79 + StdLEV(Nom) >0,79 + Année + Mois + Ménage |
-| 3. | Prénom + Nom + Différence_d'âge2 + Sexe + Ménage |
-| 4. | Prénom + Nom + Lien de parenté avec le chef de ménage + Ménage |
-| 5. | StdLEV(Prénom)>0,79 + StdLEV(Nom) >0,79 + Sexe + Ménage |
-| 6. | Alphanames3 + Année + Sexe + Ménage |
-| 7. | StdLEV(Noms alphabétiques)>0,79 + Sexe + Année + Ménage |
-| 8. | Prénom + StdLEV(Nom de famille)>0,69 + Sexe + Âge + Ménage |
-| 9. | Prénom + (Nom 1 Rec = Nom 2 EPR ou Nom 2 Rec = Nom 1 EPR) + Âge + Sexe + Ménage |
-| 10. | StdLEV(Prénom)>0,79 + RLSoundex4(Nom de famille) + Différence_d'âge + Sexe + Lien de parenté avec le chef de ménage + Ménage |
-| 1 La distance d'édition de Levenshtein normalisée qui mesure le nombre d'insertions, de suppressions ou de substitutions nécessaires afin de transformer un nom en un autre, calculée comme une proportion de la longueur du nom le plus long. 2 La fonction de différence d'âge qui permet une tolérance différente en fonction de l'âge. 3 Alphanames est une variable dérivée qui classe tous les caractères des noms par ordre alphabétique. 4 RLSoundex est la fonction Soundex appliquée au nom, tous les R étant remplacés par des L (cette adaptation a été utilisée au Rwanda car R et L se prononcent de la même manière en kinyarwanda). |  |
-|  | Activités |
-| 1 | Définition des objectifs stratégiques relatifs à l'ensemble du programme de documents du recensement - élaboration du projet de recensement |
-| 1 | Définition des objectifs stratégiques relatifs à l'ensemble du programme de documents du recensement - élaboration du projet de recensement |
-| 2 | Évaluation des capacités statistiques |
-| 3 | Élaboration d'un calendrier du recensement |
-| 4 | Organisation administrative et structure de gestion |
-| 5 | Réunion des parties prenantes gouvernementales |
-| 6 | Organisation des commissions et comités |
-| 7 | Consultation des utilisateurs |
-| 8 | Gestion financière |
-| 9 | Assurance qualité |
+# Liste de contrôle 7 : Opérations sur le terrain et dénombrement
+
+|   | Activités | Désignation | Résultat | Partie(s) responsable(s) | Durée (mois) | Années jusqu'à la nuit du recensement |
+|---|-----------|-------------|----------|---------------------------|--------------|----------------------------------------|
+| 1 | Mise en place de bureaux de recensement dans les districts | Création de bureaux de recensement dans chaque district | Bureaux de district opérationnels | Administration | 1 | 0,7 |
+| 2 | Mise en place d'un mode de paiement destiné au personnel chargé du recensement dans tout le pays | Décider de quelle manière les paiements du personnel de terrain seront effectués et suivis | Plan de responsabilité et de gestion financière | Finances | 1 | 0,7 |
+| 3 | Recrutement et formation du personnel de terrain | Recrutement de superviseurs TIC au niveau des sous-comtés | Recrutement du personnel | Administration et RH | 1 | 0,5 |
+| 3 | Recrutement et formation du personnel de terrain | Recrutement de superviseurs et d'agents recenseurs paroissiaux | Recrutement du personnel | Administration et RH | 0 | 0,3 |
+| 3 | Recrutement et formation du personnel de terrain | Formation des agents de recensement de district et de leurs assistants | Rapport de formation | Démographie et TI | 0 | 0,2 |
+| 3 | Recrutement et formation du personnel de terrain | Formation des superviseurs de sous-comté par les agents de district | Rapport de formation | Démographie et TI | 0 | 0,1 |
+| 3 | Recrutement et formation du personnel de terrain | Formation des superviseurs paroissiaux et des agents recenseurs | Rapport de formation | Démographie et TI | 0 | 0,1 |
+| 3 | Recrutement et formation du personnel de terrain | Liste préalable au recensement et familiarisation avec les limites des ZD | Mise à jour de la liste des ménages avant le recensement par ZD | Démographie et TI | 0 | 0,0 |
+| 3 | Recrutement et formation du personnel de terrain | Nettoyage des résultats issus de la liste et téléchargement | Nettoyage de la liste des ménages pré-recensés par ZD | Démographie et TI | 0 | 0,0 |
+
+# Étape 4 : Recensement
+
+|   | Activités | Désignation | Résultat | Partie(s) responsable(s) | Durée (mois) | Années jusqu'à la nuit du recensement |
+|---|-----------|-------------|----------|---------------------------|--------------|----------------------------------------|
+| 4 | Rassemblement du matériel de terrain | Collecte des tablettes et autres documents dans les bureaux des sous-comtés et des districts | Distribution du matériel aux agents recenseurs | Logistique | 0 | 0,0 |
