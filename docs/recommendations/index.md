@@ -10,7 +10,7 @@ This section consolidates key recommendations and best practices for implementin
 
 ## Access Full Recommendations
 
-**[View Detailed Recommendations →](/docs/recommendations/1.%20Planning%20%26%20Management)**
+**[View Detailed Recommendations →](/docs/recommendations/Planning%20&%20Management)**
 
 
 Navigate through the comprehensive set of recommendations that will help guide your digital census planning and implementation process.
