@@ -8,8 +8,8 @@ title: Liste de contrôle relative à la planification du recensement numérique
 
 La présente section présente une liste de contrôle complète destinée à guider les pays dans le processus complexe de planification et de mise en œuvre d'un recensement numérique de la population et des logements. La liste de contrôle permet de s'assurer que tous les aspects critiques sont pris en compte et correctement planifiés.
 
-1.	[Planification et préparation du recensement](/docs/checklist/checklist-01.md)
-2.	[SIG, cartographie et délimitation des zones de dénombrement](/docs/checklist/checklist-02.md)
+1.	[Planification et préparation du recensement](/docs/checklist/checklist-01)
+2.	[SIG, cartographie et délimitation des zones de dénombrement](/docs/checklist/checklist-02)
 3.	[Conception des questionnaires, manuels et procédures de recensement](/docs/checklist/checklist-03.md)
 4.	[Recensement pilote](/docs/checklist/checklist-04.md) 
 5.	[Communication, publicité et promotion du recensement](/docs/checklist/checklist-05.md)
