@@ -4,12 +4,12 @@ hide_title: false
 title: Resources and References
 ---
 
-# Resources and References
+# Ressources et références
 
-This section provides a comprehensive collection of resources, tools, and references to support your digital census planning and implementation. Whether you're looking for technical specifications, training materials, or additional reading, you'll find valuable resources here.
+La présente section fournit une collection complète de ressources, d'outils et de références afin de soutenir la planification et la mise en œuvre du recensement numérique. Que vous recherchiez des spécifications techniques, du matériel de formation ou des lectures complémentaires, vous trouverez ici des ressources précieuses.
 
 
-### 📚 Paper and Manuals
+### 📚 Documents et manuels
 
 [UN Principles and Recommendations for population and housing Census. Revision 3.](https://unstats.un.org/unsd/demographic-social/Standards-and-Methods/files/Principles_and_Recommendations/Population-and-Housing-Censuses/Series_M67rev3-E.pdf) 
 
@@ -36,7 +36,7 @@ This section provides a comprehensive collection of resources, tools, and refere
 [US Census Bureau, Select Topics in International Censuses, Census Data Archiving and Preservation](https://www.unfpa.org/sites/default/files/resource-pdf/Archiving-Brief.pdf)
 
 
-### 🌐 Links to NSO websites and publications
+### 🌐 Liens vers les sites web et les publications des offices nationaux de statistique
 
 [Statistics Botswana. 2021 Population & Housing Census project document](https://botswana.unfpa.org/en/publications/2021-population-housing-census-project-document)
 
@@ -44,12 +44,13 @@ This section provides a comprehensive collection of resources, tools, and refere
 
 [National Institute of Statistics Rwanda: Thematic Report: Post Enumeration Survey](https://www.statistics.gov.rw/publication/thematic-report-post-enumeration-survey)
 
-### 🔗 Links to Code/Applications
+### 🔗 Liens vers les codes et applications
 
 [ONS-UK CROW clerical matching system](https://github.com/Data-Linkage/Clerical_Resolution_Online_Widget)
 
 [ONS-UK Data-Linkage/pes_match: A set of functions for cleaning and matching census data with Post Enumeration Survey data](https://github.com/Data-Linkage/pes_match)
 
 [Ministry of Justice UK: Splink probabilistic matching](https://www.gov.uk/government/publications/joined-up-data-in-government-the-future-of-data-linking-methods/splink-mojs-open-source-library-for-probabilistic-record-linkage-at-scale)
+
 
 
