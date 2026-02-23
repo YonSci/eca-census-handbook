@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 3
 hide_title: true 
+title: Expériences de certains pays
 ---
 
 
@@ -21,62 +22,11 @@ La **Tanzanie** a mis l'accent sur le contrôle de la qualité tout au long du p
 
 La **Namibie** s'est concentrée sur une assurance qualité à plusieurs niveaux grâce à des superviseurs régionaux et nationaux. Des équipes de contrôle ont été déployées au début du travail sur le terrain afin de garantir le respect des procédures. Elles ont observé les recenseurs, en particulier lors de la traduction des questions dans les langues locales, et ont pris des mesures correctives lorsque cela était nécessaire. Un tableau de bord de suivi en temps réel a permis aux superviseurs de contrôler la qualité des données. Si des erreurs étaient détectées, les enregistrements étaient renvoyés aux cartographes pour correction, garantissant ainsi une intégrité élevée des données.
 
-> Le **Nigeria**, qui organisait son premier recensement numérique, appréhendait l'immense défi que représentait la gestion de la sécurité des données et de la logistique pour le pays le plus peuplé d'Afrique. Afin d'atténuer les risques, il fallait disposer d'une infrastructure cloud robuste et former de manière approfondie un nombre considérable d'enquêteurs, le tout dans un environnement de sécurité complexe.
->
-> Le **Ghana**, lors de son recensement numérique de 2021, a dû, comme plusieurs autres pays, faire face à des problèmes de connectivité Internet, ce qui l'a contraint à utiliser des méthodes de collecte de données hors ligne dans certaines régions. Cela a créé des défis logistiques supplémentaires et des risques de synchronisation des données qui ont dû être gérés avec soin.
->
-> L'**Afrique du Sud** a connu un sous-dénombrement lors du recensement, malgré l'utilisation de systèmes numériques. Cela montre que la technologie seule ne peut pas résoudre les problèmes sous-jacents tels que la lassitude des répondants et l'accès aux populations difficiles à recenser, ce qui indique que l'atténuation des risques doit également se concentrer sur ces problèmes sociaux persistants.
+Le **Nigeria**, qui organisait son premier recensement numérique, appréhendait l'immense défi que représentait la gestion de la sécurité des données et de la logistique pour le pays le plus peuplé d'Afrique. Afin d'atténuer les risques, il fallait disposer d'une infrastructure cloud robuste et former de manière approfondie un nombre considérable d'enquêteurs, le tout dans un environnement de sécurité complexe.
 
-LIEN vers les études de cas ci-dessous dans une section séparée.
+Le **Ghana**, lors de son recensement numérique de 2021, a dû, comme plusieurs autres pays, faire face à des problèmes de connectivité Internet, ce qui l'a contraint à utiliser des méthodes de collecte de données hors ligne dans certaines régions. Cela a créé des défis logistiques supplémentaires et des risques de synchronisation des données qui ont dû être gérés avec soin.
 
-**Zambie**
-
-Le premier niveau de supervision a été assuré par les superviseurs. Les superviseurs étaient chargés de suivre de près le travail des équipes afin de garantir que tous les ménages étaient visités, que tous les répondants étaient contactés et que toutes les procédures étaient correctement mises en œuvre. Chaque superviseur encadrait environ six recenseurs et a procédé à de nouveaux entretiens auprès de cinq ménages sélectionnés dans chaque zone de recensement (EA) qui lui était attribuée. En outre, le superviseur a examiné les questionnaires après avoir reçu le travail de ses enquêteurs à l'aide du rapport d'examen figurant dans le menu du superviseur. Le rapport indiquait le nom de l'enquêteur, le numéro de la zone de recensement qui lui était attribuée, la durée moyenne des entretiens, la population totale recensée, le nombre de ménages recensés et non contactés, entre autres indicateurs de performance clés. Les superviseurs ont fourni des commentaires aux enquêteurs sur la base de ces rapports.
-
-Au niveau national et infranational, le tableau de bord de suivi du recensement a joué un rôle essentiel dans le suivi de la collecte des données. Ce tableau de bord était un outil de gestion de l'information en ligne utilisé afin d'afficher les indicateurs de performance clés permettant de suivre en temps réel l'avancement du travail sur le terrain. Élaboré avec l'assistance technique du Centre africain de statistique (CAS) de la CEA, le tableau de bord présentait les indicateurs clés sous forme de tableaux et de graphiques interactifs afin de permettre aux utilisateurs de les consulter et de les analyser rapidement. L'accès a été accordé à certains membres du personnel technique et administratif du recensement afin qu'ils puissent suivre les progrès réalisés dans leurs régions respectives et être en mesure de hiérarchiser les priorités en matière de suivi. Les contrôleurs nationaux de la qualité des données qui opéraient au siège ont fourni des commentaires aux agents de recensement provinciaux ainsi qu'aux coordinateurs de recensement de district. Les projections démographiques ont été incluses dans le tableau de bord afin de comparer les progrès réalisés en matière de recensement. En outre, les agents nationaux chargés de la qualité des données ont effectué des visites sur le terrain dans leur région respective afin de fournir des commentaires aux recenseurs. Le tableau de bord du recensement a permis de cibler certaines zones dont les indicateurs de performance étaient faibles.
-
-Concernant les recenseurs qui ont déclaré avoir terminé le recensement, le SIG vérifiait la couverture de l'EA avant de certifier l'achèvement des travaux. Des commentaires ont été fournis aux recenseurs concernant les structures observées sans marqueurs.
-
-**Tanzanie**
-
-Le contrôle qualité constitue un élément essentiel du recensement. Des normes et des procédures de contrôle de la qualité ont été élaborées et respectées à toutes les étapes du recensement afin de garantir la collecte de données de qualité. Tous les superviseurs et coordinateurs ont été formés aux normes et procédures de contrôle de la qualité lors des sessions de formation du recensement.
-
-Au stade du pré-recensement, la planification était bien organisée ; les questionnaires de recensement et autres documents connexes (manuels, formulaires de contrôle, etc.) étaient bien conçus. De même, lors de la cartographie du recensement, les superviseurs ont évalué le travail de délimitation effectué par les assistants de terrain. Afin d'améliorer la qualité, le contrôle qualité constitue un élément essentiel du recensement. Des normes et des procédures de contrôle de la qualité ont été élaborées et respectées à toutes les étapes du recensement afin de garantir la collecte de données de qualité. Tous les superviseurs et coordinateurs ont été formés aux normes et procédures de contrôle de la qualité lors des sessions de formation du recensement.
-
-Au stade du pré-recensement, la planification était bien organisée ; les questionnaires de recensement et autres documents connexes (manuels, formulaires de contrôle, etc.) étaient bien conçus. De même, lors de la cartographie du recensement, les superviseurs ont évalué le travail de délimitation effectué par les assistants de terrain. Afin d'améliorer la qualité et la précision des cartes, des systèmes de positionnement global (GPS) ont été utilisés.
-
-Lors de la conception de l'application, les programmeurs ont utilisé les spécifications élaborées par les spécialistes du domaine. Les spécifications contenaient toutes les instructions nécessaires aux programmeurs afin de programmer le code du questionnaire dans CAPI, y compris les options de réponse, les schémas de saut, les instructions à l'enquêteur, les validations de données, les messages d'erreur et le format des données de sortie. À des fins de validation, les spécialistes ont mis au point des contrôles de validation, qui comprennent des contrôles de plage, des contrôles d'incohérence et des contrôles d'exhaustivité des données.
-
-Afin de garantir la qualité des données collectées, le questionnaire électronique a été testé à plusieurs reprises, notamment en trois étapes : test interne, pré-test et test pilote.
-
-Pendant le recensement, les superviseurs chargés du contrôle qualité ont rendu visite aux ménages afin d'effectuer des contrôles ponctuels et ont procédé à des vérifications a posteriori auprès de certains ménages afin de garantir la qualité des données collectées. Le programme de contrôle qualité était également installé sur la tablette du superviseur. Lorsque les recenseurs envoyaient les données au superviseur, le programme effectuait un contrôle qualité afin de détecter d'éventuels problèmes.
-
-Une fois les données envoyées par les recenseurs, le personnel informatique du siège pouvait les vérifier via le serveur. Les contrôles de qualité des données ont été effectués à l'aide d'un document de spécifications d'édition préparé par les spécialistes du sujet relatif à la majorité des questions afin de réduire les erreurs de contenu. Des contrôles rigoureux ont été intégrés dans le dispositif CAPI afin de réduire les erreurs de contenu.
-
-Ces procédures ont été mises en œuvre afin de limiter le nombre d'erreurs durant l'ensemble du processus de recensement.
-
-**Namibie**
-
-En Namibie, afin de garantir la collecte de données fiables, de qualité et en temps opportun, une série d'activités d'assurance qualité ont été menées à différents niveaux de contrôle. Ces activités ont été conduites par les superviseurs régionaux, les superviseurs nationaux et les responsables. Ces derniers ont suivi, examiné et transmis en temps réel leurs observations au Bureau national des statistiques du Kenya sur le déroulement du processus de recensement. Les observateurs ont été des témoins neutres du processus de recensement et n'ont en aucune façon interféré avec celui-ci. Les observateurs ont reçu des outils d'observation uniformisés et ont été formés à la même méthodologie afin d'évaluer et de rendre compte correctement de plusieurs éléments de la collecte de données.
-
-Ces derniers ont été répartis dans toutes les régions et ont couvert les aspects suivants du recensement : les installations de stockage dans les bureaux de statistiques des comtés, le matériel de sensibilisation, l'accessibilité des zones de dénombrement dans les sous-comtés. Afin de garantir la qualité des données collectées, le questionnaire électronique a été testé à plusieurs reprises, notamment en trois étapes : test interne, pré-test et test pilote. Pendant le recensement, les superviseurs chargés du contrôle qualité ont rendu visite aux ménages pour effectuer des contrôles ponctuels et ont procédé à des vérifications a posteriori auprès de certains ménages afin de garantir la qualité des données collectées. Le programme de contrôle qualité était également installé sur la tablette du superviseur. Lorsque les recenseurs envoyaient les données au superviseur, le programme effectuait un contrôle qualité afin de détecter d'éventuels problèmes. Une fois les données envoyées par les recenseurs, le personnel informatique du siège pouvait les vérifier via le serveur. Les contrôles de qualité des données ont été effectués à l'aide d'un document de spécifications d'édition préparé par les spécialistes du sujet relatif à la majorité des questions afin de réduire les erreurs de contenu. Des contrôles rigoureux ont été intégrés dans le dispositif CAPI afin de réduire les erreurs de contenu. Ces procédures ont été mises en œuvre afin de limiter le nombre d'erreurs durant l'ensemble du processus de recensement.
-
-**Kenya**
-
-En Namibie, afin de garantir la collecte de données fiables, de qualité et en temps opportun, une série d'activités d'assurance qualité ont été menées à différents niveaux de contrôle. Ces activités ont été conduites par les superviseurs régionaux, les superviseurs nationaux et les responsables. Les équipes de suivi ont été déployées dans les régions au début du travail sur le terrain afin de s'assurer que celui-ci démarrait comme prévu et que toutes les procédures de collecte de données étaient respectées conformément aux prescriptions. Ces derniers ont suivi, examiné et transmis en temps réel leurs observations au Bureau national des statistiques du Kenya sur le déroulement du processus de recensement. Les observateurs ont été des témoins neutres du processus de recensement et n'ont en aucune façon interféré avec celui-ci.
-
-Les observateurs ont reçu des outils d'observation uniformisés et ont été formés à la même méthodologie afin d'évaluer et de rendre compte correctement de plusieurs éléments de la collecte de données. Ces derniers ont été répartis dans toutes les régions et ont couvert les aspects suivants du recensement :
-
-les installations de stockage dans les bureaux de statistiques des comtés, le matériel de sensibilisation, l'accessibilité des zones de dénombrement dans les sous-comtés.
-
-Identification des limites des zones de dénombrement en mettant l'accent sur la clarté des limites à l'aide de cartes des zones de dénombrement et avec le soutien des anciens du village et des chefs adjoints.
-
-Établissement de la liste des ménages avant le recensement.
-
-Matériel et équipement de recensement, compétences des recenseurs en matière de collecte de données et langues locales.
-
-À l'issue du recensement, les contrôleurs ont élaboré des rapports qui ont été présentés à la direction du Bureau national des statistiques du Kenya.
-
-En outre, dans le cadre de l'assurance qualité, un module de supervision a été intégré dans l'application CAPI, dans lequel les superviseurs pouvaient sélectionner quelques ménages au hasard, mener de nouveaux entretiens et générer un rapport. Toute variation a été traitée par les recenseurs en concertation avec les superviseurs. Une équipe de coordinateurs issus des différents comités de recensement a également été déployée afin d'assurer le suivi et l'observation du processus de recensement.
+L'**Afrique du Sud** a connu un sous-dénombrement lors du recensement, malgré l'utilisation de systèmes numériques. Cela montre que la technologie seule ne peut pas résoudre les problèmes sous-jacents tels que la lassitude des répondants et l'accès aux populations difficiles à recenser, ce qui indique que l'atténuation des risques doit également se concentrer sur ces problèmes sociaux persistants.
 
 [Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/9.%20Quality%20Assurance,%20Monitoring,%20Evaluation,%20and%20Risk%20Management)
+
