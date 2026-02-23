@@ -1,7 +1,7 @@
 ﻿---
 sidebar_position: 0
 hide_title: false
-title: Recommendations for Digital Census Implementation
+title: Recommandations relatives à la mise en œuvre des recensements numériques
 ---
 
 # Recommandations relatives à la mise en œuvre des recensements numériques
@@ -16,5 +16,6 @@ La présente section regroupe les principales recommandations et les meilleures 
 Naviguer dans l'ensemble complet des recommandations qui vous aideront à guider votre processus de planification et de mise en œuvre du recensement numérique.
 
 ---
+
 
 
