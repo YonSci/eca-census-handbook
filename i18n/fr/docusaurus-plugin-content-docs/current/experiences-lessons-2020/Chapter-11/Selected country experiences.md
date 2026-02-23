@@ -1,16 +1,8 @@
 ﻿---
 sidebar_position: 3
 hide_title: true 
+title: Expériences de certains pays
 ---
-
-
-
-
-
-
-
-
-
 
 ## Expériences de certains pays
 
@@ -38,7 +30,8 @@ La **Tanzanie** a engagé des experts universitaires afin de rédiger des monogr
 
 - Les bailleurs de fonds et les partenaires de développement fournissent également des ressources afin d'engager des instituts de recherche ou des consultants nationaux-internationaux pour diriger les domaines-thèmes dans lesquels les capacités nationales font défaut, en partenariat avec les ONS et les ministères sectoriels-institutions nationales.
 
-[Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/11.%20Partnerships%20and%20Collaboration)
+[Lien vers la section des études de cas](/docs/case-studies/11.%20Partnerships%20and%20Collaboration)
+
 
 
 
