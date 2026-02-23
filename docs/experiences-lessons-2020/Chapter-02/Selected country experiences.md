@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 hide_title: true
+title: Selected Country Experiences
 ---
 
 ## Selected country experiences
