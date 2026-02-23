@@ -25,6 +25,7 @@ L'**Égypte** a publié les résultats de son recensement de 2017 via une platef
 
 Le **Zimbabwe** a publié huit rapports préliminaires issus de son recensement de 2022 afin de soutenir la planification budgétaire et la délimitation des circonscriptions électorales. La diffusion a pris la forme d'ateliers hybrides, de présentations au cabinet, de publications sur les réseaux sociaux et d'interviews dans les médias locaux en langues locales. Les produits comprenaient des rapports nationaux et provinciaux, des rapports thématiques et un atlas du recensement. Les futurs plans de diffusion prévoient des affiches, des séminaires et l'intégration dans REDATAM en vue d'une analyse générée par les utilisateurs. Les partenariats avec les médias visent à améliorer la compréhension du public et l'accès aux données du recensement.
 
-[Lien vers la section des études de cas](i18n/fr/docusaurus-plugin-content-docs/current/case-studies/10.%20Census%20Analysis,%20Products,%20Dissemination%20and%20Archiving)
+[Lien vers la section des études de cas](/docs/case-studies/10.%20Census%20Analysis,%20Products,%20Dissemination%20and%20Archiving)
+
 
 
