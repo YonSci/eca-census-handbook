@@ -1,7 +1,7 @@
 ---
 sidebar_position: 0
 hide_title: false
-title: Digital Census Planning Checklist
+title: Liste de contrôle relative à la planification du recensement numérique
 ---
 
 # Liste de contrôle relative à la planification du recensement numérique
