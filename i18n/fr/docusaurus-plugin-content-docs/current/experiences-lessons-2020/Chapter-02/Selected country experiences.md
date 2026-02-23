@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 4
 hide_title: true
+title: Expériences de certains pays
 ---
 
 
@@ -21,117 +22,5 @@ La **Zambie** s'est associée à GRID3 pour produire des estimations démographi
 
 L'**Afrique du Sud** a réalisé son premier recensement entièrement numérique en 2022, en recourant à trois modes de collecte de données : en présentiel (CAPI), par téléphone (CATI) et en ligne (CAWI). À cette fin, Statistics South Africa (Stats SA) a mis à jour son Geo-Frame dans tous les établissements, en collectant des données relatives aux unités d'habitation, aux adresses et aux informations concernant les gardiens. Cette mise à jour a aidé les travailleurs sur le terrain à s'orienter dans les zones d'habitation et à garantir la précision de la collecte des données. L'infrastructure du recensement numérique comprenait des outils tels que l'Atlas numérique du recensement et des produits cartographiques interactifs, permettant aux utilisateurs d'explorer les données démographiques à différents niveaux administratifs. Ces innovations ont marqué une évolution significative vers des systèmes géospatiaux et statistiques intégrés dans les opérations de recensement en Afrique du Sud.
 
-Lien vers la section des études de cas
-
-**Namibie**
-
-La Namibie avait pour objectif de fournir des informations détaillées concernant l'utilisation des structures bâties ainsi que d'élaborer un registre statistique des entreprises et le cadre national des unités d'habitation destiné à fournir des informations détaillées relatives aux ménages et à l'utilisation des terres concernant chaque unité d'habitation.
-
-La conception du questionnaire visait principalement à recueillir les données essentielles relatives à l'utilisation d'un bâtiment. Dans le cas d'une unité d'habitation, les occupants devaient indiquer le nom du chef de ménage, ses coordonnées, le nombre de pièces et le nombre de personnes résidant habituellement dans chaque unité d'habitation, ainsi que d'autres informations de base concernant la structure qu'ils occupaient, telles que la source d'approvisionnement en eau, l'électricité et l'accès à l'assainissement. L'inclusion des nombreuses demandes des parties prenantes a fait passer le projet d'un exercice cartographique typique à une entreprise statistique.
-
-L'application utilisée pour la collecte, la transmission, le stockage et le nettoyage des données cartographiques a été conçue et développée à l'aide d'ArcGIS Survey123 d'Esri.
-
-L'exercice de cartographie pilote avait pour objectif principal de vérifier l'adéquation des outils cartographiques (application de collecte électronique de données et questionnaire) aux exigences en matière de données. L'exercice visait également à vérifier l'adéquation des dispositions logistiques et administratives sur le terrain.
-
-Les résultats de la cartographie pilote ont servi à examiner et à améliorer la mise en œuvre de la cartographie dans l'ensemble des zones opérationnelles. Ces résultats ont notamment permis d'examiner les outils, d'élaborer les plans définitifs du projet de cartographie principal et d'établir l'estimation finale des ressources nécessaires.
-
-Un plan de communication axé sur la promotion de l'opération cartographique a été élaboré. La méthode la plus courante a consisté en la distribution de dépliants et l'affichage d'affiches destinés à sensibiliser le public. Les dirigeants communautaires ont été associés par le biais de réunions et ont eu l'occasion d'exposer en détail les objectifs du
-
-recensement cartographique. Une mobilisation a eu lieu dans chaque ZD sélectionnée avant le début des exercices de collecte de données afin de s'assurer que la population locale était au courant du projet et de ce que l'on attendait d'elle. Des visites de courtoisie ont également été rendues aux conseillers électoraux et locaux afin de leur présenter l'opération et de leur demander d'informer les habitants de leur circonscription lors de leurs annonces radiophoniques et réunions communautaires respectives. En outre, des annonces ont été diffusées sur les radios FM, dans les journaux locaux, à la télévision et lors d'émissions-débats thématiques, entre autres canaux, afin de signaler le début des travaux de terrain.
-
-**Kenya**
-
-Le **Kenya** avait pour objectif de mettre à jour ses fichiers géographiques pour l'ensemble des comtés et sous-comtés, en y incluant les villages et les zones de dénombrement, ainsi que le nombre de ménages.
-
-Deux formulaires de recensement des ménages ont été élaborés : le formulaire de recensement des ménages et des propriétés rurales (F-54-5-1A et F-54-5-1B) et le formulaire de recensement des ménages et des structures urbaines (F-54-5-2), utilisés respectivement pour la collecte de données dans les zones rurales et urbaines. Ces deux formulaires permettaient de recueillir les coordonnées GPS de chaque ménage ainsi que l'altitude correspondante. En outre, un formulaire récapitulatif (F-54-5-1A) a été utilisé par les anciens du village, tandis que le formulaire F-54-5-1B a été utilisé par les équipes de collecte de données pour répertorier les villages et les zones de dénombrement.
-
-L'Open Data Kit (ODK) était une application gratuite utilisée pour élaborer et tester le système de collecte de données cartographiques. Par la suite, l'application ArcGIS Survey123, gérée par Esri-Eastern Africa, a été adoptée après une phase de tests et de validation. Bien que l'ODK soit facile à utiliser, compatible avec le Samsung J2 et disponible gratuitement sur le Google Play Store, Survey123 a été adopté en raison de sa capacité à traiter plus rapidement les données dans l'environnement ArcGIS utilisé pour la production cartographique. Survey123 fournissait également un tableau de bord permettant de suivre les équipes et chaque assistant cartographe (MA) individuellement. Une fois le village ou le quartier traité, l'assistant cartographe finalisait et téléversait les données sur le serveur cloud.
-
-Les technologies et les outils utilisés ont été testés avant l'exercice cartographique proprement dit. Un exercice cartographique pilote a été mené afin de déterminer la tablette la plus adaptée, notamment celle offrant une précision GPS optimale. Le téléphone Samsung Galaxy J2 a été retenu pour la précision de ses relevés GPS. Les tests ont porté sur l'application ODK, l'utilisation d'images satellitaires et de photographies aériennes pour la planification et la répartition des travaux, le tracé des limites et des éléments caractéristiques, l'adéquation des formulaires de collecte de données, ainsi que la pertinence du serveur du KNBS et de l'ensemble du système TIC pour la réalisation de la cartographie numérique. Le projet pilote a également permis de déterminer le type et le nombre de véhicules à utiliser, ainsi que les ressources nécessaires à la réalisation de la cartographie sur l'ensemble du territoire national.
-
-La promotion de l'exercice cartographique a été menée de manière échelonnée par le biais de la presse écrite, de la radio, de la télévision, des médias sociaux et de réunions de mobilisation communautaire en présence de l'administration locale, chargée d'organiser des séances de sensibilisation au niveau des communautés. La sensibilisation des responsables administratifs locaux a été assurée par le personnel de l'ONS dans chaque comté. Des réunions de sensibilisation ont été organisées au cours desquelles les agents administratifs ont été informés de l'importance du recensement et des activités inhérentes au processus, ainsi que de la manière dont les anciens des villages ruraux devaient remplir le formulaire de cartographie 1 qui leur avait été remis. En raison d'une compréhension insuffisante des concepts cartographiques au Kenya, un écart a été constaté entre le nombre de villages communiqué et le nombre réel de zones de dénombrement lors de l'exercice de sensibilisation.
-
-Au Kenya, l'exercice a débuté avec 12 équipes, chacune composée d'un chef d'équipe et de sept assistants cartographes. Des coordinateurs étaient également chargés de superviser plusieurs équipes. Le nombre d'équipes a ensuite été porté à 40, soit un total de 400 assistants cartographes temporaires recrutés et formés afin d'accélérer le processus cartographique.
-
-Chaque équipe s'est vu attribuer deux à trois véhicules, en fonction du nombre d'assistants cartographes. L'ensemble des équipes intervenaient dans un ou deux comtés simultanément. Chaque équipe s'est vu attribuer plusieurs sous-localités afin de cartographier les exploitations agricoles, les structures, les ménages et les points d'intérêt. Chaque assistant cartographe s'est vu attribuer un village ou un quartier à traiter à un moment donné et se déplaçait dans l'ensemble du village avec l'aide d'un ancien. L'assistant cartographe utilisait le formulaire préalablement rempli par l'ancien du village pour confirmer les informations indiquées et relever les coordonnées des structures, des ménages et des éléments caractéristiques. Les données ont été collectées à l'aide de téléphones mobiles équipés d'un récepteur GPS intégré.
-
-La cartographie des 27 premiers comtés a été réalisée au moyen de l'application ODK, tandis que les comtés restants ont été cartographiés au moyen d'ArcGIS Survey123.
-
-Une équipe de techniciens SIG a été recrutée pour appuyer la production cartographique.
-
-**Phase 1**
-
-• La numérisation a été effectuée en téléchargeant au préalable les données spatiales collectées depuis le serveur cloud. Le logiciel ArcGIS a été utilisé pour superposer les données spatiales à des images satellitaires pour les zones rurales ou à des photographies aériennes pour les zones urbaines. Les données ont été représentées selon le nom du village afin d'en déterminer l'étendue. La numérisation des limites des villages s'est appuyée sur un schéma préalablement généré.
-
-• La délimitation des zones de dénombrement a été effectuée sur la base d'une taille comprise entre 50 et 149 ménages, soit une moyenne de 100 ménages. Les villages comptant plus de 149 ménages ont été subdivisés en plusieurs zones de dénombrement, tandis que ceux comptant moins de 50 ménages ont été fusionnés avec un village voisin. Une zone de dénombrement correspondait donc soit à une partie d'un village, soit à un village entier, soit à plusieurs villages regroupés.
-
-• Les polygones des zones de dénombrement ont été vérifiés au moyen de topologies permettant de repérer les chevauchements et les lacunes. Chaque zone de dénombrement a été caractérisée par ses unités administratives et politiques, son type (rural ou urbain), son statut (informel ou formel) et sa catégorie (spéciale ou ordinaire). Ces informations ont été ajoutées à la table attributaire des polygones des zones de dénombrement afin de constituer le fichier géographique du recensement.
-
-• Un code à 13 chiffres a été généré à partir des unités administratives afin d'identifier de manière unique chaque zone de dénombrement. Les cartes ont été préparées à l'aide de modèles générés lors de l'élaboration des outils. Deux types de cartes ont été créés : une carte par sous-localité regroupant l'ensemble ou plusieurs zones de dénombrement de cette sous-localité, et une carte pour chaque zone de dénombrement.
-
-**Phase 2**
-
-• Les cartes ont été imprimées en vue de leur modification au moyen des formulaires prévus à cet effet, puis réimprimées pour la phase de vérification. Les cartes rurales ont été imprimées au format A3, tandis que les cartes urbaines ont été imprimées au format A2.
-
-• Les cartes retournées après vérification ont été transmises au service de production cartographique afin que les techniciens SIG y apportent les modifications demandées sur le terrain. Une fois les modifications effectuées, les cartes PDF finales et les fichiers géographiques ont été transmis aux comtés pour téléchargement sur les tablettes devant être utilisées lors du recensement.
-
-• Des cartes papier ont également été imprimées à des fins de formation et d'identification des zones de dénombrement.
-
-L'exercice de vérification des cartes des zones de dénombrement a été réalisé par des agents de vérification et des coordinateurs formés, en collaboration avec les agents administratifs du gouvernement national (NGAO), afin de confirmer que l'ensemble des cartes et des fichiers géographiques de leurs unités administratives respectives étaient disponibles, correctement positionnés géographiquement et correctement orthographiés. Plusieurs NGAO ont été rassemblés durant la phase de vérification.
-
-En outre, le processus de vérification a permis de repérer les éléments et installations manquants ainsi que les erreurs d'orthographe, et de confirmer le nombre de villages et les limites. Les principaux outils utilisés étaient la carte des sous-localités et le fichier géographique. L'exercice a débuté après la production de cartes des zones administratives pour plusieurs comtés. L'exercice s'est déroulé par phases successives, chacune couvrant plusieurs comtés.
-
-Les cartes vérifiées et les formulaires de vérification ont été transmis au bureau de production cartographique afin d'intégrer les modifications consignées avant la production finale. Les principales erreurs constatées lors de la vérification portaient sur : les fautes d'orthographe, les noms erronés de villages ou de zones de dénombrement, la numérotation incorrecte des zones de dénombrement, les villages disjoints ou fragmentés (flottants), l'omission d'éléments caractéristiques, les lacunes dans la cartographie de certains ménages, les limites imprécises et les noms d'éléments caractéristiques incomplets. Au total, 32 % des zones de dénombrement présentaient une ou plusieurs des erreurs susmentionnées.
-
-**Sierra Leone**
-
-La **Sierra Leone** avait pour objectif d'établir une liste vérifiée et catégorisée de l'ensemble des localités du pays, à tous les niveaux administratifs, indiquant le nom de chaque localité, district, chefferie et section, assorti d'un code unique.
-
-Le questionnaire cartographique a été élaboré afin de recueillir des informations sur l'utilisation des bâtiments, la catégorie de localité, les classes de routes, les plans d'eau et le type de drainage prévu, entre autres. Le questionnaire était principalement conçu pour permettre au chef de ménage de fournir des informations sur la structure du logement et le nombre de membres du ménage. D'autres informations ont été recueillies par le personnel de terrain au moyen de méthodes d'observation.
-
-Une application cartographique portable (PAD) fonctionnant sous Android et dotée d'un module d'acquisition de données a été mise au point par Milsat Technologies aux fins de l'exercice cartographique, afin de répondre de manière fiable à l'ensemble des besoins en matière de données. L'application était en mesure d'alerter le cartographe lorsque le seuil minimal de zones de dénombrement à délimiter était atteint. Elle permettait également de vérifier que le cartographe se trouvait bien à l'intérieur des limites de la structure dont il souhaitait collecter les informations, telles qu'elles apparaissaient sur les images satellitaires. L'application regroupait sur une même plateforme les données spatiales et les attributs collectés. L'application pouvait fonctionner aussi bien hors ligne qu'en ligne, ce qui garantissait la continuité du travail même en l'absence de couverture Internet. Ces innovations ont permis de mettre en place un cadre géographique national pérenne pour les recensements et les enquêtes.
-
-La cartographie pilote a été réalisée en deux phases, en utilisant le fichier shapefile des limites administratives de la section :
-
-– La première phase a été menée dans la capitale afin d'évaluer le logiciel cartographique EA PAD 4.0 et les moyens de transmission des données, d'évaluer l'utilisation du logiciel ArcGIS pour le traitement des données issues d'EA PAD 4.0 en vue de la délimitation des zones de dénombrement, de tester l'ensemble des systèmes et des processus, y compris les exigences logistiques, les modalités de déploiement et le temps moyen nécessaire pour délimiter une zone de dénombrement en milieu rural et urbain, et de recenser les problèmes susceptibles d'être rencontrés par les cartographes sur le terrain.
-
-– Au cours de la deuxième phase, la couverture a été étendue au-delà de la capitale, dans des conditions variées, notamment dans des zones difficiles d'accès et à faible connectivité Internet. Trois sections ont été sélectionnées de manière aléatoire sur l'ensemble du territoire national.
-
-La division Communication et Publicité de l'ONS a mené des campagnes de sensibilisation et d'information du public sur la nécessité de coopérer avec les équipes cartographiques et de les soutenir, avant et pendant le processus de cartographie. Les principaux moyens utilisés comprenaient des réunions de sensibilisation communautaire, des émissions radiophoniques dans les langues locales et nationales, l'utilisation de mégaphones et la mise à disposition par les communautés de guides locaux chargés d'accompagner le personnel de terrain dans les zones difficiles d'accès et de veiller à ce que toutes les communautés soient couvertes.
-
-En Sierra Leone, le travail de terrain proprement dit a débuté par l'annotation des images satellitaires, la mise à jour de la liste des localités vérifiées, le déploiement du personnel de terrain avec la logistique nécessaire et la délimitation des zones de dénombrement à l'aide des images satellitaires.
-
-Les responsables et assistants chargés de l'assurance qualité des données ont effectué les contrôles de qualité requis. Le responsable national de la qualité a supervisé l'ensemble des responsables de l'assurance qualité et a également utilisé une application personnalisée pour s'assurer que les données des cartographes sur le terrain correspondaient fidèlement aux informations réelles. Il a en outre effectué des vérifications sur le terrain pour des zones de dénombrement sélectionnées de manière aléatoire.
-
-• Les cartographes ont collecté des données sur le terrain, tracé des limites provisoires pour les zones de dénombrement et enregistré les données dans le cloud. Les agents SIG et leurs assistants, basés dans les bureaux de district respectifs, ont téléchargé les données transmises depuis le terrain via Google Cloud. Les zones de dénombrement ont été numérisées et délimitées à l'aide du logiciel cartographique ArcGIS.
-
-• Le processus de transmission à distance des données issues des PAD cartographiques utilisait un système cloud hautement sécurisé pour analyser et transmettre de manière sécurisée les tâches téléversées vers le portail SIG. Le portail SIG n'était accessible qu'aux agents SIG dûment enregistrés et habilités.
-
-• Aucune carte physique n'a été imprimée pour le recensement proprement dit ; une application PAD de recensement a été utilisée à la place, s'appuyant sur des ressources en ligne telles qu'OpenStreetMap, les fichiers shapefile des limites des zones de dénombrement et les données spatiales collectées. Cela a permis au personnel chargé du recensement de localiser les zones de dénombrement sans recourir à des cartes papier.
-
-Le processus de contrôle qualité a été complété par un exercice de vérification sur le terrain. Afin de garantir que seuls les agents accrédités utilisent l'application, le PAD cartographique effectuait périodiquement une authentification du système sur chaque téléphone sur lequel l'application était installée.
-
-**Sénégal**
-
-La conception des outils cartographiques s'est appuyée sur les versions issues des recensements précédents. Ces outils ont été finalisés lors d'ateliers techniques et d'essais comparatifs menés à l'Institut national de la statistique du Cap-Vert (INECV) (pour la cartographie) et à l'Institut national de la statistique et de la démographie du Burkina Faso (INSD) (pour le dénombrement).
-
-Les logiciels utilisés pour l'élaboration des outils cartographiques du RGPH-5 étaient les suivants : ArcGIS et MOBAC
-
-L'équipe cartographique comprenait des agents cartographes, des chefs d'équipe, des superviseurs régionaux et des experts du siège. Chacun d'entre eux disposait d'une application mobile fonctionnant sous Android, configurée de manière centralisée aux fins de la gestion intégrée des opérations de recensement. L'application de supervision servait à assurer la coordination et le suivi des opérations sur le terrain. L'application des superviseurs régionaux servait à gérer la composition des équipes, attribuer les tâches, contrôler l'exhaustivité de la collecte et transmettre les données au serveur. L'application des chefs d'équipe permettait à ces derniers d'attribuer des tâches aux membres de leur équipe et de coordonner le travail sur le terrain. L'application des agents cartographes servait à collecter les données cartographiques relatives aux localités.
-
-**Botswana**
-
-SmartClient for Census, une solution logicielle client-serveur accessible via le web, a été utilisée pour collecter, transmettre, stocker et nettoyer les données cartographiques. SmartClient for Census permet à différents utilisateurs de se connecter au système pour exécuter les tâches qui leur sont attribuées et dispose d'une architecture SIG avec une base de données centrale pour le travail au bureau et sur le terrain, garantissant ainsi un accès aisé aux données. Cette configuration a permis, grâce à des flux de travail unifiés, de visualiser et de gérer la saisie des données dès leur synchronisation sur le serveur, parallèlement à la poursuite du travail sur le terrain. SmartClient for Census dispose également de fonctionnalités en ligne et hors ligne, garantissant la continuité du travail même en l'absence de couverture Internet.
-
-**Zambie**
-
-La Zambie s'est associée à GRID3 pour produire des estimations démographiques maillées à haute résolution au moyen d'une approche de modélisation ascendante. Cette méthode a permis d'intégrer les données de peuplement, les empreintes des bâtiments et les données démographiques collectées par le gouvernement zambien. Les ensembles de données résultants ont fourni des estimations de la population à une résolution de grille d'environ 100 mètres, y compris des ventilations par âge et par sexe. Ces estimations ont été utilisées en vue de la microplanification des interventions sanitaires, telles que la lutte contre le paludisme et les campagnes de vaccination contre la COVID-19. Les données ont également contribué à la planification du recensement et ont été rendues publiques par l'intermédiaire du portail de données ouvertes (Open Data Hub) de GRID3.
-
-**Afrique du Sud**
-
-L'Afrique du Sud a réalisé son premier recensement entièrement numérique en 2022, en recourant à trois modes de collecte de données : en présentiel (CAPI), par téléphone (CATI) et en ligne (CAWI). À cette fin, Statistics South Africa (Stats SA) a mis à jour son Geo-Frame dans tous les établissements, en collectant des données relatives aux unités d'habitation, aux adresses et aux informations concernant les gardiens. Cette mise à jour a aidé les travailleurs sur le terrain à s'orienter dans les zones d'habitation et à garantir la précision de la collecte des données. L'infrastructure du recensement numérique comprenait des outils tels que l'Atlas numérique du recensement et des produits cartographiques interactifs, permettant aux utilisateurs d'explorer les données démographiques à différents niveaux administratifs. Ces innovations ont marqué une évolution significative vers des systèmes géospatiaux et statistiques intégrés dans les opérations de recensement en Afrique du Sud.
-
 [Lien vers la section des études de cas](/docs/case-studies/2.%20Geospatial%20Mapping%20and%20EA%20Database%20Management)
-
-
 
