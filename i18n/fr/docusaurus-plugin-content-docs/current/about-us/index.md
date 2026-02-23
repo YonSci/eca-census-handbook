@@ -1,5 +1,5 @@
 ﻿---
-title: About
+title: À propos
 sidebar_position: 0
 hide_title: true
 ---
@@ -32,5 +32,6 @@ Bienvenue dans le guide complet relatif au manuel sur le recensement électroniq
 Ce manuel est conçu afin de servir plusieurs groupes de parties prenantes impliquées dans la planification et la mise en œuvre des recensements à travers l'Afrique. Que vous soyez statisticien gouvernemental, partenaire de développement, expert technique ou décideur, vous trouverez des orientations pertinentes adaptées à vos besoins.
 
 Utiliser le menu latéral afin d'explorer chaque section en détail, ou cliquer sur l'un des liens ci-dessus afin d'accéder directement aux sujets qui vous intéressent le plus.
+
 
 

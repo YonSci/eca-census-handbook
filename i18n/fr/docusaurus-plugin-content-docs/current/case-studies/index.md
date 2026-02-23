@@ -1,5 +1,5 @@
 ---
-title: Case Studies
+title: Études de cas
 sidebar_position: 0
 hide_title: true
 ---
