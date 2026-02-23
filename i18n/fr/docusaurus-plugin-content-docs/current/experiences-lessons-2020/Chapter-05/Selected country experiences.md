@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 3
 hide_title: true 
+title: Expériences de certains pays
 ---
 
 
@@ -13,40 +14,5 @@ L'**Éthiopie** a mené trois essais pilotes entre 2016 et 2018, mais le recense
 
 En **Namibie**, l'essai pilote a été mené de septembre à octobre 2021 et a fourni des enseignements précieux sur l'organisation de terrain, les structures de supervision, les programmes de formation et les plans de traitement des données. Des prétests ont permis d'affiner le programme d'édition par lots et le tableau de bord de suivi. Le plan d'échantillonnage était ciblé et visait divers groupes de population et environnements de vie, notamment les communautés nomades de Kunene et Tsumkwe, les résidences secondaires le long de la côte, les exploitations agricoles commerciales et de réinstallation, les résidences sécurisées et divers environnements urbains. Ces efforts visaient à garantir que le recensement serait mené de manière éclairée et efficace.
 
-LIEN vers les études de cas ci-dessous dans une section séparée.
-
-**Kenya**
-
-Le Kenya a mené plusieurs tests de terrain avant l'essai pilote afin de tester le contenu et l'enchaînement des questionnaires, ainsi que les contrôles de cohérence et les schémas de saut. L'essai pilote a été réalisé exactement un an avant la date du recensement, après quoi deux prétests ont été effectués.
-
-- Le premier prétest visait à tester la collecte des données du recensement, à évaluer la pertinence des cartes des zones de dénombrement téléchargées, à tester la liste des ménages préalablement répertoriés et à tester l'enchaînement du questionnaire avec les nouvelles questions qui n'avaient pas été testées lors de l'essai pilote.
-
-- Le deuxième prétest visait à tester les recommandations formulées lors du premier prétest concernant l'application de collecte de données, les cartes des zones de dénombrement téléchargées et le système de liste des ménages préalablement répertoriés, ainsi qu'à tester le module de supervision qui n'avait pas été inclus dans l'essai pilote.
-
-L'essai pilote et les activités de test ont été menés dans des zones sélectionnées à dessein, notamment : les zones rurales et urbaines densément peuplées, les bidonvilles urbains, les quartiers résidentiels haut de gamme en milieu urbain, les comtés frontaliers confrontés à des problèmes de connectivité Internet, les personnes sans domicile fixe, les voyageurs, les hôtels et les auberges, les terrains accidentés (zones vallonnées), les zones arides et semi-arides, les régions de plantation, les zones rurales peu peuplées et les communautés nomades et pastorales.
-
-Dans le cadre des ressources budgétisées pour l'essai pilote, deux tests supplémentaires ont dû être effectués après celui-ci, car l'exercice n'était pas suffisamment complet pour inclure le test du module de supervision. De plus, le questionnaire n'était pas encore définitif, l'ONS acceptant encore d'ajouter de nouvelles questions.
-
-- L'essai pilote a révélé plusieurs problèmes qui ont été pris en considération lors du recensement principal. À titre d'exemple, pendant la formation, il a été constaté que le temps alloué à la formation sur le handicap, le travail, la définition des concepts et la lecture de cartes était insuffisant, ce qui a conduit à réviser le programme de formation pour le recensement principal.
-
-- Ce constat montre que les enseignements tirés des prétests effectués avant l'essai pilote n'avaient pas été pris en considération. À titre d'exemple, la nécessité d'ajuster le calendrier de formation aurait dû être identifiée et traitée plus tôt lors des prétests, afin que l'essai pilote ne permette d'identifier que les problèmes majeurs. À titre d'exemple, le taux de défaillance des tablettes a été utilisé pour déterminer le nombre de tablettes de rechange à attribuer par zone de supervision, et l'apparition de fausses offres d'emploi a entraîné une modification de la stratégie de recrutement pour le recensement principal.
-
-**Éthiopie**
-
-L'Éthiopie a mené trois essais pilotes en novembre 2016, mars 2017 et juin 2018, et le recensement principal n'a pas eu lieu lors du cycle de 2020. Les deux premiers essais pilotes ont été menés afin de tester les deux méthodes de recensement (papier et tablette), tandis que le troisième était entièrement numérique, avec des questionnaires papier de secours en cas d'urgence, comme une panne de tablette ou une coupure de courant. Une fois les essais terminés, les enseignements tirés du premier essai pilote ont été consignés afin d'éclairer les activités de recensement ultérieures, comme indiqué ci-dessous.
-
-- Les directives de recrutement n'ont pas été respectées, ce qui a conduit à la nomination d'agents de terrain qui n'étaient pas en bonne condition physique, dont certains ne maîtrisaient pas les technologies numériques, tandis que d'autres ne parlaient pas la langue locale, ce qui a nui aux opérations de l'essai pilote. Cette situation, conjuguée à l'absence ou à l'insuffisance de communication concernant les droits des agents de terrain, a entraîné un mécontentement et des perturbations pendant la formation.
-
-- L'essai pilote a été réalisé avant l'achèvement de l'examen approfondi et de la finalisation des outils de collecte de données. Des prétests auraient dû être effectués plus tôt afin de résoudre les problèmes constatés, tels que les incohérences dans les questionnaires traduits et les schémas de saut inappropriés ou non fonctionnels dans l'application de saisie des données.
-
-- L'essai pilote a conduit à une refonte de certaines spécifications du matériel informatique, ce qui indique que les recherches préalables ont peut-être été limitées ou que les recommandations n'ont pas été respectées. Cet enseignement découle de l'incapacité des batteries externes à recharger les appareils mobiles en raison de leur faible capacité, de la faible autonomie des tablettes et de la mauvaise couverture réseau, qui ont nécessité une modification des spécifications du matériel et, par conséquent, un réajustement budgétaire.
-
-- Le manque de préparation des formateurs et du bureau des opérations de terrain concernant la disponibilité de centres de formation appropriés équipés de projecteurs LCD pour présenter les leçons vidéo a nui à la formation dans certains centres, ce qui pouvait compromettre la qualité des données. Il a donc fallu inclure dans le plan de formation les spécifications d'un centre de formation idéal pour un recensement numérique.
-
-***Namibie***
-
-La Namibie a mené l'essai pilote de septembre à octobre 2021, lequel a fourni des enseignements importants sur l'adéquation de l'organisation de terrain, les zones de supervision, le programme de formation, la charge imposée aux répondants, le plan de traitement des données et d'autres aspects importants du recensement permettant de mieux orienter le recensement proprement dit. Avant la mise en œuvre de l'essai pilote, des tests ont été effectués et les données générées ont servi à réviser le programme d'édition par lots et à tester le tableau de bord de suivi.
-
-Le plan d'échantillonnage était ciblé et comprenait : des populations particulières telles que les nomades d'Opuwo vivant dans la région de Kunene et à Tsumkwe, les résidences secondaires à Walvis Bay/Swakopmund (zones côtières de la Namibie) et les zones de dénombrement dans les exploitations agricoles commerciales, les fermes de réinstallation, les résidences sécurisées, les établissements communaux et les zones urbaines (catégories supérieure, moyenne et inférieure/informelle).
-
 [Lien vers la section des études de cas](/docs/case-studies/5.%20Census%20Testing%20and%20Pilots)
+
