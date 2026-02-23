@@ -10,9 +10,10 @@ La présente section regroupe les principales recommandations et les meilleures 
 
 ## Accéder aux recommandations complètes
 
-**[Voir les recommandations détaillées →](/docs/recommendations/1.%20Planning%20%26%20Management)**
+**[Voir les recommandations détaillées →](/docs/recommendations/1. Planning & Management)**
 
 
 Naviguer dans l'ensemble complet des recommandations qui vous aideront à guider votre processus de planification et de mise en œuvre du recensement numérique.
 
 ---
+
