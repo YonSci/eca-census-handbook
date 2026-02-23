@@ -1,7 +1,7 @@
 ﻿---
 sidebar_position: 0
 hide_title: false
-title: Resources and References
+title: Ressources et références
 ---
 
 # Ressources et références
@@ -51,6 +51,7 @@ La présente section fournit une collection complète de ressources, d'outils et
 [ONS-UK Data-Linkage/pes_match: A set of functions for cleaning and matching census data with Post Enumeration Survey data](https://github.com/Data-Linkage/pes_match)
 
 [Ministry of Justice UK: Splink probabilistic matching](https://www.gov.uk/government/publications/joined-up-data-in-government-the-future-of-data-linking-methods/splink-mojs-open-source-library-for-probabilistic-record-linkage-at-scale)
+
 
 
 
