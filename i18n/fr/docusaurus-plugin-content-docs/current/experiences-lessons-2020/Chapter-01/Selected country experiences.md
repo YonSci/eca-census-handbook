@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 3
 hide_title: true
+title: Expériences de certains pays
 ---
 
 ## Expériences de certains pays
@@ -14,5 +15,6 @@ La **Tanzanie** a entamé la planification de son recensement de la population e
 La **Sierra Leone** a adopté une approche inclusive de la planification du recensement, tirant les enseignements des expériences passées afin de garantir un processus plus efficace et plus réactif, aligné sur les objectifs nationaux et de développement durable. L'autorité légale a été établie par la Loi sur les opérations de l'ONS et une proclamation présidentielle. Le budget et la planification ont mis l'accent sur l'appropriation et la coordination nationales. La mise en œuvre a été soutenue par un Comité consultatif du recensement et un Secrétariat du recensement doté de bureaux régionaux. Les aspects techniques ont été gérés par un comité composé de représentants du gouvernement, du milieu universitaire et des partenaires au développement. La participation du public a été gérée par un comité de communication dédié. L'assistance technique a été externalisée auprès d'organisations internationales telles que le FNUAP et la Banque mondiale, couvrant des domaines tels que le contrôle de la qualité, le traitement des données et la diffusion.
 
 [Lien vers les études de cas](/docs/case-studies/1.%20Planning%20%26%20Management)
+
 
 
