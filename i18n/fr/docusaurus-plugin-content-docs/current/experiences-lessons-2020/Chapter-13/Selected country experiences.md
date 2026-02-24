@@ -14,5 +14,6 @@ Le **Kenya** a nommé un sous-comité des achats un an avant le recensement de 2
 Le Kenya a également créé un sous-comité de gestion financière au sein du comité technique de travail chargé du recensement afin de mobiliser et de gérer les ressources, provenant principalement du gouvernement. Les fonds ont été gérés de manière centralisée via un compte bancaire dédié du Bureau national des statistiques du Kenya, avec des comptes au niveau des comtés ouverts concernant les transactions locales. Les réglementations ont été communiquées aux agents chargés de la gestion des fonds, et tous les paiements ont été justifiés par des documents autorisés. Les activités telles que les indemnités, la location de locaux, le stockage de matériel et le transport ont été financées par ces comptes. Après le recensement, les documents comptables, notamment les calendriers de paiement, les registres de présence et les procès-verbaux des réunions, ont été soumis à la fois au bureau central des finances et aux comptables des comtés afin de garantir la transparence et la responsabilité.
 
 
-[Lien vers la section des études de cas](/docs/case-studies/13.%20Procurement%20and%20Financial%20Management)
+[Lien vers la section des études de cas](/docs/case-studies/Procurement%20and%20Financial%20Management)
+
 
