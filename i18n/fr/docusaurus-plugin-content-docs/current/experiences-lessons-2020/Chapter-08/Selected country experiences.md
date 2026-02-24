@@ -16,7 +16,8 @@ L'**Afrique du Sud** a mené son recensement de 2022 selon une approche entière
 
 La **Tanzanie** a dû relever le défi de fournir 205 000 tablettes pour son recensement de 2022. Pour y répondre, le pays a élaboré un outil de fourniture personnalisé reposant sur une technologie libre, qui a considérablement amélioré l'efficacité en automatisant l'installation des logiciels, les paramètres de sécurité et la collecte des données. Ce système a permis, à chaque poste de travail, de fournir dix tablettes en deux minutes, économisant 90 % des heures de travail par rapport à d'autres méthodes. Le comité logistique, rassemblant divers organismes publics, a géré la distribution et le retour du matériel. Le transport a été assuré par des entités gouvernementales et privées, dont une entreprise de logistique ayant fourni ses services à titre bénévole. Environ 1 800 véhicules, ainsi que des bateaux, des motos et des hélicoptères, ont été utilisés pour atteindre l'ensemble des zones. Le matériel transporté comprenait des manuels de formation, des batteries externes, des badges d'identification et du matériel de communication, afin d'assurer un soutien complet à l'opération de dénombrement.
 
-[Lien vers la section des études de cas](/docs/case-studies/8.%20Enumeration%20and%20Logistics)
+[Lien vers la section des études de cas](/docs/case-studies/Enumeration%20and%20Logistics)
+
 
 
 
