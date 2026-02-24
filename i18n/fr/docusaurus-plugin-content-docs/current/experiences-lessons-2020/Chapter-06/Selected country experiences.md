@@ -22,7 +22,8 @@ La **Sierra Leone** a suivi un modèle de recrutement traditionnel similaire à 
 
 L'**Angleterre et le Pays de Galles** ont mené leur recensement pendant la pandémie de COVID-19, ce qui a nécessité une approche de formation entièrement numérique. La formation a été dispensée au moyen d'un système de gestion de l'apprentissage (LMS) comportant des modules d'apprentissage en ligne interactifs et des sessions de classe virtuelle pour les responsables. La formation était complète, avec 32 modules, des évaluations et des délais stricts à respecter. Malgré des difficultés techniques et opérationnelles, telles que des problèmes d'intégration du LMS et la nécessité de prolonger les délais, le modèle numérique s'est avéré efficace. Il a permis de réduire les coûts, d'assurer une formation cohérente et de permettre un apprentissage flexible et à son propre rythme. L'assurance qualité a été intégrée tout au long du processus, et le modèle a démontré le potentiel d'une formation numérique extensible et de haute qualité.
 
-[Lien vers la section des études de cas](/docs/case-studies/6.%20Recruitment%20and%20Training%20of%20Field%20Personnel)
+[Lien vers la section des études de cas](/docs/case-studies/Recruitment%20and%20Training%20of%20Field%20Personnel)
+
 
 
 
