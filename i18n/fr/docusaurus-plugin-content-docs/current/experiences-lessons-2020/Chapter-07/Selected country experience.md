@@ -12,6 +12,7 @@ Le **Botswana** a utilisé l'application ManageEngine Mobile Device Manager Plus
 
 La **Tanzanie** a mis au point un système innovant de collecte de données de secours utilisant les appareils Android personnels des agents recenseurs. Un conteneur Android personnalisé a été élaboré afin de verrouiller temporairement les appareils personnels à des fins de recensement, garantissant la sécurité de la collecte des données et leur synchronisation avec les serveurs du recensement. Bien que cette solution n'ait pas été déployée lors du recensement proprement dit, les essais pilotes ont montré qu'il s'agissait d'une option de secours viable. Des tests supplémentaires sont recommandés afin d'affiner l'outil en vue d'une utilisation plus large, en particulier dans des situations d'urgence ou de ressources limitées.
 
-[Lien vers la section des études de cas](/docs/case-studies/7.%20Deployment%20and%20Supervision%20of%20Field%20Personnel)
+[Lien vers la section des études de cas](/docs/case-studies/Deployment%20and%20Supervision%20of%20Field%20Personnel)
+
 
 
