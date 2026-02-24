@@ -14,5 +14,6 @@ L'**Éthiopie** a mené trois essais pilotes entre 2016 et 2018, mais le recense
 
 En **Namibie**, l'essai pilote a été mené de septembre à octobre 2021 et a fourni des enseignements précieux sur l'organisation de terrain, les structures de supervision, les programmes de formation et les plans de traitement des données. Des prétests ont permis d'affiner le programme d'édition par lots et le tableau de bord de suivi. Le plan d'échantillonnage était ciblé et visait divers groupes de population et environnements de vie, notamment les communautés nomades de Kunene et Tsumkwe, les résidences secondaires le long de la côte, les exploitations agricoles commerciales et de réinstallation, les résidences sécurisées et divers environnements urbains. Ces efforts visaient à garantir que le recensement serait mené de manière éclairée et efficace.
 
-[Lien vers la section des études de cas](/docs/case-studies/5.%20Census%20Testing%20and%20Pilots)
+[Lien vers la section des études de cas](/docs/case-studies/Census%20Testing%20and%20Pilots)
+
 
