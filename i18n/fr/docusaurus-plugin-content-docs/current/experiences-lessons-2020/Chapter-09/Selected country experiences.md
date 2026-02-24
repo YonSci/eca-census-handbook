@@ -28,6 +28,7 @@ Le **Ghana**, lors de son recensement numérique de 2021, a dû, comme plusieurs
 
 L'**Afrique du Sud** a connu un sous-dénombrement lors du recensement, malgré l'utilisation de systèmes numériques. Cela montre que la technologie seule ne peut pas résoudre les problèmes sous-jacents tels que la lassitude des répondants et l'accès aux populations difficiles à recenser, ce qui indique que l'atténuation des risques doit également se concentrer sur ces problèmes sociaux persistants.
 
-[Lien vers la section des études de cas](/docs/case-studies/9.%20Quality%20Assurance,%20Monitoring,%20Evaluation,%20and%20Risk%20Management)
+[Lien vers la section des études de cas](/docs/case-studies/Quality%20Assurance,%20Monitoring,%20Evaluation,%20and%20Risk%20Management)
+
 
 
