@@ -21,5 +21,6 @@ La **Namibie** a apporté des informations précieuses lors d'une réunion centr
 
 La **Tanzanie** a mené le recensement de la population et des logements de 2022 en mettant fortement l'accent sur la publicité et la sensibilisation à l'échelle nationale. La campagne, dont le slogan était « SENSA KWA MAENDELEO : JIANDAE KUHESABIWA » (« Recensement pour le développement : Préparez-vous à être recensé »), a été soutenue par deux commissaires au recensement et guidée par des directives publicitaires standardisées. Un mois avant le recensement, la campagne « SENSABIKA » a été lancée, touchant des millions de personnes par SMS et sur les réseaux sociaux. L'implication présidentielle a été déterminante : la présidente Samia Suluhu Hassan a annoncé la date du recensement, dévoilé le logo et s'est adressée à la nation le soir du recensement. Des feux d'artifice et le recensement anticipé des dirigeants nationaux ont contribué à renforcer l'engagement du public. Le gouvernement a financé 97 % du recensement, le reste étant pris en charge par des partenaires de développement.
 
-[Lien vers la section des études de cas](/docs/case-studies/12.%20Advocacy,%20Publicity%20and%20Resource%20Mobilization)
+[Lien vers la section des études de cas](/docs/case-studies/Advocacy,%20Publicity%20and%20Resource%20Mobilization)
+
 
