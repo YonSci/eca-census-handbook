@@ -17,6 +17,7 @@ En **Sierra Leone**, le recours aux outils des systèmes d'information géograph
 
 Le **Botswana** a été confronté à des difficultés liées à l'acquisition des appareils et à la couverture réseau. L'utilisation de plusieurs modèles de tablettes a entraîné des incohérences de performance, en particulier concernant la fonctionnalité GPS et l'autonomie de la batterie. Ces problèmes ont nui à la qualité des données et ont souligné l'importance de respecter les spécifications testées lors de l'acquisition.
 
-[Lien vers la section des études de cas](/docs/case-studies/4.%20Data%20Capture,%20Transmission%20and%20Management)
+[Lien vers la section des études de cas](/docs/case-studies/Data%20Capture,%20Transmission%20and%20Management)
+
 
 
