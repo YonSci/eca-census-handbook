@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 1
 hide_title: true
+title: Contexte
 ---
 
 ## Contexte
@@ -18,3 +19,4 @@ Au cours de la mise en œuvre du cycle 2020 des recensements numériques, divers
 Lors de la 8e session de la Commission statistique pour l'Afrique, la Commission économique des Nations Unies pour l'Afrique (CEA) et ses partenaires ont été encouragés à poursuivre la coopération Sud-Sud et d'autres approches de partage d'expertise technique entre pays dans la mise en œuvre des recensements. Les États membres ont été invités à partager les expériences et les principaux enseignements tirés du cycle 2020 des recensements et à collaborer avec la CEA et d'autres partenaires afin de constituer une base de connaissances collective pour l'ensemble des pays africains, destinée à servir de ressource lors du cycle 2030. La Commission a également appelé la CEA, le Fonds des Nations Unies pour la population (FNUAP) et d'autres partenaires au développement à poursuivre l'appui aux pays dans la mise en œuvre du cycle 2020 des recensements et dans la préparation du cycle 2030, ainsi qu'à coordonner l'assistance technique aux pays en vue d'une mise en œuvre efficace.
 
 C'est dans ce contexte qu'un manuel du e-recensement a été élaboré afin de servir de document de référence aux pays africains qui entreprennent des recensements numériques. Ce manuel du e-recensement complète la série de documents d'orientation des Nations Unies relatifs aux recensements, principalement les [Principes et recommandations des Nations Unies concernant les recensements de la population et des logements (révision 4)](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf) (P&R des ONU, rév. 4), les [lignes directrices de la Division de statistique des Nations Unies (UNSD) sur l'utilisation des technologies de collecte électronique de données dans les recensements de la population et des logements](https://unstats.un.org/unsd/demographic/standmeth/handbooks/guideline-edct-census-v1.pdf), le [manuel de l'UNSD relatif aux systèmes d'information géographique et à la cartographie numérique](https://unstats.un.org/unsd/publication/seriesf/seriesf_79e.pdf), ainsi que le manuel de l'[UNSD sur la gestion des recensements de la population et des logements](https://unstats.un.org/unsd/publication/seriesf/series_f83rev2en.pdf), entre autres.
+
