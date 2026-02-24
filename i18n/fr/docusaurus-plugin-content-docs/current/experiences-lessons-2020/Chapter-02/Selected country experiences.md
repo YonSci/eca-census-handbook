@@ -22,5 +22,6 @@ La **Zambie** s'est associée à GRID3 pour produire des estimations démographi
 
 L'**Afrique du Sud** a réalisé son premier recensement entièrement numérique en 2022, en recourant à trois modes de collecte de données : en présentiel (CAPI), par téléphone (CATI) et en ligne (CAWI). À cette fin, Statistics South Africa (Stats SA) a mis à jour son Geo-Frame dans tous les établissements, en collectant des données relatives aux unités d'habitation, aux adresses et aux informations concernant les gardiens. Cette mise à jour a aidé les travailleurs sur le terrain à s'orienter dans les zones d'habitation et à garantir la précision de la collecte des données. L'infrastructure du recensement numérique comprenait des outils tels que l'Atlas numérique du recensement et des produits cartographiques interactifs, permettant aux utilisateurs d'explorer les données démographiques à différents niveaux administratifs. Ces innovations ont marqué une évolution significative vers des systèmes géospatiaux et statistiques intégrés dans les opérations de recensement en Afrique du Sud.
 
-[Lien vers la section des études de cas](/docs/case-studies/2.%20Geospatial%20Mapping%20and%20EA%20Database%20Management)
+[Lien vers la section des études de cas](/docs/case-studies/Geospatial%20Mapping%20and%20EA%20Database%20Management)
+
 
