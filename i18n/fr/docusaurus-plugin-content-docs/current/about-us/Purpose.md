@@ -1,7 +1,7 @@
 ﻿---
 sidebar_position: 2
 hide_title: true
-
+title: Objectif
 ---
 
 ## Objectif
@@ -16,4 +16,5 @@ Plus précisément, le manuel du e-recensement :
         3. expose les principaux enseignements, les enjeux et l'incidence de l'utilisation d'appareils électroniques et d'autres technologies (par exemple, le recrutement en ligne) sur le modèle de processus métier du recensement ;
         4. met en évidence les domaines d'expertise des pays susceptibles d'être sollicités à l'avenir afin de fournir une assistance technique aux pays africains dans le cadre de l'élaboration de leur recensement ;
         5. éclaire la planification du cycle africain 2030 des recensements de la population et des logements en identifiant les domaines clés dans lesquels un travail au niveau régional s'avère nécessaire pour soutenir la planification et la mise en œuvre des recensements.  
+
 
