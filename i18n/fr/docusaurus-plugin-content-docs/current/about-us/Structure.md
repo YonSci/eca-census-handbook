@@ -1,7 +1,7 @@
 ﻿---
 sidebar_position: 5
 hide_title: true
-
+title: Structure
 ---
 
 ## Structure
@@ -35,6 +35,7 @@ La barre située en haut de la page comporte également une barre de recherche :
 En cliquant sur l'icône de discussion <img src="/img/chat-bot.png" alt="chat bot icon" width="30" height="30"/>  dans le coin inférieur droit de la page, vous ouvrirez un robot conversationnel auquel vous pourrez poser des questions relatives au manuel du recensement électronique.
 
 <img src="/img/chatbot-full.png" alt="chatbot interface" width="400"/> 
+
 
 
 
