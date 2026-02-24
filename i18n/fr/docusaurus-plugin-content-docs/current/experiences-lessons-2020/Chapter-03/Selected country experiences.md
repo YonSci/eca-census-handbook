@@ -20,7 +20,8 @@ Pour le recensement, la Namibie a élaboré trois outils principaux : le questio
 
 L'élaboration de l'outil de recensement du **Botswana** a été conduite en interne par l'Office national de la statistique (ONS), avec l'appui du Bureau du recensement des États-Unis. Les statisticiens ont élaboré le questionnaire papier et les spécifications d'édition, lesquels ont orienté la mise au point de l'application de collecte électronique des données. Une équipe pluridisciplinaire, composée de statisticiens, de cartographes, de développeurs et de superviseurs de la saisie des données, a été chargée de tester l'application et de documenter les résultats à l'issue des tests du système.
 
-[Lien vers la section des études de cas](/docs/case-studies/3.%20Enumeration%20Instruments,%20Applications%20and%20Tools)
+[Lien vers la section des études de cas](/docs/case-studies/Enumeration%20Instruments,%20Applications%20and%20Tools)
+
 
 
 
