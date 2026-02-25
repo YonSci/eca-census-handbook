@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 5
 hide_title: true 
+title: Recommandations
 ---
 
 
@@ -20,5 +21,6 @@ Sur la base de l'expérience des pays concernés et des enseignements tirés de 
 - Il est important de s'assurer que tous les aspects du RGPH numérique sont testés avant le recensement proprement dit. Après chaque modification, un test doit être effectué afin de s'assurer que le système de saisie et de suivi des données mis à jour fonctionne correctement.
 
 - Les procédures de recrutement et de formation du personnel doivent être préparées à l'avance et faire partie des tests de l'essai pilote. Elles doivent également prendre en compte les questions linguistiques et la rémunération. L'idéal est de recruter les agents recenseurs au sein ou à proximité des zones de dénombrement afin d'éviter les difficultés rencontrées en Éthiopie. Toutefois, l'expérience de l'essai pilote a permis de respecter strictement les directives de recrutement pour le RGPH principal afin de garantir le recrutement d'un personnel approprié. Il est important de publier les offres d'emploi pour le personnel de terrain dans les médias au moins deux à trois mois avant la période de recrutement, afin de laisser suffisamment de temps pour le processus de vérification, à savoir vérifier si le personnel de terrain répond aux exigences requises pour le recrutement (Namibie). Les pays ont également recommandé l'utilisation d'un système de recrutement électronique autonome, adapté aux besoins de l'organisme en matière de recrutement. Pour en savoir plus sur le [recrutement](/docs/experiences-lessons-2020/Chapter-06/Introduction).
+
 
 
