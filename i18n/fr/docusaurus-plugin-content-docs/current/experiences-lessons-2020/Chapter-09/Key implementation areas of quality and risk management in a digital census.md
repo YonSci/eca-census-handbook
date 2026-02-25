@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 2
 hide_title: true 
+title: Principaux domaines de mise en œuvre de la gestion de la qualité et des risques dans un recensement numérique
 ---
 
 
@@ -172,5 +173,6 @@ La gestion de la qualité s'étend à la manière dont les données sont présen
 La gestion des risques liés à la diffusion des données numériques est essentielle afin de garantir l'intégrité, la sécurité et l'accessibilité des données. Les risques potentiels comprennent l'accès non autorisé et les violations de données, les informations erronées et la mauvaise interprétation des résultats, les pannes du système ou la perte de données, et le non-respect des lois relatives à la protection des données. Outre les aspects liés à la gestion de la qualité, il convient de valider l'exactitude des données avant leur diffusion, de les protéger contre les cybermenaces grâce à des contrôles d'accès et de garantir que les utilisateurs les comprennent correctement grâce à des protocoles de communication clairs.
 
 Voir également la section « [Analyse du recensement, Produits, Diffusion et Archivage](/docs/experiences-lessons-2020/Chapter-10/Introduction)».
+
 
 
