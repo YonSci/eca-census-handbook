@@ -18,5 +18,6 @@ La **Zambie** a reporté son recensement de 2020 à 2022 en raison de la pandém
 L'**Éthiopie** n'a pas réalisé de recensement officiel depuis 1974, ce qui a entraîné d'importantes lacunes dans les données. En 2023, le Service statistique éthiopien (ESS) et le FNUAP se sont associés à WorldPop afin de modéliser les estimations démographiques nationales. Compte tenu de la disponibilité de données cartographiques complètes relatives à la période 2015-2017, une approche de modélisation descendante a été retenue. Le nombre de ménages a été combiné avec des covariables géospatiales telles que la couverture terrestre, le climat, les infrastructures et l'éclairage nocturne. Les caractéristiques résidentielles ont été dérivées des données mondiales relatives aux établissements humains afin d'exclure les structures non résidentielles. Les estimations démographiques nationales qui en résultent sont actuellement en cours de validation et d'affinement avant d'être publiées par l'ESS.
 
 
-[Lien vers la section des études de cas](docs/experiences-lessons-2020/case-studies/Alternative%20Approaches)
+[Lien vers la section des études de cas](/docs/case-studies/Alternative%20Approaches)
+
 
