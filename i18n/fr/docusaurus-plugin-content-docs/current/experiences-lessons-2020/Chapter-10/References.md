@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 5
 hide_title: true 
+title: Références
 ---
 
 
@@ -14,6 +15,7 @@ hide_title: true
 - Fonds des Nations Unies pour la population. (2019). Archivage et conservation des données du recensement. Accessible à l'adresse : https://www.unfpa.org/sites/default/files/resource-pdf/Archiving-Brief.pdf
 
 - Devinfo. (2025). Censusinfo. Accessible à l'adresse : [https://www.devinfo.info/censusinfo/faqs.html#1](https://www.devinfo.info/censusinfo/faqs.html#1.)
+
 
 
 
