@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 6
 hide_title: true
+title: Références
 ---
 
 ## Références
@@ -13,3 +14,4 @@ hide_title: true
 6.  Fonds des Nations Unies pour la population. (2020) Note technique concernant les implications de la COVID-19 sur le recensement. Accessible à l'adresse : https://www.unfpa.org/resources/technical-brief-implications-covid-19-census
 7.  Fonds des Nations Unies pour la population. (2025) Fonds thématique « Demographic Futures ». Accessible à l'adresse : https://www.unfpa.org/unfpa-population-data-thematic-fund
 8.  Chinganya, Oliver. (2019) 2020 Round of Census in Africa: Progress and Challenges. Accessible à l'adresse :
+
