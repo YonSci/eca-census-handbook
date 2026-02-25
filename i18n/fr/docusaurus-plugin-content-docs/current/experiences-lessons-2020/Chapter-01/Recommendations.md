@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 5
 hide_title: true
+title: Recommandations
 ---
 
 ## Recommandations
@@ -26,6 +27,7 @@ hide_title: true
 * Les pays devraient annoncer officiellement la composition des membres du comité en temps utile, afin de garantir l'efficacité et la redevabilité. Cela confère une légitimité à la composition et garantit la pleine représentation des services nécessaires.
 * En outre, les pays devraient veiller à ce que les comités disposent de l'éventail de compétences et d'expérience approprié afin de soutenir la réalisation d'un recensement numérique, par exemple une expérience dans la fourniture de services numériques.
 * Les pays devraient veiller à ce que des experts en technologies de l'information fassent partie des comités de planification, notamment afin de traiter les questions relatives à l'intégration de la législation sur la protection des données, à la sécurité des données et aux risques technologiques, entre autres.
+
 
 
 
