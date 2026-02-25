@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 3
 hide_title: true 
+title: Problèmes rencontrés et leçons tirées
 ---
 
 
@@ -45,4 +46,5 @@ Parmi les obstacles à l'archivage correct des documents et produits du recensem
 - Les ressources financières sont insuffisantes afin de soutenir le processus de documentation des fichiers de microdonnées, de couvrir les coûts liés à la création d'outils d'accès et de mesures de protection, et de répondre aux demandes d'autorisation formulées par la communauté des chercheurs, afin d'aider les utilisateurs de fichiers de microdonnées à naviguer dans des structures de fichiers complexes et des définitions variables.
 
 - Allocation budgétaire limitée à l'archivage : les dépenses du gouvernement et des bailleurs de fonds sont principalement consacrées à la collecte de données, et très peu de fonds sont alloués à la conservation à long terme, à l'archivage des registres de recensement et au partage des microdonnées.
+
 
