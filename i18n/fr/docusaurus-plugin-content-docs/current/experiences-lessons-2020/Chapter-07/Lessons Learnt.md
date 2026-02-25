@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 4
 hide_title: true 
+title: Enseignements tirés 
 ---
 
 
@@ -16,4 +17,5 @@ Le Botswana ne disposait pas d'un cycle de travail clair décrivant, de manière
 Les personnes devant avoir accès aux informations du tableau de bord doivent être identifiées et les capacités techniques doivent être renforcées afin d'éviter toute interprétation erronée des informations.
 
 De nombreux pays ne disposaient que d'une petite équipe de programmeurs, d'administrateurs système et d'équipes d'assistance technique, rapidement débordée pendant l'opération de recensement. Cette contrainte peut conduire à des compromis sur certaines étapes de l'assurance qualité.
+
 
