@@ -17,4 +17,4 @@ title: Selected Country Experiences
 **Ethiopia** has not conducted an official census since 1974, resulting in major data gaps. In 2023, the Ethiopian Statistical Service (ESS) and UNFPA partnered with WorldPop to model national population estimates. Given the availability of comprehensive 2015–2017 cartographic data, a top-down modelling approach was chosen. Household counts were combined with geospatial covariates like land cover, climate, infrastructure, and night-time lights. Residential characteristics were derived from global settlement data to exclude non-residential structures. The resulting national population estimates are currently undergoing validation and refinement before publication by ESS.
 
 
-[Visit the case studies section](docs/experiences-lessons-2020/case-studies/Alternative%20Approaches)
+[Visit the case studies section](/docs/case-studies/Alternative%20Approaches)
