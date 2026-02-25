@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 4
 hide_title: true 
+title: Problèmes rencontrés et leçons tirées
 ---
 
 
@@ -42,4 +43,5 @@ Voici quelques-uns des défis rencontrés au Kenya et dans certains autres pays 
 - Une partie du matériel, notamment les manuels des agents recenseurs, n'a pas été imprimée en quantité suffisante, ce qui a entraîné des retards d'expédition.
 
 - Dans certaines régions, les fournitures n'ont pas été acquises en temps voulu, ce qui a conduit les comités régionaux de recensement à solliciter le CCR afin qu'il procède à l'acquisition du matériel et évite tout retard.
+
 
