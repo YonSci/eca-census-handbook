@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 2
 hide_title: true 
+title: Domaines clés à tester dans le cadre du recensement numérique
 ---
 
 
@@ -38,5 +39,6 @@ Cette évaluation porte sur les différentes structures administratives telles q
 ### Test du plan de suivi et d'évaluation du recensement
 
 Les tableaux de bord fournissent-ils au siège du recensement les informations nécessaires pour tenir les parties prenantes informées et traiter les problèmes, par exemple lorsqu'une réaffectation des charges de travail s'impose ? Les contrôles de vérification et le routage des erreurs intégrés aux appareils CAPI fonctionnent-ils comme prévu ? Si une [enquête post-dénombrement pilote](docs/experiences-lessons-2020/Chapter-13/Introduction) est menée, la mise en correspondance des données de l'essai pilote et de celles de l'enquête post-dénombrement pilote constitue un excellent moyen de détecter les erreurs systématiques dans les données susceptibles d'avoir été causées par des problèmes liés au questionnaire, à la formation des agents recenseurs ou à la transmission des données.
+
 
 
