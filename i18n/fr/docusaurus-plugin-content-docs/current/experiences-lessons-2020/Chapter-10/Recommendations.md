@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 4
 hide_title: true 
+title: Recommandations
 ---
 
 
@@ -35,4 +36,5 @@ Sur la base des défis et des enseignements documentés, les recommandations sui
 - Une décentralisation accrue de la diffusion des résultats du recensement, du niveau régional au niveau des circonscriptions, est nécessaire.
 
 - En Eswatini, une consultation nationale des utilisateurs et des enquêtes téléphoniques ont été programmées. Les participants ont conclu que la participation des utilisateurs constitue un élément important et productif à toutes les étapes du recensement et qu'il est préférable, concernant l'élaboration d'études thématiques, de donner la priorité à la participation du personnel technique des ONS, des universités et des ministères concernés.
+
 
