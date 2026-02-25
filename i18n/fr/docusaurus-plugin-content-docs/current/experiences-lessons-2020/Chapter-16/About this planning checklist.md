@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 2
 hide_title: true
+title: À propos de la présente liste de contrôle relative à la planification
 ---
 
 
@@ -18,4 +19,5 @@ Malgré l'existence de documents d'orientation, la planification des activités 
 - **Liste exhaustive des activités et des tâches :** l'absence d'un plan intégré approprié relatif à chaque phase, et aux activités qui y sont prévues, a entraîné un manque de coordination entre les responsables de la mise en œuvre des tâches ; il en a résulté la non-couverture de certains éléments transversaux du recensement, tels que l'absence de publicité pendant la cartographie et la phase pilote, etc., dans certains pays.
 
 - **Étapes importantes et résultats :** Manque de clarté quant aux résultats spécifiques attendus de chaque activité au sein d'une phase du recensement, à la manière dont ils s'articulent avec la phase suivante, et au moment où ils doivent être disponibles en vue de cette dernière.
+
 
