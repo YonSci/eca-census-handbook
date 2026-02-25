@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 6
 hide_title: true
+title: Références et ressources
 ---
 
 
@@ -26,5 +27,6 @@ hide_title: true
 6.  Peter Benton. (2010). Trout, Catfish and Roach, guide du débutant relatif aux estimations démographiques issues du recensement. Accessible à l'adresse : https://docslib.org/doc/2577669/trout-catfish-and-roach-the-beginner-s-guide-to-census-population-estimates
 
 7.  Institut national de la statistique du Rwanda. Rapport thématique RPHC5 : Enquête post-recensement. Accessible à l'adresse : https://www.statistics.gov.rw/data-sources/censuses/Population-and-Housing-Census/fifth-population-and-housing-census-2022/rphc5-thematic-reports/rphc5-thematic-report-post-enumeration-survey
+
 
 
