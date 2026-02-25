@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 4
 hide_title: true 
+title: Problèmes rencontrés et leçons tirées
 ---
 
 
@@ -46,4 +47,5 @@ Sur le plan logistique, les constats suivants ont été formulés :
   - ● La nécessité d'affecter plusieurs recenseurs à une zone d'enquête comptant plus de 150 ménages, ce qui, si ce point n'est pas correctement encadré, peut générer des difficultés majeures tant pour les recenseurs que pour les superviseurs.
 
 - Des refus de répondre peuvent survenir pendant le recensement. Par exemple, au Kenya, les membres de la secte « Kavonokia », dans les comtés de Kitui et de Tharaka Nithi, ont refusé d'être recensés. Parallèlement, certains répondants peuvent déclarer ne pas avoir été recensés pendant et après la période de recensement.
+
 
