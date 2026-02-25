@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 6
 hide_title: true 
+title: Références
 ---
 
 
@@ -24,5 +25,6 @@ hide_title: true
 La CEA automatise la présente liste de contrôle afin de mettre en évidence, de manière claire, les liens entre les phases et les activités.
 
 **Note :** La liste de contrôle est indicative et n'est en aucun cas exhaustive. Elle vise à illustrer la manière dont les détails des activités liées au recensement pourraient être organisés et documentés en vue de leur mise en œuvre. Les États membres peuvent l'adapter à leur situation nationale, mais doivent veiller à ce que le plan couvre l'ensemble du processus de recensement, du début à la fin. Les États membres doivent utiliser les informations contenues dans la présente boîte à outils qui sont pertinentes concernant la situation de leur pays. La planification du recensement doit être dynamique et flexible ; l'organisme chargé de la mise en œuvre devra réagir aux changements de contexte à mesure qu'ils se produisent et adapter la liste de contrôle en conséquence.
+
 
 
