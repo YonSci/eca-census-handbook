@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 5
 hide_title: true 
+title: Recommandations
 ---
 
 
@@ -58,4 +59,5 @@ Les organismes chargés de la mise en œuvre du recensement doivent :
 - Les ONS doivent revenir vers les personnes qu'ils ont contactées auparavant et découvrir ce qu'elles pensent des dernières publications, quelles questions elles se posent désormais, consigner ces informations et observer leur évolution au fil du temps.
 
 - Les ONS devraient mener une enquête de satisfaction auprès des parties prenantes-utilisateurs. Ces mesures permettent de vérifier si vous avez produit le bon produit, si vous avez atteint toutes les personnes que vous pensiez atteindre, de justifier la poursuite de l'élaboration de nouveaux produits et de définir les prochaines étapes.
+
 
