@@ -1,16 +1,8 @@
 ﻿---
 sidebar_position: 4
 hide_title: true 
+title: Problèmes rencontrés et leçons tirées
 ---
-
-
-
-
-
-
-
-
-
 
 ## Problèmes rencontrés et leçons tirées
 
@@ -27,4 +19,5 @@ Bien qu'essentiels, ces partenariats comportent leurs propres risques et nécess
 - Différents partenaires peuvent avoir des priorités contradictoires ou des calendriers qui ne correspondent pas aux objectifs du recensement.
 
 - Un manque de transfert de connaissances peut rendre l'ONS dépendant d'un soutien externe concernant ses projets futurs, ce qui nuit à la durabilité.
+
 
