@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 5
 hide_title: true
+title: Problèmes rencontrés et leçons tirées
 ---
 
 
@@ -40,4 +41,5 @@ hide_title: true
 - Les enjeux politiques et l'insécurité peuvent compromettre la vérification des cartes : les intérêts politiques et partisans sur le terrain ont eu tendance à perturber le déroulement des opérations. L'insécurité dans certaines régions a contraint l'équipe à prendre des mesures de sécurité spéciales, ce qui a nécessité une reprogrammation des activités.
 
 - Dans certaines régions, l'analphabétisme des administrateurs a compliqué l'interprétation des cartes et des fichiers géographiques.
+
 
