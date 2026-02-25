@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 5
 hide_title: true
+title: Approche de compilation
 ---
 
 
@@ -16,4 +17,5 @@ La liste de contrôle repose sur les valeurs du [P&R des Nations Unies, rév. 4]
 L'approche utilisée afin d'organiser les activités et les tâches est alignée sur le modèle générique de processus métier statistique (GSBPM) et sur une approche par projet relative à chaque phase. Elle présente donc chaque phase (étape critique), avec ses activités et tâches clés correspondantes, du début à la fin et dans l'ordre chronologique de réalisation des étapes importantes du recensement (voir tableau en annexe). La figure 2 présente les étapes critiques du recensement, telles que décrites dans le guide de référence étape par étape du FNUAP (diagramme de Gantt), et leur alignement sur le GSBPM et les trois phases du recensement.
 
 ![Relationship between census phases, the GSBPM and critical census steps](/img/Figure2.png)
+
 
