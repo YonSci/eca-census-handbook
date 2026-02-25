@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 6
 hide_title: true 
+title: Références
 ---
 
 
@@ -23,5 +24,6 @@ hide_title: true
 7.  Statistique Canada. Guide de gestion des risques dans le contexte du recensement (2022). Accessible à l'adresse : https://repositorio.cepal.org/server/api/core/bitstreams/e201a4ca-5654-4db0-9c73-fa959b8bb87a/content
 
 8.  Lignes directrices relatives au suivi indépendant des recensements en Afrique Série de recensements de la population et des logements 2030
+
 
 
