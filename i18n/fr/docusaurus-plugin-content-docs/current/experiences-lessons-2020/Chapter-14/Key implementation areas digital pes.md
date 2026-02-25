@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 2
 hide_title: true
+title: Principaux domaines de mise en œuvre dans une EPR numérique
 ---
 
 
@@ -82,5 +83,6 @@ Identifiez les principales parties prenantes qui utiliseront les données du rec
 ### Diffusion
 
 Une description de la méthodologie de l'EPR et des résultats de l'analyse de l'EPR doit être publiée afin que les utilisateurs des données du recensement comprennent les limites des résultats du recensement et puissent s'adapter en conséquence. Voir, par exemple, le rapport thématique rédigé par l'Institut national de la statistique du Rwanda : [<u>Rapport thématique :Enquête post-recensement</u>](https://www.statistics.gov.rw/data-sources/censuses/Population-and-Housing-Census/fifth-population-and-housing-census-2022/rphc5-thematic-reports/rphc5-thematic-report-post-enumeration-survey).
+
 
 
