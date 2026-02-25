@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 2
 hide_title: true 
+title: Domaines clés de mise en œuvre pour le recrutement et la formation dans le cadre d'un recensement numérique
 ---
 
 
@@ -35,5 +36,6 @@ hide_title: true
 ### Mise en œuvre du programme de formation
 
 > La formation au recensement se déroule généralement de manière descendante, en commençant par les formateurs principaux, qui sont pour la plupart des spécialistes thématiques, puis les formateurs, les superviseurs et enfin les agents recenseurs. Afin d'assurer la cohérence de la formation sur l'ensemble du territoire national, le matériel de formation doit être élaboré de manière centralisée et testé auprès d'utilisateurs non experts. Pendant la formation, il est recommandé que les formateurs se réunissent en fin de journée pour examiner les progrès réalisés et traiter les questions en suspens afin d'améliorer la qualité de la formation. Des centres de formation gérés par des administrateurs peuvent être mis en place dans différentes régions du pays afin de faciliter la formation en présentiel.
+
 
 
