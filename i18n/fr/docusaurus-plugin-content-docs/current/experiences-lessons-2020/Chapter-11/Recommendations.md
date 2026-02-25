@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 5
 hide_title: true 
+title: Recommandations
 ---
 
 
@@ -33,4 +34,5 @@ Les recommandations suivantes sont fondées sur les expériences des pays :
   - La Banque mondiale et la Banque africaine de développement constituent des sources importantes de financement par le biais de prêts et de subventions, associant souvent le soutien au recensement à des objectifs de développement national plus larges.
 
   - Donateurs bilatéraux : Les agences de développement de pays tels que le Royaume-Uni, les États-Unis (USAID) et la Suède (Sida) fournissent un soutien financier et technique.
+
 
