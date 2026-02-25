@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 2
 hide_title: true
+title: Considérations relatives à la cartographie numérique
 ---
 
 
@@ -26,5 +27,6 @@ La transition vers une cartographie entièrement numérique en vue du recensemen
 Au cours du cycle 2020 du recensement de la population et des logements, la plupart des pays africains ont adopté la cartographie numérique. Certains pays ont procédé à une cartographie purement numérique en utilisant des appareils mobiles et des produits de télédétection, tandis que d'autres ont adopté une cartographie numérique hybride.
 
 Ce chapitre présente une sélection d'expériences nationales, les enseignements tirés ainsi que des recommandations sur les mesures à prendre lors de la cartographie numérique. Les domaines abordés comprennent l'élaboration de la proposition, le pilotage, la publicité et le plaidoyer, la collecte de données, la production et la vérification des cartes, ainsi que les questions relatives au personnel chargé de la cartographie.
+
 
 
