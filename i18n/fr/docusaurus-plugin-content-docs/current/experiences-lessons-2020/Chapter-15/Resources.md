@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 6
 hide_title: true
+title: Références
 ---
 
 
@@ -22,5 +23,6 @@ hide_title: true
 4.  Ortis Yankey et al. (2024). Désagrégation des données du recensement en vue de la cartographie démographique à l'aide d'un modèle bayésien d'arbre de régression additive. Accessible à l'adresse : https://www.sciencedirect.com/science/article/pii/S0143622824002212
 
 5.  Fonds des Nations Unies pour la population. (2020). La valeur des estimations démographiques modélisées en vue de la planification et de la préparation du recensement. Accessible à l'adresse : https://www.unfpa.org/sites/default/files/resource-pdf/V2_Technical-Guidance-Note_Value_of_Modeled_Pop_Estimates_in_Census.pdf
+
 
 
