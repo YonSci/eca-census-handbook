@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 4
 hide_title: true
+title: Problèmes rencontrés et leçons tirées
 ---
 
 
@@ -24,4 +25,5 @@ hide_title: true
 - Les limites géospatiales (administratives ou de recensement) doivent être maintenues sans erreurs topologiques (telles que des fragments), afin de faciliter la modélisation. Le processus attribue des points (ménages, bâtiments, adresses, etc.) à des zones géographiques ; toute erreur topologique entraînera l'attribution de points à une zone erronée, ou à aucune zone.
 
 - La modélisation de grands ensembles de données géospatiales et statistiques nécessite une capacité de traitement importante ; il convient donc de prendre en considération l'environnement de traitement avant toute activité de modélisation. Des recommandations concernant les spécifications matérielles sont incluses dans la section « Recommandations » du présent chapitre.
+
 
