@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 5
 hide_title: true 
+title: Recommandations
 ---
 
 
@@ -35,4 +36,5 @@ Sur la base de l'expérience des pays africains, le présent manuel recommande, 
 - L'acquisition des fournitures destinées aux agents recenseurs devrait être effectuée au niveau régional afin d'éliminer les inconvénients liés aux retards.
 
 - En cas de retard dans l'approvisionnement, tous les niveaux de formation devraient tirer parti de l'utilisation de questionnaires et de manuels sous forme électronique reposant sur des applications de formation afin d'éviter les inconvénients liés à l'impression.
+
 
