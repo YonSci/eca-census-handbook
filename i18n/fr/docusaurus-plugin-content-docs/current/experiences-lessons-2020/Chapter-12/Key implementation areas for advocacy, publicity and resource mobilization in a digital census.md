@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 2
 hide_title: true 
+title: Principaux domaines de mise en œuvre concernant la sensibilisation, la publicité et la mobilisation des ressources dans le cadre d'un recensement numérique
 ---
 
 
@@ -24,4 +25,5 @@ Les questions stratégiques suivantes doivent être abordées lors de la mise en
 - Intégrer la formation des médias de masse au travail global de relations publiques et de sensibilisation lié au recensement, car ils peuvent transmettre le message à un large public. Inclure les écoles, tant les élèves que les enseignants, ainsi que les géographes.
 
 - Les cours ou supports proposés afin d'améliorer la promotion et la formation à l'utilisation des données statistiques doivent être pleinement intégrés dans le programme global de sensibilisation ou de formation au recensement.
+
 
