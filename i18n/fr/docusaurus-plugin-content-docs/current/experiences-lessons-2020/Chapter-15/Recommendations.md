@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 5
 hide_title: true
+title: Recommandations
 ---
 
 
@@ -18,4 +19,5 @@ hide_title: true
 - Les logiciels recommandés en vue de la modélisation démographique sont R et QGIS. D'autres logiciels, tels que Python ou ArcGIS, peuvent être utilisés dans le processus et un appui peut être offert aux utilisateurs de ces progiciels, mais la plupart des conseils s'articulent autour de R concernant le traitement statistique et de QGIS en tant que solution libre de système d'information géographique (SIG).
 
 - Afin de modéliser spatialement les estimations démographiques, une solide connaissance des SIG est recommandée. Les modélisateurs doivent maîtriser les techniques SIG clés.
+
 
