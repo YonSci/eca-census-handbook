@@ -1,15 +1,8 @@
 ﻿---
 sidebar_position: 2
 hide_title: true 
+title: Domaines clés de mise en œuvre concernant les partenariats et la collaboration dans le cadre d'un recensement numérique
 ---
-
-
-
-
-
-
-
-
 
 ##  Domaines clés de mise en œuvre concernant les partenariats et la collaboration dans le cadre d'un recensement numérique
 
@@ -24,4 +17,5 @@ Les partenariats constituent une réponse directe aux principaux défis liés à
 - L'acquisition et la distribution de centaines de milliers d'appareils, la garantie de la connectivité et la gestion du travail sur le terrain dans des zones vastes et parfois difficiles constituent une entreprise colossale. Les partenariats et la collaboration peuvent alléger les **complexités logistiques.**
 
 - Afin de surmonter le scepticisme du public à l'égard de la collecte de données, en particulier les données numériques, il faut des voix crédibles et un engagement communautaire que les ONS peuvent avoir du mal à obtenir par eux-mêmes. Les partenariats et la collaboration peuvent contribuer à renforcer la **confiance du public**.
+
 
