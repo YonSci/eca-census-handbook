@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 2
 hide_title: true
+title: Aspects clés de la planification et de la gestion du recensement
 ---
 
 ## Aspects clés de la planification et de la gestion du recensement
@@ -36,4 +37,5 @@ Concernant des lignes directrices détaillées relatives au budget du recensemen
 Parmi les bonnes pratiques identifiées dans certains pays d'Afrique concernant les comités de mise en œuvre du recensement figurent la nécessité de disposer d'un secrétariat du recensement doté d'un coordinateur national désigné ; les comités doivent être formés aux niveaux national et infranational, y compris un comité directeur et un comité technique (qui devrait comporter des sous-comités plus spécifiques). L'externalisation des services techniques doit faire partie intégrante des décisions prises au sein des comités de mise en œuvre et être intégrée au plan et au budget du recensement.
 
 Les responsables de l'organisation du recensement doivent être orientés dans la conduite de leurs activités respectives, conformément aux [P&R ONU, rév. 4, par.2.171 et 2.172](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=120).
+
 
