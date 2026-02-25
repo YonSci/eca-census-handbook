@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 4
 hide_title: true
+title: Problèmes rencontrés et leçons tirées
 ---
 
 ## Problèmes rencontrés et leçons tirées
@@ -24,4 +25,5 @@ Parmi les défis observés et les enseignements tirés lors de la mise en place 
 * Dans certains cas, les capacités et les effectifs de l'agence de mise en œuvre étaient insuffisants, ce qui a entraîné une création tardive des comités de recensement et, par conséquent, l'impossibilité d'assurer une représentation adéquate.
 * Certains comités infranationaux n'étaient pas représentés de manière uniforme, ce qui a affecté les modalités de mise en œuvre et désavantagé certaines unités administratives infranationales.
 * Les conflits d'intérêts entre les membres des comités, dus à la diversité de leurs intérêts personnels, en particulier au niveau infranational, ont eu un impact négatif sur les activités du recensement, telles que le recrutement et l'acquisition. Le Kenya a été confronté à cette situation au niveau infranational.
+
 
