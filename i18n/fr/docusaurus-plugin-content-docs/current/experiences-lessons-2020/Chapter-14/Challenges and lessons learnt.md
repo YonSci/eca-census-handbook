@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 4
 hide_title: true
+title: Problèmes rencontrés et leçons tirées
 ---
 
 
@@ -32,4 +33,5 @@ hide_title: true
 - Bien que le recensement et l'EPR doivent être indépendants, il importe que les équipes chargées du recensement et de l'EPR interagissent entre elles. L'équipe chargée du recensement doit comprendre l'objectif de l'EPR et la manière dont les données qu'elle collecte seront utilisées aux fins de l'appariement. Cette compréhension sera prise en compte dans la conception du questionnaire du recensement et de l'EPR, ainsi que dans la formation des agents recenseurs.
 
 - Des exemples existent où des problèmes de qualité ont été causés par le fait que de nombreux enquêteurs ont répondu « 99 » à une question parce qu'ils ne savaient pas comment y répondre. Ce problème pourrait être évité en améliorant la conception du questionnaire, et il devrait être détecté lors de l'analyse des données collectées pendant le recensement et/ou le projet pilote de l'EPR.
+
 
