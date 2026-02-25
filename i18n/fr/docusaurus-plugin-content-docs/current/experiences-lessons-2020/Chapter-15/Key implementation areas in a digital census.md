@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 2
 hide_title: true
+title: Principaux domaines de mise en œuvre d'un recensement numérique
 ---
 
 
@@ -24,4 +25,5 @@ hide_title: true
 ### Ventilation des estimations démographiques à des unités administratives inférieures
 
 > Lorsque les données numériques du recensement ne sont disponibles qu'au niveau d'unités administratives plus larges, des techniques de modélisation statistique géospatiale de la population, en particulier l'approche descendante, peuvent être utilisées afin de désagréger les estimations démographiques à des échelles spatiales plus détaillées. Dans ce cas, des techniques d'apprentissage automatique sont utilisées afin de fournir les pondérations de densité de population nécessaires à la désagrégation des données démographiques à des niveaux administratifs plus généraux, d'abord à une échelle de 100 m ou 1 km, avant de les agréger à l'échelle de la petite zone d'intérêt.
+
 
