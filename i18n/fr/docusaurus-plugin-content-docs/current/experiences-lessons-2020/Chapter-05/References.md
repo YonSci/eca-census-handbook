@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 6
 hide_title: true 
+title: Références
 ---
 
 
@@ -16,5 +17,6 @@ hide_title: true
 4.  Bureau du recensement des États-Unis (U.S. Census Bureau). (2024). Outil d'évaluation des recensements électroniques pilotes (TAPEC). Accessible à l'adresse : https://www.census.gov/data/software/tapec.html
 
 5.  Bureau du recensement des États-Unis (U.S. Census Bureau). (2021). Évaluation d'un recensement électronique pilote. Accessible à l'adresse : https://www.census.gov/programs-surveys/international-programs/events/training/select-topics-in-international-censuses/planning/evaluating-a-pilot-electronic-census.html
+
 
 
