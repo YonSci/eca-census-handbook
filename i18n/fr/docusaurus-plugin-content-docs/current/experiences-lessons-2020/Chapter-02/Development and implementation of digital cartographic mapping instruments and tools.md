@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 3
 hide_title: true
+title: Élaboration et mise en œuvre d'instruments et d'outils de cartographie numérique
 ---
 
 
@@ -65,5 +66,6 @@ La délimitation des zones de dénombrement doit tenir compte de la distance, du
 ### Vérification de la carte de zone de dénombrement
 
 La vérification de la carte de zone de dénombrement constitue le processus de vérification sur le terrain des limites des zones de dénombrement créées par l'administration locale avant que les cartes ne soient finalisées en vue du dénombrement du recensement. À la fin du processus de délimitation, il est nécessaire d'évaluer l'exactitude des cartes, l'exhaustivité de la cartographie, la taille des ménages ainsi que de vérifier les limites des zones de dénombrement. La vérification des cartes de zones de dénombrement vise par conséquent à réduire les erreurs de limites des zones de dénombrement avant que les cartes puissent être utilisées. Le processus de vérification offre la possibilité d'examiner, d'inspecter, de contrôler, d'auditer, d'établir et de documenter si les cartes de zones de dénombrement reflètent la situation réelle sur le terrain.
+
 
 
