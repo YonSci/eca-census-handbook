@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 7
 hide_title: true
+title: Références et ressources
 ---
 
 
@@ -32,6 +33,7 @@ https://unstats.un.org/unsd/publication/seriesf/seriesf_79e.pdf
 11. Statistics South Africa. Mise à jour du cadre géographique pour le recensement. Accessible à l'adresse : [https://www.statssa.gov.za/?page_id=11703](https://www.statssa.gov.za/?page_id=11703 -) -
 
 12. Statistics South Africa. Produits interactifs et électroniques. Accessible à l'adresse : https://www.statssa.gov.za/?page_id=3902
+
 
 
 
