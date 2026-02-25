@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 4
 hide_title: true 
+title: Problèmes rencontrés et leçons tirées
 ---
 
 
@@ -28,4 +29,5 @@ Atténuer les risques inhérents à un recensement numérique constitue une tâc
 - La perception du public et l'environnement politique peuvent créer des défis importants difficiles à atténuer. Dans de nombreuses régions, une méfiance profondément enracinée à l'égard de la collecte de données par les pouvoirs publics existe, souvent exacerbée lorsque de nouvelles technologies sont introduites.
 
 - **Les cadres juridiques nécessaires afin de soutenir et régir un recensement numérique sont souvent en retard par rapport à la technologie.** L'absence de lois complètes sur la protection des données et la confidentialité dans de nombreux pays crée un environnement risqué concernant le traitement des données sensibles issues du recensement.
+
 
