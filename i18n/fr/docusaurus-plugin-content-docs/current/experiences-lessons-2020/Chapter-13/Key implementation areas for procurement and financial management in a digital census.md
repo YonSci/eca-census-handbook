@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 2
 hide_title: true 
+title: Principaux domaines de mise en œuvre concernant la gestion des achats et des finances dans le cadre d'un recensement numérique
 ---
 
 
@@ -38,5 +39,6 @@ La gestion financière d'un recensement numérique doit être agile et transpare
 - Les budgets doivent inclure des fonds de réserve afin de couvrir les coûts imprévus, tels que ceux liés aux retards d'approvisionnement, aux pannes d'équipement ou aux chocs externes comme la pandémie de COVID-19, qui a entraîné une augmentation des coûts concernant plusieurs pays.
 
 - Tirer parti de la surveillance financière en temps réel grâce à des tableaux de bord, l'un des aspects les plus transformateurs d'un recensement numérique. Les responsables financiers peuvent utiliser des tableaux de bord en temps réel afin de suivre la productivité des recenseurs et l'avancement du travail sur le terrain par rapport aux plans opérationnels. Cette démarche permet d'intervenir rapidement si les équipes prennent du retard, évitant ainsi des retards coûteux. Lier les paiements à la performance. Ces outils numériques fournissent des données transparentes et actualisées qui peuvent être partagées avec les partenaires financiers, ce qui renforce la confiance et démontre une gestion efficace des ressources.
+
 
 
