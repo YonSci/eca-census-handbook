@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 2
 hide_title: true 
+title: Principaux domaines de mise en œuvre pour le dénombrement et la logistique dans le cadre d'un recensement numérique
 ---
 
 
@@ -68,4 +69,5 @@ Pendant la collecte des données, les éléments suivants doivent être mis en p
 - Un outil de suivi en ligne en temps réel : pour un dénombrement réussi sur le terrain, il est souhaitable de transférer les données immédiatement après l'achèvement du dénombrement de chaque ménage. Cet outil peut être mis en place au niveau régional pour compléter le système national. La CEA a apporté son appui aux pays dans ce domaine grâce à des tableaux de bord de suivi sur le terrain, des outils de suivi des incidents et la mise en place de centres d'appels. Voir également la section[Déploiement et supervision du personnel de terrain](#déploiement-et-supervision-du-personnel-de-terrain).
 
 - Un plan de transmission des données bien documenté afin de soutenir les efforts de dénombrement. Voir également la section [Saisie, transmission et gestion des données](#saisie-transmission-et-gestion-des-données).
+
 
