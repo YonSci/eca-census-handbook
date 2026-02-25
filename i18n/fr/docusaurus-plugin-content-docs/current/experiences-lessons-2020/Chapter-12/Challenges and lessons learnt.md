@@ -1,6 +1,7 @@
 ﻿---
 sidebar_position: 4
 hide_title: true 
+title: Problèmes rencontrés et leçons tirées
 ---
 
 
@@ -32,5 +33,6 @@ Parmi les défis rencontrés dans la diffusion des produits du recensement figur
 - Obstacles techniques à la diffusion des produits du recensement, par exemple, sites web ne fonctionnant pas de manière optimale, absence ou obsolescence des plateformes de diffusion des microdonnées, contraintes financières, pénurie de personnel, manque de compétences (informatique, gestion des données et des métadonnées, anonymisation des données, formation à l'administration des plateformes de données) ; compétences techniques : archivage des microdonnées, connaissance des techniques d'anonymisation des données.
 
 - Présentation des données appropriées dans le contexte approprié afin de répondre aux besoins des utilisateurs. Exactitude des données. Garantir que les données les plus récentes et les plus correctes sont utilisées et affichées. Utilisation des TIC et accessibilité des données, défis liés à leur utilisation. Comment tirer le meilleur parti de la dimension spatiale des données de recensement.
+
 
 
