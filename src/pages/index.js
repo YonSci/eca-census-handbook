@@ -208,7 +208,7 @@ const HomePage = () => (
             solutions in digital censuses.
           </Translate>
         </p>
-        <a href="docs/case-studies/Chapter-01/Case%20Studies">
+        <a href="docs/case-studies">
           <Translate id="homepage.features.casestudies.cta">See Case Studies</Translate>
         </a>
       </div>
