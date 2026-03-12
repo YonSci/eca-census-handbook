@@ -14,7 +14,7 @@ In a digital census, additional personnel will be required to handle the Informa
 The effective use of digital tools in a census necessitates a workforce of IT-literate enumerators. Enumerators must possess a range of digital skills, including:
 
 *   Proficiency in using tablets or other data collection devices.
-*   Navigating data collection applications (Computer-Assisted Personal Interviewing (CAPI)).
+*   Navigating data collection applications - Computer-Assisted Personal Interviewing (CAPI).
 *   Understanding data security protocols.
 *   Basic troubleshooting.
 
